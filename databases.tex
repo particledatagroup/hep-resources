@@ -1,0 +1,30 @@
+\newcount\BigBookOrDataBooklet%
+\newcount\WhichSection%
+
+\input mtexsis-rpp
+
+%% next 2 lines: uncomment for Data Booklet (comment out for Book)
+%% \BigBookOrDataBooklet = 2
+%% \WhichSection=2
+
+%% references
+\referencelist
+\input \jobname-allref.tex
+\endreferencelist
+%%
+
+\input \jobname-def.tex
+
+%\draft
+
+%%%%%%%%+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++%%%%%%%%
+
+\input \jobname-body.tex
+%
+%----------------------------------------------------------------------
+%%%%%%%%+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++%%%%%%%%
+%
+%% finish review
+\vfill\supereject
+\end
+
