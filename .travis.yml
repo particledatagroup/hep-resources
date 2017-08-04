@@ -1,0 +1,18 @@
+sudo: required
+dist: trusty
+before_install:
+- sudo apt-get -qq update && sudo apt-get install -y --no-install-recommends texlive-base
+script:
+- mkdir _build
+- pdftex -interaction=nonstopmode -halt-on-error -output-directory _build databases.tex
+notifications:
+  email: false
+deploy:
+  provider: releases
+  api_key:
+    secure: e3KR8FGhJm2IDj0AOLxB49Ctcq6dlk8RvMgCsl9456UCe7Q8wzYmlJ5/xZLYl/Q2yixdSWEDn1s9BbdLOW51JA781nkzhbXALjwCoGy7eZYXsLCHaF4VS1h7e10IScWQf6QKNXlBWzVB8WffVa0IT8psx6tEOWJoWTcINsg3vhs8PHcn7ATt5+I9DvJPAcQXgrJyVQHlyTtEBjU4K7v3w5lojIDawmT86B/kha8P8tc9kv5KZOlJoZnZLxPSb9v1zPt+mOJ0PNSoPgSkPAH5RJNTcS9Zr8mnIc73werpLhI+s+vhP1+pmPfk3SreA27eysGJNhgBiWR5v2n6Ixu9howKrNbmhoWDT0u+h87IlIO7/RUJWv+AkaHartkCwc5RG+qKnoHDzpq+qMwiW7L4cCoKp9z+V2a8r3nYUhi+fUI4KgvgVS/EauGKsX/fadFl4ygnGyJkPeA1SkCwsRhnCPJ1QTmq5mbjLAXlakLij2BzwR7gQUJR60Xv2DQqfpfuXp6vNtK1B3IwkokU7RiavWqMt2OLVjMrNlkUeYKGRLrx4d2HbhIqBBkWzHASz66gUpIMUWLFmlHAqdbXy2909qbi4XW2L8ezJBgmvXZdKuyv6G5ge1BFfXzHf/xsRNceVBYBvC5UAdv/KpChX6f368z09+Y8ikHj8oq6ISTwh/k=
+  file: _build/databases.pdf
+  skip_cleanup: true
+  on:
+    repo: michamos/RPP-online-hep-info
+    tags: true
