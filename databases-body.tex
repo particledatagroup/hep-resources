@@ -9,7 +9,7 @@
 %% \hlopts{bwidth=0}
 %%END
 
-%% MG also changed all occurences of {\tt http:    -> \url{http:    and inside the \url command changed \_  ->   _.
+%% MG also changed all occurences of {\tt http:    -> \url{http:    and inside the \url command changed _  ->   _.
 %%%+++++++++++++++++++++++++++++++
 %INDEX ENTRIES:
 %STYLISTIC STUFF--
@@ -95,14 +95,20 @@ chapterheading#1{\chapter{#1}\label{Chap.\jobname}%
 \parindent=0pt
 %\medskip
 %\smallskip
-\def\url#1{\tt#1\rm}
+% Using the \url macro from the URL package instead to avoid producing "fake" underscores
+% \def\url#1{\tt#1\rm}
+\input miniltx
+\input url.sty
+\def\UrlBreaks{\do\-\do\.\do\@\do\\\do\/\do\!\do\_\do\|\do\;\do\>\do\]%
+ \do\)\do\,\do\?\do\&\do\'\do+\do\=\do\#}%
+
 \section{Introduction}\IndexEntry{dbppd}%
 
 The collection of online information resources in particle physics and related areas 
 presented in this chapter is of necessity incomplete. An expanded and regularly updated 
 online version can be found at: 
 
-		\item{} \url{http://library.cern/particle\_physics\_information}
+		\item{} \url{http://library.cern/particle_physics_information}
 
 Suggestions for additions and updates are very welcome.$^\dagger$ 
 
@@ -118,12 +124,12 @@ A comprehensive report on the fields of particle physics and related areas of co
 
 \item{} The printed book can be ordered:
 
-         \item{}\quad\url{http://pdg.lbl.gov/2017/html/receive\_our\_products.html}
+         \item{}\quad\url{http://pdg.lbl.gov/2017/html/receive_our_products.html}
 
 \item{} Of historical interest is the complete RPP collection which can be found online:
 
-         \item{}\quad\url{http://pdg.lbl.gov/rpp-archive/} and
-         \item{}\quad\url{http://library.cern/PDG\_publications/review\_particle\_physics}
+         \item{}\quad\url{http://pdg.lbl.gov/rpp-archive/}
+         \item{}\quad\url{http://library.cern/PDG_publications/review_particle_physics}
 
 %\medskip
 
@@ -139,7 +145,7 @@ tables from the most recent edition of the Review of Particle Physics.
 
 \item{} The printed booklet can be ordered: 
 
-         \item{}~~\url{http://pdg.lbl.gov/2017/html/receive\_our\_products.html}
+         \item{}~~\url{http://pdg.lbl.gov/2017/html/receive_our_products.html}
 
 
 \medskip
@@ -155,7 +161,7 @@ A web application for browsing the contents of the PDG database that contains th
 \item{$\bullet$}{\bf Computer-readable files:}
 Data files that can be downloaded from PDG include tables of particle masses and widths, PDG Monte Carlo particle numbers, and cross-section data. The files are updated with each new edition of the Review of Particle Physics. 
 
-           \item{}\qquad\url{http://pdg.lbl.gov/current/html/computer\_read.html}
+           \item{}\qquad\url{http://pdg.lbl.gov/current/html/computer_read.html}
 %\medskip
 
 \section{Particle Physics Information Platforms}\IndexEntry{dbdirorg}%
@@ -212,7 +218,7 @@ The Joint Accelerator Conference Website publishes the proceedings of APAC, EPAC
 
 \item{$\bullet$}{\bf KEK Library Preprints and Reports Database:}
 This database contains bibliographic records of preprints and technical reports held in the KEK library with links to the full text images of more than 100,000 papers scanned from their worldwide collection of preprints. Particularly useful for older scanned preprints. Links to it are included in INSPIRE HEP.
-   \item{}\qquad\url{https://www.i-repository.net/il/meta\_pub/engG0000128Lib}
+   \item{}\qquad\url{https://www.i-repository.net/il/meta_pub/engG0000128Lib}
 \medskip
 
 \item{$\bullet$}{\bf MathSciNet:}
@@ -232,7 +238,7 @@ A portal to free, publicly available DOE-sponsored R\&D results including techni
 \item{$\bullet$}{\bf CERN Journals List:} 
 This list of journals and conference series publishing particle physics content provides information on Open Access, copyright policies and terms of use.
 
-   \item{}\qquad\url{http://library.web.cern.ch/oa/where\_publish} 
+   \item{}\qquad\url{http://library.web.cern.ch/oa/where_publish} 
 \medskip
 
 \item{$\bullet$}{\bf INSPIRE Journals:} 
@@ -283,8 +289,7 @@ Recently, it has expanded its scope to include also particle accelerators beside
 
 \item{$\bullet$}{\bf Cosmic ray/Gamma ray/Neutrino and similar experiments:} 
 This extensive collection of experimental web sites is organized by focus of study and also by location. Additional sections link to educational materials, organizations, related Web sites, etc. The site is maintained at the Max Planck Institute for Nuclear Physics, Heidelberg.
-	\item{}\qquad\url{http://www.mpi-hd.mpg.de/hfm/CosmicRay/
-\item{}\qquad ~CosmicRaySites.html}
+	\item{}\qquad\url{http://www.mpi-hd.mpg.de/hfm/CosmicRay/~CosmicRaySites.html}
 
 %\medskip
 
@@ -497,13 +502,13 @@ A tool to give a simple estimate of the relation between the mass reaches of dif
 
 \item{$\bullet$}{\bf arXiv mobile:}
 Android app for browsing and searching arXiv.org, and for reading, saving and sharing articles.
-	\item{}\qquad\url{play.google.com/store/apps/\break details?id=com.commonsware.android.arXiv}
+	\item{}\qquad\url{play.google.com/store/apps/details?id=com.commonsware.android.arXiv}
 
 \medskip
 
 \item{$\bullet$}{\bf arXiv scanner:}
 Scans downloads folder for pdf files from arXiv. Adds title, authors and summary and makes all this information easily searchable from inside the application.
-	\item{}\qquad\url{https://play.google.com/store/apps/\break details?id=com.agio.arxiv.scaner}
+	\item{}\qquad\url{https://play.google.com/store/apps/details?id=com.agio.arxiv.scaner}
 
 \medskip
 
@@ -521,7 +526,7 @@ This mobile app allows to see data from the ATLAS experiment at the LHC.
 
 \item{$\bullet$}{\bf LHSee:}
 This smartphone app allows to see collisions from the Large Hadron Collider.
-	\item{}\qquad\url{http://www2.physics.ox.ac.uk/about-us/outreach/\break public/lhsee}
+	\item{}\qquad\url{http://www2.physics.ox.ac.uk/about-us/outreach/public/lhsee}
 
 \medskip
 
@@ -709,7 +714,8 @@ SDSS (Sloan Digital Sky Survey) \item{}\qquad\url{http://sdss.org}
 \medskip
 
 A useful list of resources can also be found at
-	\item{}\qquad\url{http://www.stfc.ac.uk/research/\break particle-physics-and-particle-astrophysics/particle-physics-resources/}
+	\item{}\qquad\url{http://www.stfc.ac.uk/research/particle-physics-}
+	\item{}\qquad\qquad\url{and-particle-astrophysics/particle-physics-resources/}
 
 \medskip
 \medskip
@@ -769,7 +775,8 @@ Each year about 10000 high school students in 42 countries come to one of about 
 \item{$\bullet$}{\bf LHC physics masterclasses:}
 Lectures from active scientists give insight into methods of basic research, enabling the students to perform measurements on real data from LHC experiments. Like in an international research collaboration, the participants then discuss their results and compare with expectations.
 	\item{}\qquad\url{http://cms.web.cern.ch/content/cms-physics-masterclass}
-	\item{}\qquad\url{http://lhcb-public.web.cern.ch/lhcb-public/en/\break LHCb-outreach/masterclasses/en}
+	\item{}\qquad\url{http://lhcb-public.web.cern.ch/lhcb-public/en/}
+	\item{}\qquad\qquad\url{LHCb-outreach/masterclasses/en}
 	\item{}\qquad\url{http://alice.physicsmasterclasses.org/MasterClassWebpage.html}
 
 \medskip
@@ -842,8 +849,7 @@ With the aim of looking at the myth versus the reality of antimatter and science
 %\medskip
 
 \item{$\bullet$}{\bf Cambridge Relativity and Cosmology:} 
-	\item{}\qquad\url{http://www.damtp.cam.ac.uk/research/gr/public/
-        \item{}\qquad ~index.html}
+	\item{}\qquad\url{http://www.damtp.cam.ac.uk/research/gr/public/~index.html}
 
 \medskip
 
@@ -893,8 +899,7 @@ This NASA site is intended for students age 14 and up and for anyone interested 
 
 \item{$\bullet$}{\bf In particular:}
 Podcast about physics and the process of discovering physics at the ATLAS experiment. 
-	\item{}\qquad\url{https://itunes.apple.com/us/podcast/in-particular/
-        \item{}\qquad ~~id1001131655?mt=2}
+	\item{}\qquad\url{https://inparticular.web.cern.ch/}
 
 
 \smallskip
@@ -956,8 +961,7 @@ Brings the excitement of particle physics research to high school teachers and t
 
 \item{$\bullet$}{\bf Rewarding Learning videos about CERN:}
 The three videos based on interviews with scientists and engineers at CERN introduce pupils to CERN and the type of research and work undertaken there and are accompanied by teachers' notes.
-	\item{}\qquad\url{http://www.nicurriculum.org.uk/STEMWorks/resources/
-        \item{}\qquad ~~cern/index.asp}
+	\item{}\qquad\url{http://www.nicurriculum.org.uk/STEMWorks/resources/~cern/index.asp}
 
 
 \medskip
@@ -989,7 +993,7 @@ In the High-School Students Internship Programme CERN invites students aged 16-1
 
 \item{$\bullet$}{\bf DESY:}
 Offers courses for pupils and teachers as well as information for the general public, mostly in German.
-	\item{}\qquad\url{http://www.desy.de/information\_\_services/education/}
+	\item{}\qquad\url{http://www.desy.de/information__services/education/}
 
 \smallskip
 
@@ -1080,7 +1084,7 @@ Bimonthly magazine about particle physics published by INFN, the Istituto Nazion
 \medskip
 
 \item{$\bullet$}{\bf DESY inForm:}
-	\item{}\qquad\url{http://www.desy.de/aktuelles/desy\_inform}
+	\item{}\qquad\url{http://www.desy.de/aktuelles/desy_inform}
 \medskip
 
 \item{$\bullet$}{\bf Fermilab Today:}
@@ -1099,7 +1103,7 @@ The newsletter of the Linear Collider community
 \medskip
 
 \item{$\bullet$}{\bf JINR News:}
- \item{}\qquad\url{http://www1.jinr.ru/News/Jinrnews\_index.html}
+ \item{}\qquad\url{http://www1.jinr.ru/News/Jinrnews_index.html}
 
 \medskip
 
