@@ -5,6 +5,7 @@ before_install:
 script:
 - mkdir _build
 - pdftex -interaction=nonstopmode -halt-on-error -output-directory _build databases.tex
+- ./check-links.sh
 notifications:
   email: false
 deploy:
