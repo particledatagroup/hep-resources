@@ -8,4 +8,4 @@ There is also an extended [online version](http://library.cern/particle_physics_
 
 # Compiling
 
-To compile the sources, run `pdftex databases` in the home folder. This will generate a `databases.pdf` file containing the typeset document.
+To compile the sources, run `pandoc -o content.tex content.md && make` in the home folder. This will generate a `databases.pdf` file containing the typeset document.
