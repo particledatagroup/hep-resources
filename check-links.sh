@@ -1,6 +1,5 @@
 #!/bin/bash
-URLS=$(sed -n '/%\s*no check-links/! s/.*\\url{\(.*\)}/\1/p' databases-body.tex)
-previous_url=''
+URLS=$(sed -n '/%\s*no check-links/! s/.*\\url{\([^}]*\)}.*/\1/p' content.tex)
 return_code=0
 
 function test_url() {
@@ -9,7 +8,7 @@ function test_url() {
 
 echo "Checking links..."
 for url in $URLS; do
-  test_url "$url" || test_url "${previous_url}${url}" || { echo FAILED: $url && return_code=1; }
+  test_url "$url" || { echo FAILED: $url && return_code=1; }
   previous_url=$url
 done
 
