@@ -143,7 +143,7 @@ tables from the most recent edition of the Review of Particle Physics.
     generators repository, validation, HepMC record and MCDB event databases. <http://ep-dep-sft.web.cern.ch/project/generator-service-project-genser>
 
 * **Hepforge:**
-    A development environment for high-energy physics software development projects,
+    A development environment for high-energy physics software projects,
     in particular housing many event-generator related projects, that offers a ready-made,
     easy-to-use set of Web based tools, including shell account with up to date development
     tools, web page hosting, subversion and CVS code management systems, mailing lists, bug tracker and wiki system. <http://www.hepforge.org/>
