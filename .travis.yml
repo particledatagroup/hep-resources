@@ -6,7 +6,7 @@ before_install:
 - docker pull thomasweise/docker-pandoc
 - mkdir _build
 script:
-- docker run -v $(pwd):/data --rm thomasweise/docker-pandoc bash -c "cd /data && pandoc -o content.tex content.md && pdflatex -interaction=nonstopmode -halt-on-error -output-directory _build databases.tex && pdflatex -interaction=nonstopmode -halt-on-error -output-directory _build databases.tex"
+- docker run -v $(pwd):/data --rm thomasweise/docker-pandoc data/build.sh
 - ./check-links.sh
 notifications:
   email: false
