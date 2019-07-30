@@ -200,7 +200,7 @@ A list of Monte Carlo generators may be found at:
 The homepage of the SUSY Les Houches Accord contains links to codes relevant for supersymmetry calculations and phenomenology.
 	<http://skands.physics.monash.edu/slha/>
 
-A variety of codes and algorithmic tools for analysing supersymmetric phenomenology is  %described in arXiv:0805.2088.
+A variety of codes and algorithmic tools for analysing supersymmetric phenomenology is described in
 	<http://arxiv.org/abs/0805.2088>
 
 G. Cowan's list provides links to HEP software, general statistics and data analysis links.
@@ -332,6 +332,7 @@ The data from HEPData can also be accessed through INSPIRE. A new enhanced servi
 ## Astrophysics
 
 More formal and advanced data preservation activity is ongoing in the field of Experimental Astrophysics, including:
+
 * Fermi Data<http://fermi.gsfc.nasa.gov/ssc/data>
 * IVOA (International Virtual Observatory Alliance) <http://www.ivoa.net/astronomers/applications.html>
 * LOSC (LIGO Open Science Center) <https://losc.ligo.org/about/>
@@ -396,7 +397,7 @@ An exploration environment for concepts in physics employing concept maps and ot
 
 * **Physics2000:**
 An interactive journey through modern physics. Have fun learning visually and conceptually about 20th century science and high-tech devices. Supported by the Colorado Commission on Higher Education and the National Science Foundation.
-	<http://www.colorado.edu/physics/2000> % no check-links
+	<http://www.colorado.edu/physics/2000>
 
 ## Particle Physics Lessons & Activities
 
