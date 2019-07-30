@@ -1,4 +1,4 @@
-# Introduction {#dbppd}
+# Introduction
 
 The collection of online information resources in particle physics and related areas
 presented in this chapter is of necessity incomplete. An expanded and regularly updated
@@ -8,16 +8,16 @@ Suggestions for additions and updates are very welcome.[^1]
 
 [^1]: Please send comments and corrections to micha.moshe.moskovic@cern.ch
 
-# Particle Data Group (PDG) resources {#dbpart}
+# Particle Data Group (PDG) resources
 
 * **Review of Particle Physics (RPP)**
     A comprehensive report on the fields of particle physics and related areas of cosmology and astrophysics, including both review articles and a compilation/evaluation of data on particle properties. The review section includes articles, tables and plots on a wide variety of theoretical and experimental topics of interest to particle physicists and astrophysicists. The particle properties section provides tables of published measurements as well as the Particle Data Groups best values and limits for particle properties such as masses, widths, lifetimes, and branching fractions, and an extensive summary of searches for hypothetical particles. RPP is published as a large book every two years, with partial updates made available once each year on the web.
 
     All the contents of the book version of RPP are available online: <http://pdg.lbl.gov>
 
-    The printed book can be ordered: <http://pdg.lbl.gov/2017/html/receive_our_products.html>
+    The printed book can be ordered: <http://pdg.lbl.gov/2019/html/receive_our_products.html>
 
-    Of historical interest is the complete RPP collection which can be found online: <http://pdg.lbl.gov/rpp-archive/> or <http://library.cern/PDG_publications/review_particle_physics>
+    Of historical interest is the complete RPP collection which can be found online: <http://pdg.lbl.gov/rpp-archive/> <http://library.cern/PDG_publications/review_particle_physics>
 
 * **Particle Physics booklet:**
     An abridged version of the Review of Particle Physics available as a pocket-sized
@@ -27,7 +27,7 @@ tables from the most recent edition of the Review of Particle Physics.
 
     The PDF file of the booklet can be downloaded: <http://pdg.lbl.gov/current/booklet.pdf>
 
-    The printed booklet can be ordered: <http://pdg.lbl.gov/2017/html/receive_our_products.html>
+    The printed booklet can be ordered: <http://pdg.lbl.gov/2019/html/receive_our_products.html>
 
 * **PDGLive:**
     A web application for browsing the contents of the PDG database that contains the information published in the Review of Particle Physics. It allows one to navigate to a particle of interest, see a summary of the information available, and then proceed to the detailed information published in the Review of Particle Physics. Data entries are directly linked to the corresponding bibliographic information in INSPIRE. <http://pdglive.lbl.gov>
@@ -35,23 +35,23 @@ tables from the most recent edition of the Review of Particle Physics.
 * **Computer-readable files:**
     Data files that can be downloaded from PDG include tables of particle masses and widths, PDG Monte Carlo particle numbers, and cross-section data. The files are updated with each new edition of the Review of Particle Physics. <http://pdg.lbl.gov/current/html/computer_read.html>
 
-# Particle Physics Information Platforms {#dbdirorg}
+# Particle Physics Information Platforms
 
 * **INSPIRE:**
     INSPIRE serves as a one-stop information platform for the particle physics community, comprising 8 interlinked databases on literature, conferences, institutions, journals, researchers, experiments, jobs and data. It is run in collaboration by CERN, DESY, Fermilab, IHEP and SLAC, and has been serving the scientific community for almost 50 years. Previously known as SPIRES, it was the first website outside Europe and the first database on the web. Close interaction with the user community and with arXiv, ADS, HepData, ORCID, PDG and publishers is the backbone of INSPIRE's evolution. <http://inspirehep.net/>
 
     In 2018, INSPIRE is launching a redesigned interface with more efficient searching and filtering. The INSPIRE Labs site is available at: <http://labs.inspirehep.net>
-      * blog: <http://blog.inspirehep.net/>
+      * blog: [`http://blog.inspirehep.net/`](http://blog.inspirehep.net/)
       * twitter: [`@inspirehep`](https://twitter.com/inspirehep)
 
-# Literature Databases {#dbeduc}
+# Literature Databases
 
 * **ADS:**
     The SAO/NASA Astrophysics Data System is a Digital Library portal offering access to 13 million bibliographic records in Astronomy and Physics.  The ADS search engine also indexes the full-text for approximately four million publications in this collection and tracks citations, which now amount to over 80 million links.  The system also provides access and links to a wealth of external resources, including electronic articles hosted by publishers and arXiv, data catalogs and a variety of data products hosted by the astronomy archives worldwide.  The ADS can be accessed at <http://ads.harvard.edu/>
 
 * **arXiv.org:**
     A repository of full text papers in physics, mathematics, computer science, statistics, nonlinear sciences, quantitative finance and quantitative biology interlinked with ADS and INSPIRE. Papers are usually submitted by their authors to arXiv in advance of submission to a journal for publication. Primarily covers 1991 to the present but authors are encouraged to post older papers retroactively. Permits searching by author, title, and words in abstract and experimentally also in the fulltext. Allows limiting by subfield archive or by date. Daily update alerts by subfield are available by email and RSS. <https://arXiv.org>
-      * wiki: <https://confluence.cornell.edu/display/arxivpub>
+      * wiki: [`https://confluence.cornell.edu/display/arxivpub`](https://confluence.cornell.edu/display/arxivpub)
       * twitter: [`@arxiv`](https://twitter.com/arxiv)
 
 * **CDS:**
@@ -72,7 +72,7 @@ tables from the most recent edition of the Review of Particle Physics.
 * **OSTI SciTech Connect:**
     A portal to free, publicly available DOE-sponsored R&D results including technical reports, bibliographic citations, journal articles, conference papers, books, multimedia and data information. SciTech Connect is a consolidation of two core DOE search engines, the Information Bridge and the Energy Citations Database. SciTech Connect incorporates all of the R&D information from these two products into one search interface. It includes over 2.9 million citations, including citations to 1.5 million journal articles. SciTech Connect also has over 440,000 full-text DOE sponsored STI reports; most of these are post-1991, but over 143,000 of the reports were published prior to 1990. <http://www.osti.gov/scitech/>
 
-# Particle Physics Journals and Conference Proceedings Series {#dbjrev}
+# Particle Physics Journals and Conference Proceedings Series
 
 * **CERN Journals List:**
     This list of journals and conference series publishing particle physics content provides information on Open Access, copyright policies and terms of use. <http://library.web.cern.ch/oa/where_publish>
@@ -80,22 +80,22 @@ tables from the most recent edition of the Review of Particle Physics.
 * **INSPIRE Journals:**
     The database covers more than 3,550 journals publishing HEP-related articles. <http://inspirehep.net/collection/journals>
 
-# Conference Databases {#dbeduc}
+# Conference Databases
 
 * **INSPIRE Conferences:**
     The database of more than 22,000 past, present and future conferences, schools, and meetings of interest to high-energy physics and related fields is searchable by title, acronym, series, date, location. Included are information about published proceedings, links to conference contributions in the INSPIRE HEP database, and links to the conference Web site when available. New conferences can be submitted from the entry page.  <http://inspirehep.net/conferences>
 
-# Research Institutions {#dbsoft}
+# Research Institutions
 
 * **INSPIRE Institutions:**
     The database of more than 11,200 institutes, laboratories, and university departments in which research on particle physics and astrophysics is performed covers six continents and over a hundred countries. Included are address and Web links where available as well as links to the papers from each institution in the HEP database, to scientists listed in HEPNames affiliated to this institution in the past or present and to experiments performed at this institution. Searches can be performed by name, acronym, location, etc. The site offers an alphabetical list by country as well as a list of the top 500 HEP and astrophysics institutions sorted by country. <http://inspirehep.net/institutions>
 
-# People {#dbSpecEnt}
+# People
 
 * **INSPIRE HEPNames:**
     Searchable worldwide database of over 119,000 active, retired and deceased people associated with particle physics and related fields. The affiliation history of these researchers, their e-mail addresses, ORCiDs, web pages, experiments they participated in, PhD advisor, information on their graduate students and links to their papers in the INSPIRE HEP, arXiv and ADS databases are provided as well as a user interface to update these informations. <http://inspirehep.net/hepnames>
 
-# Experiments {#dbcollexp}
+# Experiments
 
 * **INSPIRE Experiments:**
     Contains more than 3,000 past, present, and future experiments in particle physics. Lists both accelerator and non-accelerator experiments. Includes official experiment name and number, location, and collaboration lists. Simple searches by participant, title, experiment number, institution, date approved, accelerator, or detector, return a description of the experiment, including a complete list of authors, title, overview of the experiment's goals and methods, and a link to the experiment's web page if available.
@@ -104,7 +104,7 @@ tables from the most recent edition of the Review of Particle Physics.
 * **Cosmic ray/Gamma ray/Neutrino and similar experiments:**
     This extensive collection of experimental web sites is organized by focus of study and also by location. Additional sections link to educational materials, organizations, related Web sites, etc. The site is maintained at the Max Planck Institute for Nuclear Physics, Heidelberg. <http://www.mpi-hd.mpg.de/hfm/CosmicRay/CosmicRaySites.html>
 
-# Jobs {#dbjobs}
+# Jobs
 
 * **AAS Job Register:**
     The American Astronomical Society publishes once a month graduate, postgraduate, faculty and other positions mainly in astronomy and astrophysics. <http://jobregister.aas.org/>
@@ -124,7 +124,7 @@ tables from the most recent edition of the Review of Particle Physics.
 * **Physics Today Jobs:**
     Online recruitment advertising website for Physics Today magazine, published by the American Institute of Physics. Physics Today Jobs is the managing partner of the AIP Career Network, an online job board network for the physical science, engineering, and computing disciplines. 8,000 resumes are currently available, and more than 2,500 jobs were posted in 2012. <http://www.physicstoday.org/jobs>
 
-# Software Packages and Repositories {#dbrep}
+# Software Packages and Repositories
 
 ## Repositories
 
@@ -147,10 +147,6 @@ tables from the most recent edition of the Review of Particle Physics.
     in particular housing many event-generator related projects, that offers a ready-made,
     easy-to-use set of Web based tools, including shell account with up to date development
     tools, web page hosting, subversion and CVS code management systems, mailing lists, bug tracker and wiki system. <http://www.hepforge.org/>
-
-% * **FermiTools:**
-% Fermilab's software tools program provides a repository of Fermilab - developed software packages of value to the HEP community. Permits searching for packages by title or subject category.
-% 	<https://cdcvs.fnal.gov/redmine/projects/fermitools/wiki/Wiki>
 
 ## Particle Physics software
 
@@ -208,7 +204,7 @@ General purpose software packages:
 %G. Cowan's list provides links to HEP software, general statistics and data analysis links.
 %	<http://www.pp.rhul.ac.uk/~cowan/sda/statlinks.html>
 
-An extended list of more specialized HEP-related software can be found in the online version of this review: <http://library.cern/particle_physics_information#sof>
+An extended list of more specialized HEP-related software can be found in the online version of this review: <http://library.cern/particle_physics_information>
 
 ## Astrophysics Software
 
@@ -233,11 +229,8 @@ An extended list of more specialized HEP-related software can be found in the on
 
 ## Mobile Apps
 
-* **arXiv mobile:**
-    Android app for browsing and searching arXiv.org, and for reading, saving and sharing articles. [play.google.com/store/apps/details?id=com.commonsware.android.arXiv](play.google.com/store/apps/details?id=com.commonsware.android.arXiv)
-
-* **arXiv scanner:**
-    Scans downloads folder for pdf files from arXiv. Adds title, authors and summary and makes all this information easily searchable from inside the application. <https://play.google.com/store/apps/details?id=com.agio.arxiv.scaner>
+* **arXiv browser:**
+    Android app for browsing and searching arXiv.org, and for reading, saving and sharing articles.<https://play.google.com/store/apps/details?id=com.commonsware.android.arXiv>
 
 * **aNarXiv:**
     arXiv viewer. <http://github.com/nephoapp/anarxiv>
@@ -251,7 +244,7 @@ An extended list of more specialized HEP-related software can be found in the on
 * **The Particles:**
     App for Apple iPad, Windows 8 and Microsoft Surface. Allows to browse a wealth of real 'event' images and videos, read popular 'biographies' of each of the particles and explore the A-Z of particle physics with its details and definitions of key concepts, laboratories and physicists. Developed by Science Photo Library in partnership with Prof. Frank Close. <http://www.sciencephoto.com/apps/particles.html>
 
-# Data repositories {#dbdrep}
+# Data repositories
 
 ## Particle Physics
 
@@ -308,7 +301,7 @@ The data from HEPData can also be accessed through INSPIRE. A new enhanced servi
     Landolt-Börnstein is a data collection in all areas of physical sciences and engineering, among others particle physics, electronic structure and transport, magnetism, superconductivity. International experts scan the primary literature in more than 8,000 peer-reviewed journals and evaluate and select the most valid information to be included in the database. It includes more than 130,000 online documents, 1,2 million references, and covers 250,000 chemical substances. SPringerMaterials Interactive allows to visualise and analyse data.
     The search functionality is freely accessible and the search results are displayed in their context, whereas the full text is secured to subscribers. <http://materials.springer.com>
 
-# Data preservation activities {#dbdpres}
+# Data preservation activities
 
 ## Particle Physics
 
@@ -343,7 +336,7 @@ More formal and advanced data preservation activity is ongoing in the field of E
 * PLA (Planck Legacy Archive)  <http://pla.esac.esa.int/pla/>
 * SDSS (Sloan Digital Sky Survey) <http://sdss.org>
 
-# Particle Physics Education and Outreach Sites {#dbedsite}
+# Particle Physics Education and Outreach Sites
 
 A useful list of resources can also be found at <http://www.stfc.ac.uk/research/particle-physics-and-particle-astrophysics/particle-physics-resources/>
 
@@ -465,10 +458,10 @@ With the aim of looking at the myth versus the reality of antimatter and science
     This project, targeted to kids aged 7-12 (and their families), brings subatomic physics to life through a multimedia project including an interactive website, a facilitated program for museums and schools, and an educational outreach program. <http://www.quarked.org/>
 
 * **QuarkNet:**
-    Brings the excitement of particle physics research to high school teachers and their students. Teachers join research groups at about 50 universities and labs across the country. These research groups are part of particle physics experiments at CERN or Fermilab. About 100,000 students from 500+ US high schools learn fundamental physics as they participate in inquiry-oriented investigations and analyze real data online. QuarkNet is supported in part by the National Science Foundation and the U.S. Department of Energy. <https://quarknet.i2u2.org/>
+    Brings the excitement of particle physics research to high school teachers and their students. Teachers join research groups at about 50 universities and labs across the country. These research groups are part of particle physics experiments at CERN or Fermilab. About 100,000 students from 500+ US high schools learn fundamental physics as they participate in inquiry-oriented investigations and analyze real data online. QuarkNet is supported in part by the National Science Foundation and the U.S. Department of Energy. <https://quarknet.org/>
 
 * **Rewarding Learning videos about CERN:**
-    The three videos based on interviews with scientists and engineers at CERN introduce pupils to CERN and the type of research and work undertaken there and are accompanied by teachers' notes. <http://www.nicurriculum.org.uk/STEMWorks/resources/~cern/index.asp>
+    The three videos based on interviews with scientists and engineers at CERN introduce pupils to CERN and the type of research and work undertaken there and are accompanied by teachers' notes. <http://www.nicurriculum.org.uk/STEMWorks/resources/cern/index.asp>
 
 ## Lab Education Offices
 
@@ -492,7 +485,7 @@ With the aim of looking at the myth versus the reality of antimatter and science
     <http://education.jlab.org/>
 
 * **LBL Workforce Development and Education:**
-    This group carries out Berkeley Lab's mission to inspire and prepare the next generation of scientists, engineers, and technicians. <http://csee.lbl.gov/>
+    This group carries out Berkeley Lab's mission to inspire and prepare the next generation of scientists, engineers, and technicians. <https://education.lbl.gov/>
 
 ## Educational Programs of Experiments
 
@@ -579,10 +572,6 @@ With the aim of looking at the myth versus the reality of antimatter and science
 * **Fermilab Art Gallery:**
     Arts program dedicated to the interaction between Art and Science. <http://events.fnal.gov/art-gallery/>
 
-%* **Superposition:**
-%This artist-in-residence programme from the Institute of Physics invites visual artists and physicists to collaboratively explore and contribute to contemporary art.
-%	<http://www.physics.org/superposition>
-
 ## Blogs and Twitter 
 
 Lists of active blogs and tweets can be found on INSPIRE:
@@ -605,10 +594,6 @@ Some selected particle physics related blogs:
 
 * **ATLAS blog:** <https://atlas.cern/updates/blog>
 
-%* **Physics arXiv blog:**
-%MIT Technology Review blog on new ideas at arXiv.org.
-%	<http://www.technologyreview.com/blog/arxiv/>
-
 %* **CERN Love:**
 %	<http://www.cernlove.org/blog/>
 
@@ -627,14 +612,11 @@ Some selected particle physics related blogs:
 * **Quantum diaries:**
     Thoughts on work and life from particle physicists from around the world, from 2005 to 2016. <http://www.quantumdiaries.org/>
 
-%The US LHC blog gives a vivid account of the daily activity of US LHC researchers.
-%	<http://www.quantumdiaries.org/lab-81/>
-
 * **Quantum diaries survivor:**
-    Experimental particle physicist Tommaso Dorigo's blog. <http://www.quantumdiaries.org/>
+    Experimental particle physicist Tommaso Dorigo's blog. <https://www.science20.com/quantum_diaries_survivor>
 
 * **Science blogs:**
     Launched in January 2006, ScienceBlogs features bloggers from a wide array of scientific disciplines, including physics. <http://scienceblogs.com/channel/physical-science/>
 
 * **AstroBetter:**
-    Blog with tips and tricks for professional astronomers. <http://www.astrobetter.com/>
+    Blog with tips and tricks for professional astronomers. <https://www.astrobetter.com/>

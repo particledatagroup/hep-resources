@@ -5,3 +5,5 @@
 
 % compatibility for pandoc generated LaTeX
 \newcommand{\tightlist}{}
+\let\oldurl\url
+\renewcommand{\url}[1]{\begin{center}\indent\oldurl{#1}\end{center}}
