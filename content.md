@@ -572,7 +572,7 @@ With the aim of looking at the myth versus the reality of antimatter and science
 * **Fermilab Art Gallery:**
     Arts program dedicated to the interaction between Art and Science. <http://events.fnal.gov/art-gallery/>
 
-## Blogs and Twitter 
+## Blogs and Twitter
 
 Lists of active blogs and tweets can be found on INSPIRE:
 
