@@ -152,57 +152,57 @@ tables from the most recent edition of the Review of Particle Physics.
 
 General purpose software packages:
 
-% * **FastJet:**
-% FastJet is a software package for jet finding in pp and e+e- collisions. It includes fast native implementations of many sequential recombination clustering algorithms, plugins for access to a range of cone jet finders and tools for advanced jet manipulation.
-% 	<http://fastjet.fr/>
+ * **FastJet:**
+ FastJet is a software package for jet finding in pp and e+e- collisions. It includes fast native implementations of many sequential recombination clustering algorithms, plugins for access to a range of cone jet finders and tools for advanced jet manipulation.
+ 	<http://fastjet.fr/>
 
 * **GAMBIT:**
     A global fitting code for generic Beyond the Standard Model theories, designed to allow fast and easy definition of new models, observables, likelihoods, scanners and backend physics codes. <http://gambit.hepforge.org>
 
-% * **Geant4:**
-% Geant4 is a toolkit for the simulation of the passage of particles through matter. Its areas of application include high energy, nuclear and accelerator physics, as well as studies in medical and space science.
-% 	<http://geant4.web.cern.ch/geant4/>
+ * **Geant4:**
+ Geant4 is a toolkit for the simulation of the passage of particles through matter. Its areas of application include high energy, nuclear and accelerator physics, as well as studies in medical and space science.
+ 	<http://geant4.web.cern.ch/geant4/>
 
-% * **LHAPDF:**
-% HEP community standard library for parton distribution function evolution and querying, including official collection of PDF data sets.
-% 	<http://lhapdf.hepforge.org/>
+ * **LHAPDF:**
+ HEP community standard library for parton distribution function evolution and querying, including official collection of PDF data sets.
+ 	<http://lhapdf.hepforge.org/>
 
-% * **QUDA:**
-% Library for performing calculations in lattice QCD on GPUs using NVIDIA's CUDA platform. The current release includes optimized solvers for Wilson, Clover-improved Wilson,Twisted mass, Staggered, Improved staggered, Domain wall and Mobius fermion actions.
-% 	<http://lattice.github.io/quda/>
+ * **QUDA:**
+ Library for performing calculations in lattice QCD on GPUs using NVIDIA's CUDA platform. The current release includes optimized solvers for Wilson, Clover-improved Wilson,Twisted mass, Staggered, Improved staggered, Domain wall and Mobius fermion actions.
+ 	<http://lattice.github.io/quda/>
 
-% * **Rivet:**
-% The Rivet toolkit, a system for validation of Monte Carlo event generators, provides a large set of experimental analyses useful for MC generator development, validation, and tuning.
-% 	<http://rivet.hepforge.org/>
+ * **Rivet:**
+ The Rivet toolkit, a system for validation of Monte Carlo event generators, provides a large set of experimental analyses useful for MC generator development, validation, and tuning.
+ 	<http://rivet.hepforge.org/>
 
 * **ROOT:**
     This framework for data processing in high-energy physics, born at CERN, offers applications to store, access, process, analyze and represent data or perform simulations. <http://root.cern.ch>
 
-% * **TMDplotter:**
-% Allows to plot TMDs and PDFs as a function of different variables.
-% 	<http://tmdplotter.desy.de/>
+ * **TMDplotter:**
+ Allows to plot TMDs and PDFs as a function of different variables.
+ 	<http://tmdplotter.desy.de/>
 
-% * **tmLQCD:**
-% This freely available software suite provides a set of tools to be used in lattice QCD simulations, mainly a HMC implementation for Wilson and Wilson twisted mass fermions and inverter for different versions of the Dirac operator.
-% 	<https://github.com/etmc/tmLQCD>
+ * **tmLQCD:**
+ This freely available software suite provides a set of tools to be used in lattice QCD simulations, mainly a HMC implementation for Wilson and Wilson twisted mass fermions and inverter for different versions of the Dirac operator.
+ 	<https://github.com/etmc/tmLQCD>
 
-% * **USQCD:**
-% The software suite enables lattice QCD computations to be performed with high performance across a variety of architectures. The page contains links to the project web pages of the individual software modules, as well as to complete lattice QCD application packages which use them.
-% 	<http://usqcd-software.github.io>
+ * **USQCD:**
+ The software suite enables lattice QCD computations to be performed with high performance across a variety of architectures. The page contains links to the project web pages of the individual software modules, as well as to complete lattice QCD application packages which use them.
+ 	<http://usqcd-software.github.io>
 
-%* **Software lists:**
+* **Software lists:**
 
-%A list of Monte Carlo generators may be found at:
-%	<http://cmsdoc.cern.ch/cms/PRS/gentools/www/geners/collection/>
+A list of Monte Carlo generators may be found at:
+	<http://cmsdoc.cern.ch/cms/PRS/gentools/www/geners/collection/>
 
-%The homepage of the SUSY Les Houches Accord contains links to codes relevant for supersymmetry calculations and phenomenology.
-%	<http://skands.physics.monash.edu/slha/>
+The homepage of the SUSY Les Houches Accord contains links to codes relevant for supersymmetry calculations and phenomenology.
+	<http://skands.physics.monash.edu/slha/>
 
-%A variety of codes and algorithmic tools for analysing supersymmetric phenomenology is  %described in arXiv:0805.2088.
-%	<http://arxiv.org/abs/0805.2088>
+A variety of codes and algorithmic tools for analysing supersymmetric phenomenology is  %described in arXiv:0805.2088.
+	<http://arxiv.org/abs/0805.2088>
 
-%G. Cowan's list provides links to HEP software, general statistics and data analysis links.
-%	<http://www.pp.rhul.ac.uk/~cowan/sda/statlinks.html>
+G. Cowan's list provides links to HEP software, general statistics and data analysis links.
+	<http://www.pp.rhul.ac.uk/~cowan/sda/statlinks.html>
 
 An extended list of more specialized HEP-related software can be found in the online version of this review: <http://library.cern/particle_physics_information>
 
@@ -351,15 +351,15 @@ A useful list of resources can also be found at <http://www.stfc.ac.uk/research/
 * **I2U2 (Interactions in Understanding the Universe):**
     The I2U2 e-Labs use the Internet and distributed computing in high-school classes and provide an opportunity for students to organise and conduct authentic research; experience the environment of scientific collaborations; make real scientific contributions. It is supported by QuarkNet, NSF and DOE. <http://www.i2u2.org>
 
-%**Physics Courses**
+**Physics Courses**
 
-%* **MIT OpenCourseWare - Physics:**
-%These MIT course materials reflect almost all the undergraduate and graduate subjects taught at MIT. In addition to physics courses, supplementary educational resources are also available.
-%	<http://ocw.mit.edu/courses/physics/>
+* **MIT OpenCourseWare - Physics:**
+These MIT course materials reflect almost all the undergraduate and graduate subjects taught at MIT. In addition to physics courses, supplementary educational resources are also available.
+	<http://ocw.mit.edu/courses/physics/>
 
-%* **Open Courseware:**
-%A collection of online tests, video lectures, and related course materials from mostly prestigious universities around the world.
-%	<http://www.onlinecourses.com/physics/>
+* **Open Courseware:**
+A collection of online tests, video lectures, and related course materials from mostly prestigious universities around the world.
+	<http://www.onlinecourses.com/physics/>
 
 ## Master Classes
 
@@ -382,37 +382,37 @@ A useful list of resources can also be found at <http://www.stfc.ac.uk/research/
 * **Contemporary Physics Education Project (CPEP):**
     Provides charts, brochures, Web links, and classroom activities. Online interactive courses include: Fundamental Particles and Interactions; Plasma Physics and Fusion; History and Fate of the Universe; and Nuclear Science. <http://www.cpepweb.org/>
 
-%* **PhysicsCentral:**
-%This site maintained by the American Physical Society provides information about current research and people in physics, experiments that can be performed at home or at school and the possibility to get physics questions answered by physicists.
-%	<http://www.physicscentral.com>
+* **PhysicsCentral:**
+This site maintained by the American Physical Society provides information about current research and people in physics, experiments that can be performed at home or at school and the possibility to get physics questions answered by physicists.
+	<http://www.physicscentral.com>
 
-%**General Physics Lessons & Activities**
+**General Physics Lessons & Activities**
 
-%* **HyperPhysics:**
-%An exploration environment for concepts in physics employing concept maps and other linking strategies and providing opportunities for numerical exploration.
-%	<http://hyperphysics.phy-astr.gsu.edu/hbase/hph.html>
+* **HyperPhysics:**
+An exploration environment for concepts in physics employing concept maps and other linking strategies and providing opportunities for numerical exploration.
+	<http://hyperphysics.phy-astr.gsu.edu/hbase/hph.html>
 
-%* **Physics2000:**
-%An interactive journey through modern physics. Have fun learning visually and conceptually about 20th century science and high-tech devices. Supported by the Colorado Commission on Higher Education and the National Science Foundation.
-%	<http://www.colorado.edu/physics/2000> % no check-links
+* **Physics2000:**
+An interactive journey through modern physics. Have fun learning visually and conceptually about 20th century science and high-tech devices. Supported by the Colorado Commission on Higher Education and the National Science Foundation.
+	<http://www.colorado.edu/physics/2000> % no check-links
 
 ## Particle Physics Lessons & Activities
 
 * **Angels and Demons:**
 With the aim of looking at the myth versus the reality of antimatter and science at CERN this site offers teacher resources, slide shows and videos of talks given to teachers visiting CERN. <http://angelsanddemons.web.cern.ch/>
 
-%* ANTIMATTER: MIRROR OF THE UNIVERSE: Find out what antimatter is, where it is made, the history behind its discovery, and how it is a part of our lives. Features colorful photos, illustrations, webcasts, a Kids Corner, and CERN physicists answering your questions on antimatter.
-%	<http://livefromcern.web.cern.ch/livefromcern/antimatter/>
+* ANTIMATTER: MIRROR OF THE UNIVERSE: Find out what antimatter is, where it is made, the history behind its discovery, and how it is a part of our lives. Features colorful photos, illustrations, webcasts, a Kids Corner, and CERN physicists answering your questions on antimatter.
+	<http://livefromcern.web.cern.ch/livefromcern/antimatter/>
 
-%* **Big Bang Science: Exploring the origins of matter:**
-%This Web site, produced by the Particle Physics and Astronomy Research Council of the UK (PPARC), explains what physicists are looking for with their giant instruments. It focuses on CERN particle detectors and on United Kingdom scientists' contribution to the search for the fundamental building blocks of matter.
-%	<http://hepwww.rl.ac.uk/pub/bigbang/part1.html>
+* **Big Bang Science: Exploring the origins of matter:**
+This Web site, produced by the Particle Physics and Astronomy Research Council of the UK (PPARC), explains what physicists are looking for with their giant instruments. It focuses on CERN particle detectors and on United Kingdom scientists' contribution to the search for the fundamental building blocks of matter.
+	<http://hepwww.rl.ac.uk/pub/bigbang/part1.html>
 
 * **Cambridge Relativity and Cosmology:** <http://www.damtp.cam.ac.uk/research/gr/public/index.html>
 
-%* **CAMELIA:**
-%CAMELIA (Cross-platform Atlas Multimedia Educational Lab for Interactive Analysis) is a discovery tool for the general public, based on computer gaming technology.
-%	<http://www.atlas.ch/camelia.html>
+* **CAMELIA:**
+CAMELIA (Cross-platform Atlas Multimedia Educational Lab for Interactive Analysis) is a discovery tool for the general public, based on computer gaming technology.
+	<http://www.atlas.ch/camelia.html>
 
 * **CERNland:**
     With a range of games, multimedia applications and films CERNland is a virtual theme park developed to bring the excitement of CERN's research to a young audience aged between 7 and 12. CERNland is designed to show children what is being done at CERN and inspire them with some physics at the same time. <http://www.cernland.net/>
@@ -489,18 +489,18 @@ With the aim of looking at the myth versus the reality of antimatter and science
 
 ## Educational Programs of Experiments
 
-%* **ATLAS Discovery Quest:**
-%One of several access points to ATLAS education and outreach pages. This page gives access to explanations of physical concepts, blogs, ATLAS facts, news, and information for students and teachers.
-%   <http://www.atlas.ch/physics.html>
+* **ATLAS Discovery Quest:**
+One of several access points to ATLAS education and outreach pages. This page gives access to explanations of physical concepts, blogs, ATLAS facts, news, and information for students and teachers.
+   <http://www.atlas.ch/physics.html>
 
 * **ATLAS eTours:**
     Give a description of the Large Hadron Collider, explain how the ATLAS detector at the LHC works and give an overview over the experiments and their physics goals. <http://atlasexperiment.org/etours.html>
 
-%* **CMS Education:**
-%Provides access to educational resources (Story of the
-%Universe, The Size of Things, What is a Particle), and to multimedia
-%material, such as interviews, movies and photos.
-%	<http://cms.web.cern.ch/tags/education>
+* **CMS Education:**
+Provides access to educational resources (Story of the
+Universe, The Size of Things, What is a Particle), and to multimedia
+material, such as interviews, movies and photos.
+	<http://cms.web.cern.ch/tags/education>
 
 * **Education and Outreach @ IceCube:**
     <http://icecube.wisc.edu/outreach>
@@ -545,13 +545,13 @@ With the aim of looking at the myth versus the reality of antimatter and science
     The InterActions site provides news and press releases on particle physics. <http://www.interactions.org/news-center>
       * twitter: [`@particlenews`](https://twitter.com/particlenews)
 
-%* **physics.org news:**
-%This IOP news site presents physics stories from around the world wide web.
-%     <http://www.physics.org/news.asp>
+* **physics.org news:**
+This IOP news site presents physics stories from around the world wide web.
+     <http://www.physics.org/news.asp>
 
-%* **SLAC Signals:**
-%This email newsletter reports about cutting-edge science, major SLAC milestones and other lab information. It has replaced SLAC Today in November 2013. Its signup page can be found at
-%	<http://eepurl.com/IqPl1>
+* **SLAC Signals:**
+This email newsletter reports about cutting-edge science, major SLAC milestones and other lab information. It has replaced SLAC Today in November 2013. Its signup page can be found at
+	<http://eepurl.com/IqPl1>
 
 * **Symmetry:**
     This magazine about particle physics and its connections to other aspects of life and science, from interdisciplinary collaborations to policy to culture is published 6 times per year by Fermilab and SLAC. <http://www.symmetrymagazine.org/>
@@ -594,8 +594,8 @@ Some selected particle physics related blogs:
 
 * **ATLAS blog:** <https://atlas.cern/updates/blog>
 
-%* **CERN Love:**
-%	<http://www.cernlove.org/blog/>
+* **CERN Love:**
+	<http://www.cernlove.org/blog/>
 
 * **Life and Physics:**
     Jon Butterworth's blog in the Guardian. <http://www.guardian.co.uk/science/life-and-physics>
