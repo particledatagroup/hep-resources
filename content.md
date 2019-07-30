@@ -340,7 +340,7 @@ More formal and advanced data preservation activity is ongoing in the field of E
 
 A useful list of resources can also be found at <http://www.stfc.ac.uk/research/particle-physics-and-particle-astrophysics/particle-physics-resources/>
 
-## Science Educators' Networks:
+## Science Educators' Networks
 
 * **IPPOG:**
     The International Particle Physics Outreach Group is a network of particle physicists, researchers, informal science educators and science explainers aiming to raise awareness, understanding and standards of global outreach efforts in particle physics and general science by providing discussion forums and regular information exchange for science institutions, proposing and implementing strategies to share lessons learned and best practices and promoting current outreach efforts of network members. <http://ippog.web.cern.ch>
