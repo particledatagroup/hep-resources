@@ -42,8 +42,8 @@ tables from the most recent edition of the Review of Particle Physics.
 
     In 2018, INSPIRE is launching a redesigned interface with more efficient searching and filtering. The INSPIRE Labs site is available at: <http://labs.inspirehep.net>
 
-      * blog: [`http://blog.inspirehep.net/`](http://blog.inspirehep.net/)
-      * twitter: [`@inspirehep`](https://twitter.com/inspirehep)
+    * blog: [`http://blog.inspirehep.net/`](http://blog.inspirehep.net/)
+    * twitter: [`@inspirehep`](https://twitter.com/inspirehep)
 
 # Literature Databases
 
@@ -53,8 +53,8 @@ tables from the most recent edition of the Review of Particle Physics.
 * **arXiv.org:**
     A repository of full text papers in physics, mathematics, computer science, statistics, nonlinear sciences, quantitative finance and quantitative biology interlinked with ADS and INSPIRE. Papers are usually submitted by their authors to arXiv in advance of submission to a journal for publication. Primarily covers 1991 to the present but authors are encouraged to post older papers retroactively. Permits searching by author, title, and words in abstract and experimentally also in the fulltext. Allows limiting by subfield archive or by date. Daily update alerts by subfield are available by email and RSS. <https://arXiv.org>
 
-      * wiki: [`https://confluence.cornell.edu/display/arxivpub`](https://confluence.cornell.edu/display/arxivpub)
-      * twitter: [`@arxiv`](https://twitter.com/arxiv)
+    * wiki: [`https://confluence.cornell.edu/display/arxivpub`](https://confluence.cornell.edu/display/arxivpub)
+    * twitter: [`@arxiv`](https://twitter.com/arxiv)
 
 * **CDS:**
     The CERN Document Server contains records of about 1,000,000 CERN and non-CERN articles, preprints, theses. It includes records for internal and technical notes, official CERN committee documents, and multimedia objects. CDS is going to focus on its role as institutional repository covering all CERN material from the early 50s and reflecting the holdings of the CERN library. Non-CERN particle and accelerator physics content is in the process of being exported to INSPIRE. <http://cds.cern.ch>
