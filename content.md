@@ -41,6 +41,7 @@ tables from the most recent edition of the Review of Particle Physics.
     INSPIRE serves as a one-stop information platform for the particle physics community, comprising 8 interlinked databases on literature, conferences, institutions, journals, researchers, experiments, jobs and data. It is run in collaboration by CERN, DESY, Fermilab, IHEP and SLAC, and has been serving the scientific community for almost 50 years. Previously known as SPIRES, it was the first website outside Europe and the first database on the web. Close interaction with the user community and with arXiv, ADS, HepData, ORCID, PDG and publishers is the backbone of INSPIRE's evolution. <http://inspirehep.net/>
 
     In 2018, INSPIRE is launching a redesigned interface with more efficient searching and filtering. The INSPIRE Labs site is available at: <http://labs.inspirehep.net>
+
       * blog: [`http://blog.inspirehep.net/`](http://blog.inspirehep.net/)
       * twitter: [`@inspirehep`](https://twitter.com/inspirehep)
 
@@ -51,6 +52,7 @@ tables from the most recent edition of the Review of Particle Physics.
 
 * **arXiv.org:**
     A repository of full text papers in physics, mathematics, computer science, statistics, nonlinear sciences, quantitative finance and quantitative biology interlinked with ADS and INSPIRE. Papers are usually submitted by their authors to arXiv in advance of submission to a journal for publication. Primarily covers 1991 to the present but authors are encouraged to post older papers retroactively. Permits searching by author, title, and words in abstract and experimentally also in the fulltext. Allows limiting by subfield archive or by date. Daily update alerts by subfield are available by email and RSS. <https://arXiv.org>
+
       * wiki: [`https://confluence.cornell.edu/display/arxivpub`](https://confluence.cornell.edu/display/arxivpub)
       * twitter: [`@arxiv`](https://twitter.com/arxiv)
 
