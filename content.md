@@ -38,7 +38,7 @@ tables from the most recent edition of the Review of Particle Physics.
 # Particle Physics Information Platforms
 
 * **INSPIRE:**
-    INSPIRE serves as a one-stop information platform for the particle physics community, comprising 8 interlinked databases on literature, conferences, institutions, journals, researchers, experiments, jobs and data. It is run in collaboration by CERN, DESY, Fermilab, IHEP and SLAC, and has been serving the scientific community for almost 50 years. Previously known as SPIRES, it was the first website outside Europe and the first database on the web. Close interaction with the user community and with arXiv, ADS, HepData, ORCID, PDG and publishers is the backbone of INSPIRE's evolution. <http://inspirehep.net/>
+    INSPIRE serves as a one-stop information platform for the particle physics community, comprising 8 interlinked databases on literature, conferences, institutions, journals, researchers, experiments, jobs and data. It is run in collaboration by CERN, DESY, Fermilab, IHEP, IN2P3 and SLAC, and has been serving the scientific community for almost 50 years. Previously known as SPIRES, it was the first website outside Europe and the first database on the web. Close interaction with the user community and with arXiv, ADS, HepData, ORCID, PDG and publishers is the backbone of INSPIRE's evolution. <http://inspirehep.net/>
 
     In 2018, INSPIRE is launching a redesigned interface with more efficient searching and filtering. The INSPIRE Labs site is available at: <http://labs.inspirehep.net>
 
@@ -71,8 +71,8 @@ tables from the most recent edition of the Review of Particle Physics.
 * **MathSciNet:**
     This database of almost 3 million items provides reviews, abstracts and bibliographic information for much of the mathematical sciences literature. Over 100,000 new items are added each year, most of them classified according to the Mathematics Subject Classification. Authors are uniquely identified, enabling a search for publications by individual author. Over 80,000 reviews on the current published literature are added each year. Citation data allows to track the history and influence of research publications. <http://www.ams.org/mathscinet>
 
-* **OSTI SciTech Connect:**
-    A portal to free, publicly available DOE-sponsored R&D results including technical reports, bibliographic citations, journal articles, conference papers, books, multimedia and data information. SciTech Connect is a consolidation of two core DOE search engines, the Information Bridge and the Energy Citations Database. SciTech Connect incorporates all of the R&D information from these two products into one search interface. It includes over 2.9 million citations, including citations to 1.5 million journal articles. SciTech Connect also has over 440,000 full-text DOE sponsored STI reports; most of these are post-1991, but over 143,000 of the reports were published prior to 1990. <http://www.osti.gov/scitech/>
+* **OSTI.GOV:**
+    A portal to free, publicly available DOE-sponsored R&D results including technical reports, bibliographic citations, journal articles, conference papers, books, multimedia and data information.  It consolidates OSTI’s home page and the now retired primary search tool SciTech Connect. It contains over 3 million records, including citations to 1.5 million journal articles, 1 million of which have digital object identifiers (DOIs) linking to full-text articles on publishers' websites. <https://www.osti.gov>
 
 # Particle Physics Journals and Conference Proceedings Series
 
@@ -110,6 +110,9 @@ tables from the most recent edition of the Review of Particle Physics.
 
 * **AAS Job Register:**
     The American Astronomical Society publishes once a month graduate, postgraduate, faculty and other positions mainly in astronomy and astrophysics. <http://jobregister.aas.org/>
+
+* **Academic Jobs Online**:
+    A full service online recruiting site for academic institutions worldwide in all disciplines and areas. <https://academicjobsonline.org/ajo>
 
 * **APS Careers:**
     A gateway for physicists, students, and physics enthusiasts to information about physics jobs and careers. Physics job listings, career advice, upcoming workshops and meetings, and career and job related resources provided by the American Physical Society. <http://www.aps.org/careers/employment>
@@ -505,13 +508,13 @@ One of several access points to ATLAS education and outreach pages. This page gi
     Bimonthly magazine about particle physics published by INFN, the Istituto Nazionale di Fisica Nucleare <http://www.asimmetrie.it/>
 
 * **CERN Courier:**
-    <http://cerncourier.com/cws/latest/cern>
+    <https://cerncourier.com>
 
 * **DESY inForm:**
     <http://www.desy.de/aktuelles/desy_inform>
 
-* **Fermilab Today:**
-    <http://www.fnal.gov/pub/today/>
+* **Fermilab news:**
+    <https://news.fnal.gov>
 
 * **LC Newsline:**
     The newsletter of the Linear Collider community. <http://newsline.linearcollider.org/>
