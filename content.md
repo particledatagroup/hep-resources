@@ -157,35 +157,38 @@ tables from the most recent edition of the Review of Particle Physics.
 
 General purpose software packages:
 
- * **FastJet:**
- FastJet is a software package for jet finding in pp and e+e- collisions. It includes fast native implementations of many sequential recombination clustering algorithms, plugins for access to a range of cone jet finders and tools for advanced jet manipulation. <http://fastjet.fr/>
+* **FastJet:**
+    This is a software package for jet finding in pp and e+e- collisions. It includes fast native implementations of many sequential recombination clustering algorithms, plugins for access to a range of cone jet finders and tools for advanced jet manipulation. <http://fastjet.fr/>
 
 * **GAMBIT:**
     A global fitting code for generic Beyond the Standard Model theories, designed to allow fast and easy definition of new models, observables, likelihoods, scanners and backend physics codes. <http://gambit.hepforge.org>
 
- * **Geant4:**
- Geant4 is a toolkit for the simulation of the passage of particles through matter. Its areas of application include high energy, nuclear and accelerator physics, as well as studies in medical and space science. <http://geant4.web.cern.ch/geant4/>
+* **Geant4:**
+    This is a toolkit for the simulation of the passage of particles through matter. Its areas of application include high energy, nuclear and accelerator physics, as well as studies in medical and space science. <http://geant4.web.cern.ch/geant4/>
 
- * **LHAPDF:**
- HEP community standard library for parton distribution function evolution and querying, including official collection of PDF data sets. <http://lhapdf.hepforge.org/>
+* **LHAPDF:**
+   HEP community standard library for parton distribution function evolution and querying, including official collection of PDF data sets. <http://lhapdf.hepforge.org/>
 
- * **QUDA:**
- Library for performing calculations in lattice QCD on GPUs using NVIDIA's CUDA platform. The current release includes optimized solvers for Wilson, Clover-improved Wilson,Twisted mass, Staggered, Improved staggered, Domain wall and Mobius fermion actions. <http://lattice.github.io/quda/>
+* **QUDA:**
+    Library for performing calculations in lattice QCD on GPUs using NVIDIA's CUDA platform. The current release includes optimized solvers for Wilson, Clover-improved Wilson,Twisted mass, Staggered, Improved staggered, Domain wall and Mobius fermion actions. <http://lattice.github.io/quda/>
 
- * **Rivet:**
- The Rivet toolkit, a system for validation of Monte Carlo event generators, provides a large set of experimental analyses useful for MC generator development, validation, and tuning. <http://rivet.hepforge.org/>
+* **Rivet:**
+    The Rivet toolkit, a system for validation of Monte Carlo event generators, provides a large set of experimental analyses useful for MC generator development, validation, and tuning. <http://rivet.hepforge.org/>
 
 * **ROOT:**
     This framework for data processing in high-energy physics, born at CERN, offers applications to store, access, process, analyze and represent data or perform simulations. <http://root.cern.ch>
 
- * **TMDplotter:**
-     Allows to plot TMDs and PDFs as a function of different variables. <http://tmdplotter.desy.de/>
+* **Scikit-HEP:**
+    This is a community-driven and community-oriented project with the aim of providing Particle Physics at large with an ecosystem for data analysis in Python. The project started in Autumn 2016 and is under active development. It focuses on providing core and common tools for the community but also on improving the interoperability between HEP tools and the scientific ecosystem in Python as well as the discoverability of utility packages and projects.
 
- * **tmLQCD:**
-     This freely available software suite provides a set of tools to be used in lattice QCD simulations, mainly a HMC implementation for Wilson and Wilson twisted mass fermions and inverter for different versions of the Dirac operator. <https://github.com/etmc/tmLQCD>
+* **TMDplotter:**
+    Allows to plot TMDs and PDFs as a function of different variables. <http://tmdplotter.desy.de/>
 
- * **USQCD:**
-     The software suite enables lattice QCD computations to be performed with high performance across a variety of architectures. The page contains links to the project web pages of the individual software modules, as well as to complete lattice QCD application packages which use them. <http://usqcd-software.github.io>
+* **tmLQCD:**
+    This freely available software suite provides a set of tools to be used in lattice QCD simulations, mainly a HMC implementation for Wilson and Wilson twisted mass fermions and inverter for different versions of the Dirac operator. <https://github.com/etmc/tmLQCD>
+
+* **USQCD:**
+    The software suite enables lattice QCD computations to be performed with high performance across a variety of architectures. The page contains links to the project web pages of the individual software modules, as well as to complete lattice QCD application packages which use them. <http://usqcd-software.github.io>
 
 * **Software lists:**
     A list of Monte Carlo generators may be found at: <http://cmsdoc.cern.ch/cms/PRS/gentools/www/geners/collection/>
@@ -196,7 +199,7 @@ General purpose software packages:
 
     G. Cowan's list provides links to HEP software, general statistics and data analysis links. <http://www.pp.rhul.ac.uk/~cowan/sda/statlinks.html>
 
-    An extended list of more specialized HEP-related software can be found in the online version of this review: <http://library.cern/particle_physics_information>
+    An extended list of more specialized HEP-related software can be found in the online version of this review: <http://library.cern/particle_physics_information#sof>
 
 ## Astrophysics Software
 
