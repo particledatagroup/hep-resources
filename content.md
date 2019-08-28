@@ -376,7 +376,7 @@ A collection of online tests, video lectures, and related course materials from 
 * **PhysicsCentral:**
     This site maintained by the American Physical Society provides information about current research and people in physics, experiments that can be performed at home or at school and the possibility to get physics questions answered by physicists. <http://www.physicscentral.com>
 
-**General Physics Lessons & Activities**
+**General Physics Activities**
 
 * **HyperPhysics:**
     An exploration environment for concepts in physics employing concept maps and other linking strategies and providing opportunities for numerical exploration. <http://hyperphysics.phy-astr.gsu.edu/hbase/hph.html>
@@ -384,7 +384,7 @@ A collection of online tests, video lectures, and related course materials from 
 * **Physics2000:**
     An interactive journey through modern physics. Have fun learning visually and conceptually about 20th century science and high-tech devices. Supported by the Colorado Commission on Higher Education and the National Science Foundation. <http://www.colorado.edu/physics/2000>
 
-## Particle Physics Lessons & Activities
+## Particle Physics Activities
 
 * **Angels and Demons:**
     With the aim of looking at the myth versus reality of antimatter and science at CERN this site offers teacher resources, slideshows and videos of talks given to teachers visiting CERN. <http://angelsanddemons.web.cern.ch/>
