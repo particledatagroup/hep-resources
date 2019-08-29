@@ -255,7 +255,7 @@
 }
 
 \newenvironment{pdgwidetable}[4]{%
-\captionsetup{width=.75\textwidth,labelfont=bf}
+\captionsetup{width=1\textwidth,labelfont=bf}
 \ifthenelse{\isempty{#4}}{%
   \begin{table*}[!ht]}{%
   \begin{table*}[#4]}
@@ -275,7 +275,7 @@
 }
 
 \newenvironment{pdgverywidetable}[4]{% #1
-\captionsetup{width=.75\linewidth,labelfont=bf}
+\captionsetup{width=1\linewidth,labelfont=bf}
 \ifthenelse{\isempty{#4}}{%
   \begin{table*}[!ht]}{%
   \begin{table*}[#4]}
