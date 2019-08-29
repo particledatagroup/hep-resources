@@ -37,7 +37,7 @@ Suggestions for additions and updates are very welcome.[^1]
 * **INSPIRE:**
     INSPIRE serves as a one-stop information platform for the particle physics community, comprising 8 interlinked databases on literature, conferences, institutions, journals, researchers, experiments, jobs and data. Run in collaboration by CERN, DESY, Fermilab, IHEP, IN2P3 and SLAC, it has been serving the scientific community for almost 50 years. Previously known as SPIRES, it was the first website outside Europe and the first database on the web. Close interaction with the user community and with arXiv, ADS, HepData, ORCID, PDG and publishers is the backbone of INSPIRE's evolution. <http://inspirehep.net/>
 
-    In 2018, INSPIRE is launching a redesigned interface with more efficient searching and filtering. The INSPIRE Labs site is available at: <http://labs.inspirehep.net>
+    In 2019, INSPIRE launched INSPIRE beta, featuring all new literature search, author profiles and job postings. INSPIRE beta is running in parallel with the current platform and it will fully replace it in the future. The INSPIRE beta site is available at: <http://beta.inspirehep.net>
 
     * blog: [`http://blog.inspirehep.net/`](http://blog.inspirehep.net/)
     * twitter: [`@inspirehep`](https://twitter.com/inspirehep)
