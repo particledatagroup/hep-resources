@@ -462,7 +462,7 @@ A collection of online tests, video lectures, and related course materials from 
     In the High-School Students Internship Programme CERN invites students aged 16-19 to come to CERN for two weeks, to gain practical experience in science, technology, and innovation by shadowing, observing, and working with a member of personnel. <http://hssip.web.cern.ch/>
 
 * **DESY:**
-    Offers courses for pupils and teachers as well as information for the general public, mostly in German. <http://www.desy.de/information__services/education/>
+    Offers courses for pupils and teachers as well as information for the general public, mostly in German. <https://fortbildung.desy.de/>
 
 * **Fermilab Education Office:**
     Provides  education resources and information about activities for educators, physicists, students and visitors to the Lab. In addition to information about 25 programs, the website provides online data-based investigations for high school students, online versions of exhibits in the Lederman Science Center, links to particle physics discovery resources, web-based instructional resources, tips for education and outreach, and links to the Lederman Science Center and the Teacher Resource Center. <http://ed.fnal.gov/>
