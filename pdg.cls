@@ -547,10 +547,21 @@
 }
 
 %%% Don't label sections and subsections as chapter 0 if using \chapter*
+\let\stdthesubsubsubsection\thesubsubsubsection
+\renewcommand{\thesubsubsubsection}{%
+  \ifischapter%
+  \stdthesubsection\else\arabic{section}.\arabic{subsection}.\arabic{subsubsection}.\arabic{subsubsubsection}\fi%
+}
+
+\let\stdthesubsubsection\thesubsubsection
+\renewcommand{\thesubsubsection}{%
+  \ifischapter%
+  \stdthesubsection\else\arabic{section}.\arabic{subsection}.\arabic{subsubsection}\fi%
+}
 \let\stdthesubsection\thesubsection
 \renewcommand{\thesubsection}{%
   \ifischapter%
-  \stdthesubsection\else\arabic{subsection}\fi%
+  \stdthesubsection\else\arabic{section}.\arabic{subsection}\fi%
 }
 \let\stdthesection\thesection
 \renewcommand{\thesection}{%
