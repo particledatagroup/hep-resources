@@ -1,4 +1,4 @@
-% $Id: pdgdefs.tex 24275 2019-05-23 21:45:07Z anderson $
+% $Id: pdgdefs.tex 25795 2019-10-15 23:46:41Z beringer $
 % Definition of standard PDG macros for reviews
 %
 % ------------------------------------------------
@@ -23,6 +23,13 @@
 \def\rppCitationSumTab{\primaryAuthor\ {\etal} (Particle Data Group)}
 
 %
+% Funding agencies
+%
+\def\DOEnumber{DE--AC02--05CH11231}  
+% \def\NSFnumber{PHY-0652989}      %% 2010 NSF grant number
+
+
+%
 % Utility macros
 %
 \def\Widebar#1{\vbox to 0pt{\vss\hbox{$\overline #1$}}}
@@ -42,12 +49,12 @@
 \newcommand{\vs}{\mbox{\itshape vs.}\xspace}
 % TODO: the following needs to be checked by Piotr
 \def\ibid{{\it ibid.}}
-\newcommand{\Ref}[1]{Ref. \cite{#1}}
-\newcommand{\Tab}[1]{Table \ref{#1}}
-\newcommand{\Section}[1]{Section \ref{#1}}
-\newcommand{\Sec}[1]{Section \ref{#1}}
-\newcommand{\Figure}[1]{Figure \ref{#1}}
-\newcommand{\Fig}[1]{Figure \ref{#1}}
+\def\Ref#1{Ref.~\cite{#1}}
+\newcommand{\Tab}[1]{Table~\ref{#1}}
+\newcommand{\Section}[1]{Section~\ref{#1}}
+\newcommand{\Sec}[1]{Sec.~\ref{#1}}
+\newcommand{\Figure}[1]{Figure~\ref{#1}}
+\newcommand{\Fig}[1]{Fig.~\ref{#1}}
 \def\Eq#1{Eq.~(\ref{#1})}
 \newcommand{\gsim}{\gtrsim}   % requires amssymb
 \newcommand{\lsim}{\lesssim}  % requires amssymb

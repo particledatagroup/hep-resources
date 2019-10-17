@@ -1,9 +1,11 @@
-# $Id: Makefile 24046 2019-04-12 20:03:46Z anderson $
+# $Id: Makefile 25771 2019-10-14 22:58:48Z beringer $
 # Template for general Makefile for LaTeX-based reviews
 
 BASENAME := databases
 
 draft:
+	pdflatex '\def\isdraft{1} \input{$(BASENAME).tex}'
+	if [ -s $(BASENAME).bib ]; then bibtex $(BASENAME).1 ; fi
 	pdflatex '\def\isdraft{1} \input{$(BASENAME).tex}'
 	if [ -s $(BASENAME).bib ]; then bibtex $(BASENAME).1 ; fi
 	makeindex $(BASENAME).idx
@@ -15,10 +17,14 @@ book:
 	pdflatex '\def\isbook{1} \input{$(BASENAME).tex}'
 	if [ -s $(BASENAME).bib ]; then bibtex $(BASENAME).1 ; fi
 	pdflatex '\def\isbook{1} \input{$(BASENAME).tex}'
+	if [ -s $(BASENAME).bib ]; then bibtex $(BASENAME).1 ; fi
+	pdflatex '\def\isbook{1} \input{$(BASENAME).tex}'
 	pdflatex '\def\isbook{1} \input{$(BASENAME).tex}'
 
 
 web:
+	pdflatex "\def\isweb{1} \input{$(BASENAME).tex}"
+	if [ -s $(BASENAME).bib ]; then bibtex $(BASENAME).1 ; fi
 	pdflatex "\def\isweb{1} \input{$(BASENAME).tex}"
 	if [ -s $(BASENAME).bib ]; then bibtex $(BASENAME).1 ; fi
 	pdflatex "\def\isweb{1} \input{$(BASENAME).tex}"
@@ -32,6 +38,8 @@ booklet:	$(BASENAME)-full.aux
 	pdflatex '\def\isbooklet{1} \input{$(BASENAME).tex}'
 
 nohyperref:
+	pdflatex "\def\nohyperref{1} \input{$(BASENAME).tex}"
+	if [ -s $(BASENAME).bib ]; then bibtex $(BASENAME).1 ; fi
 	pdflatex "\def\nohyperref{1} \input{$(BASENAME).tex}"
 	if [ -s $(BASENAME).bib ]; then bibtex $(BASENAME).1 ; fi
 	pdflatex "\def\nohyperref{1} \input{$(BASENAME).tex}"

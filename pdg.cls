@@ -201,6 +201,17 @@
   \end{figure}
 }
 
+\newcommand{\pdgdoublefigurex}[7]{
+\ifthenelse{\isempty{#5}}{%
+  \begin{figure}[!ht]}{%
+  \begin{figure}[#5]}
+    \centering
+    \includegraphics[#6]{figures/#1}
+    \includegraphics[#7]{figures/#2}
+    \caption{#3}\label{#4}
+  \end{figure}
+}
+
 
 \RequirePackage{bigstrut}
     \setlength\bigstrutjot{1pt}
@@ -218,7 +229,8 @@
 
 \newcommand{\pdgtableheader}[1]{%
 #1\\
-\tableline
+\hline
+%\tableline
 %\noalign{\smallskip}
 %\mystrut[.5]
 %\noalign{\smallskip}#1\\
@@ -550,13 +562,13 @@
 \let\stdthesubsubsubsection\thesubsubsubsection
 \renewcommand{\thesubsubsubsection}{%
   \ifischapter%
-  \stdthesubsection\else\arabic{section}.\arabic{subsection}.\arabic{subsubsection}.\arabic{subsubsubsection}\fi%
+  \stdthesubsubsubsection\else\arabic{section}.\arabic{subsection}.\arabic{subsubsection}.\arabic{subsubsubsection}\fi%
 }
 
 \let\stdthesubsubsection\thesubsubsection
 \renewcommand{\thesubsubsection}{%
   \ifischapter%
-  \stdthesubsection\else\arabic{section}.\arabic{subsection}.\arabic{subsubsection}\fi%
+  \stdthesubsubsection\else\arabic{section}.\arabic{subsection}.\arabic{subsubsection}\fi%
 }
 \let\stdthesubsection\thesubsection
 \renewcommand{\thesubsection}{%
