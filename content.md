@@ -418,7 +418,7 @@ http://atlas-minerva.web.cern.ch/atlas-minerva
     An exploration environment for concepts in physics employing concept maps and other linking strategies and providing opportunities for numerical exploration. <http://hyperphysics.phy-astr.gsu.edu/hbase/hph.html>
 
 * **PhET Interactive Simulations:**
-    PFounded in 2002 by Nobel Laureate Carl Wieman, the PhET Interactive Simulations project at the University of Colorado Boulder creates free interactive math and science simulations. PhET sims are based on extensive education research and engage students through an intuitive, game-like environment where students learn through exploration and discovery.
+    Founded in 2002 by Nobel Laureate Carl Wieman, the PhET Interactive Simulations project at the University of Colorado Boulder creates free interactive math and science simulations. PhET sims are based on extensive education research and engage students through an intuitive, game-like environment where students learn through exploration and discovery.
 https://phet.colorado.edu/en/simulations/category/physics
 
 ## Particle Physics Activities
