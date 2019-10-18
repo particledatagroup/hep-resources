@@ -218,7 +218,7 @@ Most relevant software is hosted by general-purpose repositories like GitHub, Gi
 
 ## Mobile Apps
 
-* **arXiv browser:**
+* **arXiv eXplorer:**
     Android app for browsing and searching arXiv.org, and for reading, saving and sharing articles.<https://play.google.com/store/apps/details?id=com.gbeatty.arxiv>
 
 * **Collider:**
