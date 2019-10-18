@@ -547,24 +547,24 @@ https://astro.desy.de/outreach
 ## News
 
 * **Asimmetrie:**
-    Bimonthly magazine about particle physics published by INFN, the Istituto Nazionale di Fisica Nucleare <http://www.asimmetrie.it/>
+    Bimonthly magazine about particle physics published by INFN, the Istituto Nazionale di Fisica Nucleare (in Italian). <http://www.asimmetrie.it/>
 
 * **CERN Courier:**
-    CERN Courier Website: <https://cerncourier.com>
-    CERN Courier Twitter: https://twitter.com/cerncourier?lang=en
+    * Website: [`https://cernocurier.com`](https://cerncourier.com)
+    * Twitter: [`@cerncourier`](https://twitter.com/cerncourier)
 
 * **DESY inForm:**
-   DESY inForm Website: http://www.desy.de/news/desy_inform/index_eng.html
-   DESY InForm Twitter: https://twitter.com/desy
+   * Website: [`http://www.desy.de/news/desy_inform/index_eng.html`](http://www.desy.de/news/desy_inform/index_eng.html)
+   * Twitter: [`@desy`](https://twitter.com/desy)
 
 * **Fermilab News:**
-    Fermilab News Website: <https://news.fnal.gov>
-    FNAL News Twitter: https://twitter.com/Fermilab
+    * Website: [`https://news.fnal.gov`](https://news.fnal.gov)
+    * Twitter: [`@Fermilab`](https://twitter.com/Fermilab)
 
 * **LC Newsline:**
     The newsletter of the Linear Collider community. <http://newsline.linearcollider.org/>
     
-    LC Newsline Twitter: https://twitter.com/LCnewsline
+    * Twitter: [`@LCnewsline`](https://twitter.com/LCnewsline)
 
 * **IOP News:**
     <http://www.iop.org/news/>
@@ -578,26 +578,25 @@ https://astro.desy.de/outreach
     * Twitter: [`@particlenews`](https://twitter.com/particlenews)
     
 * **Perimeter Institute News:**
-    Perimeter Institute News Website: https://www.perimeterinstitute.ca/news
-    Perimeter Institute Twitter: https://twitter.com/perimeter
+    * Website: [`https://www.perimeterinstitute.ca/news`](https://www.perimeterinstitute.ca/news)
+    * Twitter: [`@perimeter`](https://twitter.com/perimeter)
 
 * **Sandford News and Events:**
-    Sandford News and Events Website: https://sanfordlab.org/news-and-events
-    Sandford News and Events Twitter: https://twitter.com/SanfordLab
+    * Website: [`https://sanfordlab.org/news-and-events`](https://sanfordlab.org/news-and-events)
+    * Twitter: [`@SanforLab`](https://twitter.com/SanfordLab)
 
 * **SLAC Signals:**
     This email newsletter reports about cutting-edge science, major SLAC milestones and other lab information. It has replaced SLAC Today in November 2013. Its signup page can be found at <http://eepurl.com/IqPl1>
     
-* **SNOLAB News and Headline:**
-    SNOLAB News and Headline Website: https://www.snolab.ca/news
+* **SNOLAB News and Headline:** https://www.snolab.ca/news
 
 * **Symmetry:**
     This magazine about particle physics and its connections to other aspects of life and science, from interdisciplinary collaborations to policy to culture is published 6 times per year by Fermilab and SLAC. <http://www.symmetrymagazine.org/>
 
     * Twitter: [`@symmetrymag`](https://twitter.com/symmetrymag)
 
-* **TRIUMF on NewsWise:**
-    TRIUMF on NewsWise Website: https://www.newswise.com/institutions/newsroom/19528/#news
+* **TRIUMF on NewsWise:** https://www.newswise.com/institutions/newsroom/19528/#news
+    
 ## Art in Physics
 
 * **Arts@CERN - When Art Meets Science:**
