@@ -308,8 +308,7 @@ The data from HEPData can also be accessed through INSPIRE. A new enhanced servi
     REANA (REusable ANAlyses) is a system for instantiating research data analyses on the cloud using container-based solutions. It complements CERN Analysis Preservation permitting the reuse and revalidation of preserved analyses. It is being developed in close collaboration with DASPOS and RECAST. <http://reanahub.io/>
 
 * **RECAST:**
-    Building on analysis preservation and re-use infrastructure of the LHC experiments, RECAST acts as a science gateway allowing theorists to suggest new reinterpretations of archived analyses of the LHC dataset. Experiments review suggestions and, if approved, simulate the proposed models and re-run the archived analysis to determine their viability. Such reinterpretation results are then appended to the records of the original publication in the relevant digital archives.
-    Its new website should be available soon at: <http://recast.cern.ch>
+    Building on analysis preservation and re-use infrastructure of the LHC experiments, RECAST acts as a science gateway allowing theorists to suggest new reinterpretations of archived analyses of the LHC dataset. Experiments review suggestions and, if approved, simulate the proposed models and re-run the archived analysis to determine their viability. Such reinterpretation results are then appended to the records of the original publication in the relevant digital archives. <https://recast.cern.ch>
 
 ## Astrophysics
 
