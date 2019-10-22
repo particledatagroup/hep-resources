@@ -6,4 +6,4 @@
 % compatibility for pandoc generated LaTeX
 \newcommand{\tightlist}{}
 \let\oldurl\url
-\renewcommand{\url}[1]{\begin{center}\indent\oldurl{#1}\end{center}}
+\renewcommand{\url}[1]{{\par\centering\oldurl{#1}\par}}

@@ -92,7 +92,10 @@ Suggestions for additions and updates are very welcome.[^1]
 # People
 
 * **INSPIRE HEPNames:**
-    Searchable worldwide database of over 125,000 active, retired, and deceased people associated with particle physics and related fields - but it also includes people who have departed HEP research. The affiliation history of these researchers, their e-mail addresses, ORCIDs, web pages, experiments they participated in, PhD advisor, information on their graduate students and links to their papers in the INSPIRE HEP, arXiv and ADS databases are provided, as well as a user interface to update this information. <http://inspirehep.net/hepnames>
+    Searchable worldwide database of over 125,000 active, departed, retired, and deceased people associated with particle physics and related fields. The affiliation history of these researchers, their e-mail addresses, ORCIDs, web pages, experiments they participated in, PhD advisor, information on their graduate students and links to their papers in the INSPIRE HEP, arXiv and ADS databases are provided, as well as a user interface to update this information. <http://inspirehep.net/hepnames>
+
+* **ORCID**:
+    Registry providing persistent digital identifiers allowing to unambiguously identify researchers. Through integration in key research workflows such as manuscript and grant submission, it supports automated linkages between scientists and their professional activities ensuring that their work is recognized. <https://orcid.org>
 
 # Experiments
 
@@ -333,7 +336,7 @@ A useful list of resources can also be found at <http://www.stfc.ac.uk/research/
     Behind the project are about 200 researchers from 30 institutes and universities doing research in particle physics, astroparticle physics and hadron and nuclear physics in Germany. Exciting young scientists throughout Germany for particle physics and accompanying them from school to top-level particle physics research—that's what they have set their sights on.
 https://www.teilchenwelt.de  
 
-**Physics Courses**
+## Physics Courses
 
 * **MIT OpenCourseWare - Physics:**
 These MIT course materials reflect almost all the undergraduate and graduate subjects taught at MIT. In addition to physics courses, supplementary educational resources are also available. <http://ocw.mit.edu/courses/physics/>
@@ -344,24 +347,11 @@ A collection of online tests, video lectures, and related course materials from 
 ## Masterclasses
 
 * **Cosmic Ray Studies:**
-    There are more than 12 projects around the world that address young people and teachers giving them an opportunity to explore cosmic particles, collecting, uploading and analyzing data and sharing results. Two annual events include International Cosmic Day - https://icd.desy.de and International Muon Week - https://quarknet.org/content/international-muon-week.
-    **Projects include:**
-    * DESY for cosmic ray projects: https://icd.desy.de/e49245/
-    * France - COSMOS à l”ECOLE - http://www.sciencesalecole.org/plan-cosmos-a-lecole-presentation/
-    * France - e-PERON - https://www.labex-ocevu.univ-amu.fr/?q=fr/content/e-péron
-    * Germany - Cosmic@Web - http://physik-begreifen-zeuthen.desy.de/angebote/kosmische_teilchen/cosmicweb/index_ger.html
-    * Germany - Teilchenwelt - https://www.teilchenwelt.de
-    * Italy - Extreme Energy Events – https://eee.centrofermi.it
-    * Italy - INFN – Outreach Cosmic Ray Activities - https://web.infn.it/OCRA/
-    * Poland - CREDO - https://credo.science
-    * Poland - Dark Universe Welcome - https://www.zooniverse.org/projects/credo/dark-universe-welcome
-    * Spain - Cazadores de Rayos Gamma - https://www.cazadoresderayosgamma.com/en/
-    * Sweden - Vetenskapens Hus - https://www.vetenskapenshus.se/kosmisk-stralning?language=en
-    * Taiwan - QuarkNet-TW – no website
-    * The Netherlands - HiSPARC - https://www.uu.nl/en/organisation/university-college-utrecht/hisparc-at-ucu
-    * UK - Birmingham QuarkNet Project - http://www.ep.ph.bham.ac.uk/twiki/bin/view/General/QuarkNet
-    * UK - QuarkNet Cymru - http://blogs.cardiff.ac.uk/physicsoutreach/quarknet-cymru/
-    * US - QuarkNet Cosmic Ray e-Labs - http://www.i2u2.org/elab/cosmic/home/project.jsp
+    There are more than 12 projects around the world that address young people and teachers giving them an opportunity to explore cosmic particles, collecting, uploading and analyzing data and sharing results. Two annual events include International Cosmic Day and International Muon Week.
+
+    <https://icd.desy.de>
+
+    <https://quarknet.org/content/international-muon-week>
     
 * **Hands-On Universe:**
     This program enables students to investigate the Universe while applying tools and concepts from science, math and technology. <http://handsonuniverse.org/>
@@ -373,7 +363,7 @@ A collection of online tests, video lectures, and related course materials from 
     Each year about 13,000 high school students in 55 countries come to one of about 225 nearby universities or research centres for a day to unravel the mysteries of particle physics. Lectures from active scientists give insight in topics and methods of basic research enabling the students to perform measurements on real data from one of seven experiments. At the end of the day, like an international research collaboration, participants join a video conference for discussion and combination of results. The program is coordinated from Institut fur Kern- und Teilchenphysik at TU Dresden and the Notre Dame University QuarkNet Center within the framework of the International Particle Physics Outreach Group (IPPOG). CERN, Fermilab and TRIUMF support videoconferences. <https://physicsmasterclasses.org>
     World Wide Data Day is an annual event. <https://quarknet.org/content/world-wide-data-day>
 
-* **LHC physics masterclasses:**
+* **LHC physics Masterclasses:**
     Lectures from active scientists give insight into methods of basic research, enabling the students to perform measurements on real data from LHC experiments. Like in a real research collaboration, the participants then discuss their results and compare with expectations.
 
     <http://cms.web.cern.ch/content/cms-physics-masterclass>
@@ -541,8 +531,8 @@ https://masterclass.icecube.wisc.edu/
     * Twitter: [`@cerncourier`](https://twitter.com/cerncourier)
 
 * **DESY inForm:**
-   * Website: [`http://www.desy.de/news/desy_inform/index_eng.html`](http://www.desy.de/news/desy_inform/index_eng.html)
-   * Twitter: [`@desy`](https://twitter.com/desy)
+    * Website: [`http://www.desy.de/news/desy_inform/index_eng.html`](http://www.desy.de/news/desy_inform/index_eng.html)
+    * Twitter: [`@desy`](https://twitter.com/desy)
 
 * **Fermilab News:**
     * Website: [`https://news.fnal.gov`](https://news.fnal.gov)
@@ -582,7 +572,7 @@ https://masterclass.icecube.wisc.edu/
 
     * Twitter: [`@symmetrymag`](https://twitter.com/symmetrymag)
 
-* **TRIUMF on NewsWise:** <https://www.newswise.com/institutions/newsroom/19528/#news>
+* **TRIUMF on NewsWise:** <https://www.newswise.com/institutions/newsroom/19528>
     
 ## Art in Physics
 
