@@ -173,7 +173,7 @@ Most relevant software is hosted by general-purpose repositories like GitHub, Gi
     This framework for data processing in high-energy physics, born at CERN, offers applications to store, access, process, analyze and represent data or perform simulations. <http://root.cern.ch>
 
 * **Scikit-HEP:**
-    This is a community-driven and community-oriented project with the aim of providing Particle Physics at large with an ecosystem for data analysis in Python. The project started in Autumn 2016 and is under active development. It focuses on providing core and common tools for the community but also on improving the interoperability between HEP tools and the scientific ecosystem in Python as well as the discoverability of utility packages and projects. http://scikit-hep.org
+    This is a community-driven and community-oriented project with the aim of providing Particle Physics at large with an ecosystem for data analysis in Python. The project started in Autumn 2016 and is under active development. It focuses on providing core and common tools for the community but also on improving the interoperability between HEP tools and the scientific ecosystem in Python as well as the discoverability of utility packages and projects. <http://scikit-hep.org>
 
 * **TMDplotter:**
     Allows to plot TMDs and PDFs as a function of different variables. <http://tmdplotter.desy.de/>
@@ -370,22 +370,15 @@ A collection of online tests, video lectures, and related course materials from 
     * US - QuarkNet Cosmic Ray e-Labs - http://www.i2u2.org/elab/cosmic/home/project.jsp
     
 * **Hands-On Universe:**
-    This program enables students to investigate the Universe while applying tools and concepts from science, math and technology. http://handsonuniverse.org/
+    This program enables students to investigate the Universe while applying tools and concepts from science, math and technology. <http://handsonuniverse.org/>
 
 * **HYPATIA:**
-    HYPATIA (Hybrid Pupil’s Analysis Tool for Interactions in ATLAS) is a tool for high school students to inspect the graphic visualization of particle collision products in the ATLAS detector at CERN. http://hypatia.phys.uoa.gr/
+    HYPATIA (Hybrid Pupil’s Analysis Tool for Interactions in ATLAS) is a tool for high school students to inspect the graphic visualization of particle collision products in the ATLAS detector at CERN. <http://hypatia.phys.uoa.gr/>
     
 * **International Masterclasses:**
-    Each year about 13,000 high school students in 55 countries come to one of about 225 nearby universities or research centres for a day to unravel the mysteries of particle physics. Lectures from active scientists give insight in topics and methods of basic research enabling the students to perform measurements on real data from one of seven experiments. At the end of the day, like an international research collaboration, participants join a video conference for discussion and combination of results. The program is coordinated from Institut fur Kern- und Teilchenphysik at TU Dresden and the Notre Dame University QuarkNet Center within the framework of the International Particle Physics Outreach Group (IPPOG). CERN, Fermilab and TRIUMF support videoconferences. World Wide Data Day - https://quarknet.org/content/world-wide-data-day is an annual event.
-    **EXPERIMENTS:**
-    * ALICE - https://www.vetenskapenshus.se/kosmisk-stralning?language=en
-    * ATLAS - https://physicsmasterclasses.org/index.php?cat=physics&page=atlas
-    * CMS - https://physicsmasterclasses.org/index.php?cat=physics&page=cms
-    * LHCb - https://physicsmasterclasses.org/index.php?cat=physics&page=lhcb
-    * MINERvA - https://quarknet.org/content/minerva-masterclass-0
-    
-    (Coming in 2020 - Belle II and MicroBooNE.)
-    
+    Each year about 13,000 high school students in 55 countries come to one of about 225 nearby universities or research centres for a day to unravel the mysteries of particle physics. Lectures from active scientists give insight in topics and methods of basic research enabling the students to perform measurements on real data from one of seven experiments. At the end of the day, like an international research collaboration, participants join a video conference for discussion and combination of results. The program is coordinated from Institut fur Kern- und Teilchenphysik at TU Dresden and the Notre Dame University QuarkNet Center within the framework of the International Particle Physics Outreach Group (IPPOG). CERN, Fermilab and TRIUMF support videoconferences. <https://physicsmasterclasses.org>
+    World Wide Data Day is an annual event. <https://quarknet.org/content/world-wide-data-day>
+
 * **LHC physics masterclasses:**
     Lectures from active scientists give insight into methods of basic research, enabling the students to perform measurements on real data from LHC experiments. Like in a real research collaboration, the participants then discuss their results and compare with expectations.
 
@@ -395,13 +388,11 @@ A collection of online tests, video lectures, and related course materials from 
 
     <http://alice.physicsmasterclasses.org/MasterClassWebpage.html>
 
+    <http://atlas-minerva.web.cern.ch/atlas-minerva>
+
 * **IceCube Masterclass:**
     The program is inspired by the International Masterclasses program started by IPPOG and is coordinated by the Wisconsin IceCube Particle Astrophysics Center with support from QuarkNet.
 https://masterclass.icecube.wisc.edu/
-
-* **MINERVA:**
-    MINERVA (Masterclass INvolving Event recognition visualised with Atlantis) is a masterclass tool for students looking to learn more about the ATLAS experiment at CERN, based on a simplified setup of the ATLAS event display, Atlantis.
-http://atlas-minerva.web.cern.ch/atlas-minerva
 
 ## General Sites
 
@@ -417,51 +408,54 @@ http://atlas-minerva.web.cern.ch/atlas-minerva
     An exploration environment for concepts in physics employing concept maps and other linking strategies and providing opportunities for numerical exploration. <http://hyperphysics.phy-astr.gsu.edu/hbase/hph.html>
 
 * **PhET Interactive Simulations:**
-    Founded in 2002 by Nobel Laureate Carl Wieman, the PhET Interactive Simulations project at the University of Colorado Boulder creates free interactive math and science simulations. PhET sims are based on extensive education research and engage students through an intuitive, game-like environment where students learn through exploration and discovery.
-https://phet.colorado.edu/en/simulations/category/physics
+    Founded in 2002 by Nobel Laureate Carl Wieman, the PhET Interactive Simulations project at the University of Colorado Boulder creates free interactive math and science simulations. PhET sims are based on extensive education research and engage students through an intuitive, game-like environment where students learn through exploration and discovery. <https://phet.colorado.edu/en/simulations/category/physics>
 
 ## Particle Physics Activities
 
 **Citizen Science**
 
 * **Higgs Hunters:** A web-based citizen science project to help search for unknown exotic particles in the LHC data.
-http://HiggsHunters.org
-* **LHC @ home:** Volunteer computing platform to help physicists compare theory with experiment, in the search for new fundamental particles and answers to questions about the Universe. http://lhcathome.web.cern.ch
+<http://HiggsHunters.org>
+* **LHC @ home:** Volunteer computing platform to help physicists compare theory with experiment, in the search for new fundamental particles and answers to questions about the Universe. <http://lhcathome.web.cern.ch>
 
 **Classroom Activities Collections**
-* **Contemporary Physics Education Project - Fundamental particle and interactions:** http://www.cpepphysics.org/particles.html
-* **Fermilab Physical Science/Physics Resources:** https://ed.fnal.gov/home/educators1000-physics.shtml
-* **IceCube Activities:** https://icecube.wisc.edu/outreach/activities
-* **IPPOG Resources:** http://ippog.org/resources
-* **Jefferson Lab Teacher Resources:** https://education.jlab.org/indexpages/teachers.html
-* **LIGO Classroom Activities:** https://www.ligo.caltech.edu/page/classroom-activities
-* **MINERvA Neutrinos in the Classroom:** https://neutrino-classroom.org
-* **Perimeter Institute Educational Resources:** https://resources.perimeterinstitute.ca
-* **Quarked Lesson Plans:** http://www.quarked.org/parents/lessonplans.html
-* **QuarkNet Data Activities Portfolio:** https://quarknet.org/data-portfolio
-* **Sanford Lab curriculum materials:** https://sanfordlab.org/educators/curriculum-modules
+
+* **Contemporary Physics Education Project - Fundamental particle and interactions:** <http://www.cpepphysics.org/particles.html>
+* **Fermilab Physical Science/Physics Resources:** <https://ed.fnal.gov/home/educators1000-physics.shtml>
+* **IceCube Activities:** <https://icecube.wisc.edu/outreach/activities>
+* **IPPOG Resources:** <http://ippog.org/resources>
+* **Jefferson Lab Teacher Resources:** <https://education.jlab.org/indexpages/teachers.html>
+* **LIGO Classroom Activities:** <https://www.ligo.caltech.edu/page/classroom-activities>
+* **MINERvA Neutrinos in the Classroom:** <https://neutrino-classroom.org>
+* **Perimeter Institute Educational Resources:** <https://resources.perimeterinstitute.ca>
+* **Quarked Lesson Plans:** <http://www.quarked.org/parents/lessonplans.html>
+* **QuarkNet Data Activities Portfolio:** <https://quarknet.org/data-portfolio>
+* **Sanford Lab curriculum materials:** <https://sanfordlab.org/educators/curriculum-modules>
 
 **Interactive Sites**
-* **CAMELIA:** CAMELIA (Cross-platform Atlas Multimedia Educational Lab for Interactive Analysis) is a discovery tool for the general public, based on computer gaming technology. https://www.atlasexperiment.org/camelia.html
-* **CERNland:** With a range of games, multimedia applications and films CERNland is a virtual theme park developed to bring the excitement of CERN’s research to a young audience aged between 7 and 12. CERNland is designed to show children what is being done at CERN and inspire them with some physics. http://www.cernland.net/
-* **In particular:** Podcast and more about physics and the process of discovering physics at the ATLAS experiment. https://inparticular.web.cern.ch/
-* **Lancaster Particle Physics:** Suitable for 16+ students, this site offers a number of simulations and explanations of particle physics, including a section on the LHC. http://www.lppp.lancs.ac.uk/
-* **Quarked!** - Adventures in the Subatomic Universe: This project, targeted to kids aged 7-12 (and their families), brings subatomic physics to life through a multimedia project including an interactive website, a facilitated program for museums and schools, and an educational outreach program. http://www.quarked.org/
+
+* **CAMELIA:** CAMELIA (Cross-platform Atlas Multimedia Educational Lab for Interactive Analysis) is a discovery tool for the general public, based on computer gaming technology. <https://www.atlasexperiment.org/camelia.html>
+* **CERNland:** With a range of games, multimedia applications and films CERNland is a virtual theme park developed to bring the excitement of CERN’s research to a young audience aged between 7 and 12. CERNland is designed to show children what is being done at CERN and inspire them with some physics. <http://www.cernland.net/>
+* **In particular:** Podcast and more about physics and the process of discovering physics at the ATLAS experiment. <https://inparticular.web.cern.ch/>
+* **Lancaster Particle Physics:** Suitable for 16+ students, this site offers a number of simulations and explanations of particle physics, including a section on the LHC. <http://www.lppp.lancs.ac.uk/>
+* **Quarked!** - Adventures in the Subatomic Universe: This project, targeted to kids aged 7-12 (and their families), brings subatomic physics to life through a multimedia project including an interactive website, a facilitated program for museums and schools, and an educational outreach program. <http://www.quarked.org/>
 
 **Planetarium Show**
-* **Phantom of the Universe:** A planetarium show about dark matter that covers astrophysics, an underground experiment, and the LHC. It is distributed to planetariums for free. http://phantomoftheuniverse.com/
+
+* **Phantom of the Universe:** A planetarium show about dark matter that covers astrophysics, an underground experiment, and the LHC. It is distributed to planetariums for free. <http://phantomoftheuniverse.com/>
 
 **Video/Film**
-* **Angels and Demons:** With the aim of looking at the myth versus reality of antimatter and science at CERN this site describes the science behind the story including a set of videos. http://angelsanddemons.web.cern.ch/
-* **CollidingParticles:** A series of films following a team of physicists involved in research at the LHC. http://www.collidingparticles.com/
+
+* **Angels and Demons:** With the aim of looking at the myth versus reality of antimatter and science at CERN this site describes the science behind the story including a set of videos. <http://angelsanddemons.web.cern.ch/>
+* **CollidingParticles:** A series of films following a team of physicists involved in research at the LHC. <http://www.collidingparticles.com/>
 * **Rewarding Learning videos about CERN:** The three videos based on interviews with scientists and engineers at CERN introduce pupils to CERN and the type of research and work undertaken there and are accompanied by teachers’ notes.
-http://www.nicurriculum.org.uk/STEMWorks/resources/cern/index.asp
-* **Videos by Don Lincoln:** Short YouTube videos on basic particle physics and cosmology. https://www.youtube.com/playlist?list=PLCfRa7MXBEsoJuAM8s6D8oKDPyBepBosS
+<http://www.nicurriculum.org.uk/STEMWorks/resources/cern/index.asp>
+* **Videos by Don Lincoln:** Short YouTube videos on basic particle physics and cosmology. <https://www.youtube.com/playlist?list=PLCfRa7MXBEsoJuAM8s6D8oKDPyBepBosS>
 
 **Websites**
-* **Cambridge Relativity and Cosmology:** Materials for the greater public to learn about the Origins of the Universe, including information on black holes, string theory, M-thoery, the cosmic microwave background and the structure of the Universe. http://www.damtp.cam.ac.uk/research/gr/public/index.html
-* **Imagine the Universe:** This site is for students age 14 and up and for anyone interested in learning about the Universe. http://imagine.gsfc.nasa.gov/home.html
-* **Particle Adventure:** An interactive tour of quarks, neutrinos, antimatter, extra dimensions, dark matter, accelerators and particle detectors from the Particle Data Group of Lawrence Berkeley National Laboratory. Simple elegant graphics and translations into 16 languages. http://particleadventure.org/
+* **Cambridge Relativity and Cosmology:** Materials for the greater public to learn about the Origins of the Universe, including information on black holes, string theory, M-thoery, the cosmic microwave background and the structure of the Universe. <http://www.damtp.cam.ac.uk/research/gr/public/index.html>
+* **Imagine the Universe:** This site is for students age 14 and up and for anyone interested in learning about the Universe. <http://imagine.gsfc.nasa.gov/home.html>
+* **Particle Adventure:** An interactive tour of quarks, neutrinos, antimatter, extra dimensions, dark matter, accelerators and particle detectors from the Particle Data Group of Lawrence Berkeley National Laboratory. Simple elegant graphics and translations into 16 languages. <http://particleadventure.org/>
 
 ## Lab Education Offices
 
@@ -472,44 +466,44 @@ http://www.nicurriculum.org.uk/STEMWorks/resources/cern/index.asp
     The Office of Educational Programs mission is to design, develop, implement, and facilitate workforce development and education initiatives that support the scientific mission at Brookhaven National Laboratory and the Department of Energy. <http://www.bnl.gov/education/>
 
 * **CERN's education programmes:**
-    CERN’s education and outreach programmes cover all ages from high-school students to university students. Specifically, CERN offers the tailor-made High-School Students Internship Programme several times per year and the Beamline for Schools Competition, challenging high-school students from around the world to propose an experiment to carry out at a real research laboratory. The Laboratory also runs residential programmes for high-school teachers from around the world and a summer programme for undergraduate students. https://home.cern/about/what-we-do/our-educational-programmes
+    CERN’s education and outreach programmes cover all ages from high-school students to university students. Specifically, CERN offers the tailor-made High-School Students Internship Programme several times per year and the Beamline for Schools Competition, challenging high-school students from around the world to propose an experiment to carry out at a real research laboratory. The Laboratory also runs residential programmes for high-school teachers from around the world and a summer programme for undergraduate students. <https://home.cern/about/what-we-do/our-educational-programmes>
 
 * **DESY Education:**
     DESY Hamburg offers a regular series of public lectures and the DESY Science Café for young and old alike. <https://fortbildung.desy.de/index_eng.html>
    
 * **DESY Zeuthen Outreach:**
     Posters, photos, lectures, videos and blogs. Projects for teachers and students include School Labs, Cosmic@Web, Teilchenwelt and International Cosmic Day.
-https://astro.desy.de/outreach
+<https://astro.desy.de/outreach>
 
 * **Fermilab Office of Education and Public Outreach:**
     Provides  education resources and information about activities for 's, physicists, students and visitors to the Lab. In addition to information about 25 programs, the website provides online data-based investigations for high school students, online versions of exhibits in the Lederman Science Center, links to particle physics discovery resources, web-based instructional resources, tips for education and outreach, and links to the Lederman Science Center and the Teacher Resource Center. <http://ed.fnal.gov/>
     
 * **Perimeter Institute Outreach:**
-    Perimeter Institute shares ideas with students, teachers, and like-minded people through programs and resources that communicate the power, joy, and mystery of science. Perimeter’s award-winning Outreach team brings science to life and raises scientific literacy through classroom resources, public lectures, teacher workshops, an educator network, and a summer school where students interact with Perimeter researchers. https://www.perimeterinstitute.ca/outreach
+    Perimeter Institute shares ideas with students, teachers, and like-minded people through programs and resources that communicate the power, joy, and mystery of science. Perimeter’s award-winning Outreach team brings science to life and raises scientific literacy through classroom resources, public lectures, teacher workshops, an educator network, and a summer school where students interact with Perimeter researchers. <https://www.perimeterinstitute.ca/outreach>
 
 * **Science Education at Jefferson Lab:**
     Jefferson Lab's long-term commitment to science education continues to focus on increasing the number of teachers with a substantial background in math and science, strengthening the motivation and preparation of all students, especially minorities and females, and addressing the serious under representation of minorities and females in science, math, engineering and technology careers. <http://education.jlab.org/>
     
 * **Joint Institute for Nuclear Research Education (JINR):**
-    The JINR educational portal has resources, programs for teachers and school students and lab tours. http://www.jinr.ru/schoolstudents-teachers-en/
+    The JINR educational portal has resources, programs for teachers and school students and lab tours. <http://www.jinr.ru/schoolstudents-teachers-en/>
     
 * **Laboratori Nazionali di Frescati Educational (INFN):**
-    INFN educational programs are addressed to students, teachers and general audiences of every age, from Italy and abroad. Insights and education about the INFN-LNF research are offered thanks to the organization of guided tours and open days, stages for students, refresher courses for teachers, seminars and divulgation events. The aim is to create a constant exchange between the research world and society, thanks to direct contact and via the internet and other social media. http://edu.lnf.infn.it/about/?lang=en
+    INFN educational programs are addressed to students, teachers and general audiences of every age, from Italy and abroad. Insights and education about the INFN-LNF research are offered thanks to the organization of guided tours and open days, stages for students, refresher courses for teachers, seminars and divulgation events. The aim is to create a constant exchange between the research world and society, thanks to direct contact and via the internet and other social media. <http://edu.lnf.infn.it/about/?lang=en>
 
 * **Laboratori Nazionali del Gran Sasso Outreach Activities:**
-    The Lab offers pupils the opportunity to approach the fascinating world of Physics and Science in general through stages, summer schools and training camps. It makes young researchers’ skills and competences available to people both in public events, such as the Open Day and the European Researchers’ Night, and in guided tours to visit the underground experimental halls. https://www.lngs.infn.it/en/outreach-activities
+    The Lab offers pupils the opportunity to approach the fascinating world of Physics and Science in general through stages, summer schools and training camps. It makes young researchers’ skills and competences available to people both in public events, such as the Open Day and the European Researchers’ Night, and in guided tours to visit the underground experimental halls. <https://www.lngs.infn.it/en/outreach-activities>
 
 * **Lawrence Berkeley National Laboratory (LBNL) Workforce Development and Education:**
-    Working with our partners both within and outside Berkeley Lab, LBNL promotes equal access to scientific and technical careers for students from all backgrounds, supports STEM teachers, and build sscientific literacy through innovative education programs. The lab also supports educational outreach efforts from Berkeley Lab’s divisions by providing program development assistance, materials, funding, volunteers, project management, marketing, and administrative support. https://education.lbl.gov/
+    Working with our partners both within and outside Berkeley Lab, LBNL promotes equal access to scientific and technical careers for students from all backgrounds, supports STEM teachers, and build sscientific literacy through innovative education programs. The lab also supports educational outreach efforts from Berkeley Lab’s divisions by providing program development assistance, materials, funding, volunteers, project management, marketing, and administrative support. <https://education.lbl.gov/>
 
 * **Sanford Underground Research Facility Education and Outreach:**
-    Leveraging research being conducted underground at Sanford Lab, staff provide training, teaching tools and materials for teachers so they can inspire and challenge students. https://sanfordlab.org/educators
+    Leveraging research being conducted underground at Sanford Lab, staff provide training, teaching tools and materials for teachers so they can inspire and challenge students. <https://sanfordlab.org/educators>
 
 * **SNOLAB Outreach:** 
-    The goal at SNOLAB is to develop new educational material that fosters an appreciation of the field of astroparticle physics. The education team endeavours to facilitate an exchange of knowledge with the public and scientists from around the world to better understand our solar system. The desired outcome of the educational work is to have a network of healthy and resilient community partners with informed and active citizens better equipped to understand the goals here at SNOLAB now and in the future. https://www.snolab.ca/outreach
+    The goal at SNOLAB is to develop new educational material that fosters an appreciation of the field of astroparticle physics. The education team endeavours to facilitate an exchange of knowledge with the public and scientists from around the world to better understand our solar system. The desired outcome of the educational work is to have a network of healthy and resilient community partners with informed and active citizens better equipped to understand the goals here at SNOLAB now and in the future. <https://www.snolab.ca/outreach>
 
 * **TRIUMF High School Programs:**
-    TRIUMF offers outreach programs for high-school students, teachers, and the general public with a mission of promoting science and research in the public arena. TRIUMF’s outreach activities are also designed to tell Canadian students, teachers, and the public about the excitement of curiosity-driven research and about how a laboratory like TRIUMF adds value to Canada in new technologies, medical applications, and highly qualified people. https://www.triumf.ca/for-public/high-school-programs
+    TRIUMF offers outreach programs for high-school students, teachers, and the general public with a mission of promoting science and research in the public arena. TRIUMF’s outreach activities are also designed to tell Canadian students, teachers, and the public about the excitement of curiosity-driven research and about how a laboratory like TRIUMF adds value to Canada in new technologies, medical applications, and highly qualified people. <https://www.triumf.ca/for-public/high-school-programs>
 
 * **LBL Workforce Development and Education:**
     This group carries out Berkeley Lab's mission to inspire and prepare the next generation of scientists, engineers, and technicians. <https://education.lbl.gov/>
@@ -517,28 +511,28 @@ https://astro.desy.de/outreach
 ## Educational Programs of Experiments
 
 * **ATLAS Education:**
-    The ATLAS Experiment has a wide range of educational resources available for students and teachers. Categories include primary and secondary school students, university students, teachers, citizen science, and multimedia and resources. https://atlas.cern/resources/education
+    The ATLAS Experiment has a wide range of educational resources available for students and teachers. Categories include primary and secondary school students, university students, teachers, citizen science, and multimedia and resources. <https://atlas.cern/resources/education>
 
 * **CMS Education and Outreach Resources:**
-    Access to 110 resources from Activities and Artworks to Visualizations. https://cds.cern.ch/collection/CMS%20Education%20and%20Outreach%20Resources?ln=en
+    Access to 110 resources from Activities and Artworks to Visualizations. <https://cds.cern.ch/collection/CMS%20Education%20and%20Outreach%20Resources?ln=en>
 
 * **HiSPARC at UCU:**
-    HiSPARC is an outreach, educational and research experiment on cosmic rays detection, which was initiated in the Netherlands in 2004. It brings together secondary school students and teachers, undergraduate students and university researchers in the quest to understand the origin of the most energetic particles in our universe. HSPARC has stations in the Netherlands, the United Kingdom, Denmark and Namibia. https://www.uu.nl/en/organisation/university-college-utrecht/hisparc-at-ucu
+    HiSPARC is an outreach, educational and research experiment on cosmic rays detection, which was initiated in the Netherlands in 2004. It brings together secondary school students and teachers, undergraduate students and university researchers in the quest to understand the origin of the most energetic particles in our universe. HSPARC has stations in the Netherlands, the United Kingdom, Denmark and Namibia. <https://www.uu.nl/en/organisation/university-college-utrecht/hisparc-at-ucu>
 
 * **IceCube Education and Outreach:**
-    IceCube is committed to bringing science to a wider audience. Learning opportunities for high school students, research experiences for teachers and undergraduates, learning activities for the classroom or at home, and wecasts. https://icecube.wisc.edu/outreach
+    IceCube is committed to bringing science to a wider audience. Learning opportunities for high school students, research experiences for teachers and undergraduates, learning activities for the classroom or at home, and wecasts. <https://icecube.wisc.edu/outreach>
 
 * **KASCADE and KASCADE-Grande KDKC:**
-    The aim of the project KCDC (KASCADE Cosmic Ray Data Centre) is the installation and establishment of a public data centre for high-energy astroparticle physics based on the data of the KASCADE experiment. https://kcdc.ikp.kit.edu
+    The aim of the project KCDC (KASCADE Cosmic Ray Data Centre) is the installation and establishment of a public data centre for high-energy astroparticle physics based on the data of the KASCADE experiment. <https://kcdc.ikp.kit.edu>
 
 * **LIGO Education Resources:**
-    Something fun and educational for K-12 educators, parents and interested students. https://www.ligo.caltech.edu/page/educational-resources
+    Something fun and educational for K-12 educators, parents and interested students. <https://www.ligo.caltech.edu/page/educational-resources>
 
 * **MINERvA Neutrinos in the Classroom:**
-    Information and educational materials provide high school physics students with an in-depth hands-on interactive experience with real high-energy particle physics. The materials should be suitable for a 1-2 weeks module on particle physics as it’s done by professional scientists. https://neutrino-classroom.org
+    Information and educational materials provide high school physics students with an in-depth hands-on interactive experience with real high-energy particle physics. The materials should be suitable for a 1-2 weeks module on particle physics as it’s done by professional scientists. <https://neutrino-classroom.org>
 
 * **VIRGO Educational Resources:**
-    Useful resources (websites, texts, videos) for teachers and students related to gravitational waves and the interferometers like Virgo. http://public.virgo-gw.eu/educational-resources/
+    Useful resources (websites, texts, videos) for teachers and students related to gravitational waves and the interferometers like Virgo. <http://public.virgo-gw.eu/educational-resources/>
 
 * **Pierre Auger Observatory's Educational Pages:**
     The site offers information about cosmic rays and their detection, and provides material for students and teachers. <https://www.auger.org/index.php/edu-outreach>
@@ -587,19 +581,19 @@ https://astro.desy.de/outreach
 * **SLAC Signals:**
     This email newsletter reports about cutting-edge science, major SLAC milestones and other lab information. It has replaced SLAC Today in November 2013. Its signup page can be found at <http://eepurl.com/IqPl1>
     
-* **SNOLAB News and Headline:** https://www.snolab.ca/news
+* **SNOLAB News and Headline:** <https://www.snolab.ca/news>
 
 * **Symmetry:**
     This magazine about particle physics and its connections to other aspects of life and science, from interdisciplinary collaborations to policy to culture is published 6 times per year by Fermilab and SLAC. <http://www.symmetrymagazine.org/>
 
     * Twitter: [`@symmetrymag`](https://twitter.com/symmetrymag)
 
-* **TRIUMF on NewsWise:** https://www.newswise.com/institutions/newsroom/19528/#news
+* **TRIUMF on NewsWise:** <https://www.newswise.com/institutions/newsroom/19528/#news>
     
 ## Art in Physics
 
 * **Arts@CERN - When Art Meets Science:**
-    Arts at CERN is the leading art and science programme promoting the dialog between artists and particle physicists. Programmes include Art Commissions and Exhibitions, Collide, Accelerate and Guest Artists. https://arts.cern
+    Arts at CERN is the leading art and science programme promoting the dialog between artists and particle physicists. Programmes include Art Commissions and Exhibitions, Collide, Accelerate and Guest Artists. <https://arts.cern>
 
     The Collide@CERN residency programme aims to develop expert knowledge in the arts through the connection with fundamental science. Since 2011 the COLLIDE award calls to artists to win a fully funded residency for up to 3 months. <https://arts.cern/programme/collide>
 
@@ -613,7 +607,7 @@ https://astro.desy.de/outreach
 a body of work, leading to presentations in the community and possibly an exhibition of the artwork at Fermilab. <http://events.fnal.gov/art-gallery/>
 
 * **TRIUMF Science through Art:**
-    TRIUMF's Science through Art initiatives explore the space where art and science collide. These programs bring artists and TRIUMF researchers, engineers, technicians, tradespeople, and students together to explore new ways of thinking about science, discovery, creativity, and our universe. https://www.triumf.ca/science-through-art
+    TRIUMF's Science through Art initiatives explore the space where art and science collide. These programs bring artists and TRIUMF researchers, engineers, technicians, tradespeople, and students together to explore new ways of thinking about science, discovery, creativity, and our universe. <https://www.triumf.ca/science-through-art>
 
 ## Blogs and Twitter
 
@@ -647,7 +641,7 @@ Some selected particle physics related blogs:
     This interactions.org page highlights a new blogger involved in particle physics research each month. <http://www.interactions.org/particle-people>
 
 * **Preposterous Universe:**
-    Theoretical physicist Sean Carroll's blog. https://www.preposterousuniverse.com/blog/
+    Theoretical physicist Sean Carroll's blog. <https://www.preposterousuniverse.com/blog/>
 
 * **Quantum diaries:**
     Thoughts on work and life from particle physicists from around the world, from 2005 to 2016. <http://www.quantumdiaries.org/>
