@@ -87,7 +87,7 @@ Suggestions for additions and updates are very welcome.[^1]
 # Research Institutions
 
 * **INSPIRE Institutions:**
-    INSPIRE Institutions contains over 11,500 institutes, laboratories, and universities, where research on particle physics and astrophysics is led. Every record includes, whenever possible, as detailed information, such as address, web links, experiments, and links to INSPIRE papers authored by people affiliated to that institution. One can search for a particular institution by name, acronym, and location. The website provides an alphabetical list by country, and a list of the top 500 HEP and astrophysics institutions sorted by country: <http://inspirehep.net/institutions>
+    INSPIRE Institutions contains over 11,500 institutes, laboratories, and universities, where research on particle physics and astrophysics is led. Every record includes, whenever possible, as detailed information, such as address, web links, experiments, and links to INSPIRE papers authored by people affiliated to that institution. One can search for a particular institution by name, acronym, and location. <http://inspirehep.net/institutions>
 
 # People
 
@@ -133,9 +133,6 @@ Most relevant software is hosted by general-purpose repositories like GitHub, Gi
 * **ASCL:**
     The Astrophysics Source Code Library (ASCL) is a free online registry for source codes of interest to astronomers and astrophysicists. It lists codes that have been used in research that has appeared in, or been submitted to, peer-reviewed publications. <http://ascl.net>
 
-* **FreeHEP:**
-    A collection of software and information about software useful in high-energy physics and adjacent disciplines, focusing on open-source software for data analysis and visualization. Searching can be done by title, subject, date acquired, date updated, or by browsing an alphabetical list of all packages. <http://java.freehep.org/>
-
 * **GenSer:**
     The Generator Services project collaborates with Monte Carlo (MC)
     generator authors and with LHC experiments in order to prepare validated LCG compliant code for
@@ -152,7 +149,7 @@ Most relevant software is hosted by general-purpose repositories like GitHub, Gi
 ## Particle Physics Software
 
 * **FastJet:**
-    This is a software package for jet finding in pp and e+e- collisions. It includes fast native implementations of many sequential recombination clustering algorithms, plugins for access to a range of cone jet finders and tools for advanced jet manipulation. <http://fastjet.fr/>
+    This is a software package for jet finding in $pp$ and $e^+e^-$ collisions. It includes fast native implementations of many sequential recombination clustering algorithms, plugins for access to a range of cone jet finders and tools for advanced jet manipulation. <http://fastjet.fr/>
 
 * **GAMBIT:**
     A global fitting code for generic Beyond the Standard Model theories, designed to allow fast and easy definition of new models, observables, likelihoods, scanners and backend physics codes. <http://gambit.hepforge.org>
@@ -174,9 +171,6 @@ Most relevant software is hosted by general-purpose repositories like GitHub, Gi
 
 * **Scikit-HEP:**
     This is a community-driven and community-oriented project with the aim of providing Particle Physics at large with an ecosystem for data analysis in Python. The project started in Autumn 2016 and is under active development. It focuses on providing core and common tools for the community but also on improving the interoperability between HEP tools and the scientific ecosystem in Python as well as the discoverability of utility packages and projects. <http://scikit-hep.org>
-
-* **TMDplotter:**
-    Allows to plot TMDs and PDFs as a function of different variables. <http://tmdplotter.desy.de/>
 
 * **tmLQCD:**
     This freely available software suite provides a set of tools to be used in lattice QCD simulations, mainly a HMC implementation for Wilson and Wilson twisted mass fermions and inverter for different versions of the Dirac operator. <https://github.com/etmc/tmLQCD>
@@ -200,9 +194,6 @@ Most relevant software is hosted by general-purpose repositories like GitHub, Gi
 * **Astropy:**
     The Astropy Project is a community effort to develop a single core package for Astronomy in Python and foster interoperability between Python astronomy packages. <http://www.astropy.org>
 
-* **IRAF:**
-    The Image Reduction and Analysis Facility is a general purpose software system for the reduction and analysis of astronomical data. IRAF is written and supported by the National Optical Astronomy Observatories (NOAO) in Tucson, Arizona. <http://iraf.noao.edu/>
-
 * **Starlink:**
     Starlink was a UK Project supporting astronomical data processing. It was shut down in 2005 but its open-source software continued to be developed at the Joint Astronomy Centre until March 2015. It is currently maintained by the East Asian Observatory. The open-source software products are a collection of applications and libraries, usually focused on a specific aspect of data reduction or analysis. <http://starlink.eao.hawaii.edu/starlink>
 
@@ -215,6 +206,9 @@ Most relevant software is hosted by general-purpose repositories like GitHub, Gi
 
 * **ColliderReach:**
     A tool to give a simple estimate of the relation between the mass reaches of different proton-proton collider configurations. <http://collider-reach.web.cern.ch/>
+
+* **TMDplotter:**
+    Allows to plot TMDs and PDFs as a function of different variables. <http://tmdplotter.desy.de/>
 
 ## Mobile Apps
 
@@ -402,7 +396,7 @@ https://masterclass.icecube.wisc.edu/
 * **PhysicsCentral:**
     This site maintained by the American Physical Society provides information about current research and people in physics, experiments that can be performed at home or at school and the possibility to get physics questions answered by physicists. <http://www.physicscentral.com>
 
-**General Physics Activities**
+## General Physics Activities
 
 * **HyperPhysics:**
     An exploration environment for concepts in physics employing concept maps and other linking strategies and providing opportunities for numerical exploration. <http://hyperphysics.phy-astr.gsu.edu/hbase/hph.html>
