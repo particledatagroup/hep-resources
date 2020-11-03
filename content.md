@@ -376,7 +376,7 @@ A collection of online tests, video lectures, and related course materials from 
 
 * **IceCube Masterclass:**
     The program is inspired by the International Masterclasses program started by IPPOG and is coordinated by the Wisconsin IceCube Particle Astrophysics Center with support from QuarkNet.
-https://masterclass.icecube.wisc.edu/
+<https://masterclass.icecube.wisc.edu/>
 
 ## General Sites
 
@@ -528,7 +528,7 @@ https://masterclass.icecube.wisc.edu/
     Bimonthly magazine about particle physics published by INFN, the Istituto Nazionale di Fisica Nucleare (in Italian). <http://www.asimmetrie.it/>
 
 * **CERN Courier:**
-    * Website: [`https://cernocurier.com`](https://cerncourier.com)
+    * Website: [`https://cerncourier.com`](https://cerncourier.com)
     * Twitter: [`@cerncourier`](https://twitter.com/cerncourier)
 
 * **DESY inForm:**
