@@ -45,7 +45,7 @@
    * [Art in Physics](#art-in-physics)
    * [Blogs and Twitter](#blogs-and-twitter)
 
-<!-- Added by: runner, at: Tue Aug 24 10:13:56 UTC 2021 -->
+<!-- Added by: runner, at: Tue Aug 24 10:22:54 UTC 2021 -->
 
 <!--te-->
 
