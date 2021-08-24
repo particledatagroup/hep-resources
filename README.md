@@ -1,6 +1,52 @@
 # Table of contents
 
 <!--ts-->
+* [Table of contents](#table-of-contents)
+* [Introduction](#introduction)
+* [Particle Data Group (PDG) resources](#particle-data-group-pdg-resources)
+* [Particle Physics Information Platforms](#particle-physics-information-platforms)
+* [Literature Databases](#literature-databases)
+* [Particle Physics Journals and Conference Proceedings Series](#particle-physics-journals-and-conference-proceedings-series)
+* [Conference Databases](#conference-databases)
+* [Research Institutions](#research-institutions)
+* [People](#people)
+* [Experiments](#experiments)
+* [Jobs](#jobs)
+* [Software Packages and Repositories](#software-packages-and-repositories)
+   * [Repositories](#repositories)
+   * [Particle Physics Software](#particle-physics-software)
+      * [General purpose software packages](#general-purpose-software-packages)
+      * [Event generators](#event-generators)
+      * [Generic NLO cross-section and distribution calculators](#generic-nlo-cross-section-and-distribution-calculators)
+      * [PDF and renormalization-group evolution software](#pdf-and-renormalization-group-evolution-software)
+      * [Detector simulation software](#detector-simulation-software)
+      * [Event analysis software](#event-analysis-software)
+      * [Lattice QCD simulation software](#lattice-qcd-simulation-software)
+   * [Astrophysics Software](#astrophysics-software)
+   * [Web Apps](#web-apps)
+   * [Mobile Apps](#mobile-apps)
+* [Data Repositories](#data-repositories)
+   * [Particle Physics](#particle-physics)
+   * [Astrophysics](#astrophysics)
+   * [General Physics](#general-physics)
+* [Data Preservation Activities](#data-preservation-activities)
+   * [Particle Physics](#particle-physics-1)
+   * [Astrophysics](#astrophysics-1)
+* [Particle Physics Education and Outreach Sites](#particle-physics-education-and-outreach-sites)
+   * [Science Educators' Networks](#science-educators-networks)
+   * [Physics Courses](#physics-courses)
+   * [Masterclasses](#masterclasses)
+   * [General Sites](#general-sites)
+   * [General Physics Activities](#general-physics-activities)
+   * [Particle Physics Activities](#particle-physics-activities)
+   * [Lab Education Offices](#lab-education-offices)
+   * [Educational Programs of Experiments](#educational-programs-of-experiments)
+   * [News](#news)
+   * [Art in Physics](#art-in-physics)
+   * [Blogs and Twitter](#blogs-and-twitter)
+
+<!-- Added by: runner, at: Tue Aug 24 10:13:56 UTC 2021 -->
+
 <!--te-->
 
 # Introduction
