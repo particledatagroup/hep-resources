@@ -1,3 +1,8 @@
+# Table of contents
+
+<!--ts-->
+<!--te-->
+
 # Introduction
 
 The collection of online information resources in particle physics and related areas
