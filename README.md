@@ -280,7 +280,7 @@ Most relevant software is hosted by general-purpose repositories like GitHub, Gi
 
 *   [Delphes](https://cp3.irmp.ucl.ac.be/projects/delphes): A C++ framework, performing a fast multipurpose detector response simulation.
 
-*   [FLUKA](http.//www.fluka.org/fluka.php): A fully integrated particle physics MonteCarlo simulation package, with applications in high-energy experimental physics and engineering, shielding, detector and telescope design, cosmic ray studies, dosimetry, medical physics and radio-biology.
+*   [FLUKA](http://www.fluka.org/fluka.php): A fully integrated particle physics MonteCarlo simulation package, with applications in high-energy experimental physics and engineering, shielding, detector and telescope design, cosmic ray studies, dosimetry, medical physics and radio-biology.
 
 *   [Geant4](http://geant4.web.cern.ch/geant4/): Geant4 is a toolkit for the simulation of the passage of particles through matter. Its areas of application include high-energy, nuclear and accelerator physics, as well as studies in medical and space science.
 
