@@ -129,9 +129,6 @@ Any contributions is highly appreciated. There are several options to do so, dep
 * [CERN Journal List](http://library.cern/oa/where-publish):
     This list of journals and conference series publishing particle physics content provides information on Open Access, copyright policies and terms of use for CERN authors.
 
-* [INSPIRE Journals](https://inspirehep.net/journals):
-    The database contains over 3,600 journals publishing HEP-related articles.
-
 # Conference and seminars databases
 
 * [INSPIRE Conferences](https://inspirehep.net/conferences):
@@ -145,12 +142,12 @@ Any contributions is highly appreciated. There are several options to do so, dep
 
 # Research institutions
 
-* [INSPIRE Institutions](http://inspirehep.net/institutions):
+* [INSPIRE Institutions](https://inspirehep.net/institutions):
     INSPIRE Institutions contains over 11,500 institutes, laboratories, and universities, where research on particle physics and astrophysics is led. Every record includes, whenever possible, as detailed information, such as address, web links, experiments, and links to INSPIRE papers authored by people affiliated to that institution. One can search for a particular institution by name, acronym, and location.
 
 # People
 
-* [INSPIRE Authors](http://inspirehep.net/hepnames):
+* [INSPIRE Authors](https://inspirehep.net/authors):
     Searchable worldwide database of over 125,000 active, departed, retired, and deceased people associated with particle physics and related fields. The affiliation history of these researchers, their e-mail addresses, ORCIDs, web pages, experiments they participated in, PhD advisor, information on their graduate students and links to their papers and seminars are provided, as well as a user interface to update this information.
 
 * [ORCID](https://orcid.org):
@@ -158,7 +155,7 @@ Any contributions is highly appreciated. There are several options to do so, dep
 
 # Experiments
 
-* [INSPIRE Experiments](http://inspirehep.net/Experiments):
+* [INSPIRE Experiments](https://inspirehep.net/experiments):
     Contains more than 3,500 past, present, and future experiments in particle physics. It lists and classifies both accelerator and non-accelerator experiments. Includes official experiment name and number, location, and collaboration lists. Simple searches by participant, title, experiment number, institution, date approved, accelerator, or detector, return a description of the experiment, including a complete list of authors, title, overview of the experiment's goals and methods, and a link to the experiment's web page if available. Recently, it has expanded its scope to include particle accelerators besides experiments and to link them together.
 
 
@@ -182,7 +179,7 @@ Any contributions is highly appreciated. There are several options to do so, dep
 * [IOP Careers](http://www.iop.org/careers/):
     Career information and resources primarily aimed at university students are provided by the UK Institute of Physics.
 
-* [INSPIRE HEPJobs](http://inspirehep.net/jobs):
+* [INSPIRE HEPJobs](https://inspirehep.net/jobs):
     Lists academic and research jobs in high energy physics, nuclear physics, accelerator physics and astrophysics with the option to post a job or to receive email notices of new job listings. About 500 jobs are currently listed.
 
 * [Physics Today Jobs](http://www.physicstoday.org/jobs):
@@ -212,9 +209,6 @@ Most relevant software is hosted by general-purpose repositories like GitHub, Gi
 ## Particle physics software
 
 ### General purpose software packages
-
-* [FastJet](http://fastjet.fr/):
-    This is a software package for jet finding in $pp$ and $e^+e^-$ collisions. It includes fast native implementations of many sequential recombination clustering algorithms, plugins for access to a range of cone jet finders and tools for advanced jet manipulation.
 
 * [GAMBIT](http://gambit.hepforge.org):
     A global fitting code for generic Beyond the Standard Model theories, designed to allow fast and easy definition of new models, observables, likelihoods, scanners and backend physics codes.
@@ -264,7 +258,7 @@ Most relevant software is hosted by general-purpose repositories like GitHub, Gi
 
 *   [PYTHIA](http://home.thep.lu.se/~torbjorn/Pythia.html): A multi-purpose particle physics event generator. It contains theory and models for a number of physics aspects, including hard and soft interactions, parton distributions, initial- and final-state parton showers, multiparton interactions, fragmentation and decay.
 
-*   [Sherpa](https://sherpa.hepforge.org/trac/wiki): A multi-purpose particle physics event generator for the Simulation of High-Energy Reactions of PArticles in lepton-lepton, lepton-photon, photon-photon, lepton-hadron and hadron-hadron collisions.
+*   [Sherpa](https://sherpa-team.gitlab.io/): A multi-purpose particle physics event generator for the Simulation of High-Energy Reactions of PArticles in lepton-lepton, lepton-photon, photon-photon, lepton-hadron and hadron-hadron collisions.
 
 ### Generic NLO cross-section and distribution calculators
 
@@ -318,7 +312,7 @@ Most relevant software is hosted by general-purpose repositories like GitHub, Gi
 * [Starlink](http://starlink.eao.hawaii.edu/starlink):
     Starlink was a UK Project supporting astronomical data processing. It was shut down in 2005 but its open-source software continued to be developed at the Joint Astronomy Centre until March 2015. It is currently maintained by the East Asian Observatory. The open-source software products are a collection of applications and libraries, usually focused on a specific aspect of data reduction or analysis.
 
-* Links to a large number of astronomy software archives are listed at: <http://heasarc.nasa.gov/docs/heasarc/astro-update/>
+* Links to a large number of astronomy software archives are listed at: <http://heasarc.gsfc.nasa.gov/docs/heasarc/astro-update/>
 
 ## Web apps
 
@@ -341,9 +335,6 @@ Most relevant software is hosted by general-purpose repositories like GitHub, Gi
 
 * [LHSee](http://www2.physics.ox.ac.uk/about-us/outreach/public/lhsee):
     This smartphone app allows users to see collisions from the Large Hadron Collider.
-
-* [The Particles](http://www.sciencephoto.com/apps/particles.html):
-    App for Apple iPad, Windows 8 and Microsoft Surface. Allows users to browse a wealth of real "event" images and videos, read popular "biographies" of each of the particles and explore the A-Z of particle physics with its details and definitions of key concepts, laboratories and physicists. Developed by Science Photo Library in partnership with Prof. Frank Close.
 
 # Data repositories and preservation
 Data is increasingly deposited in general-purpose repositories like [Zenodo](https://zenodo.org/), [figshare](https://figshare.com/) or the [Open Science Framework](https://osf.io/), but here are a few specific repositories focused on physics.
