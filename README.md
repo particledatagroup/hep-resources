@@ -16,10 +16,11 @@ Any contributions is highly appreciated. There are several options to do so, dep
 # Table of contents
 
 <!--ts-->
+* [Online Particle Physics Information](#online-particle-physics-information)
+* [How to contribute](#how-to-contribute)
 * [Table of contents](#table-of-contents)
-* [Introduction](#introduction)
 * [Particle Data Group (PDG) resources](#particle-data-group-pdg-resources)
-* [Particle physics information platforms](#particle-physics-information-platforms)
+* [Particle physics information platform](#particle-physics-information-platform)
 * [Literature databases](#literature-databases)
 * [Journals](#journals)
 * [Conference and seminars databases](#conference-and-seminars-databases)
@@ -61,7 +62,7 @@ Any contributions is highly appreciated. There are several options to do so, dep
    * [Art in Physics](#art-in-physics)
    * [Blogs and Twitter](#blogs-and-twitter)
 
-<!-- Added by: runner, at: Wed Aug 25 15:45:56 UTC 2021 -->
+<!-- Added by: runner, at: Thu Aug 26 11:54:24 UTC 2021 -->
 
 <!--te-->
 
