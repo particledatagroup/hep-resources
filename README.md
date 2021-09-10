@@ -9,8 +9,8 @@ By contrast, this repository provides an expanded and regularly updated list of 
 # How to contribute
 
 Any contributions is highly appreciated. There are several options to do so, depending on technical familiarity with the tools in use. You can either:
-* [Edit this page](https://github.com/michamos/RPP-online-hep-info/edit/master/README.md) directly and make a Pull Request. Note that this requires some familiarity with the Markdown format and the Github workflow, as well as an account on the platform.
-* [Create an issue](https://github.com/michamos/RPP-online-hep-info/issues/new) to let the maintainers know what needs to be changed. Note that this requires a Github account.
+* [Edit this page](https://github.com/particledatagroup/hep-resources/edit/master/README.md) directly and make a Pull Request. Note that this requires some familiarity with the Markdown format and the Github workflow, as well as an account on the platform.
+* [Create an issue](https://github.com/particledatagroup/hep-resources/issues/new) to let the maintainers know what needs to be changed. Note that this requires a Github account.
 * [Send an email](mailto:micha.moshe.moskovic@cern.ch,sarah.demers@yale.edu?subject=Update%20to%20online%20particle%20physics%20information) to the maintainers.
 
 # Table of contents
