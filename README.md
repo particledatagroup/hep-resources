@@ -69,22 +69,22 @@ Any contributions is highly appreciated. There are several options to do so, dep
 
 # Particle Data Group (PDG) resources
 
-* [Review of Particle Physics (RPP)](http://pdg.lbl.gov):
+* [Review of Particle Physics (RPP)](https://pdg.lbl.gov):
     A comprehensive report on the fields of particle physics and related areas of cosmology and astrophysics, including both review articles and a compilation/evaluation of data on particle properties. The review section includes articles, tables and plots on a wide variety of theoretical and experimental topics of interest to particle physicists and astrophysicists. The particle properties section provides tables of published measurements as well as the Particle Data Group's best values and limits for particle properties such as masses, widths, lifetimes, and branching fractions, as well as an extensive summary of searches for hypothetical particles. RPP is published as a large book every two years, with partial updates made available once each year on the web.
 
-    The printed book can be ordered: <http://pdg.lbl.gov/current/receive_our_products.html>
+    The printed book can be ordered: <https://pdg.lbl.gov/current/receive_our_products.html>
 
-    Of historical interest is the complete RPP collection which can be found online: <http://pdg.lbl.gov/rpp-archive/> <http://library.cern/PDG_publications/review_particle_physics>
+    Of historical interest is the complete RPP collection which can be found online: <https://pdg.lbl.gov/rpp-archive/> <https://scientific-info.cern/search-and-read/online-resources/review-particle-physics>
 
-* [Particle Physics booklet](http://pdg.lbl.gov/current/booklet.pdf):
+* [Particle Physics booklet](https://pdg.lbl.gov/current/booklet.pdf):
     An abridged version of the Review of Particle Physics, available as a pocket-sized 250-page booklet. It is one of the most useful summaries of physics data. The booklet contains an abbreviated set of reviews and the summary tables from the most recent edition of the Review of Particle Physics.
 
-    The printed booklet can be ordered: <http://pdg.lbl.gov/current/receive_our_products.html>
+    The printed booklet can be ordered: <https://pdg.lbl.gov/current/receive_our_products.html>
 
-* [PDGLive](http://pdglive.lbl.gov):
+* [PDGLive](https://pdglive.lbl.gov):
     A web application for browsing the contents of the PDG database that contains the information published in the Review of Particle Physics. It allows one to navigate to a particle of interest, see a summary of the information available, and then proceed to the detailed information published in the Review of Particle Physics. Data entries are directly linked to the corresponding bibliographic information in INSPIRE.
 
-* [Computer-readable files](http://pdg.lbl.gov/current/html/computer_read.html):
+* [Computer-readable files](https://pdg.lbl.gov/current/html/computer_read.html):
     Data files that can be downloaded from the PDG include tables of particle masses and widths, PDG Monte Carlo particle numbers, and cross-section data. The files are updated with each new edition of the Review of Particle Physics.
 
 # Particle physics information platform
@@ -98,7 +98,7 @@ Any contributions is highly appreciated. There are several options to do so, dep
 # Literature databases
 
 * [ADS](http://ads.harvard.edu/):
-    The SAO/NASA Astrophysics Data System is a Digital Library portal offering access to 13 million bibliographic records in Astronomy and Physics.  The ADS search engine also indexes the full-text for approximately four million publications in this collection and tracks citations, which now amount to over 80 million links.  The system also provides access and links to a wealth of external resources, including electronic articles hosted by publishers and arXiv, data catalogs and a variety of data products hosted by the astronomy archives worldwide.  The ADS can be accessed at:
+    The SAO/NASA Astrophysics Data System is a Digital Library portal offering access to 15 million bibliographic records in Astronomy and Physics.  The ADS search engine also indexes the full-text for many publications in this collection and tracks citations.  The system also provides access and links to a wealth of external resources, including electronic articles hosted by publishers and arXiv, data catalogs and a variety of data products hosted by the astronomy archives worldwide.
 
 * [arXiv.org](https://arXiv.org):
     A repository of full-text articles in physics, astronomy, mathematics, computer science, statistics, nonlinear sciences, quantitative finance, quantitative biology, electrical engineering and systems science, and economics. Papers are submitted by registered authors to arXiv, often as preprints in advance of submission to a journal for publication; includes postprints, working papers, and other relevant material. Established in 1991, the repository is interlinked with ADS and INSPIRE, among others. Readers can browse subject categories or search by author, title, abstract, date, and other fields. Receive daily update alerts for subfields by email or RSS.
@@ -109,24 +109,24 @@ Any contributions is highly appreciated. There are several options to do so, dep
 * [CDS](http://cds.cern.ch):
     The CERN Document Server contains records of about 700,000 CERN and non-CERN articles, preprints, theses. It includes records for internal and technical notes, official CERN committee documents, and multimedia objects. CDS is planning to focus on its role as an institutional repository covering all CERN material from the early 50s and reflecting the holdings of the CERN library. Non-CERN particle and accelerator physics content is in the process of being exported to INSPIRE.
 
-* [INSPIRE Literature](https://inspirehep.net):
+* [INSPIRE Literature](https://inspirehep.net/literature):
     The literature collection, the flagship of the INSPIRE suite, serves more than 1.4 million bibliographic records with a growing number of full-text articles attached and metadata including author affiliations, abstracts, references, experiments, keywords as well as links to arXiv, ADS, PDG, HEPData, publisher platforms and other servers. It provides fast metadata searches that can be easily refined using facets, plots extracted from full text, author disambiguation, author profile pages and citation analysis.
 
-* [JACoW](http://www.jacow.org/):
+* [JACoW](https://www.jacow.org/):
     The Joint Accelerator Conference Website publishes the proceedings of several accelerator conferences held around the world. A custom interface allows searching based on keywords, titles, authors, and in the full text.
 
 * [KEK Library Preprints and Reports Database](https://www.i-repository.net/il/meta_pub/engG0000128Lib):
     This database contains bibliographic records of preprints and technical reports held in the KEK library, with links to the full-text images of more than 100,000 papers scanned from their worldwide preprint collection. Particularly useful for older scanned preprints. Links to it are included in INSPIRE HEP.
 
-* [MathSciNet](http://www.ams.org/mathscinet):
-    This database of almost 3 million items provides reviews, abstracts and bibliographic information for much of the mathematical sciences literature. Over 100,000 new items, most of them classified according to the Mathematics Subject Classification, and more than 80,000 reviews of the current published literature are added each year. Author identification allows users to search for publications by author and citation data allows users to track the history and influence of research publications.
+* [MathSciNet](https://www.ams.org/mathscinet):
+    This database of almost 4 million items provides reviews, abstracts and bibliographic information for much of the mathematical sciences literature. Over 100,000 new items, most of them classified according to the Mathematics Subject Classification, and more than 80,000 reviews of the current published literature are added each year. Author identification allows users to search for publications by author and citation data allows users to track the history and influence of research publications.
 
 * [OSTI.GOV](https://www.osti.gov):
     A portal to free, publicly available DOE-sponsored R&D results including technical reports, bibliographic citations, journal articles, conference papers, books, multimedia and data information. It consolidates OSTI’s home page and the now-retired primary search tool SciTech Connect. It contains over 3 million records, including citations to 1.5 million journal articles, 1 million of which have digital object identifiers (DOIs) linking to full-text articles on publishers' websites.
 
 # Journals
 
-* [CERN Journal List](http://library.cern/oa/where-publish):
+* [CERN Journal List](https://library.cern/oa/where-publish):
     This list of journals and conference series publishing particle physics content provides information on Open Access, copyright policies and terms of use for CERN authors.
 
 # Conference and seminars databases
@@ -148,7 +148,7 @@ Any contributions is highly appreciated. There are several options to do so, dep
 # People
 
 * [INSPIRE Authors](https://inspirehep.net/authors):
-    Searchable worldwide database of over 125,000 active, departed, retired, and deceased people associated with particle physics and related fields. The affiliation history of these researchers, their e-mail addresses, ORCIDs, web pages, experiments they participated in, PhD advisor, information on their graduate students and links to their papers and seminars are provided, as well as a user interface to update this information.
+    Searchable worldwide database of more than a hundred thousand active, departed, retired, and deceased people associated with particle physics and related fields. The affiliation history of these researchers, their e-mail addresses, ORCIDs, web pages, experiments they participated in, PhD advisor, information on their graduate students and links to their papers and seminars are provided, as well as a user interface to update this information.
 
 * [ORCID](https://orcid.org):
     Registry providing persistent digital identifiers allowing to unambiguously identify researchers. Through integration in key research workflows such as manuscript and grant submission, it supports automated linkages between scientists and their professional activities ensuring that their work is recognized.
@@ -156,31 +156,33 @@ Any contributions is highly appreciated. There are several options to do so, dep
 # Experiments
 
 * [INSPIRE Experiments](https://inspirehep.net/experiments):
-    Contains more than 3,500 past, present, and future experiments in particle physics. It lists and classifies both accelerator and non-accelerator experiments. Includes official experiment name and number, location, and collaboration lists. Simple searches by participant, title, experiment number, institution, date approved, accelerator, or detector, return a description of the experiment, including a complete list of authors, title, overview of the experiment's goals and methods, and a link to the experiment's web page if available. Recently, it has expanded its scope to include particle accelerators besides experiments and to link them together.
+    Contains more than 3,700 past, present, and future experiments in particle physics. It lists and classifies both accelerator and non-accelerator experiments as well as theory collaborations. Includes official experiment name and number, location, and collaboration lists. Simple searches by participant, title, experiment number, institution, date approved, accelerator, or detector, return a description of the experiment, including a complete list of authors, title, overview of the experiment's goals and methods, and a link to the experiment's web page if available. Recently, it has expanded its scope to include particle accelerators besides experiments and to link them together.
 
 
-* [Cosmic ray/Gamma ray/Neutrino and similar experiments](http://www.mpi-hd.mpg.de/hfm/CosmicRay/CosmicRaySites.html):
+* [Cosmic ray/Gamma ray/Neutrino and similar experiments](https://www.mpi-hd.mpg.de/hfm/CosmicRay/CosmicRaySites.html):
     This extensive collection of experiment websites is organized by focus of study and by location. Additional sections link to educational materials, organizations, and other useful resources. The site is maintained at the Max Planck Institute for Nuclear Physics, Heidelberg.
+
+* [Wikipedia particle experiments](https://en.wikipedia.org/wiki/Category:Particle_experiments) A list of particle experiments with Wikipedia pages.
 
 # Jobs
 
-* [AAS Job Register](http://jobregister.aas.org/):
+* [AAS Job Register](https://jobregister.aas.org/):
     The American Astronomical Society publishes once a month graduate, postgraduate, faculty and other positions mainly in astronomy and astrophysics.
 
 * [Academic Jobs Online](https://academicjobsonline.org/ajo):
     A full-service online recruiting site for academic institutions worldwide in all disciplines and areas.
 
-* [APS Careers](http://www.aps.org/careers/employment):
+* [APS Careers](https://www.aps.org/careers/employment):
     A gateway for physicists, students, and physics enthusiasts to information about physics jobs and careers. It contains Physics job listings, career advice, upcoming workshops and meetings, and career and job-related resources provided by the American Physical Society.
 
-* [brightrecruits.com](http://brightrecruits.com/):
+* [Physicsworld Jobs](https://www.physicsworldjobs.com/):
     A recruitment service run by IOP Publishing that connects employers from different industry sectors with jobseekers who have a background in physics and engineering.
 
-* [IOP Careers](http://www.iop.org/careers/):
+* [IOP Careers](https://www.iop.org/careers-physics/your-future-with-physics):
     Career information and resources primarily aimed at university students are provided by the UK Institute of Physics.
 
-* [INSPIRE HEPJobs](https://inspirehep.net/jobs):
-    Lists academic and research jobs in high energy physics, nuclear physics, accelerator physics and astrophysics with the option to post a job or to receive email notices of new job listings. About 500 jobs are currently listed.
+* [INSPIRE Jobs](https://inspirehep.net/jobs):
+    Lists academic and research jobs in high energy physics, nuclear physics, accelerator physics and astrophysics with the option to post a job or to receive email notices of new job listings. Several hundreds of jobs are listed all year round, with more activity during the application season.
 
 * [Physics Today Jobs](http://www.physicstoday.org/jobs):
     Online recruitment advertising website for Physics Today magazine, published by the American Institute of Physics. Physics Today Jobs is the managing partner of the AIP Career Network, an online job board network for the physical science, engineering, and computing disciplines. Over 6,000 resumes are currently available, and nearly 5,000 jobs were posted in 2018.
@@ -190,10 +192,10 @@ Most relevant software is hosted by general-purpose repositories like GitHub, Gi
 
 ## Repositories
 
-* [ASCL](http://ascl.net):
+* [ASCL](https://ascl.net):
     The Astrophysics Source Code Library (ASCL) is a free online registry for source codes of interest to astronomers and astrophysicists. It lists codes that have been used in research that has appeared in, or been submitted to, peer-reviewed publications.
 
-* [GenSer](http://ep-dep-sft.web.cern.ch/project/generator-service-project-genser):
+* [GenSer](https://ep-dep-sft.web.cern.ch/project/generator-service-project-genser):
     The Generator Services project collaborates with Monte Carlo (MC)
     generator authors and with LHC experiments in order to prepare validated LCG compliant code for
     both theoretical and experimental communities at the LHC, sharing the user support duties,
@@ -201,7 +203,7 @@ Most relevant software is hosted by general-purpose repositories like GitHub, Gi
     the maintenance of the older packages on the LCG supported platforms. The project consists of the
     generators repository, validation, HepMC record and MCDB event databases.
 
-* [Hepforge](http://www.hepforge.org/):
+* [Hepforge](https://www.hepforge.org/):
     A development environment for high-energy physics software projects, in particular housing many event-generator related projects, that offers a ready-made,
     easy-to-use set of web-based tools, including shell account with up-to-date development
     tools, web page hosting, subversion, git and Mercurial code management systems, mailing lists, bug tracker and wiki system.
@@ -210,31 +212,31 @@ Most relevant software is hosted by general-purpose repositories like GitHub, Gi
 
 ### General purpose software packages
 
-* [GAMBIT](http://gambit.hepforge.org):
+* [GAMBIT](https://gambit.hepforge.org):
     A global fitting code for generic Beyond the Standard Model theories, designed to allow fast and easy definition of new models, observables, likelihoods, scanners and backend physics codes.
 
-* [Geant4](http://geant4.web.cern.ch/geant4/):
+* [Geant4](https://geant4.web.cern.ch/geant4/):
     This is a toolkit for the simulation of the passage of particles through matter. Its areas of application include high energy, nuclear and accelerator physics, as well as studies in medical and space science.
 
-* [LHAPDF](http://lhapdf.hepforge.org/):
+* [LHAPDF](https://lhapdf.hepforge.org/):
    HEP community standard library for parton distribution function interpolation, including official collection of PDF data sets.
 
-* [QUDA](http://lattice.github.io/quda/):
+* [QUDA](https://lattice.github.io/quda/):
     Library for performing calculations in lattice QCD on GPUs using NVIDIA's CUDA platform. The current release includes optimized solvers for Wilson, Clover-improved Wilson,Twisted mass, Staggered, Improved staggered, Domain wall and Mobius fermion actions.
 
-* [Rivet](http://rivet.hepforge.org/):
+* [Rivet](https://rivet.hepforge.org/):
     The Rivet toolkit, a system for validation of Monte Carlo event generators, provides a large set of experimental analyses useful for MC generator development, validation, and tuning.
 
-* [ROOT](http://root.cern.ch):
+* [ROOT](https://root.cern):
     This framework for data processing in high-energy physics, born at CERN, offers applications to store, access, process, analyze and represent data or perform simulations.
 
-* [Scikit-HEP](http://scikit-hep.org):
+* [Scikit-HEP](https://scikit-hep.org):
     This is a community-driven and community-oriented project with the aim of providing Particle Physics at large with an ecosystem for data analysis in Python. The project started in Autumn 2016 and is under active development. It focuses on providing core and common tools for the community but also on improving the interoperability between HEP tools and the scientific ecosystem in Python as well as the discoverability of utility packages and projects.
 
 * [tmLQCD](https://github.com/etmc/tmLQCD):
     This freely available software suite provides a set of tools to be used in lattice QCD simulations, mainly a HMC implementation for Wilson and Wilson twisted mass fermions and inverter for different versions of the Dirac operator.
 
-* [USQCD](http://usqcd-software.github.io):
+* [USQCD](https://usqcd-software.github.io):
     The software suite enables lattice QCD computations to be performed with high performance across a variety of architectures. The page contains links to the project web pages of the individual software modules, as well as to complete lattice QCD application packages which use them.
 
 * **Software lists:**
@@ -242,11 +244,10 @@ Most relevant software is hosted by general-purpose repositories like GitHub, Gi
 
     The homepage of the SUSY Les Houches Accord contains links to codes relevant for supersymmetry calculations and phenomenology. <http://skands.physics.monash.edu/slha/>
 
-    A variety of codes and algorithmic tools for analysing supersymmetric phenomenology is described in <http://arxiv.org/abs/0805.2088>
+    A variety of codes and algorithmic tools for analysing supersymmetric phenomenology is described in <https://arxiv.org/abs/0805.2088>
 
-    G. Cowan's list provides links to HEP software, general statistics and data analysis links. <http://www.pp.rhul.ac.uk/~cowan/sda/statlinks.html>
+    G. Cowan's list provides links to HEP software, general statistics and data analysis links. <https://www.pp.rhul.ac.uk/~cowan/sda/statlinks.html>
 
-    An extended list of more specialized HEP-related software can be found in the online version of this review: <http://library.cern/particle_physics_information#sof>
 
 ### Event generators
 
@@ -256,7 +257,7 @@ Most relevant software is hosted by general-purpose repositories like GitHub, Gi
 
 *   [POWHEG](http://powhegbox.mib.infn.it): A framework to match next-to-leading-order calculations with event generators.
 
-*   [PYTHIA](http://home.thep.lu.se/~torbjorn/Pythia.html): A multi-purpose particle physics event generator. It contains theory and models for a number of physics aspects, including hard and soft interactions, parton distributions, initial- and final-state parton showers, multiparton interactions, fragmentation and decay.
+*   [PYTHIA](http://pythia.org): A multi-purpose particle physics event generator. It contains theory and models for a number of physics aspects, including hard and soft interactions, parton distributions, initial- and final-state parton showers, multiparton interactions, fragmentation and decay.
 
 *   [Sherpa](https://sherpa-team.gitlab.io/): A multi-purpose particle physics event generator for the Simulation of High-Energy Reactions of PArticles in lepton-lepton, lepton-photon, photon-photon, lepton-hadron and hadron-hadron collisions.
 
@@ -266,15 +267,15 @@ Most relevant software is hosted by general-purpose repositories like GitHub, Gi
 
 *   [MCFM](https://mcfm.fnal.gov): MCFM (Monte carlo for FeMtobarn processes) is a program designed to calculate cross-sections for various femtobarn-level processes at hadron-hadron colliders.
 
-*   [OpenLoops](http://openloops.hepforge.org): A fully automated implementation for fast numerical evaluation of tree and one-loop matrix elements for any Standard Model process.
+*   [OpenLoops](https://openloops.hepforge.org): A fully automated implementation for fast numerical evaluation of tree and one-loop matrix elements for any Standard Model process.
 
 ### PDF and renormalization-group evolution software
 
-*   [APFEL](http://apfel.hepforge.org): A library for performing DGLAP evolution up to next-to-next-to-leading-order in QCD and leading-order in QED, both with pole and <span style="text-decoration:overline">MS</span> masses.
+*   [APFEL](https://apfel.hepforge.org): A library for performing DGLAP evolution up to next-to-next-to-leading-order in QCD and leading-order in QED, both with pole and <span style="text-decoration:overline">MS</span> masses.
 
-*   [HOPPET](http://hoppet.hepforge.org): A Fortran 95 package for carrying out QCD DGLAP evolution and other common manipulations of parton distribution functions (PDFs).
+*   [HOPPET](https://hoppet.hepforge.org): A Fortran 95 package for carrying out QCD DGLAP evolution and other common manipulations of parton distribution functions (PDFs).
 
-*   [LHAPDF](http://lhapdf.hepforge.org): HEP community standard library for parton distribution function evolution and querying, including official collection of PDF data sets.
+*   [LHAPDF](https://lhapdf.hepforge.org): HEP community standard library for parton distribution function evolution and querying, including official collection of PDF data sets.
 
 *   [TMDPlotter](http://tmdplotter.desy.de): Allows to plot TMDs and PDFs as a function of different variables.
 
@@ -288,31 +289,31 @@ Most relevant software is hosted by general-purpose repositories like GitHub, Gi
 
 *   [FLUKA](http://www.fluka.org/fluka.php): A fully integrated particle physics MonteCarlo simulation package, with applications in high-energy experimental physics and engineering, shielding, detector and telescope design, cosmic ray studies, dosimetry, medical physics and radio-biology.
 
-*   [Geant4](http://geant4.web.cern.ch/geant4/): Geant4 is a toolkit for the simulation of the passage of particles through matter. Its areas of application include high-energy, nuclear and accelerator physics, as well as studies in medical and space science.
+*   [Geant4](https://geant4.web.cern.ch/geant4/): Geant4 is a toolkit for the simulation of the passage of particles through matter. Its areas of application include high-energy, nuclear and accelerator physics, as well as studies in medical and space science.
 
 ### Event analysis software
 
 *   [FastJet](http://fastjet.fr): FastJet is a software package for jet finding in pp and e+e- collisions. It includes fast native implementations of many sequential recombination clustering algorithms, plugins for access to a range of cone jet finders and tools for advanced jet manipulation.
 
-*   [Rivet](http://rivet.hepforge.org): The Rivet toolkit, a system for validation of Monte Carlo event generators, provides a large set of experimental analyses useful for MC generator development, validation, and tuning.
+*   [Rivet](https://rivet.hepforge.org): The Rivet toolkit, a system for validation of Monte Carlo event generators, provides a large set of experimental analyses useful for MC generator development, validation, and tuning.
 
 ### Lattice QCD simulation software
 
 *   [tmLQCD](https://github.com/etmc/tmLQCD): This freely available software suite provides a set of tools to be used in lattice QCD simulations, mainly a HMC implementation for Wilson and Wilson twisted mass fermions and inverter for different versions of the Dirac operator.
 
-*   [QUDA](http://lattice.github.io/quda/): Library for performing calculations in lattice QCD on GPUs using NVIDIA's CUDA platform. The current release includes optimized solvers for Wilson, Clover-improved Wilson,Twisted mass, Staggered, Improved staggered, Domain wall and Mobius fermion actions.
+*   [QUDA](https://lattice.github.io/quda/): Library for performing calculations in lattice QCD on GPUs using NVIDIA's CUDA platform. The current release includes optimized solvers for Wilson, Clover-improved Wilson,Twisted mass, Staggered, Improved staggered, Domain wall and Mobius fermion actions.
 
-*   [USQCD](http://usqcd-software.github.io): The software suite enables lattice QCD computations to be performed with high performance across a variety of architectures. The page contains links to the project web pages of the individual software modules, as well as to complete lattice QCD application packages which use them.
+*   [USQCD](https://usqcd-software.github.io): The software suite enables lattice QCD computations to be performed with high performance across a variety of architectures. The page contains links to the project web pages of the individual software modules, as well as to complete lattice QCD application packages which use them.
 
 ## Astrophysics software
 
-* [Astropy](http://www.astropy.org):
+* [Astropy](https://www.astropy.org):
     The Astropy Project is a community effort to develop a single core package for Astronomy in Python and foster interoperability between Python astronomy packages.
 
-* [Starlink](http://starlink.eao.hawaii.edu/starlink):
+* [Starlink](https://starlink.eao.hawaii.edu/starlink):
     Starlink was a UK Project supporting astronomical data processing. It was shut down in 2005 but its open-source software continued to be developed at the Joint Astronomy Centre until March 2015. It is currently maintained by the East Asian Observatory. The open-source software products are a collection of applications and libraries, usually focused on a specific aspect of data reduction or analysis.
 
-* Links to a large number of astronomy software archives are listed at: <http://heasarc.gsfc.nasa.gov/docs/heasarc/astro-update/>
+* Links to a large number of astronomy software archives are listed at: <https://heasarc.gsfc.nasa.gov/docs/heasarc/astro-update/>
 
 ## Web apps
 
@@ -348,17 +349,14 @@ Data is increasingly deposited in general-purpose repositories like [Zenodo](htt
 It currently comprises the data points from plots and tables related to several thousand publications including those from the LHC.
 The data from HEPData can also be accessed through INSPIRE. A new enhanced service was recently developed in collaboration with CERN.
 
-* [CERN Open Data](http://opendata.cern.ch):
+* [CERN Open Data](https://opendata.cern.ch):
     The CERN Open Data portal provides data from real collision events, as well as simulated and simplified datasets, produced by the experiments at the LHC, virtual machines to reproduce the analysis environment, and software to process the data. It serves over 2 PB of data in total and encourages their use for both educational and research purposes.
 
-* [HepSim](http://atlaswww.hep.anl.gov/hepsim/):
+* [HepSim](https://atlaswww.hep.anl.gov/hepsim/):
     A repository with Monte Carlo simulations for particle-collision experiments. It contains predictions from parton shower models and includes Monte Carlo events after fast and full detector simulations and event reconstruction.
 
-* [ILDG](http://www.usqcd.org/ildg/):
+* [ILDG](http://plone.jldg.org):
     The International Lattice Data Grid is an international organization which provides standards, services, methods and tools that facilitate the sharing and interchange of lattice QCD gauge configurations among scientific collaborations by uniting their regional data grids. It offers semantic access with local tools to worldwide distributed data.
-
-* [MCDB - Monte Carlo Database](http://mcdb.cern.ch/):
-    This central database of MC events aims to facilitate communication between Monte-Carlo experts and users of event samples in LHC collaborations. Having these events stored in a public place along with the corresponding documentation allows for direct cross checks of the performances on reference samples.
 
 * [MCPLOTS](http://mcplots.cern.ch/):
     MCPLOTS is a repository of Monte Carlo plots comparing High Energy Physics event generators to a wide variety of available experimental data. The website is supported by the LHC Physics Centre at CERN.
@@ -368,27 +366,27 @@ The data from HEPData can also be accessed through INSPIRE. A new enhanced servi
 * [CfA Dataverse](https://dataverse.harvard.edu/dataverse/cfa):
     This astronomy data repository at Harvard is open to all scientific data from astronomical institutions worldwide.
 
-* [NASA's HEASARC](http://heasarc.gsfc.nasa.gov/):
+* [NASA's HEASARC](https://heasarc.gsfc.nasa.gov/):
     The High Energy Astrophysics Science Archive Research Center (HEASARC) is the primary archive for NASA's (and other space agencies') missions dealing with electromagnetic radiation from extremely energetic phenomena ranging from black holes to the Big Bang.
 
 * **NASA archives:**
     The NASA archives provide access to raw and processed datasets from numerous NASA missions.
 
-    Mikulski Archive for Space Telescopes (MAST): Hubble telescope, other missions (UV, optical): <http://archive.stsci.edu/>
+    [Mikulski Archive for Space Telescopes (MAST)](https://archive.stsci.edu/): Hubble telescope, other missions (UV, optical).
 
-    NASA/IPAC Infrared Science Archive: Spitzer, Herschel, Planck telescope, other missions: <http://irsa.ipac.caltech.edu/>
+    [NASA/IPAC Infrared Science Archive](https://irsa.ipac.caltech.edu/): Spitzer, Herschel, Planck telescope, other mission
 
-* [NASA/IPAC Extragalactic Database (NED)](http://ned.ipac.caltech.edu/):
+* [NASA/IPAC Extragalactic Database (NED)](https://ned.ipac.caltech.edu/):
     An astronomical database that collates and cross-correlates information on extragalactic objects. It contains their positions, basic data, and names as well as bibliographic references to published papers, and notes from catalogs and other publications. NED supports searches for objects and references, and offers browsing capabilities for abstracts of articles of extragalactic interest.
 
 * [NASA Astronomical Virtual Observatories](https://heasarc.gsfc.nasa.gov/vo/summary/): A major priority for NASA is making its astronomy holdings available through standard interfaces to the science community. These pages describe the work of the NASA Astronomical Virtual Observatories (NAVO), a collaboration of NASA's astronomy archives, who have developed a comprehensive model for distributing data through standardized machine-queryable interfaces.
 
-* [SIMBAD](http://simbad.u-strasbg.fr/simbad/):
+* [SIMBAD](https://simbad.u-strasbg.fr/simbad/):
     The SIMBAD astronomical database provides basic data, cross-identifications, bibliography and measurements for astronomical objects outside the solar system. It can be queried by object name, coordinates and various criteria. Lists of objects and scripts can be submitted.
 
 * [Virtual Solar Observatory](http://sdac.virtualsolar.org/cgi/search): Search for Solar Physics Data Products
 
-* [VizieR](http://vizier.u-strasbg.fr/):
+* [VizieR](https://vizier.u-strasbg.fr/):
     VizieR provides access to the most complete library of published astronomical catalogues and data tables, available online organized in a self-documented database. Query tools allow users to select relevant data tables and extract and format records matching given criteria. Currently, more than 19,000 catalogues are available.
 
 ### General physics
@@ -396,7 +394,7 @@ The data from HEPData can also be accessed through INSPIRE. A new enhanced servi
 * [NIST Physical Measurement Laboratory](https://www.nist.gov/pml/):
     The National Institute of Standards and Technology provides access to physical reference data (physical constants, atomic spectroscopy data, x-ray and gamma-ray data, radiation dosimetry data, nuclear physics data and more) and measurements and calibrations data (dimensional and electromagnetic measurements).
 
-* [Springer Materials  - The Landolt-Börnstein Database](http://materials.springer.com):
+* [Springer Materials  - The Landolt-Börnstein Database](https://materials.springer.com):
     Landolt-Börnstein is a data collection covering all areas of physical sciences and engineering, such as particle physics, electronic structure and transport, magnetism, superconductivity. International experts scan the primary literature in more than 8,000 peer-reviewed journals and evaluate and select the most valid information to be included in the database. It includes more than 130,000 online documents, 1,2 million references, and covers 250,000 chemical substances. SpringerMaterials Interactive allows to visualise and analyse data.
     The search functionality is freely accessible and the search results are displayed in their context, whereas the full text is secured to subscribers.
 
@@ -410,13 +408,13 @@ The data from HEPData can also be accessed through INSPIRE. A new enhanced servi
 * [DASPOS](https://daspos.crc.nd.edu):
     A collective effort to explore the realisation of a viable data, software and algorithm preservation architecture in High Energy Physics
 
-* [DPHEP](http://dphep.org):
+* [DPHEP](https://dphep.web.cern.ch):
     DPHEP coordinates the efforts to define and implement Data Preservation and Long Term Analysis in HEP. DPHEP, which was initiated as a study group in 2008-2009, includes all major HEP experiments and labs. In 2014, it has become a Collaboration through the signature of a Collaboration Agreement by a number of large funding agencies.
     The group is endorsed by the International Committee for Future Accelerators (ICFA).
 
     DPHEP regularly organizes workshops, creates status reports, and maintains links with similar activities in other disciplines. Details of the organizational structure, the objectives, workshops and publications can be found on the website.
 
-* [REANA](http://reanahub.io/):
+* [REANA](https://reanahub.io/):
     REANA (REusable ANAlyses) is a system for instantiating research data analyses on the cloud using container-based solutions. It complements CERN Analysis Preservation permitting the reuse and revalidation of preserved analyses. It is being developed in close collaboration with DASPOS and RECAST.
 
 * [RECAST](https://recast.cern.ch):
@@ -427,21 +425,21 @@ The data from HEPData can also be accessed through INSPIRE. A new enhanced servi
 More formal and advanced data preservation activity is ongoing in the field of Experimental Astrophysics, including:
 
 * Fermi Data <https://fermi.gsfc.nasa.gov/ssc/data>
-* IVOA (International Virtual Observatory Alliance) <http://www.ivoa.net/astronomers/applications.html>
+* IVOA (International Virtual Observatory Alliance) <https://www.ivoa.net/astronomers/applications.html>
 * GWOSC (Gravitational Wave Open Science Center) <https://www.gw-openscience.org/about/>
-* PLA (Planck Legacy Archive)  <http://pla.esac.esa.int/pla/>
-* SDSS (Sloan Digital Sky Survey) <http://sdss.org>
+* PLA (Planck Legacy Archive)  <https://pla.esac.esa.int/pla/>
+* SDSS (Sloan Digital Sky Survey) <https://sdss.org>
 
 # Particle physics education and outreach sites
 
-A useful list of resources can also be found at <http://www.stfc.ac.uk/research/particle-physics-and-particle-astrophysics/particle-physics-resources/>
+A useful list of resources can also be found at <https://www.stfc.ac.uk/research/particle-physics-and-particle-astrophysics/particle-physics-resources/>
 
 ## Science Educators' Networks
 
-* [IPPOG](http://ippog.web.cern.ch):
+* [IPPOG](https://ippog.org):
     The International Particle Physics Outreach Group is a network of scientists, science educators and communication specialists working across the globe in informal science education and outreach for particle physics. The IPPOG collaboration comprises 30 members: 24 countries, 5 experiments and CERN as an international laboratory.
 
-* [Interactions.org](http://www.interactions.org):
+* [Interactions.org](https://www.interactions.org):
     Designed to serve as a central resource for communicators of particle physics. The daily updated website provides links to current particle physics news from the world's press, high-resolution photos and graphics from the particle physics laboratories of the world; links to education and outreach programs; information about science policy and funding; a glossary; and links to many educational sites.
 
 * [QuarkNet](https://quarknet.org/):
@@ -452,10 +450,10 @@ A useful list of resources can also be found at <http://www.stfc.ac.uk/research/
 
 ## Physics Courses
 
-* [MIT OpenCourseWare - Physics](http://ocw.mit.edu/courses/physics/):
+* [MIT OpenCourseWare - Physics](https://ocw.mit.edu/courses/physics/):
 These MIT course materials reflect almost all the undergraduate and graduate subjects taught at MIT. In addition to physics courses, supplementary educational resources are also available.
 
-* [OnlineCourses.com](http://www.onlinecourses.com/physics/):
+* [OnlineCourses.com](https://www.onlinecourses.com/physics/):
 A collection of online tests, video lectures, and related course materials from mostly prestigious universities around the world.
 
 ## Masterclasses
