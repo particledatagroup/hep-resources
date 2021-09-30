@@ -15,7 +15,7 @@ jobs:
     - name: check link uniqueness
       if: always()
       run: |
-        DUPLICATES="sed  -rn "s/.*[(<](https?[^)>]*).*/\1/p" README.md | sort | uniq -cd"
+        DUPLICATES=$(sed  -rn "s/.*[(<](https?[^)>]*).*/\1/p" README.md | sort | uniq -cd)
         if [[ $DUPLICATES ]]
         then
           echo "Found duplicate links:"
