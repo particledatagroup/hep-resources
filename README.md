@@ -62,7 +62,7 @@ Any contributions are highly appreciated. There are several options to do so, de
    * [Art in Physics](#art-in-physics)
    * [Blogs and Twitter](#blogs-and-twitter)
 
-<!-- Added by: runner, at: Thu Sep 30 15:55:26 UTC 2021 -->
+<!-- Added by: runner, at: Fri Oct  1 18:56:55 UTC 2021 -->
 
 <!--te-->
 
