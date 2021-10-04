@@ -6,6 +6,10 @@ introduction to online resources as part of the [Review of Particle Physics](htt
 
 By contrast, this repository provides an expanded and regularly updated list of resources. It is meant to be inclusive and catalog all useful resources related to particle physics. The community is warmly invited to contribute in order to ensure a broad and up to date coverage of relevant resources.
 
+:warning: Inclusion of a resource on this list does neither imply endorsement 
+by the PDG nor future inclusion in the curated introduction published in 
+the Review of Particle Physics.
+
 # How to contribute
 
 Any contributions are highly appreciated. There are several options to do so, depending on technical familiarity with the tools in use. You can either:
