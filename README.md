@@ -130,7 +130,9 @@ Any contributions are highly appreciated. There are several options to do so, de
 
 # Journals
 
-* [CERN Journal List](https://library.cern/oa/where-publish):
+* [SCOAP³](https://scoap3.org/phase3-journals/):
+    A list of journals currently financed by the SCOAP³ consortium. All HEP publications in those journals are made freely available under Open Access conditions at no cost for the authors.
+* [CERN Journal List](https://scientific-info.cern/submit-and-publish/publish-open-access):
     This list of journals and conference series publishing particle physics content provides information on Open Access, copyright policies and terms of use for CERN authors.
 
 # Conference and seminars databases
