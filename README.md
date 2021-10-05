@@ -246,8 +246,6 @@ Most relevant software is hosted by general-purpose repositories like GitHub, Gi
     The software suite enables lattice QCD computations to be performed with high performance across a variety of architectures. The page contains links to the project web pages of the individual software modules, as well as to complete lattice QCD application packages which use them.
 
 * **Software lists:**
-    A list of Monte Carlo generators may be found at: <http://cmsdoc.cern.ch/cms/PRS/gentools/www/geners/collection/>
-
     The homepage of the SUSY Les Houches Accord contains links to codes relevant for supersymmetry calculations and phenomenology. <http://skands.physics.monash.edu/slha/>
 
     A variety of codes and algorithmic tools for analysing supersymmetric phenomenology is described in <https://arxiv.org/abs/0805.2088>
