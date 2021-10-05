@@ -66,7 +66,7 @@ Any contributions are highly appreciated. There are several options to do so, de
    * [Art in Physics](#art-in-physics)
    * [Blogs and Twitter](#blogs-and-twitter)
 
-<!-- Added by: runner, at: Mon Oct  4 10:04:12 UTC 2021 -->
+<!-- Added by: runner, at: Tue Oct  5 15:34:50 UTC 2021 -->
 
 <!--te-->
 
