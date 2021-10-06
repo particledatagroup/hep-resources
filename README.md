@@ -711,18 +711,9 @@ a body of work, leading to presentations in the community and possibly an exhibi
 
 ## Blogs and Twitter
 
-Lists of active blogs and tweets can be found on INSPIRE:
+A list of Experiments that have noted their twitter accounts on INSPIRE can be found here:
 
-* [Scientist blogs](http://tinyurl.com/nmku27s)
-
-
-* [Scientists with twitter accounts](http://tinyurl.com/nrg5k63)
-
-
-* [Experiments with twitter accounts](http://tinyurl.com/q86kma8)
-
-
-* [Institutions with twitter accounts](http://tinyurl.com/mzcm3nw)
+* [Experiments with twitter accounts](https://inspirehep.net/experiments?sort=mostrecent&size=25&page=1&q=urls.description%3ATWITTER)
 
 
 List of physicists on Twitter at TrueSciPhi: <http://truesciphi.org/phy.html>
