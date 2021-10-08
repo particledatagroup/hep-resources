@@ -436,7 +436,7 @@ More formal and advanced data preservation activity is ongoing in the field of E
 
 # Particle physics education and outreach sites
 
-A useful list of resources can also be found at <https://www.stfc.ac.uk/research/particle-physics-and-particle-astrophysics/particle-physics-resources/>
+A useful list of resources can also be found at <https://stfc.ukri.org/research/particle-physics-and-particle-astrophysics/particle-physics-resources/>
 
 ## Science Educators' Networks
 
@@ -482,11 +482,11 @@ A collection of online tests, video lectures, and related course materials from 
 * **LHC physics Masterclasses:**
     Lectures from active scientists give insight into methods of basic research, enabling the students to perform measurements on real data from LHC experiments. Like in a real research collaboration, the participants then discuss their results and compare with expectations.
 
-    <http://cms.web.cern.ch/content/cms-physics-masterclass>
+    <https://cms.cern/interact-with-cms/cms-physics-masterclass>
 
     <http://lhcb-public.web.cern.ch/lhcb-public/en/LHCb-outreach/masterclasses/en>
 
-    <http://alice.physicsmasterclasses.org/MasterClassWebpage.html>
+    <https://www.physicsmasterclasses.org/index.php?cat=physics&page=alice>
 
     <http://atlas-minerva.web.cern.ch/atlas-minerva>
 
@@ -535,7 +535,6 @@ A collection of online tests, video lectures, and related course materials from 
 **Interactive Sites**
 
 * [CAMELIA](https://www.atlasexperiment.org/camelia.html): CAMELIA (Cross-platform Atlas Multimedia Educational Lab for Interactive Analysis) is a discovery tool for the general public, based on computer gaming technology.
-* [CERNland](http://www.cernland.net/): With a range of games, multimedia applications and films CERNland is a virtual theme park developed to bring the excitement of CERN’s research to a young audience aged between 7 and 12. CERNland is designed to show children what is being done at CERN and inspire them with some physics.
 * [In particular](https://inparticular.web.cern.ch/): Podcast and more about physics and the process of discovering physics at the ATLAS experiment.
 * [Lancaster Particle Physics](http://www.lppp.lancs.ac.uk/): Suitable for 16+ students, this site offers a number of simulations and explanations of particle physics, including a section on the LHC.
 * [Quarked!](http://www.quarked.org/): Adventures in the Subatomic Universe: This project, targeted to kids aged 7-12 (and their families), brings subatomic physics to life through a multimedia project including an interactive website, a facilitated program for museums and schools, and an educational outreach program.
@@ -566,7 +565,7 @@ A collection of online tests, video lectures, and related course materials from 
     The Office of Educational Programs mission is to design, develop, implement, and facilitate workforce development and education initiatives that support the scientific mission at Brookhaven National Laboratory and the Department of Energy.
 
 * [CERN's education programmes](https://home.cern/about/what-we-do/our-educational-programmes):
-    CERN’s education and outreach programmes cover all ages from high-school students to university students. Specifically, CERN offers the tailor-made High-School Students Internship Programme several times per year and the Beamline for Schools Competition, challenging high-school students from around the world to propose an experiment to carry out at a real research laboratory. The Laboratory also runs residential programmes for high-school teachers from around the world and a summer programme for undergraduate students.
+    CERN’s education and outreach programs cover all ages from high-school students to university students. Specifically, CERN offers the tailor-made High-School Students Internship Programme several times per year and the Beamline for Schools Competition, challenging high-school students from around the world to propose an experiment to carry out at a real research laboratory. The Laboratory also runs residential programmes for high-school teachers from around the world and a summer programme for undergraduate students.
 
 * [DESY Education](https://fortbildung.desy.de/index_eng.html):
     DESY Hamburg offers a regular series of public lectures and the DESY Science Café for young and old alike.
@@ -576,7 +575,7 @@ A collection of online tests, video lectures, and related course materials from 
 
 
 * [Fermilab Office of Education and Public Outreach](http://ed.fnal.gov/):
-    Provides  education resources and information about activities for 's, physicists, students and visitors to the Lab. In addition to information about 25 programs, the website provides online data-based investigations for high school students, online versions of exhibits in the Lederman Science Center, links to particle physics discovery resources, web-based instructional resources, tips for education and outreach, and links to the Lederman Science Center and the Teacher Resource Center.
+    Provides  education resources and information about activities for educators, physicists, students and visitors to the Lab. In addition to information about 25 programs, the website provides online data-based investigations for high school students, online versions of exhibits in the Lederman Science Center, links to particle physics discovery resources, web-based instructional resources, tips for education and outreach, and links to the Lederman Science Center and the Teacher Resource Center.
 
 * [Perimeter Institute Outreach](https://www.perimeterinstitute.ca/outreach):
     Perimeter Institute shares ideas with students, teachers, and like-minded people through programs and resources that communicate the power, joy, and mystery of science. Perimeter’s award-winning Outreach team brings science to life and raises scientific literacy through classroom resources, public lectures, teacher workshops, an educator network, and a summer school where students interact with Perimeter researchers.
@@ -594,7 +593,7 @@ A collection of online tests, video lectures, and related course materials from 
     The Lab offers pupils the opportunity to approach the fascinating world of Physics and Science in general through stages, summer schools and training camps. It makes young researchers’ skills and competences available to people both in public events, such as the Open Day and the European Researchers’ Night, and in guided tours to visit the underground experimental halls.
 
 * [Lawrence Berkeley National Laboratory (LBNL) Workforce Development and Education](https://education.lbl.gov/):
-    Working with our partners both within and outside Berkeley Lab, LBNL promotes equal access to scientific and technical careers for students from all backgrounds, supports STEM teachers, and build sscientific literacy through innovative education programs. The lab also supports educational outreach efforts from Berkeley Lab’s divisions by providing program development assistance, materials, funding, volunteers, project management, marketing, and administrative support.
+    Working with our partners both within and outside Berkeley Lab, LBNL promotes equal access to scientific and technical careers for students from all backgrounds, supports STEM teachers, and build scientific literacy through innovative education programs. The lab also supports educational outreach efforts from Berkeley Lab’s divisions by providing program development assistance, materials, funding, volunteers, project management, marketing, and administrative support.
 
 * [Sanford Underground Research Facility Education and Outreach](https://sanfordlab.org/educators):
     Leveraging research being conducted underground at Sanford Lab, staff provide training, teaching tools and materials for teachers so they can inspire and challenge students.
@@ -634,7 +633,7 @@ A collection of online tests, video lectures, and related course materials from 
 * [VIRGO Educational Resources](http://public.virgo-gw.eu/educational-resources/):
     Useful resources (websites, texts, videos) for teachers and students related to gravitational waves and the interferometers like Virgo.
 
-* [Pierre Auger Observatory's Educational Pages](https://www.auger.org/index.php/edu-outreach):
+* [Pierre Auger Observatory's Educational Pages](https://www.auger.org/outreach/malargue/edu-outreach):
     The site offers information about cosmic rays and their detection, and provides material for students and teachers.
 
 ## News
@@ -676,7 +675,7 @@ A collection of online tests, video lectures, and related course materials from 
 
 * **Sandford News and Events:**
     * Website: [`https://sanfordlab.org/news-and-events`](https://sanfordlab.org/news-and-events)
-    * Twitter: [`@SanforLab`](https://twitter.com/SanfordLab)
+    * Twitter: [`@SanfordLab`](https://twitter.com/SanfordLab)
 
 * [SLAC Signals](http://eepurl.com/IqPl1):
     This email newsletter reports about cutting-edge science, major SLAC milestones and other lab information. It has replaced SLAC Today in November 2013.
