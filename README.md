@@ -64,9 +64,9 @@ Any contributions are highly appreciated. There are several options to do so, de
    * [Educational Programs of Experiments](#educational-programs-of-experiments)
    * [News](#news)
    * [Art in Physics](#art-in-physics)
-   * [Blogs and Twitter](#blogs-and-twitter)
+   * [Social Media](#social-media)
 
-<!-- Added by: runner, at: Wed Oct  6 09:19:26 UTC 2021 -->
+<!-- Added by: runner, at: Fri Oct  8 09:29:19 UTC 2021 -->
 
 <!--te-->
 
