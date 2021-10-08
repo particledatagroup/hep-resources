@@ -709,39 +709,13 @@ a body of work, leading to presentations in the community and possibly an exhibi
 * [TRIUMF Science through Art](https://www.triumf.ca/science-through-art):
     TRIUMF's Science through Art initiatives explore the space where art and science collide. These programs bring artists and TRIUMF researchers, engineers, technicians, tradespeople, and students together to explore new ways of thinking about science, discovery, creativity, and our universe.
 
-## Blogs and Twitter
+## Social Media
 
-A list of Experiments that have noted their twitter accounts on INSPIRE can be found here:
+Many particle physics institutions and collaborations have a presence on social media, with Facebook, Twitter, and Instagram as particularly popular. These resources are typically  used to communicate with the general public, but some of the highlighting of results and communications target physicists as an audience.  
 
-* [Experiments with twitter accounts](https://inspirehep.net/experiments?sort=mostrecent&size=25&page=1&q=urls.description%3ATWITTER)
+List of Experiments that have noted their twitter accounts on INSPIRE can be found here:  https://inspirehep.net/experiments?sort=mostrecent&size=25&page=1&q=urls.description%3ATWITTER
 
 
 List of physicists on Twitter at TrueSciPhi: <http://truesciphi.org/phy.html>
 
-Some selected particle physics related blogs:
 
-* [ATLAS blog](https://atlas.cern/updates/blog)
-
-* [Life and Physics](http://www.guardian.co.uk/science/life-and-physics):
-    Jon Butterworth's blog in the Guardian.
-
-* [Of Particular Significance](http://profmattstrassler.com/):
-    Conversations about science, with a current focus on particle physics, with theoretical physicist Matt Strassler.
-
-* [Particle People](http://www.interactions.org/particle-people):
-    This interactions.org page highlights a new blogger involved in particle physics research each month.
-
-* [Preposterous Universe](https://www.preposterousuniverse.com/blog/):
-    Theoretical physicist Sean Carroll's blog.
-
-* [Quantum diaries](http://www.quantumdiaries.org/):
-    Thoughts on work and life from particle physicists from around the world, from 2005 to 2016.
-
-* [Quantum diaries survivor](https://www.science20.com/quantum_diaries_survivor):
-    Experimental particle physicist Tommaso Dorigo's blog.
-
-* [Science blogs](http://scienceblogs.com/channel/physical-science/):
-    Launched in January 2006, ScienceBlogs features bloggers from a wide array of scientific disciplines, including physics.
-
-* [AstroBetter](https://www.astrobetter.com/):
-    Blog with tips and tricks for professional astronomers.
