@@ -338,8 +338,6 @@ Most relevant software is hosted by general-purpose repositories like GitHub, Gi
 * [Collider](http://collider.physics.ox.ac.uk/):
     This mobile app allows users to see data from the ATLAS experiment at the LHC.
 
-* [LHSee](http://www2.physics.ox.ac.uk/about-us/outreach/public/lhsee):
-    This smartphone app allows users to see collisions from the Large Hadron Collider.
 
 # Data repositories and preservation
 Data is increasingly deposited in general-purpose repositories like [Zenodo](https://zenodo.org/), [figshare](https://figshare.com/) or the [Open Science Framework](https://osf.io/), but here are a few specific repositories focused on physics.
