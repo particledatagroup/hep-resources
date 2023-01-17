@@ -667,6 +667,9 @@ A collection of online tests, video lectures, and related course materials from 
 
     * Twitter: [`@particlenews`](https://twitter.com/particlenews)
 
+* [ParticleBites](https://www.particlebites.com/) and [AstroBites](https://astrobites.org/):
+    Websites run by graduate students hosting daily summaries of recent particle physics and astrophysics research papers, as well as additional educational materials and guidance on navigating the fields.
+
 * **Perimeter Institute News:**
     * Website: [`https://www.perimeterinstitute.ca/news`](https://www.perimeterinstitute.ca/news)
     * Twitter: [`@perimeter`](https://twitter.com/perimeter)
