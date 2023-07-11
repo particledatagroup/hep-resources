@@ -79,7 +79,9 @@ Any contributions are highly appreciated. There are several options to do so, de
 
     The printed book can be ordered: <https://pdg.lbl.gov/current/receive_our_products.html>
 
-    Of historical interest is the complete RPP collection which can be found online: <https://pdg.lbl.gov/rpp-archive/> <https://scientific-info.cern/search-and-read/online-resources/review-particle-physics>
+    Of historical interest is the complete RPP collection which can be found online: 
+    <https://pdg.lbl.gov/rpp-archive/> and 
+    <https://scientific-info.cern/search-and-read/online-resources/review-particle-physics>
 
 * [Particle Physics booklet](https://pdg.lbl.gov/current/booklet.pdf):
     An abridged version of the Review of Particle Physics, available as a pocket-sized 250-page booklet. It is one of the most useful summaries of physics data. The booklet contains an abbreviated set of reviews and the summary tables from the most recent edition of the Review of Particle Physics.
@@ -105,6 +107,10 @@ Any contributions are highly appreciated. There are several options to do so, de
 * [ADS](http://ads.harvard.edu/):
     The SAO/NASA Astrophysics Data System is a Digital Library portal offering access to 15 million bibliographic records in Astronomy and Physics.  The ADS search engine also indexes the full-text for many publications in this collection and tracks citations.  The system also provides access and links to a wealth of external resources, including electronic articles hosted by publishers and arXiv, data catalogs and a variety of data products hosted by the astronomy archives worldwide.
 
+    * [Blog](https://ui.adsabs.harvard.edu/blog)
+    * [Twitter](https://twitter.com/adsabs)
+
+
 * [arXiv.org](https://arXiv.org):
     A repository of full-text articles in physics, astronomy, mathematics, computer science, statistics, nonlinear sciences, quantitative finance, quantitative biology, electrical engineering and systems science, and economics. Papers are submitted by registered authors to arXiv, often as preprints in advance of submission to a journal for publication; includes postprints, working papers, and other relevant material. Established in 1991, the repository is interlinked with ADS and INSPIRE, among others. Readers can browse subject categories or search by author, title, abstract, date, and other fields. Receive daily update alerts for subfields by email or RSS.
 
@@ -128,6 +134,9 @@ Any contributions are highly appreciated. There are several options to do so, de
 
 * [OSTI.GOV](https://www.osti.gov):
     A portal to free, publicly available DOE-sponsored R&D results including technical reports, bibliographic citations, journal articles, conference papers, books, multimedia and data information. It consolidates OSTI’s home page and the now-retired primary search tool SciTech Connect. It contains over 3 million records, including citations to 1.5 million journal articles, 1 million of which have digital object identifiers (DOIs) linking to full-text articles on publishers' websites.
+
+    * [Twitter](https://twitter.com/OSTIgov)
+
 
 # Journals
 
@@ -160,10 +169,13 @@ Any contributions are highly appreciated. There are several options to do so, de
 * [ORCID](https://orcid.org):
     Registry providing persistent digital identifiers allowing to unambiguously identify researchers. Through integration in key research workflows such as manuscript and grant submission, it supports automated linkages between scientists and their professional activities ensuring that their work is recognized.
 
+    * [Twitter](https://twitter.com/orcid_org)
+
+
 # Experiments
 
 * [INSPIRE Experiments](https://inspirehep.net/experiments):
-    Contains more than 3,700 past, present, and future experiments in particle physics. It lists and classifies both accelerator and non-accelerator experiments as well as theory collaborations. Includes official experiment name and number, location, and collaboration lists. Simple searches by participant, title, experiment number, institution, date approved, accelerator, or detector, return a description of the experiment, including a complete list of authors, title, overview of the experiment's goals and methods, and a link to the experiment's web page if available. Recently, it has expanded its scope to include particle accelerators besides experiments and to link them together.
+    Contains more than 3,700 past, present, and future experiments in particle physics. It lists and classifies both accelerator and non-accelerator experiments as well as theory collaborations. Includes official experiment name and number, location, and collaboration lists. Simple searches by participant, title, experiment number, institution, date approved, accelerator, or detector, return a description of the experiment, including a complete list of authors, title, overview of the experiment's goals and methods, and a link to the experiment's web page if available. Recently, it has expanded its scope to include particle accelerators besides experiments and to link them together. It has a granular taxonomy of research subjects.
 
 
 * [Cosmic ray/Gamma ray/Neutrino and similar experiments](https://www.mpi-hd.mpg.de/hfm/CosmicRay/CosmicRaySites.html):
