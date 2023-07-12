@@ -90,7 +90,7 @@ Any contributions are highly appreciated. There are several options to do so, de
 # Particle physics information platform
 
 * [INSPIRE](https://inspirehep.net/):
-    INSPIRE serves as a one-stop information platform for the particle physics community, comprising interlinked databases on literature, authors, jobs, seminars, conferences, institutions and experiments (each described in more detail below). Run in collaboration by CERN, DESY, Fermilab, IHEP, IN2P3, and SLAC, it has been serving the scientific community for almost 50 years. Previously hosted at SLAC and known as SPIRES, it was the first website outside Europe and the first database on the web. Close interaction with the user community and with arXiv, ADS, HEPData, ORCID, PDG and publishers is the backbone of INSPIRE's evolution. Since 2020, it is running on a modernized platform that is continuously being improved.
+    INSPIRE serves as a one-stop information platform for the particle physics community, comprising interlinked databases on literature, authors, jobs, seminars, conferences, institutions and experiments (each described in more detail below). Run in collaboration by CERN, DESY, Fermilab, IHEP, and IN2P3, it has been serving the scientific community for almost 50 years. Previously hosted at SLAC and known as SPIRES, it was the first website outside Europe and the first database on the web. Close interaction with the user community and with arXiv, ADS, HEPData, ORCID, PDG and publishers is the backbone of INSPIRE's evolution. Since 2020, it is running on a modernized platform that is continuously being improved.
 
     * [Blog](https://blog.inspirehep.net/)
     * [Twitter](https://twitter.com/inspirehep)
