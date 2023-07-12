@@ -469,9 +469,6 @@ Most custom astrophysics software is maintained by collaborations. These collabo
 * [ColliderReach](http://collider-reach.web.cern.ch/):
     A tool to give a simple estimate of the relation between the mass reaches of different proton-proton collider configurations.
 
-* [TMDplotter](http://tmdplotter.desy.de/):
-    Allows to plot TMDs and PDFs as a function of different variables.
-
 ## Mobile apps
 
 * [arXiv eXplorer](https://play.google.com/store/apps/details?id=com.gbeatty.arxiv):
@@ -479,6 +476,12 @@ Most custom astrophysics software is maintained by collaborations. These collabo
 
 * [Collider](http://collider.physics.ox.ac.uk/):
     This mobile app allows users to see data from the ATLAS experiment at the LHC.
+
+* [GravLens3](https://apps.apple.com/us/app/gravlens3/id318275930):
+    Allows you to simulate the effect of a gravitational lens on your iPhone or iPad.
+
+* [TAPAs](https://play.google.com/store/apps/details?id=borland.TAPAs&hl=en)
+    Toolkit for Accelerator Physics on Androids. It allows "back-of-the-envelope" accelerator physics calculations, with 50 inter-linked types of calculations.
 
 # Data repositories and preservation
 Data is increasingly deposited in general-purpose repositories like [Zenodo](https://zenodo.org/), [figshare](https://figshare.com/) or the [Open Science Framework](https://osf.io/), but here are a few specific repositories focused on physics.
