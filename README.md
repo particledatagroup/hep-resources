@@ -461,6 +461,25 @@ Most custom astrophysics software is maintained by collaborations. These collabo
     Detailed simulation of extensive air showers initiated by high energy cosmic ray particles. Protons, light nuclei up to iron, photons, and many other particles may be treated as primaries. The particles are tracked through the atmosphere until they undergo reactions with the air nuclei or, in the case of instable secondaries, decay.
 
 
+## Web apps
+
+* [APFEL Web](https://apfel.mi.infn.it/):
+    This online parton density function plotter allows to compare predictions for different PDF fits.
+
+* [ColliderReach](http://collider-reach.web.cern.ch/):
+    A tool to give a simple estimate of the relation between the mass reaches of different proton-proton collider configurations.
+
+* [TMDplotter](http://tmdplotter.desy.de/):
+    Allows to plot TMDs and PDFs as a function of different variables.
+
+## Mobile apps
+
+* [arXiv eXplorer](https://play.google.com/store/apps/details?id=com.gbeatty.arxiv):
+    Android app for browsing and searching arXiv.org, and for reading, saving and sharing articles.
+
+* [Collider](http://collider.physics.ox.ac.uk/):
+    This mobile app allows users to see data from the ATLAS experiment at the LHC.
+
 # Data repositories and preservation
 Data is increasingly deposited in general-purpose repositories like [Zenodo](https://zenodo.org/), [figshare](https://figshare.com/) or the [Open Science Framework](https://osf.io/), but here are a few specific repositories focused on physics.
 
