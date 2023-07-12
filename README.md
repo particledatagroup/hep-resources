@@ -90,7 +90,7 @@ Any contributions are highly appreciated. There are several options to do so, de
 # Particle physics information platform
 
 * [INSPIRE](https://inspirehep.net/):
-    INSPIRE serves as a one-stop information platform for the particle physics community, comprising interlinked databases on literature, authors, jobs, seminars, conferences, institutions and experiments (each described in more detail below). Run in collaboration by CERN, DESY, Fermilab, IHEP, IN2P3, and SLAC, it has been serving the scientific community for almost 50 years. Previously known as SPIRES, it was the first website outside Europe and the first database on the web. Close interaction with the user community and with arXiv, ADS, HEPData, ORCID, PDG and publishers is the backbone of INSPIRE's evolution. Since 2020, it is running on a modernized platform that is continuously being improved.
+    INSPIRE serves as a one-stop information platform for the particle physics community, comprising interlinked databases on literature, authors, jobs, seminars, conferences, institutions and experiments (each described in more detail below). Run in collaboration by CERN, DESY, Fermilab, IHEP, IN2P3, and SLAC, it has been serving the scientific community for almost 50 years. Previously hosted at SLAC and known as SPIRES, it was the first website outside Europe and the first database on the web. Close interaction with the user community and with arXiv, ADS, HEPData, ORCID, PDG and publishers is the backbone of INSPIRE's evolution. Since 2020, it is running on a modernized platform that is continuously being improved.
 
     * [Blog](https://blog.inspirehep.net/)
     * [Twitter](https://twitter.com/inspirehep)
@@ -114,7 +114,7 @@ Any contributions are highly appreciated. There are several options to do so, de
     The CERN Document Server contains records of about 700,000 CERN and non-CERN articles, preprints, theses. It includes records for internal and technical notes, official CERN committee documents, and multimedia objects. CDS is planning to focus on its role as an institutional repository covering all CERN material from the early 50s and reflecting the holdings of the CERN library. Non-CERN particle and accelerator physics content is in the process of being exported to INSPIRE.
 
 * [INSPIRE Literature](https://inspirehep.net/literature):
-    The literature collection, the flagship of the INSPIRE suite, serves more than 1.4 million bibliographic records with a growing number of full-text articles attached and metadata including author affiliations, abstracts, references, experiments, keywords as well as links to arXiv, ADS, PDG, HEPData, publisher platforms and other servers. It provides fast metadata searches that can be easily refined using facets, plots extracted from full text, author disambiguation, author profile pages and citation analysis.
+    The literature collection, the flagship of the INSPIRE suite, serves more than 1.5 million bibliographic records with a growing number of full-text articles attached and metadata including author affiliations, abstracts, references, experiments, keywords as well as links to arXiv, ADS, PDG, HEPData, publisher platforms and other servers. It provides fast metadata searches that can be easily refined using facets, plots extracted from full text, author disambiguation, author profile pages and citation analysis.
 
 * [JACoW](https://www.jacow.org/):
     The Joint Accelerator Conference Website publishes the proceedings of several accelerator conferences held around the world. A custom interface allows searching based on keywords, titles, authors, and in the full text.
@@ -123,7 +123,7 @@ Any contributions are highly appreciated. There are several options to do so, de
     This database contains bibliographic records of preprints and technical reports held in the KEK library, with links to the full-text images of more than 100,000 papers scanned from their worldwide preprint collection. Particularly useful for older scanned preprints. Links to it are included in INSPIRE HEP.
 
 * [MathSciNet](https://www.ams.org/mathscinet):
-    This database of almost 4 million items provides reviews, abstracts and bibliographic information for much of the mathematical sciences literature. Over 100,000 new items, most of them classified according to the Mathematics Subject Classification, and more than 80,000 reviews of the current published literature are added each year. Author identification allows users to search for publications by author and citation data allows users to track the history and influence of research publications.
+    This database of almost 4 million items provides reviews, abstracts and bibliographic information for much of the mathematical sciences literature. Over 125,000 new items, most of them classified according to the Mathematics Subject Classification, and more than 90,000 reviews of the current published literature are added each year. Author identification allows users to search for publications by author and citation data allows users to track the history and influence of research publications.
 
 * [OSTI.GOV](https://www.osti.gov):
     A portal to free, publicly available DOE-sponsored R&D results including technical reports, bibliographic citations, journal articles, conference papers, books, multimedia and data information. It consolidates OSTI’s home page and the now-retired primary search tool SciTech Connect. It contains over 3 million records, including citations to 1.5 million journal articles, 1 million of which have digital object identifiers (DOIs) linking to full-text articles on publishers' websites.
@@ -141,10 +141,10 @@ Any contributions are highly appreciated. There are several options to do so, de
 # Conference and seminars databases
 
 * [INSPIRE Conferences](https://inspirehep.net/conferences):
-    The database of more than 24,000 past, present, and future conferences, schools, and meetings relevant to high-energy physics and related fields is searchable by title, acronym, series, date and location. Included are information about published proceedings, links to conference contributions in the INSPIRE HEP database, and links to the conference website when available. New conferences can be submitted from the entry page.
+    The database of more than 26,000 past, present, and future conferences, schools, and meetings relevant to high-energy physics and related fields is searchable by title, acronym, series, date and location. Included are information about published proceedings, links to conference contributions in the INSPIRE HEP database, and links to the conference website when available. New conferences can be submitted from the entry page.
 
 * [INSPIRE Seminars](https://inspirehep.net/seminars)
-    Created to support the surge of online seminars during the COVID19 pandemic, this database already contains more than 1,500 seminars in high-energy physics and related fields. Seminars can be filtered by date, series and subject and exported to a calendar. Direct links to join the online seminar and external resources are included. All seminars are community-maintained and can be submitted from the entry page.
+    Created to support the surge of online seminars during the COVID-19 pandemic, this database already contains more than 2,700 seminars in high-energy physics and related fields. Seminars can be filtered by date, series and subject and exported to a calendar. Direct links to join the online seminar and external resources are included. All seminars are community-maintained and can be submitted from the entry page.
 
 * [researchseminars.org](https://researchseminars.org)
     A list of research seminars and conferences, organized by topic and seminars series or conference.
@@ -153,6 +153,9 @@ Any contributions are highly appreciated. There are several options to do so, de
 
 * [INSPIRE Institutions](https://inspirehep.net/institutions):
     INSPIRE Institutions contains over 11,500 institutes, laboratories, and universities, where research on particle physics and astrophysics is led. Every record includes, whenever possible, as detailed information, such as address, web links, experiments, and links to INSPIRE papers authored by people affiliated to that institution. One can search for a particular institution by name, acronym, and location.
+
+* [Research Organization Registry (ROR)](https://ror.org):
+    The Research Organization Registry (ROR) is a global, community-led registry of open persistent identifiers for research organizations. It includes IDs and metadata for more than 100,000 organizations and counting. Registry updates are curated through a community process and released on a rolling basis.
 
 # People
 
@@ -169,7 +172,6 @@ Any contributions are highly appreciated. There are several options to do so, de
 
 * [INSPIRE Experiments](https://inspirehep.net/experiments):
     Contains more than 3,700 past, present, and future experiments in particle physics. It lists and classifies both accelerator and non-accelerator experiments as well as theory collaborations. Includes official experiment name and number, location, and collaboration lists. Simple searches by participant, title, experiment number, institution, date approved, accelerator, or detector, return a description of the experiment, including a complete list of authors, title, overview of the experiment's goals and methods, and a link to the experiment's web page if available. Recently, it has expanded its scope to include particle accelerators besides experiments and to link them together. It has a granular taxonomy of research subjects.
-
 
 * [Cosmic ray/Gamma ray/Neutrino and similar experiments](https://www.mpi-hd.mpg.de/hfm/CosmicRay/CosmicRaySites.html):
     This extensive collection of experiment websites is organized by focus of study and by location. Additional sections link to educational materials, organizations, and other useful resources. The site is maintained at the Max Planck Institute for Nuclear Physics, Heidelberg.
@@ -223,7 +225,7 @@ Most relevant software is hosted by general-purpose repositories like GitHub, Gi
 
 ## Particle physics software
 
-Most custom Particle physics software is maintained by collaborations. These collaborations are listed in the  [INSPIRE](https://inspirehep.net/experiments/)  database. Here we present a list of these software packages, sorted by the INSPIRE Experiments classification. The links point to the record in the Experiments database.
+Most custom particle physics software is maintained by collaborations. These collaborations are listed in the  [INSPIRE](https://inspirehep.net/experiments/)  database. Here we present a list of these software packages, sorted by the INSPIRE Experiments classification. The links point to the record in the Experiments database.
 
 ### Data Analysis
 
@@ -420,7 +422,7 @@ Most custom Particle physics software is maintained by collaborations. These col
 
 ## Astrophysics software
 
-Most custom Astrophysics software is maintained by collaborations. These collaborations are listed in the  [INSPIRE](https://inspirehep.net/experiments/)  database. Here we present a list of these software packages, sorted by the INSPIRE Experiments classification. The links point to the record in the Experiments database.
+Most custom astrophysics software is maintained by collaborations. These collaborations are listed in the  [INSPIRE](https://inspirehep.net/experiments/)  database. Here we present a list of these software packages, sorted by the INSPIRE Experiments classification. The links point to the record in the Experiments database.
 
 ### Data Analysis
 
@@ -457,7 +459,6 @@ Most custom Astrophysics software is maintained by collaborations. These collabo
 
 * [CORSIKA](https://inspirehep.net/experiments/1891194):
     Detailed simulation of extensive air showers initiated by high energy cosmic ray particles. Protons, light nuclei up to iron, photons, and many other particles may be treated as primaries. The particles are tracked through the atmosphere until they undergo reactions with the air nuclei or, in the case of instable secondaries, decay.
-
 
 
 # Data repositories and preservation
@@ -838,6 +839,5 @@ List of Experiments that have noted their twitter accounts on INSPIRE can be fou
 
 
 List of physicists on Twitter at TrueSciPhi: <http://truesciphi.org/phy.html>
-
 
 
