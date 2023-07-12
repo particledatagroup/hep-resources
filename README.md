@@ -220,6 +220,7 @@ Most relevant software is hosted by general-purpose repositories like GitHub, Gi
     easy-to-use set of web-based tools, including shell account with up-to-date development
     tools, web page hosting, subversion, git and Mercurial code management systems, mailing lists, bug tracker and wiki system.
 
+
 ## Particle physics software
 
 Most custom Particle physics software is maintained by collaborations. These collaborations are listed in the  [INSPIRE](https://inspirehep.net/experiments/)  database. Here we present a list of these software packages, sorted by the INSPIRE Experiments classification. The links point to the record in the Experiments database.
@@ -302,7 +303,7 @@ Most custom Particle physics software is maintained by collaborations. These col
 * [xFitter](https://inspirehep.net/experiments/2156428):
     An open source QCD fit framework to extract PDFs and assess the impact of new data.
 
-### Simulation tools|Detector Simulation
+### Simulation tools - Detector Simulation
 
 * [Delphes](https://inspirehep.net/experiments/1778059):
     A C++ framework, performing a fast multipurpose detector response simulation.
@@ -328,7 +329,7 @@ Most custom Particle physics software is maintained by collaborations. These col
 * [MODE](https://inspirehep.net/experiments/2643999):
     Targeting the use of differentiable programming in design optimization of detectors for particle physics applications, extending from fundamental research at accelerators, in space, and in nuclear physics and neutrino facilities, to industrial applications employing the technology of radiation detection.
 
-### Simulation tools|Event Simulation
+### Simulation tools - Event Simulation
 
 * [ALPGEN](https://inspirehep.net/experiments/2645159):
     A collection of codes for the generation of multi-parton processes in hadronic collisions.
@@ -452,7 +453,7 @@ Most custom Astrophysics software is maintained by collaborations. These collabo
 * [SwiftSim](https://inspirehep.net/experiments/2663702):
     Swift is a modern, highly-parallel gravity and smoothed particle hydrodynamics solver for astrophysical and cosmological applications
 
-### Simulation tools|Event Simulation
+### Simulation tools - Event Simulation
 
 * [CORSIKA](https://inspirehep.net/experiments/1891194):
     Detailed simulation of extensive air showers initiated by high energy cosmic ray particles. Protons, light nuclei up to iron, photons, and many other particles may be treated as primaries. The particles are tracked through the atmosphere until they undergo reactions with the air nuclei or, in the case of instable secondaries, decay.
@@ -837,5 +838,6 @@ List of Experiments that have noted their twitter accounts on INSPIRE can be fou
 
 
 List of physicists on Twitter at TrueSciPhi: <http://truesciphi.org/phy.html>
+
 
 
