@@ -15,7 +15,7 @@ the Review of Particle Physics.
 Any contributions are highly appreciated. There are several options to do so, depending on technical familiarity with the tools in use. You can either:
 * [Edit this page](https://github.com/particledatagroup/hep-resources/edit/main/README.md) directly and make a Pull Request. Note that this requires some familiarity with the Markdown format and the Github workflow, as well as an account on the platform.
 * [Create an issue](https://github.com/particledatagroup/hep-resources/issues/new) to let the maintainers know what needs to be changed. Note that this requires a Github account.
-* [Send an email](mailto:micha.moshe.moskovic@cern.ch,sarah.demers@yale.edu?subject=Update%20to%20online%20particle%20physics%20information) to the maintainers.
+* [Send an email](mailto:hoc@fnal.gov?subject=Update%20to%20online%20particle%20physics%20information) to the maintainers.
 
 # Table of contents
 
@@ -116,7 +116,7 @@ Any contributions are highly appreciated. There are several options to do so, de
 * [INSPIRE Literature](https://inspirehep.net/literature):
     The literature collection, the flagship of the INSPIRE suite, serves more than 1.5 million bibliographic records with a growing number of full-text articles attached and metadata including author affiliations, abstracts, references, experiments, keywords as well as links to arXiv, ADS, PDG, HEPData, publisher platforms and other servers. It provides fast metadata searches that can be easily refined using facets, plots extracted from full text, author disambiguation, author profile pages and citation analysis.
 
-* [JACoW](https://www.jacow.org/):
+* [JACoW](https://jacow.org/):
     The Joint Accelerator Conference Website publishes the proceedings of several accelerator conferences held around the world. A custom interface allows searching based on keywords, titles, authors, and in the full text.
 
 * [KEK Library Preprints and Reports Database](https://www.i-repository.net/il/meta_pub/engG0000128Lib):
@@ -480,7 +480,7 @@ Most custom astrophysics software is maintained by collaborations. These collabo
 * [GravLens3](https://apps.apple.com/us/app/gravlens3/id318275930):
     Allows you to simulate the effect of a gravitational lens on your iPhone or iPad.
 
-* [TAPAs](https://play.google.com/store/apps/details?id=borland.TAPAs&hl=en)
+* [TAPAs](https://play.google.com/store/apps/details?id=borland.TAPAs&hl=en):
     Toolkit for Accelerator Physics on Androids. It allows "back-of-the-envelope" accelerator physics calculations, with 50 inter-linked types of calculations.
 
 # Data repositories and preservation
@@ -497,6 +497,9 @@ The data from HEPData can also be accessed through INSPIRE. A new enhanced servi
 
 * [CERN Open Data](https://opendata.cern.ch):
     The CERN Open Data portal provides data from real collision events, as well as simulated and simplified datasets, produced by the experiments at the LHC, virtual machines to reproduce the analysis environment, and software to process the data. It serves over 2 PB of data in total and encourages their use for both educational and research purposes.
+
+* [DOE Data Explorer](https://www.osti.gov/dataexplorer):
+    DOE Data Explorer is the Office of Scientific and Technical Information (OSTI) search tool for finding U.S. Department of Energy-funded, publicly available, scientific data records submitted by data centers, repositories, and other organizations funded by the Department.
 
 * [HepSim](https://atlaswww.hep.anl.gov/hepsim/):
     A repository with Monte Carlo simulations for particle-collision experiments. It contains predictions from parton shower models and includes Monte Carlo events after fast and full detector simulations and event reconstruction.
@@ -585,7 +588,7 @@ A useful list of resources can also be found at <https://stfc.ukri.org/research/
 * [IPPOG](https://ippog.org):
     The International Particle Physics Outreach Group is a network of scientists, science educators and communication specialists working across the globe in informal science education and outreach for particle physics. The IPPOG collaboration comprises 30 members: 24 countries, 5 experiments and CERN as an international laboratory.
 
-* [Interactions.org](https://www.interactions.org):
+* [Interactions.org](https://interactions.org):
     Designed to serve as a central resource for communicators of particle physics. The daily updated website provides links to current particle physics news from the world's press, high-resolution photos and graphics from the particle physics laboratories of the world; links to education and outreach programs; information about science policy and funding; a glossary; and links to many educational sites.
 
 * [QuarkNet](https://quarknet.org/):
@@ -638,8 +641,8 @@ A collection of online tests, video lectures, and related course materials from 
 
 ## General Sites
 
-* [Contemporary Physics Education Project (CPEP)](http://www.cpepweb.org/):
-    Provides charts, brochures, Web links, and classroom activities. Online interactive courses include: Fundamental Particles and Interactions; Plasma Physics and Fusion; History and Fate of the Universe; and Nuclear Science.
+* [Contemporary Physics Education Project (CPEP)](https://www.cpepphysics.org/):
+    CPEP offers beautifully illustrated charts that present the current understanding of physics in areas ranging from quarks to the cosmos, incorporating recent discoveries such as the Higgs boson and gravitational waves.
 
 * [PhysicsCentral](http://www.physicscentral.com):
     This site maintained by the American Physical Society provides information about current research and people in physics, experiments that can be performed at home or at school and the possibility to get physics questions answered by physicists.
@@ -665,7 +668,7 @@ A collection of online tests, video lectures, and related course materials from 
 * [Contemporary Physics Education Project - Fundamental particle and interactions](http://www.cpepphysics.org/particles.html):
 * [Fermilab Physical Science/Physics Resources](https://ed.fnal.gov/home/educators1000-physics.shtml):
 * [IceCube Activities](https://icecube.wisc.edu/outreach/activities):
-* [IPPOG Resources](http://ippog.org/resources):
+* [IPPOG Resources](https://ippog.org/ippog-resource-database):
 * [Jefferson Lab Teacher Resources](https://education.jlab.org/indexpages/teachers.html):
 * [LIGO Classroom Activities](https://www.ligo.caltech.edu/page/classroom-activities):
 * [MINERvA Neutrinos in the Classroom](https://neutrino-classroom.org):
@@ -676,8 +679,6 @@ A collection of online tests, video lectures, and related course materials from 
 
 **Interactive Sites**
 
-* [CAMELIA](https://www.atlasexperiment.org/camelia.html): CAMELIA (Cross-platform Atlas Multimedia Educational Lab for Interactive Analysis) is a discovery tool for the general public, based on computer gaming technology.
-* [In particular](https://inparticular.web.cern.ch/): Podcast and more about physics and the process of discovering physics at the ATLAS experiment.
 * [Lancaster Particle Physics](http://www.lppp.lancs.ac.uk/): Suitable for 16+ students, this site offers a number of simulations and explanations of particle physics, including a section on the LHC.
 * [Quarked!](http://www.quarked.org/): Adventures in the Subatomic Universe: This project, targeted to kids aged 7-12 (and their families), brings subatomic physics to life through a multimedia project including an interactive website, a facilitated program for museums and schools, and an educational outreach program.
 
@@ -689,14 +690,12 @@ A collection of online tests, video lectures, and related course materials from 
 
 * [Angels and Demons](http://angelsanddemons.web.cern.ch/): With the aim of looking at the myth versus reality of antimatter and science at CERN this site describes the science behind the story including a set of videos.
 * [CollidingParticles](http://www.collidingparticles.com/): A series of films following a team of physicists involved in research at the LHC.
-* [Rewarding Learning videos about CERN](http://www.nicurriculum.org.uk/STEMWorks/resources/cern/index.asp): The three videos based on interviews with scientists and engineers at CERN introduce pupils to CERN and the type of research and work undertaken there and are accompanied by teachers’ notes.
 
 * [Videos by Don Lincoln](https://www.youtube.com/playlist?list=PLCfRa7MXBEsoJuAM8s6D8oKDPyBepBosS): Short YouTube videos on basic particle physics and cosmology.
 
 **Websites**
-* [Cambridge Relativity and Cosmology](http://www.damtp.cam.ac.uk/research/gr/public/index.html): Materials for the greater public to learn about the Origins of the Universe, including information on black holes, string theory, M-thoery, the cosmic microwave background and the structure of the Universe.
 * [Imagine the Universe](http://imagine.gsfc.nasa.gov/home.html): This site is for students age 14 and up and for anyone interested in learning about the Universe.
-* [Particle Adventure](http://particleadventure.org/): An interactive tour of quarks, neutrinos, antimatter, extra dimensions, dark matter, accelerators and particle detectors from the Particle Data Group of Lawrence Berkeley National Laboratory. Simple elegant graphics and translations into 16 languages.
+* [Particle Adventure](https://particleadventure.org/): An interactive tour of quarks, neutrinos, antimatter, extra dimensions, dark matter, accelerators and particle detectors from the Particle Data Group of Lawrence Berkeley National Laboratory. Simple elegant graphics and translations into 16 languages.
 
 ## Lab Education Offices
 
