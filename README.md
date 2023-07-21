@@ -566,8 +566,8 @@ The data from HEPData can also be accessed through INSPIRE. A new enhanced servi
 * [REANA](https://reanahub.io/):
     REANA (REusable ANAlyses) is a system for instantiating research data analyses on the cloud using container-based solutions. It complements CERN Analysis Preservation permitting the reuse and revalidation of preserved analyses. It is being developed in close collaboration with DASPOS and RECAST.
 
-* [RECAST](https://recast.cern.ch):
-    Building on analysis preservation and re-use infrastructure of the LHC experiments, RECAST acts as a science gateway allowing theorists to suggest new reinterpretations of archived analyses of the LHC dataset. Experiments review suggestions and, if approved, simulate the proposed models and re-run the archived analysis to determine their viability. Such reinterpretation results are then appended to the records of the original publication in the relevant digital archives.
+* [RECAST for ATLAS](https://recast.docs.cern.ch/):
+    RECAST is a framework for re-using existing analyses prepared within ATLAS for subsequent publications by reinterpreting the analysis with respect to new models of physics. The approach exploits the fact that the Standard Model backgrounds of a search must only be estimated once.
 
 ### Astrophysics
 
@@ -665,7 +665,7 @@ A collection of online tests, video lectures, and related course materials from 
 
 **Classroom Activities Collections**
 
-* [Contemporary Physics Education Project - Fundamental particle and interactions](http://www.cpepphysics.org/particles.html):
+* [Contemporary Physics Education Project - Fundamental particle and interactions](http://www.cpepphysics.org):
 * [Fermilab Physical Science/Physics Resources](https://ed.fnal.gov/home/educators1000-physics.shtml):
 * [IceCube Activities](https://icecube.wisc.edu/outreach/activities):
 * [IPPOG Resources](https://ippog.org/ippog-resource-database):
@@ -731,6 +731,7 @@ A collection of online tests, video lectures, and related course materials from 
     INFN educational programs are addressed to students, teachers and general audiences of every age, from Italy and abroad. Insights and education about the INFN-LNF research are offered thanks to the organization of guided tours and open days, stages for students, refresher courses for teachers, seminars and divulgation events. The aim is to create a constant exchange between the research world and society, thanks to direct contact and via the internet and other social media.
 
 * [Laboratori Nazionali del Gran Sasso Outreach Activities](https://www.lngs.infn.it/en/outreach-activities):
+
     The Lab offers pupils the opportunity to approach the fascinating world of Physics and Science in general through stages, summer schools and training camps. It makes young researchers’ skills and competences available to people both in public events, such as the Open Day and the European Researchers’ Night, and in guided tours to visit the underground experimental halls.
 
 * [Lawrence Berkeley National Laboratory (LBNL) Workforce Development and Education](https://education.lbl.gov/):
@@ -744,9 +745,6 @@ A collection of online tests, video lectures, and related course materials from 
 
 * [TRIUMF High School Programs](https://www.triumf.ca/for-public/high-school-programs):
     TRIUMF offers outreach programs for high-school students, teachers, and the general public with a mission of promoting science and research in the public arena. TRIUMF’s outreach activities are also designed to tell Canadian students, teachers, and the public about the excitement of curiosity-driven research and about how a laboratory like TRIUMF adds value to Canada in new technologies, medical applications, and highly qualified people.
-
-* [LBL Workforce Development and Education](https://education.lbl.gov/):
-    This group carries out Berkeley Lab's mission to inspire and prepare the next generation of scientists, engineers, and technicians.
 
 ## Educational Programs of Experiments
 
@@ -779,7 +777,7 @@ A collection of online tests, video lectures, and related course materials from 
 
 ## News
 
-* [Asimmetrie](http://www.asimmetrie.it/):
+* [Asimmetrie](https://www.asimmetrie.it/):
     Bimonthly magazine about particle physics published by INFN, the Istituto Nazionale di Fisica Nucleare (in Italian).
 
 * **CERN Courier:**
@@ -787,28 +785,25 @@ A collection of online tests, video lectures, and related course materials from 
     * Twitter: [`@cerncourier`](https://twitter.com/cerncourier)
 
 * **DESY inForm:**
-    * Website: [`http://www.desy.de/news/desy_inform/index_eng.html`](http://www.desy.de/news/desy_inform/index_eng.html)
+    * Website: [`https://www.desy.de/news/desy_inform/index_eng.html`](https://www.desy.de/news/desy_inform/index_eng.html)
     * Twitter: [`@desy`](https://twitter.com/desy)
 
 * **Fermilab News:**
     * Website: [`https://news.fnal.gov`](https://news.fnal.gov)
     * Twitter: [`@Fermilab`](https://twitter.com/Fermilab)
 
-* [LC Newsline](http://newsline.linearcollider.org/):
-    The newsletter of the Linear Collider community.
-
+* [ILC Newsline](http://newsline.linearcollider.org/):
+    ILC Newsline is a newsletter about recent news, milestones and developments related to the International Linear Collider and the fields of high-energy, particle and accelerator physics and engineering.
     * Twitter: [`@LCnewsline`](https://twitter.com/LCnewsline)
 
-* [IOP News](http://www.iop.org/news/)
+* [Interactions.org](https://www.interactions.org)
+    The Interactions.org website is designed to serve as central resource for information about particle physics, including press releases, articles, news, event listings and images.
+    * Twitter: [`@particlenews`](https://twitter.com/particlenews)
 
+* [IOP News](https://www.iop.org/about/news)
+    * Twitter: [`@PhysicsNews`](https://twitter.com/PhysicsNews)
 
 * [JINR News](http://www1.jinr.ru/News/Jinrnews_index.html)
-
-
-* [News at Interactions.org](http://www.interactions.org/news-center):
-    The Interactions site provides news and press releases on particle physics.
-
-    * Twitter: [`@particlenews`](https://twitter.com/particlenews)
 
 * [ParticleBites](https://www.particlebites.com/) and [AstroBites](https://astrobites.org/):
     Websites run by graduate students hosting daily summaries of recent particle physics and astrophysics research papers, as well as additional educational materials and guidance on navigating the fields.
@@ -856,9 +851,11 @@ a body of work, leading to presentations in the community and possibly an exhibi
 
 Many particle physics institutions and collaborations have a presence on social media, with Facebook, Twitter, and Instagram as particularly popular. These resources are typically  used to communicate with the general public, but some of the highlighting of results and communications target physicists as an audience.  
 
-List of Experiments that have noted their twitter accounts on INSPIRE can be found here:  https://inspirehep.net/experiments?sort=mostrecent&size=25&page=1&q=urls.description%3ATWITTER
+List of Experiments that have noted their Twitter accounts on INSPIRE can be found here:  https://inspirehep.net/experiments?sort=mostrecent&size=25&page=1&q=urls.description%3ATWITTER
+
+List of Institutions that have noted their Twitter accounts on INSPIRE can be found here:  https://inspirehep.net/institutions?sort=mostrecent&size=25&page=1&q=urls.description%3ATWITTER
 
 
-List of physicists on Twitter at TrueSciPhi: <http://truesciphi.org/phy.html>
+List of physicists on podcasts, Mastodon and Bluesky at TrueSciPhi: <https://truesciphi.org/home_sci.html#pmapod>
 
 
