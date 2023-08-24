@@ -35,7 +35,15 @@ Any contributions are highly appreciated. There are several options to do so, de
 * [Software packages and repositories](#software-packages-and-repositories)
    * [Repositories](#repositories)
    * [Particle physics software](#particle-physics-software)
+      * [Data Analysis](#data-analysis)
+      * [Lattice Gauge Theory](#lattice-gauge-theory)
+      * [Parton Distribution Fits](#parton-distribution-fits)
+      * [Simulation tools - Detector Simulation](#simulation-tools---detector-simulation)
+      * [Simulation tools - Event Simulation](#simulation-tools---event-simulation)
    * [Astrophysics software](#astrophysics-software)
+      * [Data Analysis](#data-analysis-1)
+      * [Simulation tools](#simulation-tools)
+      * [Simulation tools - Event Simulation](#simulation-tools---event-simulation-1)
    * [Web apps](#web-apps)
    * [Mobile apps](#mobile-apps)
 * [Data repositories and preservation](#data-repositories-and-preservation)
@@ -60,7 +68,7 @@ Any contributions are highly appreciated. There are several options to do so, de
    * [Social Media](#social-media)
 
 <!-- Created by https://github.com/ekalinin/github-markdown-toc -->
-<!-- Added by: runner, at: Tue Jan 17 19:10:08 UTC 2023 -->
+<!-- Added by: runner, at: Thu Aug 24 16:52:07 UTC 2023 -->
 
 <!--te-->
 
