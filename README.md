@@ -66,11 +66,10 @@ Any contributions are highly appreciated. There are several options to do so, de
    * [News](#news)
    * [Art in Physics](#art-in-physics)
    * [Social Media](#social-media)
-* [High Energy Physics in developing regions](#high-energy-physics-in-developing-regions)
-
+   * [High Energy Physics in developing regions](#high-energy-physics-in-developing-regions)
 
 <!-- Created by https://github.com/ekalinin/github-markdown-toc -->
-<!-- Added by: runner, at: Thu Aug 24 16:52:07 UTC 2023 -->
+<!-- Added by: runner, at: Fri Aug 25 20:32:02 UTC 2023 -->
 
 <!--te-->
 
