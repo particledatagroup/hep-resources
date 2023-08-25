@@ -66,6 +66,8 @@ Any contributions are highly appreciated. There are several options to do so, de
    * [News](#news)
    * [Art in Physics](#art-in-physics)
    * [Social Media](#social-media)
+* [High Energy Physics in developing regions](#high-energy-physics-in-developing-regions)
+
 
 <!-- Created by https://github.com/ekalinin/github-markdown-toc -->
 <!-- Added by: runner, at: Thu Aug 24 16:52:07 UTC 2023 -->
@@ -866,4 +868,14 @@ List of Institutions that have noted their Twitter accounts on INSPIRE can be fo
 
 List of physicists on podcasts, Mastodon and Bluesky at TrueSciPhi: <https://truesciphi.org/home_sci.html#pmapod>
 
+
+## High Energy Physics in developing regions
+
+We attempt to summarize HEP activities and efforts in Africa, Latin 
+America and other regions that may be classified and developing or 
+emerging. The report is not exhaustive and based on the expert 
+knowledge of the authors at the time of information gathering; the 
+narrative was developed in July 2023 and would require period 
+periodic updates, as the HEP landscape changes. More details main be 
+found [here](https://inspirehep.net/literature/2637649).
 
