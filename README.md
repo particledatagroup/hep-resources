@@ -863,7 +863,11 @@ List of physicists on podcasts, Mastodon and Bluesky at TrueSciPhi: <https://tru
 
 ## High Energy Physics in developing regions
 
-A summary of the current status of high energy physics (HEP) 
-in Africa, Latin America, and other developing regions can be found 
-[here](https://inspirehep.net/literature/2637649).
+We attempt to summarize HEP activities and efforts in Africa, Latin 
+America and other regions that may be classified and developing or 
+emerging. The report is not exhaustive and based on the expert 
+knowledge of the authors at the time of information gathering; the 
+narrative was developed in July 2023 and would require period 
+periodic updates, as the HEP landscape changes. More details main be 
+found [here](https://inspirehep.net/literature/2637649).
 
