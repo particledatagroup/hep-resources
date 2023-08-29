@@ -437,13 +437,11 @@ Most custom astrophysics software is maintained by collaborations. These collabo
 * [Cosmoglobe](https://inspirehep.net/experiments/2642358):
     Cosmoglobe is a collaboration between individual scientists aiming to understand the microwave sky, working together within an Open Science framework.
 
-* [Starlink](https://inspirehep.net/experiments/2644500):
-    Starlink was a UK Project supporting astronomical data processing. It was shut down in 2005 but its open-source software continued to be developed at the Joint Astronomy Centre until March 2015. It is currently maintained by the East Asian Observatory. The open-source software products are a collection of applications and libraries, usually focused on a specific aspect of data reduction or analysis.
-
-### Non-experimental
-
 * [Gammapy](https://inspirehep.net/experiments/2691581):
     Gammapy is a community-developed, open-source Python package for gamma-ray astronomy built on Numpy, Scipy and Astropy.
+
+* [Starlink](https://inspirehep.net/experiments/2644500):
+    Starlink was a UK Project supporting astronomical data processing. It was shut down in 2005 but its open-source software continued to be developed at the Joint Astronomy Centre until March 2015. It is currently maintained by the East Asian Observatory. The open-source software products are a collection of applications and libraries, usually focused on a specific aspect of data reduction or analysis.
 
 ### Simulation tools
 
