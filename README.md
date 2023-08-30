@@ -871,6 +871,6 @@ America and other regions that may be classified and developing or
 emerging. The report is not exhaustive and based on the expert 
 knowledge of the authors at the time of information gathering; the 
 narrative was developed in July 2023 and would require period 
-periodic updates, as the HEP landscape changes. More details main be 
+periodic updates, as the HEP landscape changes. Details may be 
 found in arXiv eprint [2308.15373](https://arxiv.org/abs/2308.15373).
 
