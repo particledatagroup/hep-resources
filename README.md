@@ -191,17 +191,18 @@ Any contributions are highly appreciated. There are several options to do so, de
 * [APS Careers](https://www.aps.org/careers/employment):
     A gateway for physicists, students, and physics enthusiasts to information about physics jobs and careers. It contains Physics job listings, career advice, upcoming workshops and meetings, and career and job-related resources provided by the American Physical Society.
 
-* [Physicsworld Jobs](https://www.physicsworldjobs.com/):
-    A recruitment service run by IOP Publishing that connects employers from different industry sectors with jobseekers who have a background in physics and engineering.
+* [INSPIRE Jobs](https://inspirehep.net/jobs):
+    Lists academic and research jobs in high energy physics, nuclear physics, accelerator physics and astrophysics with the option to post a job or to receive email notices of new job listings.
+    Several hundreds of jobs are listed all year round, with more activity during the application season.
 
 * [IOP Careers](https://www.iop.org/careers-physics/your-future-with-physics):
     Career information and resources primarily aimed at university students are provided by the UK Institute of Physics.
 
-* [INSPIRE Jobs](https://inspirehep.net/jobs):
-    Lists academic and research jobs in high energy physics, nuclear physics, accelerator physics and astrophysics with the option to post a job or to receive email notices of new job listings. Several hundreds of jobs are listed all year round, with more activity during the application season.
-
 * [Physics Today Jobs](http://www.physicstoday.org/jobs):
     Online recruitment advertising website for Physics Today magazine, published by the American Institute of Physics. Physics Today Jobs is the managing partner of the AIP Career Network, an online job board network for the physical science, engineering, and computing disciplines. Over 6,000 resumes are currently available, and nearly 5,000 jobs were posted in 2018.
+
+* [Physicsworld Jobs](https://www.physicsworldjobs.com/):
+    A recruitment service run by IOP Publishing that connects employers from different industry sectors with jobseekers who have a background in physics and engineering.
 
 # Software packages and repositories
 Most relevant software is hosted by general-purpose repositories like GitHub, GitLab or BitBucket, but here are a few specific repositories focused on astrophysics or HEP.
@@ -360,7 +361,7 @@ Most custom particle physics software is maintained by collaborations. These col
     Mathematica package for symbolic evaluation of Feynman diagrams and algebraic calculations in quantum field theory and elementary particle physics.
 
 * [FeynRules](https://inspirehep.net/experiments/1778072):
-    Mathematica® package that allows the calculation of Feynman rules in momentum space for any QFT physics model.
+    Mathematica package that allows the calculation of Feynman rules in momentum space for any QFT physics model.
 
 * [GENIE](https://inspirehep.net/experiments/1780077):
     Modern and universal event generator framework and tools in support of neutrino experiments.
@@ -384,7 +385,7 @@ Most custom particle physics software is maintained by collaborations. These col
     Comprehensive software framework to provide a systematic, rigorous approach to simulating the complex dynamical environment of relativistic heavy-ion collisions.
 
 * [MC@NLO](https://inspirehep.net/experiments/2652578):
-    Fortran package to implement a scheme for combining a Monte Carlo event generator with Next-to-Leading-Order calculations of rates for QCD processes.
+    Fortran package to implement a scheme for combining a Monte Carlo event generator with next-to-leading-order calculations of rates for QCD processes.
 
 * [MCFM](https://inspirehep.net/experiments/1778075):
     MCFM (Monte Carlo for FeMtobarn processes) is a program designed to calculate cross-sections for various femtobarn-level processes at hadron-hadron colliders.
@@ -549,7 +550,13 @@ The data from HEPData can also be accessed through INSPIRE. A new enhanced servi
     The National Institute of Standards and Technology provides access to physical reference data (physical constants, atomic spectroscopy data, x-ray and gamma-ray data, radiation dosimetry data, nuclear physics data and more) and measurements and calibrations data (dimensional and electromagnetic measurements).
 
 * [Springer Materials  - The Landolt-Börnstein Database](https://materials.springer.com):
-    Landolt-Börnstein is a data collection covering all areas of physical sciences and engineering, such as particle physics, electronic structure and transport, magnetism, superconductivity. International experts scan the primary literature in more than 8,000 peer-reviewed journals and evaluate and select the most valid information to be included in the database. It includes more than 130,000 online documents, 1,2 million references, and covers 250,000 chemical substances. SpringerMaterials Interactive allows to visualise and analyse data.
+
+    Landolt-Börnstein is a data collection covering all areas of physical sciences and engineering, such as 
+particle physics, electronic structure and transport, magnetism, superconductivity. International experts scan 
+the primary literature in more than 8,000 peer-reviewed journals and evaluate and select the most useful 
+information to be included in the database. It includes more than 130,000 online documents, 1,2 million 
+references, and covers 250,000 chemical substances. SpringerMaterials Interactive allows one to visualise and 
+analyse data.
     The search functionality is freely accessible and the search results are displayed in their context, whereas the full text is secured to subscribers.
 
 ## Data preservation activities
@@ -578,7 +585,7 @@ The data from HEPData can also be accessed through INSPIRE. A new enhanced servi
 
 More formal and advanced data preservation activity is ongoing in the field of Experimental Astrophysics, including:
 
-* Fermi Data <https://fermi.gsfc.nasa.gov/ssc/data>
+* Fermi Gamma-ray Space Telescope Data <https://fermi.gsfc.nasa.gov/ssc/data>
 * IVOA (International Virtual Observatory Alliance) <https://www.ivoa.net/astronomers/applications.html>
 * GWOSC (Gravitational Wave Open Science Center) <https://www.gw-openscience.org/about/>
 * PLA (Planck Legacy Archive)  <https://pla.esac.esa.int/pla/>
