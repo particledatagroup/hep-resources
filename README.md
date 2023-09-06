@@ -135,10 +135,14 @@ Any contributions are highly appreciated. There are several options to do so, de
 
 # Journals
 
-* [SCOAP³ Journals](https://scoap3.org/phase3-journals/):
-    A list of journals currently financed by the SCOAP³ consortium. All HEP publications in those journals are made freely available under Open Access conditions at no cost for the authors.
 * [CERN Journal List](https://scientific-info.cern/submit-and-publish/publish-open-access):
     This list of journals and conference series publishing particle physics content provides information on Open Access, copyright policies and terms of use for CERN authors.
+
+* [INSPIRE Journals](https://inspirehep.net/journals):
+    A database of almost 4,000 journals relevant to HEP and related fields. Each entry displays the papers published in the journal that are included in the INSPIRE Literature database.
+
+* [SCOAP³ Journals](https://scoap3.org/phase3-journals/):
+    A list of journals currently financed by the SCOAP³ consortium. All HEP publications in those journals are made freely available under Open Access conditions at no cost for the authors.
 
 # Conference and seminars databases
 
