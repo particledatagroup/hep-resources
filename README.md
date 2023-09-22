@@ -802,26 +802,26 @@ A collection of online tests, video lectures, and related course materials from 
 
 * **CERN Courier:**
     * Website: [`https://cerncourier.com`](https://cerncourier.com)
-    * Twitter: [`@cerncourier`](https://twitter.com/cerncourier)
+    * X (Twitter): [`@cerncourier`](https://twitter.com/cerncourier)
 
 * **DESY inForm:**
     * Website: [`https://www.desy.de/news/desy_inform/index_eng.html`](https://www.desy.de/news/desy_inform/index_eng.html)
-    * Twitter: [`@desy`](https://twitter.com/desy)
+    * X (Twitter): [`@desy`](https://twitter.com/desy)
 
 * **Fermilab News:**
     * Website: [`https://news.fnal.gov`](https://news.fnal.gov)
-    * Twitter: [`@Fermilab`](https://twitter.com/Fermilab)
+    * X (Twitter): [`@Fermilab`](https://twitter.com/Fermilab)
 
 * [ILC Newsline](http://newsline.linearcollider.org/):
     ILC Newsline is a newsletter about recent news, milestones and developments related to the International Linear Collider and the fields of high-energy, particle and accelerator physics and engineering.
-    * Twitter: [`@LCnewsline`](https://twitter.com/LCnewsline)
+    * X (Twitter): [`@LCnewsline`](https://twitter.com/LCnewsline)
 
 * [Interactions.org](https://www.interactions.org)
     The Interactions.org website is designed to serve as central resource for information about particle physics, including press releases, articles, news, event listings and images.
-    * Twitter: [`@particlenews`](https://twitter.com/particlenews)
+    * X (Twitter): [`@particlenews`](https://twitter.com/particlenews)
 
 * [IOP News](https://www.iop.org/about/news)
-    * Twitter: [`@PhysicsNews`](https://twitter.com/PhysicsNews)
+    * X (Twitter): [`@PhysicsNews`](https://twitter.com/PhysicsNews)
 
 * [JINR News](http://www1.jinr.ru/News/Jinrnews_index.html)
 
@@ -830,11 +830,11 @@ A collection of online tests, video lectures, and related course materials from 
 
 * **Perimeter Institute News:**
     * Website: [`https://www.perimeterinstitute.ca/news`](https://www.perimeterinstitute.ca/news)
-    * Twitter: [`@perimeter`](https://twitter.com/perimeter)
+    * X (Twitter): [`@perimeter`](https://twitter.com/perimeter)
 
 * **Sandford News and Events:**
     * Website: [`https://sanfordlab.org/news-and-events`](https://sanfordlab.org/news-and-events)
-    * Twitter: [`@SanfordLab`](https://twitter.com/SanfordLab)
+    * X (Twitter): [`@SanfordLab`](https://twitter.com/SanfordLab)
 
 * [SLAC Signals](http://eepurl.com/IqPl1):
     This email newsletter reports about cutting-edge science, major SLAC milestones and other lab information. It has replaced SLAC Today in November 2013.
@@ -844,7 +844,7 @@ A collection of online tests, video lectures, and related course materials from 
 * [Symmetry](http://www.symmetrymagazine.org/):
     This magazine about particle physics and its connections to other aspects of life and science, from interdisciplinary collaborations to policy to culture is published 6 times per year by Fermilab and SLAC.
 
-    * Twitter: [`@symmetrymag`](https://twitter.com/symmetrymag)
+    * X (Twitter): [`@symmetrymag`](https://twitter.com/symmetrymag)
 
 * [TRIUMF on NewsWise](https://www.newswise.com/institutions/newsroom/19528)
 
@@ -869,11 +869,11 @@ a body of work, leading to presentations in the community and possibly an exhibi
 
 ## Social Media
 
-Many particle physics institutions and collaborations have a presence on social media, with Facebook, Twitter, and Instagram as particularly popular. These resources are typically  used to communicate with the general public, but some of the highlighting of results and communications target physicists as an audience.  
+Many particle physics institutions and collaborations have a presence on social media, with Facebook, X (Twitter), and Instagram as particularly popular. These resources are typically  used to communicate with the general public, but some of the highlighting of results and communications target physicists as an audience.  
 
-List of Experiments that have noted their Twitter accounts on INSPIRE can be found here:  https://inspirehep.net/experiments?sort=mostrecent&size=25&page=1&q=urls.description%3ATWITTER
+List of Experiments that have noted their X (Twitter) accounts on INSPIRE can be found here:  https://inspirehep.net/experiments?sort=mostrecent&size=25&page=1&q=urls.description%3ATWITTER
 
-List of Institutions that have noted their Twitter accounts on INSPIRE can be found here:  https://inspirehep.net/institutions?sort=mostrecent&size=25&page=1&q=urls.description%3ATWITTER
+List of Institutions that have noted their X (Twitter) accounts on INSPIRE can be found here:  https://inspirehep.net/institutions?sort=mostrecent&size=25&page=1&q=urls.description%3ATWITTER
 
 
 List of physicists on podcasts, Mastodon and Bluesky at TrueSciPhi: <https://truesciphi.org/home_sci.html#pmapod>
