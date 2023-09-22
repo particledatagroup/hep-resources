@@ -299,11 +299,8 @@ sorted by the INSPIRE Experiments classification. The links point to the record 
 * [MAP-Collaboration](https://inspirehep.net/experiments/2660446):
     The MAP collaboration is aimed at studying the three-dimensional structure of hadrons.
 
-* [MMHT](https://inspirehep.net/experiments/1778079):
-    Standalone interface code and grids for the Martin, Motylinski, Harland-Lang, Thorne (MMHT) 2014 LO, NLO and NNLO PDFs.
-
-* [MSTW](https://inspirehep.net/experiments/1778272):
-    Standalone interface code and grids for the MSTW 2008 (LO, NLO, NNLO) PDFs.
+* [MSHT](https://inspirehep.net/experiments/2701410):
+    Stand-alone Fortran, C++ and Mathematica code to provide public access to the MSHT20 PDFs.
 
 * [NNPDF](https://inspirehep.net/experiments/1775085):
     NNPDF determines PDFs using as an unbiased modeling tool Neural Networks, trained using Genetic Algorithms, and used to construct a Monte Carlo representation of PDFs and their uncertainties: a probability distribution in a space of functions.
