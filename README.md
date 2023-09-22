@@ -95,7 +95,7 @@ Any contributions are highly appreciated. There are several options to do so, de
     INSPIRE serves as a one-stop information platform for the particle physics community, comprising interlinked databases on literature, authors, jobs, seminars, conferences, institutions and experiments (each described in more detail below). Run in collaboration by CERN (which hosts INSPIRE), DESY, Fermilab, IHEP, IN2P3 and SLAC, it has been serving the scientific community for almost 50 years. Previously hosted at SLAC and known as SPIRES, it was the first website outside Europe and the first database on the web. Close interaction with the user community and with arXiv, ADS, HEPData, ORCID, PDG and publishers is the backbone of INSPIRE's evolution. Since 2020, it is running on a modernized platform that is continuously being improved.
 
     * [Blog](https://blog.inspirehep.net/)
-    * [Twitter](https://twitter.com/inspirehep)
+    * [X (Twitter)](https://twitter.com/inspirehep)
 
 # Literature databases
 
@@ -103,14 +103,14 @@ Any contributions are highly appreciated. There are several options to do so, de
     The SAO/NASA Astrophysics Data System is a Digital Library portal offering access to 15 million bibliographic records in Astronomy and Physics.  The ADS search engine also indexes the full-text for many publications in this collection and tracks citations.  The system also provides access and links to a wealth of external resources, including electronic articles hosted by publishers and arXiv, data catalogs and a variety of data products hosted by the astronomy archives worldwide.
 
     * [Blog](https://ui.adsabs.harvard.edu/blog)
-    * [Twitter](https://twitter.com/adsabs)
+    * [X (Twitter)](https://twitter.com/adsabs)
 
 
 * [arXiv.org](https://arXiv.org):
     A repository of full-text articles in physics, astronomy, mathematics, computer science, statistics, nonlinear sciences, quantitative finance, quantitative biology, electrical engineering and systems science, and economics. Papers are submitted by registered authors to arXiv, often as preprints in advance of submission to a journal for publication; includes postprints, working papers, and other relevant material. Established in 1991, the repository is interlinked with ADS and INSPIRE, among others. Readers can browse subject categories or search by author, title, abstract, date, and other fields. Receive daily update alerts for subfields by email or RSS.
 
     * [Blog](https://blogs.cornell.edu/arXiv)
-    * [Twitter](https://twitter.com/arxiv)
+    * [X (Twitter)](https://twitter.com/arxiv)
 
 * [CDS](http://cds.cern.ch):
     The CERN Document Server contains records of about 700,000 CERN and non-CERN articles, preprints, theses. It includes records for internal and technical notes, official CERN committee documents, and multimedia objects. CDS is planning to focus on its role as an institutional repository covering all CERN material from the early 50s and reflecting the holdings of the CERN library. Non-CERN particle and accelerator physics content is in the process of being exported to INSPIRE.
@@ -130,7 +130,7 @@ Any contributions are highly appreciated. There are several options to do so, de
 * [OSTI.GOV](https://www.osti.gov):
     A portal to free, publicly available DOE-sponsored R&D results including technical reports, bibliographic citations, journal articles, conference papers, books, multimedia and data information. It consolidates OSTI’s home page and the now-retired primary search tool SciTech Connect. It contains over 3 million records, including citations to 1.5 million journal articles, 1 million of which have digital object identifiers (DOIs) linking to full-text articles on publishers' websites.
 
-    * [Twitter](https://twitter.com/OSTIgov)
+    * [X (Twitter)](https://twitter.com/OSTIgov)
 
 
 # Journals
@@ -147,10 +147,10 @@ Any contributions are highly appreciated. There are several options to do so, de
 # Conference and seminars databases
 
 * [INSPIRE Conferences](https://inspirehep.net/conferences):
-    The database of more than 26,000 past, present, and future conferences, schools, and meetings relevant to high-energy physics and related fields is searchable by title, acronym, series, date and location. Included are information about published proceedings, links to conference contributions in the INSPIRE HEP database, and links to the conference website when available. New conferences can be submitted from the entry page.
+    The database of almost 30,000 past, present, and future conferences, schools, and meetings relevant to high-energy physics and related fields is searchable by title, acronym, series, date and location. Included are information about published proceedings, links to conference contributions in the INSPIRE HEP database, and links to the conference website when available. New conferences can be submitted from the entry page.
 
 * [INSPIRE Seminars](https://inspirehep.net/seminars)
-    Created to support the surge of online seminars during the COVID-19 pandemic, this database already contains more than 2,700 seminars in high-energy physics and related fields. Seminars can be filtered by date, series and subject and exported to a calendar. Direct links to join the online seminar and external resources are included. All seminars are community-maintained and can be submitted from the entry page.
+    Created to support the surge of online seminars during the COVID-19 pandemic, this database already contains almost 3,000 seminars in high-energy physics and related fields. Seminars can be filtered by date, series and subject and exported to a calendar. Direct links to join the online seminar and external resources are included. All seminars are community-maintained and can be submitted from the entry page.
 
 * [researchseminars.org](https://researchseminars.org)
     A list of research seminars and conferences, organized by topic and seminars series or conference.
@@ -158,7 +158,7 @@ Any contributions are highly appreciated. There are several options to do so, de
 # Research institutions
 
 * [INSPIRE Institutions](https://inspirehep.net/institutions):
-    INSPIRE Institutions contains over 11,500 institutes, laboratories, and universities, where research on particle physics and astrophysics is led. Every record includes, whenever possible, as detailed information, such as address, web links, experiments, and links to INSPIRE papers authored by people affiliated to that institution. One can search for a particular institution by name, acronym, and location.
+    INSPIRE Institutions contains around 12,000 institutes, laboratories, and universities, where research on particle physics and astrophysics is led. Every record includes, whenever possible, as detailed information, such as address, web links, experiments, and links to INSPIRE papers authored by people affiliated to that institution. One can search for a particular institution by name, acronym, and location.
 
 * [Research Organization Registry (ROR)](https://ror.org):
     The Research Organization Registry (ROR) is a global, community-led registry of open persistent identifiers for research organizations. It includes IDs and metadata for more than 100,000 organizations and counting. Registry updates are curated through a community process and released on a rolling basis.
@@ -171,13 +171,13 @@ Any contributions are highly appreciated. There are several options to do so, de
 * [ORCID](https://orcid.org):
     Registry providing persistent digital identifiers allowing to unambiguously identify researchers. Through integration in key research workflows such as manuscript and grant submission, it supports automated linkages between scientists and their professional activities ensuring that their work is recognized.
 
-    * [Twitter](https://twitter.com/orcid_org)
+    * [X (Twitter)](https://twitter.com/orcid_org)
 
 
 # Experiments
 
 * [INSPIRE Experiments](https://inspirehep.net/experiments):
-    Contains more than 3,700 past, present, and future experiments in particle physics. It lists and classifies both accelerator and non-accelerator experiments as well as theory collaborations. Includes official experiment name and number, location, and collaboration lists. Simple searches by participant, title, experiment number, institution, date approved, accelerator, or detector, return a description of the experiment, including a complete list of authors, title, overview of the experiment's goals and methods, and a link to the experiment's web page if available. Recently, it has expanded its scope to include particle accelerators besides experiments and to link them together. It has a granular taxonomy of research subjects.
+    Contains almost 4,000 past, present, and future experiments in particle physics. It lists and classifies both accelerator and non-accelerator experiments as well as theory collaborations. Includes official experiment name and number, location, and collaboration lists. Simple searches by participant, title, experiment number, institution, date approved, accelerator, or detector, return a description of the experiment, including a complete list of authors, title, overview of the experiment's goals and methods, and a link to the experiment's web page if available. Recently, it has expanded its scope to include particle accelerators besides experiments and to link them together. It has a granular taxonomy of research subjects.
 
 * [Cosmic ray/Gamma ray/Neutrino and similar experiments](https://www.mpi-hd.mpg.de/hfm/CosmicRay/CosmicRaySites.html):
     This extensive collection of experiment websites is organized by focus of study and by location. Additional sections link to educational materials, organizations, and other useful resources. The site is maintained at the Max Planck Institute for Nuclear Physics, Heidelberg.
@@ -202,8 +202,8 @@ Any contributions are highly appreciated. There are several options to do so, de
 * [IOP Careers](https://www.iop.org/careers-physics/your-future-with-physics):
     Career information and resources primarily aimed at university students are provided by the UK Institute of Physics.
 
-* [Physics Today Jobs](http://www.physicstoday.org/jobs):
-    Online recruitment advertising website for Physics Today magazine, published by the American Institute of Physics. Physics Today Jobs is the managing partner of the AIP Career Network, an online job board network for the physical science, engineering, and computing disciplines. Over 6,000 resumes are currently available, and nearly 5,000 jobs were posted in 2018.
+* [Physics Today Jobs](https://jobs.physicstoday.org/):
+    Physics Today has listings for the latest assistant, associate, and full professor roles, plus scientist jobs in specialized disciplines like theoretical physics, astronomy, condensed matter, materials, applied physics, astrophysics, optics and lasers, computational physics, plasma physics, and others.
 
 * [Physicsworld Jobs](https://www.physicsworldjobs.com/):
     A recruitment service run by IOP Publishing that connects employers from different industry sectors with jobseekers who have a background in physics and engineering.
