@@ -182,7 +182,7 @@ Any contributions are highly appreciated. There are several options to do so, de
 * [Cosmic ray/Gamma ray/Neutrino and similar experiments](https://www.mpi-hd.mpg.de/hfm/CosmicRay/CosmicRaySites.html):
     This extensive collection of experiment websites is organized by focus of study and by location. Additional sections link to educational materials, organizations, and other useful resources. The site is maintained at the Max Planck Institute for Nuclear Physics, Heidelberg.
 
-* [Wikipedia particle experiments](https://en.wikipedia.org/wiki/Category:Particle_experiments) A list of particle experiments with Wikipedia pages.
+* [Wikipedia particle experiments](https://en.wikipedia.org/wiki/Category:Particle_experiments): A list of particle experiments with Wikipedia pages.
 
 # Jobs
 
@@ -232,7 +232,9 @@ Most relevant software is hosted by general-purpose repositories like GitHub, Gi
 
 ## Particle physics software
 
-Most custom particle physics software is maintained by collaborations. These collaborations are listed in the  [INSPIRE](https://inspirehep.net/experiments/)  database. Here we present a list of these software packages, sorted by the INSPIRE Experiments classification. The links point to the record in the Experiments database.
+Most custom particle physics software is maintained by collaborations. These collaborations
+(usually theory collaborations rather than experimental collaborations) are listed in the  [INSPIRE](https://inspirehep.net/experiments/)  database. Here we present a list of these software packages,
+sorted by the INSPIRE Experiments classification. The links point to the record in the Experiments database.
 
 ### Data Analysis
 
@@ -406,6 +408,9 @@ Most custom particle physics software is maintained by collaborations. These col
 * [OpenLoops](https://inspirehep.net/experiments/2644147):
     A fully automated implementation for fast numerical evaluation of tree and one-loop matrix elements for any Standard Model process.
 
+* [PHOTOS](https://inspirehep.net/experiments/2697498):
+    A Universal Monte Carlo for QED radiative corrections
+
 * [POWHEG](https://inspirehep.net/experiments/1775081):
     A framework to match next-to-leading-order calculations with event generators.
 
@@ -429,7 +434,9 @@ Most custom particle physics software is maintained by collaborations. These col
 
 ## Astrophysics software
 
-Most custom astrophysics software is maintained by collaborations. These collaborations are listed in the  [INSPIRE](https://inspirehep.net/experiments/)  database. Here we present a list of these software packages, sorted by the INSPIRE Experiments classification. The links point to the record in the Experiments database.
+Most custom astrophysics software is maintained by collaborations. These collaborations
+(usually theory collaborations rather than experimental collaborations) are listed in the  [INSPIRE](https://inspirehep.net/experiments/)  database. Here we present a list of these software packages,
+sorted by the INSPIRE Experiments classification. The links point to the record in the Experiments database.
 
 ### Data Analysis
 
