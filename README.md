@@ -165,8 +165,14 @@ Any contributions are highly appreciated. There are several options to do so, de
 
 # People
 
+* [Astronomy Genealogy Project](https://astrogen.aas.org/):
+    The goal of the Astronomy Genealogy Project (AstroGen) is to list as many as possible of the world's astronomers (and their doctoral theses) with their academic parents (thesis advisors) and enable the reader to trace both academic ancestors and descendants. It is similar to the highly successful Mathematics Genealogy Project, but contains such additional information as links to theses, universities, and astronomers. AstroGen is a project of the Historical Astronomy Division (HAD) of the American Astronomical Society (AAS).
+
 * [INSPIRE Authors](https://inspirehep.net/authors):
     Searchable worldwide database of more than a hundred thousand active, departed, retired, and deceased people associated with particle physics and related fields. The affiliation history of these researchers, their e-mail addresses, ORCIDs, web pages, experiments they participated in, PhD advisor, information on their graduate students and links to their papers and seminars are provided, as well as a user interface to update this information.
+
+* [Mathematics Genealogy Project](https://www.genealogy.math.ndsu.nodak.edu/):
+    The intent of this project is to compile information about ALL the mathematicians of the world. We earnestly solicit information from all schools who participate in the development of research level mathematics and from all individuals who may know desired information. The Mathematics Genealogy Project is a service of the NDSU Department of Mathematics, in association with the American Mathematical Society.
 
 * [ORCID](https://orcid.org):
     Registry providing persistent digital identifiers allowing to unambiguously identify researchers. Through integration in key research workflows such as manuscript and grant submission, it supports automated linkages between scientists and their professional activities ensuring that their work is recognized.
@@ -310,6 +316,14 @@ sorted by the INSPIRE Experiments classification. The links point to the record 
 
 * [xFitter](https://inspirehep.net/experiments/2156428):
     An open source QCD fit framework to extract PDFs and assess the impact of new data.
+
+### Simulation tools
+
+* [CoVVVR](https://inspirehep.net/experiments/2702973):
+    This package is a wrapper over the VEGAS integration package. The control variate variance reduction method is applied to the function when integrated along with the techniques applied in VEGAS such as importance sampling.
+
+* [VEGAS](https://inspirehep.net/experiments/2702974):
+    A general purpose algorithm for multidimensional integration. It is an iterative and adaptive Monte Carlo scheme.
 
 ### Simulation tools - Detector Simulation
 
