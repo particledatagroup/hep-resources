@@ -810,7 +810,7 @@ A collection of online tests, video lectures, and related course materials from 
 
 ## News
 
-# Newsletters and Magazines 
+### Newsletters and Magazines 
 
 * **Asimmetrie:**
     Bimonthly magazine about particle physics published by INFN, the Istituto Nazionale di Fisica Nucleare (in Italian).
@@ -845,14 +845,14 @@ A collection of online tests, video lectures, and related course materials from 
     * Website: <https://www.symmetrymagazine.org>
     * X (Twitter): [`@symmetrymag`](https://twitter.com/symmetrymag)
 
-# Online news
+### Online news
 
 * **CERN News:**
     * Website: <https://home.cern/news?audience=23>
     * X (Twitter): [`@CERN`](https://twitter.com/CERN)
 
 * **Fermilab News:**
-    * Website: [`https://news.fnal.gov`](https://news.fnal.gov)
+    * Website: <https://news.fnal.gov>
     * X (Twitter): [`@Fermilab`](https://twitter.com/Fermilab)
 
 * **Interactions.org:**
@@ -874,11 +874,11 @@ A collection of online tests, video lectures, and related course materials from 
     * Website: <https://astrobites.org>
 
 * **Perimeter Institute News:**
-    * Website: [`https://www.perimeterinstitute.ca/news`](https://www.perimeterinstitute.ca/news)
+    * Website: <https://www.perimeterinstitute.ca/news>
     * X (Twitter): [`@perimeter`](https://twitter.com/perimeter)
 
 * **Sandford News and Events:**
-    * Website: [`https://sanfordlab.org/news-and-events`](https://sanfordlab.org/news-and-events)
+    * Website: <https://sanfordlab.org/news-and-events>
     * X (Twitter): [`@SanfordLab`](https://twitter.com/SanfordLab)
 
 * **SNOLAB News and Headline:**
@@ -896,7 +896,7 @@ A collection of online tests, video lectures, and related course materials from 
 
     The [Collide](https://arts.cern/programme/collide) residency programme aims to develop expert knowledge in the arts through the connection with fundamental science. Since 2011 the COLLIDE award calls to artists to win a fully funded residency for up to 3 months.
 
-    Connect is a residency program launched in 2021 with the Swiss Arts Council Pro Helvetia. It offers a combined residency: at CERN and at an international location in collaboration with scientific and cultural organizations in Chile, South Africa, and India.
+    [Connect](https://arts.cern/programme/connect) is a residency program launched in 2021 with the Swiss Arts Council Pro Helvetia. It offers a combined residency: at CERN and at an international location in collaboration with scientific and cultural organizations in Chile, South Africa, and India.
 
 * [Art of Physics Competition](https://www.cap.ca/programs/art-physics/):
     The Canadian Association of Physicists organizes this competition. The first was launched in 1992, with the aim of stimulating interest, especially among non-scientists, in some of the captivating imagery associated with physics. The challenge is to capture photographically a beautiful or unusual physics phenomenon and explain it in less than 200 words in terms that everyone can understand.
