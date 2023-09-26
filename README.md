@@ -56,6 +56,8 @@ Any contributions are highly appreciated. There are several options to do so, de
    * [Lab Education Offices](#lab-education-offices)
    * [Educational Programs of Experiments](#educational-programs-of-experiments)
    * [News](#news)
+      * [Newsletters and Magazines](newsletters-and-magazines)
+      * [Online news](#online-news) 
    * [Art in Physics](#art-in-physics)
    * [Social Media](#social-media)
 * [High Energy Physics in developing regions](#high-energy-physics-in-developing-regions)
@@ -824,7 +826,7 @@ A collection of online tests, video lectures, and related course materials from 
 
 * **DESY inForm:**
     The DESY newsletter that provides insight into both new developments in the scientific area and news from everyday life at DESY.
-    * Website: [`https://www.desy.de/news/desy_inform/index_eng.html`](https://www.desy.de/news/desy_inform/index_eng.html)
+    * Website: <https://www.desy.de/news/desy_inform/index_eng.html> 
     * X (Twitter): [`@desy`](https://twitter.com/desy)
 
 * **ILC Newsline:**
