@@ -641,7 +641,7 @@ A collection of online tests, video lectures, and related course materials from 
 ## Masterclasses
 
 * **Cosmic Ray Studies:**
-    There are more than 12 projects around the world that address young people and teachers giving them an opportunity to explore cosmic particles, collecting, uploading and analyzing data and sharing results. Two annual events include [International Cosmic Day](https://icd.desy.de) and [International Muon Week](https://quarknet.org/content/international-muon-week).
+    There are more than 12 projects around the world that address young people and teachers giving them an opportunity to explore cosmic particles, collecting, uploading and analyzing data and sharing results. Two annual events include [International Cosmic Day](https://icd.desy.de) and [International Muon Week](https://quarknet.org/content/cosmic-ray-studies-library).
 
 * [Hands-On Universe](http://handsonuniverse.org/):
     This program enables students to investigate the Universe while applying tools and concepts from science, math and technology.
