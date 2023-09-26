@@ -56,7 +56,7 @@ Any contributions are highly appreciated. There are several options to do so, de
    * [Lab Education Offices](#lab-education-offices)
    * [Educational Programs of Experiments](#educational-programs-of-experiments)
    * [News](#news)
-      * [Newsletters and Magazines](newsletters-and-magazines)
+      * [Newsletters and Magazines](#newsletters-and-magazines)
       * [Online news](#online-news) 
    * [Art in Physics](#art-in-physics)
    * [Social Media](#social-media)
