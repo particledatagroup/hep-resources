@@ -820,7 +820,7 @@ A collection of online tests, video lectures, and related course materials from 
 
 * **CERN Courier:**
     The website and associated print magazine highlight the latest developments in particle physics and related fields, wherever they happen in the world. Produced at CERN, published by IOPP.
-    * Website: [`https://cerncourier.com`](https://cerncourier.com)
+    * Website: <https://cerncourier.com>
     * X (Twitter): [`@cerncourier`](https://twitter.com/cerncourier)
     * LinkedIn: <https://www.linkedin.com/company/cern-courier>
 
@@ -838,7 +838,7 @@ A collection of online tests, video lectures, and related course materials from 
     Issued 4 times a year, this bulletin provides information on new scientific results obtained at JINR Laboratories, on progress in performance of large-scale experiments, on construction of new installations, discoveries, etc.
     * Website: <http://www1.jinr.ru/News/Jinrnews_index.html>
 
-* [SLAC Signals](http://eepurl.com/IqPl1):
+* **SLAC Signals:**
     This email newsletter reports about cutting-edge science, major SLAC milestones and other lab information. It has replaced SLAC Today in November 2013.
     * Website (for subscription): <https://stanford.us4.list-manage.com/subscribe?u=3d15dbc88cbbdafa6be87d296&id=7eb4562c9a> 
 
