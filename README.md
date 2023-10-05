@@ -64,6 +64,8 @@ Any contributions are highly appreciated. There are several options to do so, de
    * [Lab Education Offices](#lab-education-offices)
    * [Educational Programs of Experiments](#educational-programs-of-experiments)
    * [News](#news)
+      * [Newsletters and Magazines](#newsletters-and-magazines)
+      * [Online news](#online-news) 
    * [Art in Physics](#art-in-physics)
    * [Social Media](#social-media)
    * [High Energy Physics in developing regions](#high-energy-physics-in-developing-regions)
@@ -102,7 +104,7 @@ Any contributions are highly appreciated. There are several options to do so, de
     INSPIRE serves as a one-stop information platform for the particle physics community, comprising interlinked databases on literature, authors, jobs, seminars, conferences, institutions and experiments (each described in more detail below). Run in collaboration by CERN (which hosts INSPIRE), DESY, Fermilab, IHEP, IN2P3 and SLAC, it has been serving the scientific community for almost 50 years. Previously hosted at SLAC and known as SPIRES, it was the first website outside Europe and the first database on the web. Close interaction with the user community and with arXiv, ADS, HEPData, ORCID, PDG and publishers is the backbone of INSPIRE's evolution. Since 2020, it is running on a modernized platform that is continuously being improved.
 
     * [Blog](https://blog.inspirehep.net/)
-    * [Twitter](https://twitter.com/inspirehep)
+    * [X (Twitter)](https://twitter.com/inspirehep)
 
 # Literature databases
 
@@ -110,14 +112,14 @@ Any contributions are highly appreciated. There are several options to do so, de
     The SAO/NASA Astrophysics Data System is a Digital Library portal offering access to 15 million bibliographic records in Astronomy and Physics.  The ADS search engine also indexes the full-text for many publications in this collection and tracks citations.  The system also provides access and links to a wealth of external resources, including electronic articles hosted by publishers and arXiv, data catalogs and a variety of data products hosted by the astronomy archives worldwide.
 
     * [Blog](https://ui.adsabs.harvard.edu/blog)
-    * [Twitter](https://twitter.com/adsabs)
+    * [X (Twitter)](https://twitter.com/adsabs)
 
 
 * [arXiv.org](https://arXiv.org):
     A repository of full-text articles in physics, astronomy, mathematics, computer science, statistics, nonlinear sciences, quantitative finance, quantitative biology, electrical engineering and systems science, and economics. Papers are submitted by registered authors to arXiv, often as preprints in advance of submission to a journal for publication; includes postprints, working papers, and other relevant material. Established in 1991, the repository is interlinked with ADS and INSPIRE, among others. Readers can browse subject categories or search by author, title, abstract, date, and other fields. Receive daily update alerts for subfields by email or RSS.
 
     * [Blog](https://blogs.cornell.edu/arXiv)
-    * [Twitter](https://twitter.com/arxiv)
+    * [X (Twitter)](https://twitter.com/arxiv)
 
 * [CDS](http://cds.cern.ch):
     The CERN Document Server contains records of about 700,000 CERN and non-CERN articles, preprints, theses. It includes records for internal and technical notes, official CERN committee documents, and multimedia objects. CDS is planning to focus on its role as an institutional repository covering all CERN material from the early 50s and reflecting the holdings of the CERN library. Non-CERN particle and accelerator physics content is in the process of being exported to INSPIRE.
@@ -137,23 +139,27 @@ Any contributions are highly appreciated. There are several options to do so, de
 * [OSTI.GOV](https://www.osti.gov):
     A portal to free, publicly available DOE-sponsored R&D results including technical reports, bibliographic citations, journal articles, conference papers, books, multimedia and data information. It consolidates OSTI’s home page and the now-retired primary search tool SciTech Connect. It contains over 3 million records, including citations to 1.5 million journal articles, 1 million of which have digital object identifiers (DOIs) linking to full-text articles on publishers' websites.
 
-    * [Twitter](https://twitter.com/OSTIgov)
+    * [X (Twitter)](https://twitter.com/OSTIgov)
 
 
 # Journals
 
-* [SCOAP³ Journals](https://scoap3.org/phase3-journals/):
-    A list of journals currently financed by the SCOAP³ consortium. All HEP publications in those journals are made freely available under Open Access conditions at no cost for the authors.
 * [CERN Journal List](https://scientific-info.cern/submit-and-publish/publish-open-access):
     This list of journals and conference series publishing particle physics content provides information on Open Access, copyright policies and terms of use for CERN authors.
+
+* [INSPIRE Journals](https://inspirehep.net/journals):
+    A database of almost 4,000 journals relevant to HEP and related fields. Each entry displays the papers published in the journal that are included in the INSPIRE Literature database.
+
+* [SCOAP³ Journals](https://scoap3.org/phase3-journals/):
+    A list of journals currently financed by the SCOAP³ consortium. All HEP publications in those journals are made freely available under Open Access conditions at no cost for the authors.
 
 # Conference and seminars databases
 
 * [INSPIRE Conferences](https://inspirehep.net/conferences):
-    The database of more than 26,000 past, present, and future conferences, schools, and meetings relevant to high-energy physics and related fields is searchable by title, acronym, series, date and location. Included are information about published proceedings, links to conference contributions in the INSPIRE HEP database, and links to the conference website when available. New conferences can be submitted from the entry page.
+    The database of almost 30,000 past, present, and future conferences, schools, and meetings relevant to high-energy physics and related fields is searchable by title, acronym, series, date and location. Included are information about published proceedings, links to conference contributions in the INSPIRE HEP database, and links to the conference website when available. New conferences can be submitted from the entry page.
 
 * [INSPIRE Seminars](https://inspirehep.net/seminars)
-    Created to support the surge of online seminars during the COVID-19 pandemic, this database already contains more than 2,700 seminars in high-energy physics and related fields. Seminars can be filtered by date, series and subject and exported to a calendar. Direct links to join the online seminar and external resources are included. All seminars are community-maintained and can be submitted from the entry page.
+    Created to support the surge of online seminars during the COVID-19 pandemic, this database already contains almost 3,000 seminars in high-energy physics and related fields. Seminars can be filtered by date, series and subject and exported to a calendar. Direct links to join the online seminar and external resources are included. All seminars are community-maintained and can be submitted from the entry page.
 
 * [researchseminars.org](https://researchseminars.org)
     A list of research seminars and conferences, organized by topic and seminars series or conference.
@@ -161,31 +167,37 @@ Any contributions are highly appreciated. There are several options to do so, de
 # Research institutions
 
 * [INSPIRE Institutions](https://inspirehep.net/institutions):
-    INSPIRE Institutions contains over 11,500 institutes, laboratories, and universities, where research on particle physics and astrophysics is led. Every record includes, whenever possible, as detailed information, such as address, web links, experiments, and links to INSPIRE papers authored by people affiliated to that institution. One can search for a particular institution by name, acronym, and location.
+    INSPIRE Institutions contains around 12,000 institutes, laboratories, and universities, where research on particle physics and astrophysics is led. Every record includes, whenever possible, as detailed information, such as address, web links, experiments, and links to INSPIRE papers authored by people affiliated to that institution. One can search for a particular institution by name, acronym, and location.
 
 * [Research Organization Registry (ROR)](https://ror.org):
     The Research Organization Registry (ROR) is a global, community-led registry of open persistent identifiers for research organizations. It includes IDs and metadata for more than 100,000 organizations and counting. Registry updates are curated through a community process and released on a rolling basis.
 
 # People
 
+* [Astronomy Genealogy Project](https://astrogen.aas.org/):
+    The goal of the Astronomy Genealogy Project (AstroGen) is to list as many as possible of the world's astronomers (and their doctoral theses) with their academic parents (thesis advisors) and enable the reader to trace both academic ancestors and descendants. It is similar to the highly successful Mathematics Genealogy Project, but contains such additional information as links to theses, universities, and astronomers. AstroGen is a project of the Historical Astronomy Division (HAD) of the American Astronomical Society (AAS).
+
 * [INSPIRE Authors](https://inspirehep.net/authors):
     Searchable worldwide database of more than a hundred thousand active, departed, retired, and deceased people associated with particle physics and related fields. The affiliation history of these researchers, their e-mail addresses, ORCIDs, web pages, experiments they participated in, PhD advisor, information on their graduate students and links to their papers and seminars are provided, as well as a user interface to update this information.
+
+* [Mathematics Genealogy Project](https://www.genealogy.math.ndsu.nodak.edu/):
+    The intent of this project is to compile information about ALL the mathematicians of the world. The Mathematics Genealogy Project is a service of the NDSU Department of Mathematics, in association with the American Mathematical Society.
 
 * [ORCID](https://orcid.org):
     Registry providing persistent digital identifiers allowing to unambiguously identify researchers. Through integration in key research workflows such as manuscript and grant submission, it supports automated linkages between scientists and their professional activities ensuring that their work is recognized.
 
-    * [Twitter](https://twitter.com/orcid_org)
+    * [X (Twitter)](https://twitter.com/orcid_org)
 
 
 # Experiments
 
 * [INSPIRE Experiments](https://inspirehep.net/experiments):
-    Contains more than 3,700 past, present, and future experiments in particle physics. It lists and classifies both accelerator and non-accelerator experiments as well as theory collaborations. Includes official experiment name and number, location, and collaboration lists. Simple searches by participant, title, experiment number, institution, date approved, accelerator, or detector, return a description of the experiment, including a complete list of authors, title, overview of the experiment's goals and methods, and a link to the experiment's web page if available. Recently, it has expanded its scope to include particle accelerators besides experiments and to link them together. It has a granular taxonomy of research subjects.
+    Contains almost 4,000 past, present, and future experiments in particle physics. It lists and classifies both accelerator and non-accelerator experiments as well as theory collaborations. Includes official experiment name and number, location, and collaboration lists. Simple searches by participant, title, experiment number, institution, date approved, accelerator, or detector, return a description of the experiment, including a complete list of authors, title, overview of the experiment's goals and methods, and a link to the experiment's web page if available. Recently, it has expanded its scope to include particle accelerators besides experiments and to link them together. It has a granular taxonomy of research subjects.
 
 * [Cosmic ray/Gamma ray/Neutrino and similar experiments](https://www.mpi-hd.mpg.de/hfm/CosmicRay/CosmicRaySites.html):
     This extensive collection of experiment websites is organized by focus of study and by location. Additional sections link to educational materials, organizations, and other useful resources. The site is maintained at the Max Planck Institute for Nuclear Physics, Heidelberg.
 
-* [Wikipedia particle experiments](https://en.wikipedia.org/wiki/Category:Particle_experiments) A list of particle experiments with Wikipedia pages.
+* [Wikipedia particle experiments](https://en.wikipedia.org/wiki/Category:Particle_experiments): A list of particle experiments with Wikipedia pages.
 
 # Jobs
 
@@ -198,17 +210,18 @@ Any contributions are highly appreciated. There are several options to do so, de
 * [APS Careers](https://www.aps.org/careers/employment):
     A gateway for physicists, students, and physics enthusiasts to information about physics jobs and careers. It contains Physics job listings, career advice, upcoming workshops and meetings, and career and job-related resources provided by the American Physical Society.
 
-* [Physicsworld Jobs](https://www.physicsworldjobs.com/):
-    A recruitment service run by IOP Publishing that connects employers from different industry sectors with jobseekers who have a background in physics and engineering.
+* [INSPIRE Jobs](https://inspirehep.net/jobs):
+    Lists academic and research jobs in high energy physics, nuclear physics, accelerator physics and astrophysics with the option to post a job or to receive email notices of new job listings.
+    Several hundreds of jobs are listed all year round, with more activity during the application season.
 
 * [IOP Careers](https://www.iop.org/careers-physics/your-future-with-physics):
     Career information and resources primarily aimed at university students are provided by the UK Institute of Physics.
 
-* [INSPIRE Jobs](https://inspirehep.net/jobs):
-    Lists academic and research jobs in high energy physics, nuclear physics, accelerator physics and astrophysics with the option to post a job or to receive email notices of new job listings. Several hundreds of jobs are listed all year round, with more activity during the application season.
+* [Physics Today Jobs](https://jobs.physicstoday.org/):
+    Physics Today has listings for the latest assistant, associate, and full professor roles, plus scientist jobs in specialized disciplines like theoretical physics, astronomy, condensed matter, materials, applied physics, astrophysics, optics and lasers, computational physics, plasma physics, and others.
 
-* [Physics Today Jobs](http://www.physicstoday.org/jobs):
-    Online recruitment advertising website for Physics Today magazine, published by the American Institute of Physics. Physics Today Jobs is the managing partner of the AIP Career Network, an online job board network for the physical science, engineering, and computing disciplines. Over 6,000 resumes are currently available, and nearly 5,000 jobs were posted in 2018.
+* [Physicsworld Jobs](https://www.physicsworldjobs.com/):
+    A recruitment service run by IOP Publishing that connects employers from different industry sectors with jobseekers who have a background in physics and engineering.
 
 # Software packages and repositories
 Most relevant software is hosted by general-purpose repositories like GitHub, GitLab or BitBucket, but here are a few specific repositories focused on astrophysics or HEP.
@@ -234,7 +247,9 @@ Most relevant software is hosted by general-purpose repositories like GitHub, Gi
 
 ## Particle physics software
 
-Most custom particle physics software is maintained by collaborations. These collaborations are listed in the  [INSPIRE](https://inspirehep.net/experiments/)  database. Here we present a list of these software packages, sorted by the INSPIRE Experiments classification. The links point to the record in the Experiments database.
+Most custom particle physics software is maintained by collaborations. These collaborations
+(usually theory collaborations rather than experimental collaborations) are listed in the  [INSPIRE](https://inspirehep.net/experiments/)  database. Here we present a list of these software packages,
+sorted by the INSPIRE Experiments classification. The links point to the record in the Experiments database.
 
 ### Data Analysis
 
@@ -299,11 +314,8 @@ Most custom particle physics software is maintained by collaborations. These col
 * [MAP-Collaboration](https://inspirehep.net/experiments/2660446):
     The MAP collaboration is aimed at studying the three-dimensional structure of hadrons.
 
-* [MMHT](https://inspirehep.net/experiments/1778079):
-    Standalone interface code and grids for the Martin, Motylinski, Harland-Lang, Thorne (MMHT) 2014 LO, NLO and NNLO PDFs.
-
-* [MSTW](https://inspirehep.net/experiments/1778272):
-    Standalone interface code and grids for the MSTW 2008 (LO, NLO, NNLO) PDFs.
+* [MSHT](https://inspirehep.net/experiments/2701410):
+    Stand-alone Fortran, C++ and Mathematica code to provide public access to the MSHT20 PDFs.
 
 * [NNPDF](https://inspirehep.net/experiments/1775085):
     NNPDF determines PDFs using as an unbiased modeling tool Neural Networks, trained using Genetic Algorithms, and used to construct a Monte Carlo representation of PDFs and their uncertainties: a probability distribution in a space of functions.
@@ -313,6 +325,11 @@ Most custom particle physics software is maintained by collaborations. These col
 
 * [xFitter](https://inspirehep.net/experiments/2156428):
     An open source QCD fit framework to extract PDFs and assess the impact of new data.
+
+### Simulation tools
+
+* [VEGAS](https://inspirehep.net/experiments/2702974):
+    A general purpose algorithm for multidimensional integration. It is an iterative and adaptive Monte Carlo scheme.
 
 ### Simulation tools - Detector Simulation
 
@@ -367,7 +384,7 @@ Most custom particle physics software is maintained by collaborations. These col
     Mathematica package for symbolic evaluation of Feynman diagrams and algebraic calculations in quantum field theory and elementary particle physics.
 
 * [FeynRules](https://inspirehep.net/experiments/1778072):
-    Mathematica® package that allows the calculation of Feynman rules in momentum space for any QFT physics model.
+    Mathematica package that allows the calculation of Feynman rules in momentum space for any QFT physics model.
 
 * [GENIE](https://inspirehep.net/experiments/1780077):
     Modern and universal event generator framework and tools in support of neutrino experiments.
@@ -391,7 +408,7 @@ Most custom particle physics software is maintained by collaborations. These col
     Comprehensive software framework to provide a systematic, rigorous approach to simulating the complex dynamical environment of relativistic heavy-ion collisions.
 
 * [MC@NLO](https://inspirehep.net/experiments/2652578):
-    Fortran package to implement a scheme for combining a Monte Carlo event generator with Next-to-Leading-Order calculations of rates for QCD processes.
+    Fortran package to implement a scheme for combining a Monte Carlo event generator with next-to-leading-order calculations of rates for QCD processes.
 
 * [MCFM](https://inspirehep.net/experiments/1778075):
     MCFM (Monte Carlo for FeMtobarn processes) is a program designed to calculate cross-sections for various femtobarn-level processes at hadron-hadron colliders.
@@ -407,6 +424,9 @@ Most custom particle physics software is maintained by collaborations. These col
 
 * [OpenLoops](https://inspirehep.net/experiments/2644147):
     A fully automated implementation for fast numerical evaluation of tree and one-loop matrix elements for any Standard Model process.
+
+* [PHOTOS](https://inspirehep.net/experiments/2697498):
+    A Universal Monte Carlo for QED radiative corrections
 
 * [POWHEG](https://inspirehep.net/experiments/1775081):
     A framework to match next-to-leading-order calculations with event generators.
@@ -431,7 +451,9 @@ Most custom particle physics software is maintained by collaborations. These col
 
 ## Astrophysics software
 
-Most custom astrophysics software is maintained by collaborations. These collaborations are listed in the  [INSPIRE](https://inspirehep.net/experiments/)  database. Here we present a list of these software packages, sorted by the INSPIRE Experiments classification. The links point to the record in the Experiments database.
+Most custom astrophysics software is maintained by collaborations. These collaborations
+(usually theory collaborations rather than experimental collaborations) are listed in the  [INSPIRE](https://inspirehep.net/experiments/)  database. Here we present a list of these software packages,
+sorted by the INSPIRE Experiments classification. The links point to the record in the Experiments database.
 
 ### Data Analysis
 
@@ -443,6 +465,9 @@ Most custom astrophysics software is maintained by collaborations. These collabo
 
 * [Cosmoglobe](https://inspirehep.net/experiments/2642358):
     Cosmoglobe is a collaboration between individual scientists aiming to understand the microwave sky, working together within an Open Science framework.
+
+* [Gammapy](https://inspirehep.net/experiments/2691581):
+    Gammapy is a community-developed, open-source Python package for gamma-ray astronomy built on Numpy, Scipy and Astropy.
 
 * [Starlink](https://inspirehep.net/experiments/2644500):
     Starlink was a UK Project supporting astronomical data processing. It was shut down in 2005 but its open-source software continued to be developed at the Joint Astronomy Centre until March 2015. It is currently maintained by the East Asian Observatory. The open-source software products are a collection of applications and libraries, usually focused on a specific aspect of data reduction or analysis.
@@ -553,7 +578,13 @@ The data from HEPData can also be accessed through INSPIRE. A new enhanced servi
     The National Institute of Standards and Technology provides access to physical reference data (physical constants, atomic spectroscopy data, x-ray and gamma-ray data, radiation dosimetry data, nuclear physics data and more) and measurements and calibrations data (dimensional and electromagnetic measurements).
 
 * [Springer Materials  - The Landolt-Börnstein Database](https://materials.springer.com):
-    Landolt-Börnstein is a data collection covering all areas of physical sciences and engineering, such as particle physics, electronic structure and transport, magnetism, superconductivity. International experts scan the primary literature in more than 8,000 peer-reviewed journals and evaluate and select the most valid information to be included in the database. It includes more than 130,000 online documents, 1,2 million references, and covers 250,000 chemical substances. SpringerMaterials Interactive allows to visualise and analyse data.
+
+    Landolt-Börnstein is a data collection covering all areas of physical sciences and engineering, such as 
+particle physics, electronic structure and transport, magnetism, superconductivity. International experts scan 
+the primary literature in more than 8,000 peer-reviewed journals and evaluate and select the most useful 
+information to be included in the database. It includes more than 130,000 online documents, 1,2 million 
+references, and covers 250,000 chemical substances. SpringerMaterials Interactive allows one to visualise and 
+analyse data.
     The search functionality is freely accessible and the search results are displayed in their context, whereas the full text is secured to subscribers.
 
 ## Data preservation activities
@@ -582,7 +613,7 @@ The data from HEPData can also be accessed through INSPIRE. A new enhanced servi
 
 More formal and advanced data preservation activity is ongoing in the field of Experimental Astrophysics, including:
 
-* Fermi Data <https://fermi.gsfc.nasa.gov/ssc/data>
+* Fermi Gamma-ray Space Telescope Data <https://fermi.gsfc.nasa.gov/ssc/data>
 * IVOA (International Virtual Observatory Alliance) <https://www.ivoa.net/astronomers/applications.html>
 * GWOSC (Gravitational Wave Open Science Center) <https://www.gw-openscience.org/about/>
 * PLA (Planck Legacy Archive)  <https://pla.esac.esa.int/pla/>
@@ -595,16 +626,16 @@ A useful list of resources can also be found at <https://stfc.ukri.org/research/
 ## Science Educators' Networks
 
 * [IPPOG](https://ippog.org):
-    The International Particle Physics Outreach Group is a network of scientists, science educators and communication specialists working across the globe in informal science education and outreach for particle physics. The IPPOG collaboration comprises 30 members: 24 countries, 5 experiments and CERN as an international laboratory.
+    The International Particle Physics Outreach Group is a network of scientists, science educators and communication specialists working across the globe in informal science education and outreach for particle physics. The IPPOG collaboration comprises 30 members: 33 countries, 6 experiments and CERN as an international laboratory. Two national laboratories (DESY and GSI) are Associated Members.
 
 * [Interactions.org](https://interactions.org):
-    Designed to serve as a central resource for communicators of particle physics. The daily updated website provides links to current particle physics news from the world's press, high-resolution photos and graphics from the particle physics laboratories of the world; links to education and outreach programs; information about science policy and funding; a glossary; and links to many educational sites.
+    Designed to serve as a central resource for communicators of particle physics, the regularly updated website provides links to current particle physics news from the world's media as well as press releases from member labs, high-resolution photos and graphics from the particle physics laboratories of the world; thematic hubs (10th anniversary of the Higgs boson, Dark Matter Day).
 
 * [QuarkNet](https://quarknet.org/):
     The QuarkNet Collaboration is a national program that partners high school science teachers with particle physicists working in experiments at CERN or Fermilab. The network consists of over 50 centers at research groups in universities and labs across the United States. About 100,000 students from 500+ U.S. high schools learn fundamental physics as they participate in inquiry-oriented investigations and analyze authentic data online. QuarkNet is supported in part by the National Science Foundation and Fermilab.
 
 * [Netzwerk Teilchenwelt](https://www.teilchenwelt.de):
-    Behind the project are about 200 researchers from 30 institutes and universities doing research in particle physics, astroparticle physics and hadron and nuclear physics in Germany. Exciting young scientists throughout Germany for particle physics and accompanying them from school to top-level particle physics research—that's what they have set their sights on.
+    Behind the project are about 200 researchers from 30 institutes and universities doing research in particle physics, astroparticle physics and hadron and nuclear physics in Germany and at CERN. Exciting young scientists throughout Germany for particle physics and accompanying them from school to top-level particle physics research—that's what they have set their sights on.
 
 ## Physics Courses
 
@@ -617,11 +648,7 @@ A collection of online tests, video lectures, and related course materials from 
 ## Masterclasses
 
 * **Cosmic Ray Studies:**
-    There are more than 12 projects around the world that address young people and teachers giving them an opportunity to explore cosmic particles, collecting, uploading and analyzing data and sharing results. Two annual events include International Cosmic Day and International Muon Week.
-
-    <https://icd.desy.de>
-
-    <https://quarknet.org/content/international-muon-week>
+    There are more than 12 projects around the world that address young people and teachers giving them an opportunity to explore cosmic particles, collecting, uploading and analyzing data and sharing results. Two annual events include [International Cosmic Day](https://icd.desy.de) and [International Muon Week](https://quarknet.org/content/cosmic-ray-studies-library).
 
 * [Hands-On Universe](http://handsonuniverse.org/):
     This program enables students to investigate the Universe while applying tools and concepts from science, math and technology.
@@ -630,19 +657,21 @@ A collection of online tests, video lectures, and related course materials from 
     HYPATIA (Hybrid Pupil’s Analysis Tool for Interactions in ATLAS) is a tool for high school students to inspect the graphic visualization of particle collision products in the ATLAS detector at CERN.
 
 * **International Masterclasses:**
-    Each year about 13,000 high school students in 55 countries come to one of about 225 nearby universities or research centres for a day to unravel the mysteries of particle physics. Lectures from active scientists give insight in topics and methods of basic research enabling the students to perform measurements on real data from one of seven experiments. At the end of the day, like an international research collaboration, participants join a video conference for discussion and combination of results. The program is coordinated from Institut fur Kern- und Teilchenphysik at TU Dresden and the Notre Dame University QuarkNet Center within the framework of the International Particle Physics Outreach Group (IPPOG). CERN, Fermilab and TRIUMF support videoconferences. <https://physicsmasterclasses.org>
-    World Wide Data Day is an annual event. <https://quarknet.org/content/world-wide-data-day>
+    Each year about 13,000 high school students in 55 countries come to one of about 225 nearby universities or research centres for a day to unravel the mysteries of particle physics. Lectures from active scientists give insight in topics and methods of basic research enabling the students to perform measurements on real data from one of seven experiments. At the end of the day, like an international research collaboration, participants join a video conference for discussion and combination of results. The program is coordinated from Institut fur Kern- und Teilchenphysik at TU Dresden and the Notre Dame University QuarkNet Center within the framework of the International Particle Physics Outreach Group (IPPOG). CERN, Fermilab and TRIUMF support videoconferences. 
+
+* [World Wide Data Day](https://quarknet.org/content/world-wide-data-day):
+    An annual event in which students from around the world can analyze data from the Large Hadron Collider and share results over a 24-hour span, with videoconferences with physicists in locations around the world.
 
 * **LHC physics Masterclasses:**
     Lectures from active scientists give insight into methods of basic research, enabling the students to perform measurements on real data from LHC experiments. Like in a real research collaboration, the participants then discuss their results and compare with expectations.
 
-    <https://cms.cern/interact-with-cms/cms-physics-masterclass>
+    ALICE: <https://www.physicsmasterclasses.org/index.php?cat=physics&page=alice>
 
-    <http://lhcb-public.web.cern.ch/lhcb-public/en/LHCb-outreach/masterclasses/en>
+    ATLAS: <http://atlas-minerva.web.cern.ch/atlas-minerva>
 
-    <https://www.physicsmasterclasses.org/index.php?cat=physics&page=alice>
+    CMS: <https://cms.cern/interact-with-cms/cms-physics-masterclass>
 
-    <http://atlas-minerva.web.cern.ch/atlas-minerva>
+    LHCb: <http://lhcb-public.web.cern.ch/lhcb-public/en/LHCb-outreach/masterclasses/en>
 
 * [IceCube Masterclass](https://masterclass.icecube.wisc.edu/):
     The program is inspired by the International Masterclasses program started by IPPOG and is coordinated by the Wisconsin IceCube Particle Astrophysics Center with support from QuarkNet.
@@ -653,8 +682,8 @@ A collection of online tests, video lectures, and related course materials from 
 * [Contemporary Physics Education Project (CPEP)](https://www.cpepphysics.org/):
     CPEP offers beautifully illustrated charts that present the current understanding of physics in areas ranging from quarks to the cosmos, incorporating recent discoveries such as the Higgs boson and gravitational waves.
 
-* [PhysicsCentral](http://www.physicscentral.com):
-    This site maintained by the American Physical Society provides information about current research and people in physics, experiments that can be performed at home or at school and the possibility to get physics questions answered by physicists.
+* [APS Public Engagement](http://www.physicscentral.com):
+    This site maintained by the American Physical Society provides information about the APS’ public engagement in science program, including resources for physicists, teachers and students.
 
 ## General Physics Activities
 
@@ -664,17 +693,17 @@ A collection of online tests, video lectures, and related course materials from 
 * [PhET Interactive Simulations](https://phet.colorado.edu/en/simulations/category/physics):
     Founded in 2002 by Nobel Laureate Carl Wieman, the PhET Interactive Simulations project at the University of Colorado Boulder creates free interactive math and science simulations. PhET sims are based on extensive education research and engage students through an intuitive, game-like environment where students learn through exploration and discovery.
 
-## Particle Physics Activities
+## Particle Physics Resources
 
 **Citizen Science**
 
-* [Higgs Hunters](http://HiggsHunters.org): A web-based citizen science project to help search for unknown exotic particles in the LHC data.
+* [Higgs Hunters](http://HiggsHunters.org): A web-based citizen science project to help search for unknown exotic particles in the LHC data. (Last updated in 2018.)
 
-* [LHC @ home](http://lhcathome.web.cern.ch): Volunteer computing platform to help physicists compare theory with experiment, in the search for new fundamental particles and answers to questions about the Universe.
+* [LHC @ home](http://lhcathome.web.cern.ch): Volunteer computing platform where participants donate computer idle time to help physicists compare theory with experiment, in the search for new fundamental particles and answers to questions about the Universe.
 
 **Classroom Activities Collections**
 
-* [Contemporary Physics Education Project - Fundamental particle and interactions](http://www.cpepphysics.org):
+* [Contemporary Physics Education Project - Fundamental particle and interactions](https://www.cpepphysics.org/fundamental-particles/):
 * [Fermilab Physical Science/Physics Resources](https://ed.fnal.gov/home/educators1000-physics.shtml):
 * [IceCube Activities](https://icecube.wisc.edu/outreach/activities):
 * [IPPOG Resources](https://ippog.org/ippog-resource-database):
@@ -689,33 +718,37 @@ A collection of online tests, video lectures, and related course materials from 
 **Interactive Sites**
 
 * [Lancaster Particle Physics](http://www.lppp.lancs.ac.uk/): Suitable for 16+ students, this site offers a number of simulations and explanations of particle physics, including a section on the LHC.
-* [Quarked!](http://www.quarked.org/): Adventures in the Subatomic Universe: This project, targeted to kids aged 7-12 (and their families), brings subatomic physics to life through a multimedia project including an interactive website, a facilitated program for museums and schools, and an educational outreach program.
+* [Quarked!](https://www.quarked.org/): Adventures in the Subatomic Universe: This project, targeted to kids aged 7-12 (and their families), brings subatomic physics to life through a multimedia project including an interactive website, a facilitated program for museums and schools, and an educational outreach program.
 
 **Planetarium Show**
 
-* [Phantom of the Universe](http://phantomoftheuniverse.com/): A planetarium show about dark matter that covers astrophysics, an underground experiment, and the LHC. It is distributed to planetariums for free.
+* [Phantom of the Universe](https://phantomoftheuniverse.org): A planetarium show about dark matter that covers astrophysics, an underground experiment, and the LHC. It is distributed to planetariums for free.
 
 **Video/Film**
 
-* [Angels and Demons](http://angelsanddemons.web.cern.ch/): With the aim of looking at the myth versus reality of antimatter and science at CERN this site describes the science behind the story including a set of videos.
-* [CollidingParticles](http://www.collidingparticles.com/): A series of films following a team of physicists involved in research at the LHC.
+* [Angels and Demons](https://angelsanddemons.web.cern.ch/): With the aim of looking at the myth versus reality of antimatter and science at CERN this site describes the science behind the story including a set of videos.
+* [CollidingParticles](https://vimeo.com/showcase/87133): A series of films following a team of physicists involved in research at the LHC.
 
 * [Videos by Don Lincoln](https://www.youtube.com/playlist?list=PLCfRa7MXBEsoJuAM8s6D8oKDPyBepBosS): Short YouTube videos on basic particle physics and cosmology.
 
+* [CERN-Solvay Online videos](https://www.youtube.com/playlist?list=PLAk-9e5KQYEpoWZHUQJQHE0bNSJX9bm_O): Part of the CERN-Solvay Education programme, this is an online course for students to learn about a scientific topic related to CERN’s science and technology. 
+
+* [Even Bananas](https://www.youtube.com/playlist?list=PLCfRa7MXBEsp1cvIsZ4shi6MrHb-tnAqT): Explore the fascinating world of fundamental particles called neutrinos with University of Oxford scientist Dr. Kirsty Duffy.
+
 **Websites**
-* [Imagine the Universe](http://imagine.gsfc.nasa.gov/home.html): This site is for students age 14 and up and for anyone interested in learning about the Universe.
+* [Imagine the Universe](https://imagine.gsfc.nasa.gov/home.html): This site is for students age 14 and up and for anyone interested in learning about the Universe.
 * [Particle Adventure](https://particleadventure.org/): An interactive tour of quarks, neutrinos, antimatter, extra dimensions, dark matter, accelerators and particle detectors from the Particle Data Group of Lawrence Berkeley National Laboratory. Simple elegant graphics and translations into 16 languages.
 
 ## Lab Education Offices
 
-* [Argonne National Laboratory (ANL) Educational Programs](http://www.anl.gov/education/):
+* [Argonne National Laboratory (ANL) Educational Programs](https://www.anl.gov/education):
     Connecting today’s world-class research to tomorrow’s STEM problem solvers.
 
-* [Brookhaven National Laboratory (BNL) Educational Programs](http://www.bnl.gov/education/):
+* [Brookhaven National Laboratory (BNL) Educational Programs](https://www.bnl.gov/education/):
     The Office of Educational Programs mission is to design, develop, implement, and facilitate workforce development and education initiatives that support the scientific mission at Brookhaven National Laboratory and the Department of Energy.
 
 * [CERN's education programmes](https://home.cern/about/what-we-do/our-educational-programmes):
-    CERN’s education and outreach programs cover all ages from high-school students to university students. Specifically, CERN offers the tailor-made High-School Students Internship Programme several times per year and the Beamline for Schools Competition, challenging high-school students from around the world to propose an experiment to carry out at a real research laboratory. The Laboratory also runs residential programmes for high-school teachers from around the world and a summer programme for undergraduate students.
+    CERN’s education and outreach programs cover from ages 5 to high-school students to university students. Specifically, CERN offers the Beamline for Schools Competition, challenging high-school students from around the world to propose an experiment to carry out at a real research laboratory and the CERN Solay camp for high-school students. The Laboratory also runs residential programmes for high-school teachers from around the world and a summer programme for undergraduate students.
 
 * [DESY Education](https://fortbildung.desy.de/index_eng.html):
     DESY Hamburg offers a regular series of public lectures and the DESY Science Café for young and old alike.
@@ -724,20 +757,20 @@ A collection of online tests, video lectures, and related course materials from 
     Posters, photos, lectures, videos and blogs. Projects for teachers and students include School Labs, Cosmic@Web, Teilchenwelt and International Cosmic Day.
 
 
-* [Fermilab Office of Education and Public Outreach](http://ed.fnal.gov/):
+* [Fermilab Office of Education and Public Outreach](https://ed.fnal.gov/):
     Provides  education resources and information about activities for educators, physicists, students and visitors to the Lab. In addition to information about 25 programs, the website provides online data-based investigations for high school students, online versions of exhibits in the Lederman Science Center, links to particle physics discovery resources, web-based instructional resources, tips for education and outreach, and links to the Lederman Science Center and the Teacher Resource Center.
 
 * [Perimeter Institute Outreach](https://www.perimeterinstitute.ca/outreach):
     Perimeter Institute shares ideas with students, teachers, and like-minded people through programs and resources that communicate the power, joy, and mystery of science. Perimeter’s award-winning Outreach team brings science to life and raises scientific literacy through classroom resources, public lectures, teacher workshops, an educator network, and a summer school where students interact with Perimeter researchers.
 
-* [Science Education at Jefferson Lab](http://education.jlab.org/):
+* [Science Education at Jefferson Lab](https://education.jlab.org/):
     Jefferson Lab's long-term commitment to science education continues to focus on increasing the number of teachers with a substantial background in math and science, strengthening the motivation and preparation of all students, especially minorities and females, and addressing the serious under representation of minorities and females in science, math, engineering and technology careers.
 
 * [Joint Institute for Nuclear Research Education (JINR)](http://www.jinr.ru/schoolstudents-teachers-en/):
     The JINR educational portal has resources, programs for teachers and school students and lab tours.
 
-* [Laboratori Nazionali di Frescati Educational (INFN)](http://edu.lnf.infn.it/about/?lang=en):
-    INFN educational programs are addressed to students, teachers and general audiences of every age, from Italy and abroad. Insights and education about the INFN-LNF research are offered thanks to the organization of guided tours and open days, stages for students, refresher courses for teachers, seminars and divulgation events. The aim is to create a constant exchange between the research world and society, thanks to direct contact and via the internet and other social media.
+* [Laboratori Nazionali di Frascati Educational (INFN)](https://edu.lnf.infn.it/about/?lang=en):
+    INFN-LNF educational programs are addressed to students, teachers and general audiences of every age, from Italy and abroad. Insights and education about the INFN-LNF research are offered thanks to the organization of guided tours and open days, stages for students, refresher courses for teachers, seminars and divulgation events. The aim is to create a constant exchange between the research world and society, thanks to direct contact and via the internet and other social media.
 
 * [Laboratori Nazionali del Gran Sasso Outreach Activities](https://www.lngs.infn.it/en/outreach-activities):
 
@@ -752,28 +785,28 @@ A collection of online tests, video lectures, and related course materials from 
 * [SNOLAB Outreach](https://www.snolab.ca/outreach):
     The goal at SNOLAB is to develop new educational material that fosters an appreciation of the field of astroparticle physics. The education team endeavours to facilitate an exchange of knowledge with the public and scientists from around the world to better understand our solar system. The desired outcome of the educational work is to have a network of healthy and resilient community partners with informed and active citizens better equipped to understand the goals here at SNOLAB now and in the future.
 
-* [TRIUMF High School Programs](https://www.triumf.ca/for-public/high-school-programs):
+* [TRIUMF for the Public](https://www.triumf.ca/home/for-public):
     TRIUMF offers outreach programs for high-school students, teachers, and the general public with a mission of promoting science and research in the public arena. TRIUMF’s outreach activities are also designed to tell Canadian students, teachers, and the public about the excitement of curiosity-driven research and about how a laboratory like TRIUMF adds value to Canada in new technologies, medical applications, and highly qualified people.
 
 ## Educational Programs of Experiments
 
 * [ATLAS Education](https://atlas.cern/resources/education):
-    The ATLAS Experiment has a wide range of educational resources available for students and teachers. Categories include primary and secondary school students, university students, teachers, citizen science, and multimedia and resources.
+    The ATLAS Experiment has a wide range of educational resources available for students and teachers. Categories include primary and secondary school students, university students, teachers, citizen scientists, for which there are several multimedia and other types of resources.
 
 * [CMS Education and Outreach Resources](https://cds.cern.ch/collection/CMS%20Education%20and%20Outreach%20Resources?ln=en):
-    Access to 110 resources from Activities and Artworks to Visualizations.
+    Access to just over 100 resources from Activities and Games to Artworks to Visualizations. The resources cover a range of topics and are available in several languages.
 
 * [HiSPARC at UCU](https://www.uu.nl/en/organisation/university-college-utrecht/hisparc-at-ucu):
     HiSPARC is an outreach, educational and research experiment on cosmic rays detection, which was initiated in the Netherlands in 2004. It brings together secondary school students and teachers, undergraduate students and university researchers in the quest to understand the origin of the most energetic particles in our universe. HSPARC has stations in the Netherlands, the United Kingdom, Denmark and Namibia.
 
 * [IceCube Education and Outreach](https://icecube.wisc.edu/outreach):
-    IceCube is committed to bringing science to a wider audience. Learning opportunities for high school students, research experiences for teachers and undergraduates, learning activities for the classroom or at home, and wecasts.
+    IceCube is committed to bringing science to a wider audience. The experiment provides a range of learning opportunities for high school students, research experiences for teachers and undergraduates, learning activities for the classroom or at home, and webcasts.
 
-* [KASCADE and KASCADE-Grande KDKC](https://kcdc.ikp.kit.edu):
+* [KASCADE and KASCADE-Grande KDKC](https://kcdc.iap.kit.edu/edu/examples_en/):
     The aim of the project KCDC (KASCADE Cosmic Ray Data Centre) is the installation and establishment of a public data centre for high-energy astroparticle physics based on the data of the KASCADE experiment.
 
 * [LIGO Education Resources](https://www.ligo.caltech.edu/page/educational-resources):
-    Something fun and educational for K-12 educators, parents and interested students.
+    Something fun and educational for K-12 educators, parents and interested students. Includes classroom activities, field trips, activities to try at home, ask a scientist, teacher professional development, readings and videos.
 
 * [MINERvA Neutrinos in the Classroom](https://neutrino-classroom.org):
     Information and educational materials provide high school physics students with an in-depth hands-on interactive experience with real high-energy particle physics. The materials should be suitable for a 1-2 weeks module on particle physics as it’s done by professional scientists.
@@ -782,74 +815,102 @@ A collection of online tests, video lectures, and related course materials from 
     Useful resources (websites, texts, videos) for teachers and students related to gravitational waves and the interferometers like Virgo.
 
 * [Pierre Auger Observatory's Educational Pages](https://www.auger.org/outreach/malargue/edu-outreach):
-    The site offers information about cosmic rays and their detection, and provides material for students and teachers.
+    The site offers information about cosmic rays and their detection, and provides material for students and teachers, including masterclasses.
 
 ## News
 
-* [Asimmetrie](https://www.asimmetrie.it/):
+### Newsletters and Magazines 
+
+* **Asimmetrie:**
     Bimonthly magazine about particle physics published by INFN, the Istituto Nazionale di Fisica Nucleare (in Italian).
+    * Website: <https://www.asimmetrie.it>
 
 * **CERN Courier:**
-    * Website: [`https://cerncourier.com`](https://cerncourier.com)
-    * Twitter: [`@cerncourier`](https://twitter.com/cerncourier)
+    The website and associated print magazine highlight the latest developments in particle physics and related fields, wherever they happen in the world. Produced at CERN, published by IOPP.
+    * Website: <https://cerncourier.com>
+    * X (Twitter): [`@cerncourier`](https://twitter.com/cerncourier)
+    * LinkedIn: <https://www.linkedin.com/company/cern-courier>
 
 * **DESY inForm:**
-    * Website: [`https://www.desy.de/news/desy_inform/index_eng.html`](https://www.desy.de/news/desy_inform/index_eng.html)
-    * Twitter: [`@desy`](https://twitter.com/desy)
+    The DESY newsletter that provides insight into both new developments in the scientific area and news from everyday life at DESY.
+    * Website: <https://www.desy.de/news/desy_inform/index_eng.html> 
+    * X (Twitter): [`@desy`](https://twitter.com/desy)
+
+* **ILC Newsline:**
+    ILC Newsline is a newsletter about recent news, milestones and developments related to the International Linear Collider and the fields of high-energy, particle and accelerator physics and engineering.
+    * Website: <http://newsline.linearcollider.org>
+    * X (Twitter): [`@LCnewsline`](https://twitter.com/LCnewsline)
+
+* **JINR News:**
+    Issued 4 times a year, this bulletin provides information on new scientific results obtained at JINR Laboratories, on progress in performance of large-scale experiments, on construction of new installations, discoveries, etc.
+    * Website: <http://www1.jinr.ru/News/Jinrnews_index.html>
+
+* **SLAC Signals:**
+    This email newsletter reports about cutting-edge science, major SLAC milestones and other lab information. It has replaced SLAC Today in November 2013.
+    * Website (for subscription): <https://stanford.us4.list-manage.com/subscribe?u=3d15dbc88cbbdafa6be87d296&id=7eb4562c9a> 
+
+* **Symmetry:**
+    This magazine about particle physics and its connections to other aspects of life and science, from interdisciplinary collaborations to policy to culture is published 6 times per year by Fermilab and SLAC.
+    * Website: <https://www.symmetrymagazine.org>
+    * X (Twitter): [`@symmetrymag`](https://twitter.com/symmetrymag)
+
+### Online news
+
+* **CERN News:**
+    * Website: <https://home.cern/news?audience=23>
+    * X (Twitter): [`@CERN`](https://twitter.com/CERN)
 
 * **Fermilab News:**
-    * Website: [`https://news.fnal.gov`](https://news.fnal.gov)
-    * Twitter: [`@Fermilab`](https://twitter.com/Fermilab)
+    * Website: <https://news.fnal.gov>
+    * X (Twitter): [`@Fermilab`](https://twitter.com/Fermilab)
 
-* [ILC Newsline](http://newsline.linearcollider.org/):
-    ILC Newsline is a newsletter about recent news, milestones and developments related to the International Linear Collider and the fields of high-energy, particle and accelerator physics and engineering.
-    * Twitter: [`@LCnewsline`](https://twitter.com/LCnewsline)
+* **Interactions.org:**
+    The Interactions.org website is designed to serve as central resource
+    for information about particle physics, including press releases,
+    articles, news, event listings and images.
+    * Website: <https://www.interactions.org>
+    * X (Twitter): [`@particlenews`](https://twitter.com/particlenews)
 
-* [Interactions.org](https://www.interactions.org)
-    The Interactions.org website is designed to serve as central resource for information about particle physics, including press releases, articles, news, event listings and images.
-    * Twitter: [`@particlenews`](https://twitter.com/particlenews)
+* **IOP News:**
+    * Website: <https://www.iop.org/about/news>
+    * X (Twitter): [`@PhysicsNews`](https://twitter.com/PhysicsNews)
 
-* [IOP News](https://www.iop.org/about/news)
-    * Twitter: [`@PhysicsNews`](https://twitter.com/PhysicsNews)
-
-* [JINR News](http://www1.jinr.ru/News/Jinrnews_index.html)
-
-* [ParticleBites](https://www.particlebites.com/) and [AstroBites](https://astrobites.org/):
-    Websites run by graduate students hosting daily summaries of recent particle physics and astrophysics research papers, as well as additional educational materials and guidance on navigating the fields.
+* **ParticleBites and AstroBites:**
+    Websites run by graduate students hosting daily summaries of recent
+    particle physics and astrophysics research papers, as well as additional
+    educational materials and guidance on navigating the fields.
+    * Website: <https://www.particlebites.com>
+    * Website: <https://astrobites.org>
 
 * **Perimeter Institute News:**
-    * Website: [`https://www.perimeterinstitute.ca/news`](https://www.perimeterinstitute.ca/news)
-    * Twitter: [`@perimeter`](https://twitter.com/perimeter)
+    * Website: <https://www.perimeterinstitute.ca/news>
+    * X (Twitter): [`@perimeter`](https://twitter.com/perimeter)
 
 * **Sandford News and Events:**
-    * Website: [`https://sanfordlab.org/news-and-events`](https://sanfordlab.org/news-and-events)
-    * Twitter: [`@SanfordLab`](https://twitter.com/SanfordLab)
+    * Website: <https://sanfordlab.org/news-and-events>
+    * X (Twitter): [`@SanfordLab`](https://twitter.com/SanfordLab)
 
-* [SLAC Signals](http://eepurl.com/IqPl1):
-    This email newsletter reports about cutting-edge science, major SLAC milestones and other lab information. It has replaced SLAC Today in November 2013.
+* **SNOLAB News and Headline:**
+   * Website: <https://www.snolab.ca/news>
+   * X (Twitter): [`@SNOLABscience'](https://twitter.com/SNOLABscience)
 
-* [SNOLAB News and Headline](https://www.snolab.ca/news):
-
-* [Symmetry](http://www.symmetrymagazine.org/):
-    This magazine about particle physics and its connections to other aspects of life and science, from interdisciplinary collaborations to policy to culture is published 6 times per year by Fermilab and SLAC.
-
-    * Twitter: [`@symmetrymag`](https://twitter.com/symmetrymag)
-
-* [TRIUMF on NewsWise](https://www.newswise.com/institutions/newsroom/19528)
+* **TRIUMF on NewsWise:**
+   * Website: <https://www.newswise.com/institutions/newsroom/19528>
+   * X (Twitter): [`@TRIUMFLab`](https://twitter.com/TRIUMFLab)
 
 ## Art in Physics
 
 * [Arts@CERN - When Art Meets Science](https://arts.cern):
-    Arts at CERN is the leading art and science programme promoting the dialog between artists and particle physicists. Programmes include Art Commissions and Exhibitions, Collide, Accelerate and Guest Artists.
+    Arts at CERN is the leading art and science programme promoting the dialog between artists and particle physicists. Programmes include artistic residencies, art commissions, exhibitions and events.
 
-    The Collide@CERN residency programme aims to develop expert knowledge in the arts through the connection with fundamental science. Since 2011 the COLLIDE award calls to artists to win a fully funded residency for up to 3 months. <https://arts.cern/programme/collide>
+    The [Collide](https://arts.cern/programme/collide) residency programme aims to develop expert knowledge in the arts through the connection with fundamental science. Since 2011 the COLLIDE award calls to artists to win a fully funded residency for up to 3 months.
 
-    Accelerate@CERN is a country specific one-month research award for artists who have never spent time at a science lab before. <https://arts.cern/programme/accelerate>
+    [Connect](https://arts.cern/programme/connect) is a residency program launched in 2021 with the Swiss Arts Council Pro Helvetia. It offers a combined residency: at CERN and at an international location in collaboration with scientific and cultural organizations in Chile, South Africa, and India.
 
 * [Art of Physics Competition](https://www.cap.ca/programs/art-physics/):
-    The Canadian Association of Physicists organizes this competition, the first was launched in 1992, with the aim of stimulating interest, especially among non-scientists, in some of the captivating imagery associated with physics. The challenge is to capture photographically a beautiful or unusual physics phenomenon and explain it in less than 200 words in terms that everyone can understand.
+    The Canadian Association of Physicists organizes this competition. The first was launched in 1992, with the aim of stimulating interest, especially among non-scientists, in some of the captivating imagery associated with physics. The challenge is to capture photographically a beautiful or unusual physics phenomenon and explain it in less than 200 words in terms that everyone can understand.
 
-* [Fermilab Art Gallery](http://events.fnal.gov/art-gallery/):
+* [Fermilab Art Gallery](https://events.fnal.gov/art-gallery/):
     The convergence of art and science occurs daily in the Fermilab Art Gallery open to the public. To initiate and stimulate communication and interactions among scientists, artists and the public, the laboratory hosts an artist-in-residence program. The artist-in-residence interacts with scientists to learn about their research and how it connects to society. They use this information to create
 a body of work, leading to presentations in the community and possibly an exhibition of the artwork at Fermilab.
 
@@ -858,11 +919,11 @@ a body of work, leading to presentations in the community and possibly an exhibi
 
 ## Social Media
 
-Many particle physics institutions and collaborations have a presence on social media, with Facebook, Twitter, and Instagram as particularly popular. These resources are typically  used to communicate with the general public, but some of the highlighting of results and communications target physicists as an audience.  
+Many particle physics institutions and collaborations have a presence on social media, with Facebook, X (Twitter), and Instagram as particularly popular. These resources are typically  used to communicate with the general public, but some of the highlighting of results and communications target physicists as an audience.  
 
-List of Experiments that have noted their Twitter accounts on INSPIRE can be found here:  https://inspirehep.net/experiments?sort=mostrecent&size=25&page=1&q=urls.description%3ATWITTER
+List of Experiments that have noted their X (Twitter) accounts on INSPIRE can be found here:  https://inspirehep.net/experiments?sort=mostrecent&size=25&page=1&q=urls.description%3ATWITTER
 
-List of Institutions that have noted their Twitter accounts on INSPIRE can be found here:  https://inspirehep.net/institutions?sort=mostrecent&size=25&page=1&q=urls.description%3ATWITTER
+List of Institutions that have noted their X (Twitter) accounts on INSPIRE can be found here:  https://inspirehep.net/institutions?sort=mostrecent&size=25&page=1&q=urls.description%3ATWITTER
 
 
 List of physicists on podcasts, Mastodon and Bluesky at TrueSciPhi: <https://truesciphi.org/home_sci.html#pmapod>
@@ -875,6 +936,6 @@ America and other regions that may be classified and developing or
 emerging. The report is not exhaustive and based on the expert 
 knowledge of the authors at the time of information gathering; the 
 narrative was developed in July 2023 and would require period 
-periodic updates, as the HEP landscape changes. More details main be 
-found [here](https://inspirehep.net/literature/2637649).
+periodic updates, as the HEP landscape changes. Details may be 
+found in arXiv eprint [2308.15373](https://arxiv.org/abs/2308.15373).
 
