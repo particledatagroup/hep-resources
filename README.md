@@ -38,11 +38,12 @@ Any contributions are highly appreciated. There are several options to do so, de
       * [Data Analysis](#data-analysis)
       * [Lattice Gauge Theory](#lattice-gauge-theory)
       * [Parton Distribution Fits](#parton-distribution-fits)
+      * [Simulation tools](#simulation-tools)
       * [Simulation tools - Detector Simulation](#simulation-tools---detector-simulation)
       * [Simulation tools - Event Simulation](#simulation-tools---event-simulation)
    * [Astrophysics software](#astrophysics-software)
       * [Data Analysis](#data-analysis-1)
-      * [Simulation tools](#simulation-tools)
+      * [Simulation tools](#simulation-tools-1)
       * [Simulation tools - Event Simulation](#simulation-tools---event-simulation-1)
    * [Web apps](#web-apps)
    * [Mobile apps](#mobile-apps)
@@ -60,18 +61,18 @@ Any contributions are highly appreciated. There are several options to do so, de
    * [Masterclasses](#masterclasses)
    * [General Sites](#general-sites)
    * [General Physics Activities](#general-physics-activities)
-   * [Particle Physics Activities](#particle-physics-activities)
+   * [Particle Physics Resources](#particle-physics-resources)
    * [Lab Education Offices](#lab-education-offices)
    * [Educational Programs of Experiments](#educational-programs-of-experiments)
    * [News](#news)
       * [Newsletters and Magazines](#newsletters-and-magazines)
-      * [Online news](#online-news) 
+      * [Online news](#online-news)
    * [Art in Physics](#art-in-physics)
    * [Social Media](#social-media)
    * [High Energy Physics in developing regions](#high-energy-physics-in-developing-regions)
 
 <!-- Created by https://github.com/ekalinin/github-markdown-toc -->
-<!-- Added by: runner, at: Fri Aug 25 20:32:02 UTC 2023 -->
+<!-- Added by: runner, at: Thu Oct  5 19:07:28 UTC 2023 -->
 
 <!--te-->
 
