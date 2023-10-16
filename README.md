@@ -657,7 +657,7 @@ A collection of online tests, video lectures, and related course materials from 
 * [HYPATIA](http://hypatia.phys.uoa.gr/):
     HYPATIA (Hybrid Pupil’s Analysis Tool for Interactions in ATLAS) is a tool for high school students to inspect the graphic visualization of particle collision products in the ATLAS detector at CERN.
 
-* **International Masterclasses:**
+* **[International Masterclasses](https://physicsmasterclasses.org/):**
     Each year about 13,000 high school students in 55 countries come to one of about 225 nearby universities or research centres for a day to unravel the mysteries of particle physics. Lectures from active scientists give insight in topics and methods of basic research enabling the students to perform measurements on real data from one of seven experiments. At the end of the day, like an international research collaboration, participants join a video conference for discussion and combination of results. The program is coordinated from Institut fur Kern- und Teilchenphysik at TU Dresden and the Notre Dame University QuarkNet Center within the framework of the International Particle Physics Outreach Group (IPPOG). CERN, Fermilab and TRIUMF support videoconferences. 
 
 * [World Wide Data Day](https://quarknet.org/content/world-wide-data-day):
@@ -715,6 +715,7 @@ A collection of online tests, video lectures, and related course materials from 
 * [Quarked Lesson Plans](http://www.quarked.org/parents/lessonplans.html):
 * [QuarkNet Data Activities Portfolio](https://quarknet.org/data-portfolio):
 * [Sanford Lab curriculum materials](https://sanfordlab.org/educators/curriculum-modules):
+* [CERN Education Lab classroom activities](https://scoollab.web.cern.ch/classroom-activities)
 
 **Interactive Sites**
 
@@ -751,7 +752,7 @@ A collection of online tests, video lectures, and related course materials from 
 * [CERN's education programmes](https://home.cern/about/what-we-do/our-educational-programmes):
     CERN’s education and outreach programs cover from ages 5 to high-school students to university students. Specifically, CERN offers the Beamline for Schools Competition, challenging high-school students from around the world to propose an experiment to carry out at a real research laboratory and the CERN Solay camp for high-school students. The Laboratory also runs residential programmes for high-school teachers from around the world and a summer programme for undergraduate students.
 
-* [DESY Education](https://fortbildung.desy.de/index_eng.html):
+* [DESY Education](https://www.desy.de/school/):
     DESY Hamburg offers a regular series of public lectures and the DESY Science Café for young and old alike.
 
 * [DESY Zeuthen Outreach](https://astro.desy.de/outreach):
@@ -768,10 +769,10 @@ A collection of online tests, video lectures, and related course materials from 
     Jefferson Lab's long-term commitment to science education continues to focus on increasing the number of teachers with a substantial background in math and science, strengthening the motivation and preparation of all students, especially minorities and females, and addressing the serious under representation of minorities and females in science, math, engineering and technology careers.
 
 * [Joint Institute for Nuclear Research Education (JINR)](http://www.jinr.ru/schoolstudents-teachers-en/):
-    The JINR educational portal has resources, programs for teachers and school students and lab tours.
+    The JINR educational portal has resources, programs for teachers and school students and lab tours.  
 
-* [Laboratori Nazionali di Frascati Educational (INFN)](https://edu.lnf.infn.it/about/?lang=en):
-    INFN-LNF educational programs are addressed to students, teachers and general audiences of every age, from Italy and abroad. Insights and education about the INFN-LNF research are offered thanks to the organization of guided tours and open days, stages for students, refresher courses for teachers, seminars and divulgation events. The aim is to create a constant exchange between the research world and society, thanks to direct contact and via the internet and other social media.
+* [Laboratori Nazionali di Frascati Educational (INFN-LNF)](https://edu.lnf.infn.it/about/?lang=en):
+    INFN-LNF educational programs are addressed to students, teachers and general audiences of every age, from Italy and abroad. Insights and education about the INFN-LNF research are offered thanks to the organization of guided tours and open days, stages for students, refresher courses for teachers, seminars and divulgation events. The aim is to create a constant exchange between the research world and society, thanks to direct contact and via the internet and other social media. See also the global INFN education and outreach site [https://collisioni.infn.it/en/](https://collisioni.infn.it/en/).
 
 * [Laboratori Nazionali del Gran Sasso Outreach Activities](https://www.lngs.infn.it/en/outreach-activities):
 
@@ -898,6 +899,12 @@ A collection of online tests, video lectures, and related course materials from 
 * **TRIUMF on NewsWise:**
    * Website: <https://www.newswise.com/institutions/newsroom/19528>
    * X (Twitter): [`@TRIUMFLab`](https://twitter.com/TRIUMFLab)
+ 
+* **INFN News:**
+   * Website: <https://home.infn.it/it/comunicazione/notizie/tutte-le-notizie>
+ 
+* **DESY News and Events:**
+   * Website: <https://www.desy.de/news/index_eng.html>
 
 ## Art in Physics
 
