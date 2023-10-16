@@ -1,3 +1,4 @@
+
 # Online Particle Physics Information
 
 Online resources are used in a diverse and expanding set of ways in particle physics.
@@ -255,6 +256,9 @@ sorted by the INSPIRE Experiments classification. The links point to the record 
 * [Gfitter](https://inspirehep.net/experiments/1778048):
     The generic fitting package Gfitter comprises a framework for the statistical analysis of parameter estimation problems in HEP.
 
+* [MUSES](https://inspirehep.net/experiments/2705080):
+    Developing a new cyberinfrastructure to provide the scientific community novel tools to answer critical interdisciplinary questions in nuclear physics, gravitational wave astrophysics, and heavy-ion physics.
+
 * [ROOT](https://inspirehep.net/experiments/1778050):
     This framework for data processing in high-energy physics, born at CERN, offers applications to store, access, process, analyze and represent data or perform simulations.
 
@@ -476,6 +480,9 @@ sorted by the INSPIRE Experiments classification. The links point to the record 
 * [GADGET](https://inspirehep.net/experiments/2648124):
     Code for cosmological N-body/SPH simulations on massively parallel computers with distributed memory.
 
+* [Illustris](https://inspirehep.net/experiments/2708513):
+    The Illustris project is a set of large-scale cosmological simulations, including the most ambitious simulation of galaxy formation yet performed. The calculation tracks the expansion of the universe, the gravitational pull of matter onto itself, the motion or "hydrodynamics" of cosmic gas, as well as the formation of stars and black holes.
+
 * [MESA](https://inspirehep.net/experiments/2641176):
     MESA focuses on accurate, one-dimensional stellar evolution Calculations.
 
@@ -486,6 +493,7 @@ sorted by the INSPIRE Experiments classification. The links point to the record 
 
 * [CORSIKA](https://inspirehep.net/experiments/1891194):
     Detailed simulation of extensive air showers initiated by high energy cosmic ray particles. Protons, light nuclei up to iron, photons, and many other particles may be treated as primaries. The particles are tracked through the atmosphere until they undergo reactions with the air nuclei or, in the case of instable secondaries, decay.
+
 
 
 ## Web apps
@@ -649,7 +657,7 @@ A collection of online tests, video lectures, and related course materials from 
 * [HYPATIA](http://hypatia.phys.uoa.gr/):
     HYPATIA (Hybrid Pupil’s Analysis Tool for Interactions in ATLAS) is a tool for high school students to inspect the graphic visualization of particle collision products in the ATLAS detector at CERN.
 
-* **International Masterclasses:**
+* [International Masterclasses](https://physicsmasterclasses.org/):
     Each year about 13,000 high school students in 55 countries come to one of about 225 nearby universities or research centres for a day to unravel the mysteries of particle physics. Lectures from active scientists give insight in topics and methods of basic research enabling the students to perform measurements on real data from one of seven experiments. At the end of the day, like an international research collaboration, participants join a video conference for discussion and combination of results. The program is coordinated from Institut fur Kern- und Teilchenphysik at TU Dresden and the Notre Dame University QuarkNet Center within the framework of the International Particle Physics Outreach Group (IPPOG). CERN, Fermilab and TRIUMF support videoconferences. 
 
 * [World Wide Data Day](https://quarknet.org/content/world-wide-data-day):
@@ -696,6 +704,7 @@ A collection of online tests, video lectures, and related course materials from 
 
 **Classroom Activities Collections**
 
+* [CERN Education Lab classroom](https://scoollab.web.cern.ch/classroom-activities)
 * [Contemporary Physics Education Project - Fundamental particle and interactions](https://www.cpepphysics.org/fundamental-particles/):
 * [Fermilab Physical Science/Physics Resources](https://ed.fnal.gov/home/educators1000-physics.shtml):
 * [IceCube Activities](https://icecube.wisc.edu/outreach/activities):
@@ -743,7 +752,7 @@ A collection of online tests, video lectures, and related course materials from 
 * [CERN's education programmes](https://home.cern/about/what-we-do/our-educational-programmes):
     CERN’s education and outreach programs cover from ages 5 to high-school students to university students. Specifically, CERN offers the Beamline for Schools Competition, challenging high-school students from around the world to propose an experiment to carry out at a real research laboratory and the CERN Solay camp for high-school students. The Laboratory also runs residential programmes for high-school teachers from around the world and a summer programme for undergraduate students.
 
-* [DESY Education](https://fortbildung.desy.de/index_eng.html):
+* [DESY Education](https://www.desy.de/school/):
     DESY Hamburg offers a regular series of public lectures and the DESY Science Café for young and old alike.
 
 * [DESY Zeuthen Outreach](https://astro.desy.de/outreach):
@@ -753,8 +762,8 @@ A collection of online tests, video lectures, and related course materials from 
 * [Fermilab Office of Education and Public Outreach](https://ed.fnal.gov/):
     Provides  education resources and information about activities for educators, physicists, students and visitors to the Lab. In addition to information about 25 programs, the website provides online data-based investigations for high school students, online versions of exhibits in the Lederman Science Center, links to particle physics discovery resources, web-based instructional resources, tips for education and outreach, and links to the Lederman Science Center and the Teacher Resource Center.
 
-* [Perimeter Institute Outreach](https://www.perimeterinstitute.ca/outreach):
-    Perimeter Institute shares ideas with students, teachers, and like-minded people through programs and resources that communicate the power, joy, and mystery of science. Perimeter’s award-winning Outreach team brings science to life and raises scientific literacy through classroom resources, public lectures, teacher workshops, an educator network, and a summer school where students interact with Perimeter researchers.
+* [INFN Global education and outreach](https://collisioni.infn.it/en/)
+    Collisioni.infn is the web space dedicated to cultural and educational initiatives of the INFN.    
 
 * [Science Education at Jefferson Lab](https://education.jlab.org/):
     Jefferson Lab's long-term commitment to science education continues to focus on increasing the number of teachers with a substantial background in math and science, strengthening the motivation and preparation of all students, especially minorities and females, and addressing the serious under representation of minorities and females in science, math, engineering and technology careers.
@@ -766,11 +775,13 @@ A collection of online tests, video lectures, and related course materials from 
     INFN-LNF educational programs are addressed to students, teachers and general audiences of every age, from Italy and abroad. Insights and education about the INFN-LNF research are offered thanks to the organization of guided tours and open days, stages for students, refresher courses for teachers, seminars and divulgation events. The aim is to create a constant exchange between the research world and society, thanks to direct contact and via the internet and other social media.
 
 * [Laboratori Nazionali del Gran Sasso Outreach Activities](https://www.lngs.infn.it/en/outreach-activities):
-
     The Lab offers pupils the opportunity to approach the fascinating world of Physics and Science in general through stages, summer schools and training camps. It makes young researchers’ skills and competences available to people both in public events, such as the Open Day and the European Researchers’ Night, and in guided tours to visit the underground experimental halls.
 
 * [Lawrence Berkeley National Laboratory (LBNL) Workforce Development and Education](https://education.lbl.gov/):
     Working with our partners both within and outside Berkeley Lab, LBNL promotes equal access to scientific and technical careers for students from all backgrounds, supports STEM teachers, and build scientific literacy through innovative education programs. The lab also supports educational outreach efforts from Berkeley Lab’s divisions by providing program development assistance, materials, funding, volunteers, project management, marketing, and administrative support.
+
+* [Perimeter Institute Outreach](https://www.perimeterinstitute.ca/outreach):
+    Perimeter Institute shares ideas with students, teachers, and like-minded people through programs and resources that communicate the power, joy, and mystery of science. Perimeter’s award-winning Outreach team brings science to life and raises scientific literacy through classroom resources, public lectures, teacher workshops, an educator network, and a summer school where students interact with Perimeter researchers.
 
 * [Sanford Underground Research Facility Education and Outreach](https://sanfordlab.org/educators):
     Leveraging research being conducted underground at Sanford Lab, staff provide training, teaching tools and materials for teachers so they can inspire and challenge students.
@@ -853,9 +864,17 @@ A collection of online tests, video lectures, and related course materials from 
     * Website: <https://home.cern/news?audience=23>
     * X (Twitter): [`@CERN`](https://twitter.com/CERN)
 
+* **DESY News:**
+    * Website: <https://www.desy.de/news/index_eng.html>
+    * X (Twitter): [`@DESY`](https://twitter.com/desy)
+
 * **Fermilab News:**
     * Website: <https://news.fnal.gov>
     * X (Twitter): [`@Fermilab`](https://twitter.com/Fermilab)
+
+* **INFN News:**
+    * Website: <https://home.infn.it/it/comunicazione/notizie/tutte-le-notizie>
+    * X (Twitter): [`@INFN_`](https://twitter.com/INFN_)
 
 * **Interactions.org:**
     The Interactions.org website is designed to serve as central resource
