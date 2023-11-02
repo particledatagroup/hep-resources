@@ -77,9 +77,7 @@ Any contributions are highly appreciated. There are several options to do so, de
 
     The printed book can be ordered: <https://pdg.lbl.gov/order>
 
-    Of historical interest is the complete RPP collection which can be found online: 
-    <https://pdg.lbl.gov/rpp-archive/> and 
-    <https://scientific-info.cern/search-and-read/online-resources/review-particle-physics>
+    Of historical interest is the complete RPP collection which can be found online: <https://pdg.lbl.gov/publications>
 
 * [Particle Physics booklet](https://pdg.lbl.gov/current/booklet.pdf):
     An abridged version of the Review of Particle Physics, available as a pocket-sized 250-page booklet. It is one of the most useful summaries of physics data. The booklet contains an abbreviated set of reviews and the summary tables from the most recent edition of the Review of Particle Physics.
@@ -88,7 +86,6 @@ Any contributions are highly appreciated. There are several options to do so, de
 
     A mobile version of the booklet is also available: <https://pdg.lbl.gov/booklet>
 
-    Of historical interest is the complete RPP collection which can be found online: <https://pdg.lbl.gov/publications>
 
 * [PDGLive](https://pdglive.lbl.gov):
     A web application for browsing the contents of the PDG database that contains the information published in the Review of Particle Physics. It allows one to navigate to a particle of interest, see a summary of the information available, and then proceed to the detailed information published in the Review of Particle Physics. Data entries are directly linked to the corresponding bibliographic information in INSPIRE.
