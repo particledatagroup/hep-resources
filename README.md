@@ -75,7 +75,7 @@ Any contributions are highly appreciated. There are several options to do so, de
 * [Review of Particle Physics (RPP)](https://pdg.lbl.gov):
     A comprehensive report on the fields of particle physics and related areas of cosmology and astrophysics, including both review articles and a compilation/evaluation of data on particle properties. The review section includes articles, tables and plots on a wide variety of theoretical and experimental topics of interest to particle physicists and astrophysicists. The particle properties section provides tables of published measurements as well as the Particle Data Group's best values and limits for particle properties such as masses, widths, lifetimes, and branching fractions, as well as an extensive summary of searches for hypothetical particles. RPP is published as a large book every two years, with partial updates made available once each year on the web.
 
-    The printed book can be ordered: <https://pdg.lbl.gov/current/receive_our_products.html>
+    The printed book can be ordered: <https://pdg.lbl.gov/order>
 
     Of historical interest is the complete RPP collection which can be found online: 
     <https://pdg.lbl.gov/rpp-archive/> and 
@@ -84,13 +84,20 @@ Any contributions are highly appreciated. There are several options to do so, de
 * [Particle Physics booklet](https://pdg.lbl.gov/current/booklet.pdf):
     An abridged version of the Review of Particle Physics, available as a pocket-sized 250-page booklet. It is one of the most useful summaries of physics data. The booklet contains an abbreviated set of reviews and the summary tables from the most recent edition of the Review of Particle Physics.
 
-    The printed booklet can be ordered: <https://pdg.lbl.gov/current/receive_our_products.html>
+    The printed booklet can be ordered: <https://pdg.lbl.gov/order>
+
+    A mobile version of the booklet is also available: <https://pdg.lbl.gov/booklet>
+
+    Of historical interest is the complete RPP collection which can be found online: <https://pdg.lbl.gov/publications>
 
 * [PDGLive](https://pdglive.lbl.gov):
     A web application for browsing the contents of the PDG database that contains the information published in the Review of Particle Physics. It allows one to navigate to a particle of interest, see a summary of the information available, and then proceed to the detailed information published in the Review of Particle Physics. Data entries are directly linked to the corresponding bibliographic information in INSPIRE.
 
-* [Computer-readable files](https://pdg.lbl.gov/current/html/computer_read.html):
+* [Computer-readable files](https://pdg.lbl.gov/files):
     Data files that can be downloaded from the PDG include tables of particle masses and widths, PDG Monte Carlo particle numbers, and cross-section data. The files are updated with each new edition of the Review of Particle Physics.
+
+* [PDG API](https://pdg.lbl.gov/api):
+    In addition to the fixed-format data files that have been available for many years, PDG now provides for testing a beta release of three new tools to access PDG data in machine-readable format.
 
 # Particle physics information platform
 
