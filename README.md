@@ -61,7 +61,7 @@ Any contributions are highly appreciated. There are several options to do so, de
       * [Online news](#online-news) 
    * [Art in Physics](#art-in-physics)
    * [Social Media](#social-media)
-* [High Energy Physics in developing regions](#high-energy-physics-in-developing-regions)
+* [High Energy Physics regional efforts](#high-energy-physics-regional-efforts)
 
 
 <!-- Created by https://github.com/ekalinin/github-markdown-toc -->
@@ -945,8 +945,12 @@ List of Institutions that have noted their X (Twitter) accounts on INSPIRE can b
 List of physicists on podcasts, Mastodon and Bluesky at TrueSciPhi: <https://truesciphi.org/home_sci.html#pmapod>
 
 
-## High Energy Physics in developing regions
+## High Energy Physics in regional efforts
 
+* [European Strategy for Particle Physics](https://europeanstrategyupdate.web.cern.ch/)
+    The European Strategy for Particle Physics provides a clear prioritisation of European ambitions in advancing the science of particle physics. It takes into account the worldwide particle physics landscape and developments in related fields, and is initiated by the CERN Council to coordinate activities across a large, international and fast-moving community with the aim of maximising scientific returns.
+
+* High Energy Physics in developing regions
 We attempt to summarize HEP activities and efforts in Africa, Latin 
 America and other regions that may be classified and developing or 
 emerging. The report is not exhaustive and based on the expert 
@@ -954,4 +958,14 @@ knowledge of the authors at the time of information gathering; the
 narrative was developed in July 2023 and would require period 
 periodic updates, as the HEP landscape changes. Details may be 
 found in arXiv eprint [2308.15373](https://arxiv.org/abs/2308.15373).
+
+* [Japan's Strategy for Future Projects in High Energy Physics](http://www.jahep.org/files/20170906-en.pdf)
+    The final report from Japan's Committee on Future Projects in High Energy Physics.
+
+* [US Particle Physics Community Planning Exercise (Snowmass)](https://www.snowmass21.org/)
+    Snowmass is organized by the Division of Particles and Fields (DPF) of the American Physical Society. Snowmass is a scientific study. It provides an opportunity for the entire particle physics community to come together to identify and document a scientific vision for the future of particle physics in the U.S. and its international partners. Snowmass will define the most important questions for the field of particle physics and identify promising opportunities to address them. P5 will take the scientific input from Snowmass and develop a strategic plan for U.S. particle physics that can be executed over a 10 year timescale, in the context of a 20-year global vision for the field.
+
+* [US Particle Physics Project Prioritization Panel (P5)](http://hitoshi.berkeley.edu/P5/)
+    P5 reports to HEPAP (High-Energy Physics Advisory Panel) that advises High-Energy Physics of DOE Office of Science and Division of Physics of NSF. We will build on the “Snowmass” community study to hash out priorities for the next 10 years within 20-year context.
+
 
