@@ -945,7 +945,7 @@ List of Institutions that have noted their X (Twitter) accounts on INSPIRE can b
 List of physicists on podcasts, Mastodon and Bluesky at TrueSciPhi: <https://truesciphi.org/home_sci.html#pmapod>
 
 
-## High Energy Physics in regional efforts
+## High Energy Physics regional efforts
 
 * [European Strategy for Particle Physics](https://europeanstrategyupdate.web.cern.ch/)
     The European Strategy for Particle Physics provides a clear prioritisation of European ambitions in advancing the science of particle physics. It takes into account the worldwide particle physics landscape and developments in related fields, and is initiated by the CERN Council to coordinate activities across a large, international and fast-moving community with the aim of maximising scientific returns.
