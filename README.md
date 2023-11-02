@@ -948,10 +948,10 @@ List of physicists on podcasts, Mastodon and Bluesky at TrueSciPhi: <https://tru
 ## High Energy Physics regional efforts
 
 * [European Strategy for Particle Physics](https://europeanstrategyupdate.web.cern.ch/)
-    The European Strategy for Particle Physics provides a clear prioritisation of European ambitions in advancing the science of particle physics. It takes into account the worldwide particle physics landscape and developments in related fields, and is initiated by the CERN Council to coordinate activities across a large, international and fast-moving community with the aim of maximising scientific returns.
+    The European Strategy for Particle Physics provides a clear prioritization of European ambitions in advancing the science of particle physics. It takes into account the worldwide particle physics landscape and developments in related fields, and is initiated by the CERN Council to coordinate activities across a large, international and fast-moving community with the aim of maximising scientific returns.
 
-* High Energy Physics in developing regions
-We attempt to summarize HEP activities and efforts in Africa, Latin 
+* [High Energy Physics in developing regions](https://arxiv.org/abs/2308.15373)
+A summary of HEP activities and efforts in Africa, Latin 
 America and other regions that may be classified and developing or 
 emerging. The report is not exhaustive and based on the expert 
 knowledge of the authors at the time of information gathering; the 
@@ -966,6 +966,6 @@ found in arXiv eprint [2308.15373](https://arxiv.org/abs/2308.15373).
     Snowmass is organized by the Division of Particles and Fields (DPF) of the American Physical Society. Snowmass is a scientific study. It provides an opportunity for the entire particle physics community to come together to identify and document a scientific vision for the future of particle physics in the U.S. and its international partners. Snowmass will define the most important questions for the field of particle physics and identify promising opportunities to address them. P5 will take the scientific input from Snowmass and develop a strategic plan for U.S. particle physics that can be executed over a 10 year timescale, in the context of a 20-year global vision for the field.
 
 * [US Particle Physics Project Prioritization Panel (P5)](http://hitoshi.berkeley.edu/P5/)
-    P5 reports to HEPAP (High-Energy Physics Advisory Panel) that advises High-Energy Physics of DOE Office of Science and Division of Physics of NSF. We will build on the “Snowmass” community study to hash out priorities for the next 10 years within 20-year context.
+    P5 reports to HEPAP (High-Energy Physics Advisory Panel) that advises the High-Energy Physics program of the DOE Office of Science and Division of Physics of the NSF. It will build on the "Snowmass" community study to hash out priorities for the next 10 years within 20-year context.
 
 
