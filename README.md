@@ -70,11 +70,10 @@ Any contributions are highly appreciated. There are several options to do so, de
       * [Online news](#online-news)
    * [Art in Physics](#art-in-physics)
    * [Social Media](#social-media)
-* [High Energy Physics regional efforts](#high-energy-physics-regional-efforts)
-
+   * [High Energy Physics regional efforts](#high-energy-physics-regional-efforts)
 
 <!-- Created by https://github.com/ekalinin/github-markdown-toc -->
-<!-- Added by: runner, at: Mon Oct 16 20:54:36 UTC 2023 -->
+<!-- Added by: runner, at: Thu Nov  9 17:27:15 UTC 2023 -->
 
 <!--te-->
 
