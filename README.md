@@ -1,3 +1,4 @@
+
 # Online Particle Physics Information
 
 Online resources are used in a diverse and expanding set of ways in particle physics.
@@ -69,7 +70,8 @@ Any contributions are highly appreciated. There are several options to do so, de
       * [Online news](#online-news)
    * [Art in Physics](#art-in-physics)
    * [Social Media](#social-media)
-   * [High Energy Physics in developing regions](#high-energy-physics-in-developing-regions)
+* [High Energy Physics regional efforts](#high-energy-physics-regional-efforts)
+
 
 <!-- Created by https://github.com/ekalinin/github-markdown-toc -->
 <!-- Added by: runner, at: Mon Oct 16 20:54:36 UTC 2023 -->
@@ -82,22 +84,26 @@ Any contributions are highly appreciated. There are several options to do so, de
 * [Review of Particle Physics (RPP)](https://pdg.lbl.gov):
     A comprehensive report on the fields of particle physics and related areas of cosmology and astrophysics, including both review articles and a compilation/evaluation of data on particle properties. The review section includes articles, tables and plots on a wide variety of theoretical and experimental topics of interest to particle physicists and astrophysicists. The particle properties section provides tables of published measurements as well as the Particle Data Group's best values and limits for particle properties such as masses, widths, lifetimes, and branching fractions, as well as an extensive summary of searches for hypothetical particles. RPP is published as a large book every two years, with partial updates made available once each year on the web.
 
-    The printed book can be ordered: <https://pdg.lbl.gov/current/receive_our_products.html>
+    The printed book can be ordered: <https://pdg.lbl.gov/order>
 
-    Of historical interest is the complete RPP collection which can be found online: 
-    <https://pdg.lbl.gov/rpp-archive/> and 
-    <https://scientific-info.cern/search-and-read/online-resources/review-particle-physics>
+    Of historical interest is the complete RPP collection which can be found online: <https://pdg.lbl.gov/publications>
 
 * [Particle Physics booklet](https://pdg.lbl.gov/current/booklet.pdf):
     An abridged version of the Review of Particle Physics, available as a pocket-sized 250-page booklet. It is one of the most useful summaries of physics data. The booklet contains an abbreviated set of reviews and the summary tables from the most recent edition of the Review of Particle Physics.
 
-    The printed booklet can be ordered: <https://pdg.lbl.gov/current/receive_our_products.html>
+    The printed booklet can be ordered: <https://pdg.lbl.gov/order>
+
+    A mobile version of the booklet is also available: <https://pdg.lbl.gov/booklet>
+
 
 * [PDGLive](https://pdglive.lbl.gov):
     A web application for browsing the contents of the PDG database that contains the information published in the Review of Particle Physics. It allows one to navigate to a particle of interest, see a summary of the information available, and then proceed to the detailed information published in the Review of Particle Physics. Data entries are directly linked to the corresponding bibliographic information in INSPIRE.
 
-* [Computer-readable files](https://pdg.lbl.gov/current/html/computer_read.html):
+* [Computer-readable files](https://pdg.lbl.gov/files):
     Data files that can be downloaded from the PDG include tables of particle masses and widths, PDG Monte Carlo particle numbers, and cross-section data. The files are updated with each new edition of the Review of Particle Physics.
+
+* [PDG API](https://pdg.lbl.gov/api):
+    In addition to the fixed-format data files that have been available for many years, PDG now provides for testing a beta release of three new tools to access PDG data in machine-readable format.
 
 # Particle physics information platform
 
@@ -262,6 +268,9 @@ sorted by the INSPIRE Experiments classification. The links point to the record 
 
 * [Gfitter](https://inspirehep.net/experiments/1778048):
     The generic fitting package Gfitter comprises a framework for the statistical analysis of parameter estimation problems in HEP.
+
+* [MUSES](https://inspirehep.net/experiments/2705080):
+    Developing a new cyberinfrastructure to provide the scientific community novel tools to answer critical interdisciplinary questions in nuclear physics, gravitational wave astrophysics, and heavy-ion physics.
 
 * [ROOT](https://inspirehep.net/experiments/1778050):
     This framework for data processing in high-energy physics, born at CERN, offers applications to store, access, process, analyze and represent data or perform simulations.
@@ -484,6 +493,9 @@ sorted by the INSPIRE Experiments classification. The links point to the record 
 * [GADGET](https://inspirehep.net/experiments/2648124):
     Code for cosmological N-body/SPH simulations on massively parallel computers with distributed memory.
 
+* [Illustris](https://inspirehep.net/experiments/2708513):
+    The Illustris project is a set of large-scale cosmological simulations, including the most ambitious simulation of galaxy formation yet performed. The calculation tracks the expansion of the universe, the gravitational pull of matter onto itself, the motion or "hydrodynamics" of cosmic gas, as well as the formation of stars and black holes.
+
 * [MESA](https://inspirehep.net/experiments/2641176):
     MESA focuses on accurate, one-dimensional stellar evolution Calculations.
 
@@ -494,6 +506,7 @@ sorted by the INSPIRE Experiments classification. The links point to the record 
 
 * [CORSIKA](https://inspirehep.net/experiments/1891194):
     Detailed simulation of extensive air showers initiated by high energy cosmic ray particles. Protons, light nuclei up to iron, photons, and many other particles may be treated as primaries. The particles are tracked through the atmosphere until they undergo reactions with the air nuclei or, in the case of instable secondaries, decay.
+
 
 
 ## Web apps
@@ -704,6 +717,7 @@ A collection of online tests, video lectures, and related course materials from 
 
 **Classroom Activities Collections**
 
+* [CERN Education Lab classroom](https://scoollab.web.cern.ch/classroom-activities)
 * [Contemporary Physics Education Project - Fundamental particle and interactions](https://www.cpepphysics.org/fundamental-particles/):
 * [Fermilab Physical Science/Physics Resources](https://ed.fnal.gov/home/educators1000-physics.shtml):
 * [IceCube Activities](https://icecube.wisc.edu/outreach/activities):
@@ -762,8 +776,8 @@ A collection of online tests, video lectures, and related course materials from 
 * [Fermilab Office of Education and Public Outreach](https://ed.fnal.gov/):
     Provides  education resources and information about activities for educators, physicists, students and visitors to the Lab. In addition to information about 25 programs, the website provides online data-based investigations for high school students, online versions of exhibits in the Lederman Science Center, links to particle physics discovery resources, web-based instructional resources, tips for education and outreach, and links to the Lederman Science Center and the Teacher Resource Center.
 
-* [Perimeter Institute Outreach](https://www.perimeterinstitute.ca/outreach):
-    Perimeter Institute shares ideas with students, teachers, and like-minded people through programs and resources that communicate the power, joy, and mystery of science. Perimeter’s award-winning Outreach team brings science to life and raises scientific literacy through classroom resources, public lectures, teacher workshops, an educator network, and a summer school where students interact with Perimeter researchers.
+* [INFN Global education and outreach](https://collisioni.infn.it/en/)
+    Collisioni.infn is the web space dedicated to cultural and educational initiatives of the INFN.    
 
 * [Science Education at Jefferson Lab](https://education.jlab.org/):
     Jefferson Lab's long-term commitment to science education continues to focus on increasing the number of teachers with a substantial background in math and science, strengthening the motivation and preparation of all students, especially minorities and females, and addressing the serious under representation of minorities and females in science, math, engineering and technology careers.
@@ -775,11 +789,13 @@ A collection of online tests, video lectures, and related course materials from 
     INFN-LNF educational programs are addressed to students, teachers and general audiences of every age, from Italy and abroad. Insights and education about the INFN-LNF research are offered thanks to the organization of guided tours and open days, stages for students, refresher courses for teachers, seminars and divulgation events. The aim is to create a constant exchange between the research world and society, thanks to direct contact and via the internet and other social media. See also the global INFN education and outreach site [https://collisioni.infn.it/en/](https://collisioni.infn.it/en/).
 
 * [Laboratori Nazionali del Gran Sasso Outreach Activities](https://www.lngs.infn.it/en/outreach-activities):
-
     The Lab offers pupils the opportunity to approach the fascinating world of Physics and Science in general through stages, summer schools and training camps. It makes young researchers’ skills and competences available to people both in public events, such as the Open Day and the European Researchers’ Night, and in guided tours to visit the underground experimental halls.
 
 * [Lawrence Berkeley National Laboratory (LBNL) Workforce Development and Education](https://education.lbl.gov/):
     Working with our partners both within and outside Berkeley Lab, LBNL promotes equal access to scientific and technical careers for students from all backgrounds, supports STEM teachers, and build scientific literacy through innovative education programs. The lab also supports educational outreach efforts from Berkeley Lab’s divisions by providing program development assistance, materials, funding, volunteers, project management, marketing, and administrative support.
+
+* [Perimeter Institute Outreach](https://www.perimeterinstitute.ca/outreach):
+    Perimeter Institute shares ideas with students, teachers, and like-minded people through programs and resources that communicate the power, joy, and mystery of science. Perimeter’s award-winning Outreach team brings science to life and raises scientific literacy through classroom resources, public lectures, teacher workshops, an educator network, and a summer school where students interact with Perimeter researchers.
 
 * [Sanford Underground Research Facility Education and Outreach](https://sanfordlab.org/educators):
     Leveraging research being conducted underground at Sanford Lab, staff provide training, teaching tools and materials for teachers so they can inspire and challenge students.
@@ -862,9 +878,17 @@ A collection of online tests, video lectures, and related course materials from 
     * Website: <https://home.cern/news?audience=23>
     * X (Twitter): [`@CERN`](https://twitter.com/CERN)
 
+* **DESY News:**
+    * Website: <https://www.desy.de/news/index_eng.html>
+    * X (Twitter): [`@DESY`](https://twitter.com/desy)
+
 * **Fermilab News:**
     * Website: <https://news.fnal.gov>
     * X (Twitter): [`@Fermilab`](https://twitter.com/Fermilab)
+
+* **INFN News:**
+    * Website: <https://home.infn.it/it/comunicazione/notizie/tutte-le-notizie>
+    * X (Twitter): [`@INFN_`](https://twitter.com/INFN_)
 
 * **Interactions.org:**
     The Interactions.org website is designed to serve as central resource
@@ -937,13 +961,28 @@ List of Institutions that have noted their X (Twitter) accounts on INSPIRE can b
 List of physicists on podcasts, Mastodon and Bluesky at TrueSciPhi: <https://truesciphi.org/home_sci.html#pmapod>
 
 
-## High Energy Physics in developing regions
+## High Energy Physics regional efforts
 
-We attempt to summarize HEP activities and efforts in Africa, Latin 
-America and other regions that may be classified and developing or 
-emerging. The report is not exhaustive and based on the expert 
-knowledge of the authors at the time of information gathering; the 
-narrative was developed in July 2023 and would require period 
-periodic updates, as the HEP landscape changes. Details may be 
+* [Developing Regions](https://arxiv.org/abs/2308.15373)
+A summary of HEP activities and efforts in Africa, Latin
+America and other regions that may be classified and developing or
+emerging. The report is not exhaustive and based on the expert
+knowledge of the authors at the time of information gathering; the
+narrative was developed in July 2023 and would require period
+periodic updates, as the HEP landscape changes. Details may be
 found in arXiv eprint [2308.15373](https://arxiv.org/abs/2308.15373).
+
+
+* [European Strategy for Particle Physics](https://europeanstrategyupdate.web.cern.ch/)
+    The European Strategy for Particle Physics provides a clear prioritization of European ambitions in advancing the science of particle physics. It takes into account the worldwide particle physics landscape and developments in related fields, and is initiated by the CERN Council to coordinate activities across a large, international and fast-moving community with the aim of maximising scientific returns.
+
+* [Japan's Strategy for Future Projects in High Energy Physics](http://www.jahep.org/files/20170906-en.pdf)
+    The final report from Japan's Committee on Future Projects in High Energy Physics.
+
+* [US Particle Physics Community Planning Exercise (Snowmass)](https://www.snowmass21.org/)
+    Snowmass is organized by the Division of Particles and Fields (DPF) of the American Physical Society. Snowmass is a scientific study. It provides an opportunity for the entire particle physics community to come together to identify and document a scientific vision for the future of particle physics in the U.S. and its international partners. Snowmass will define the most important questions for the field of particle physics and identify promising opportunities to address them. P5 will take the scientific input from Snowmass and develop a strategic plan for U.S. particle physics that can be executed over a 10 year timescale, in the context of a 20-year global vision for the field.
+
+* [US Particle Physics Project Prioritization Panel (P5)](http://hitoshi.berkeley.edu/P5/)
+    P5 reports to HEPAP (High-Energy Physics Advisory Panel) that advises the High-Energy Physics program of the DOE Office of Science and Division of Physics of the NSF. It will build on the "Snowmass" community study to hash out priorities for the next 10 years within 20-year context.
+
 
