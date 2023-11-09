@@ -102,7 +102,7 @@ Any contributions are highly appreciated. There are several options to do so, de
     Data files that can be downloaded from the PDG include tables of particle masses and widths, PDG Monte Carlo particle numbers, and cross-section data. The files are updated with each new edition of the Review of Particle Physics.
 
 * [PDG API](https://pdg.lbl.gov/api):
-    In addition to the fixed-format data files that have been available for many years, PDG now provides for testing a beta release of three new tools to access PDG data in machine-readable format.
+    In addition to the fixed-format data files that have been available for many years, PDG is developing new tools to access PDG data in machine-readable format (currently available as beta versions).
 
 # Particle physics information platform
 
