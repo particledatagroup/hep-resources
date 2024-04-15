@@ -634,7 +634,7 @@ More formal and advanced data preservation activity is ongoing in the field of E
 
 # Particle physics education and outreach sites
 
-A useful list of resources can also be found at <https://stfc.ukri.org/research/particle-physics-and-particle-astrophysics/particle-physics-resources/>
+A useful list of resources can also be found at <https://www.ukri.org/what-we-do/public-engagement/public-engagement-stfc/engage-with-our-areas-of-science-and-technology-stfc/particle-physics/particle-physics-resources/>
 
 ## Science Educators' Networks
 
