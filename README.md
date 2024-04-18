@@ -3,7 +3,7 @@
 
 Online resources are used in a diverse and expanding set of ways in particle physics.
 Many of these resources have become central to our collective work, and we provide a curated
-introduction to online resources as part of the [Review of Particle Physics](https://pdg.lbl.gov/2021/reviews/rpp2020-rev-online-hep-info.pdf). That list is, by necessity, incomplete.
+introduction to online resources as part of the [Review of Particle Physics](https://pdg.lbl.gov/2023/reviews/rpp2023-rev-online-hep-info.pdf). That list is, by necessity, incomplete.
 
 By contrast, this repository provides an expanded and regularly updated list of resources. It is meant to be inclusive and catalog all useful resources related to particle physics. The community is warmly invited to contribute in order to ensure a broad and up to date coverage of relevant resources.
 
