@@ -329,6 +329,9 @@ sorted by the INSPIRE Experiments classification. The links point to the record 
 
 ### Simulation tools
 
+* [BlackHawk](https://inspirehep.net/experiments/2926462):
+    Calculation of the Hawking evaporation spectra of any black hole distribution
+
 * [VEGAS](https://inspirehep.net/experiments/2702974):
     A general purpose algorithm for multidimensional integration. It is an iterative and adaptive Monte Carlo scheme.
 
@@ -358,7 +361,13 @@ sorted by the INSPIRE Experiments classification. The links point to the record 
 * [MODE](https://inspirehep.net/experiments/2643999):
     Targeting the use of differentiable programming in design optimization of detectors for particle physics applications, extending from fundamental research at accelerators, in space, and in nuclear physics and neutrino facilities, to industrial applications employing the technology of radiation detection.
 
+* [SensCalc](https://inspirehep.net/experiments/2913640):
+    A public and unified evaluator of sensitivities of lifetime frontier experiments to feebly interacting particles. Based on Mathematica.
+
 ### Simulation tools - Event Simulation
+
+* [ACHILLES](https://inspirehep.net/experiments/2914603):
+    A lepton-nucleus event generator
 
 * [ALPGEN](https://inspirehep.net/experiments/2645159):
     A collection of codes for the generation of multi-parton processes in hadronic collisions.
@@ -372,8 +381,20 @@ sorted by the INSPIRE Experiments classification. The links point to the record 
 * [CASCADE](https://inspirehep.net/experiments/2651743):
     Hadron level Monte Carlo generator for ep and pp scattering applying Transverse Momentum Dependent (TMD) parton densities and parton shower.
 
+* [CHILI](https://inspirehep.net/experiments/2945851):
+    Phase-space integration at hadron colliders
+
+* [CONTUR](https://inspirehep.net/experiments/2921388):
+    The CONTUR toolkit exploits RIVET to allow rapid limit-setting and consistency checks for new physics models.
+
 * [EPJPSI](https://inspirehep.net/experiments/2652558):
     Monte Carlo calculations for J/ψ mesons in high energy γ-p, ep, pp̅ and pp collisions.
+
+* [EPOS-LHC](https://inspirehep.net/experiments/2926436):
+    Monte Carlo event generator for minimum bias hadronic interactions, used for both heavy ion interactions and cosmic ray air shower simulations
+
+* [ERNIE](https://inspirehep.net/experiments/2721222):
+    Generates nuclear reactor electron antineutrinos and inverse beta decay events induced by these particles, using the Monte-Carlo method
 
 * [FastJet](https://inspirehep.net/experiments/1778324):
     FastJet is a software package for jet finding in pp and e+e- collisions. It includes fast native implementations of many sequential recombination clustering algorithms, plugins for access to a range of cone jet finders and tools for advanced jet manipulation.
@@ -408,23 +429,41 @@ sorted by the INSPIRE Experiments classification. The links point to the record 
 * [JETSCAPE](https://inspirehep.net/experiments/1780614):
     Comprehensive software framework to provide a systematic, rigorous approach to simulating the complex dynamical environment of relativistic heavy-ion collisions.
 
+* [MARLEY](https://inspirehep.net/experiments/2914604):
+    Event generator for neutrino-nucleus interactions
+
 * [MC@NLO](https://inspirehep.net/experiments/2652578):
     Fortran package to implement a scheme for combining a Monte Carlo event generator with next-to-leading-order calculations of rates for QCD processes.
 
 * [MCFM](https://inspirehep.net/experiments/1778075):
     MCFM (Monte Carlo for FeMtobarn processes) is a program designed to calculate cross-sections for various femtobarn-level processes at hadron-hadron colliders.
 
+* [MaRTIn](https://inspirehep.net/experiments/2833795):
+    Package for calculating amplitudes up to two loops
+
 * [MadGraph](https://inspirehep.net/experiments/1775083):
     A framework that aims at providing all the elements necessary for SM and BSM phenomenology, such as the computations of cross sections, the generation of hard events and their matching with event generators, and the use of a variety of tools relevant to event manipulation and analysis.
 
+* [NEUT](https://inspirehep.net/experiments/1780081):
+    Simulating neutrino interactions with nucleon and nucleus
+
 * [NUISANCE](https://inspirehep.net/experiments/1780082):
     C++ framework which facilitates detailed studies of neutrino interaction cross-section models implemented in Monte Carlo neutrino event generators.
+
+* [NuFast](https://inspirehep.net/experiments/2824655):
+    Calculates neutrino oscillation probabilities in matter optimized for long-baseline neutrino oscillations in the Earth's crust including both accelerator and reactor experiments.
 
 * [NuWro](https://inspirehep.net/experiments/1780078):
     Monte Carlo neutrino event generator that includes all basic dynamics for neutrino scattering processes (for both neutral and charged currents).
 
 * [OpenLoops](https://inspirehep.net/experiments/2644147):
     A fully automated implementation for fast numerical evaluation of tree and one-loop matrix elements for any Standard Model process.
+
+* [PEPPER](https://inspirehep.net/experiments/2939365):
+    An efficent parton-level event generator to simulate high-energy physics at colliders such as the LHC
+
+* [PHOKHARA](https://inspirehep.net/experiments/2926463):
+    Monte Carlo event generator which simulates this process at the next-to-leading order (NLO) accuracy
 
 * [PHOTOS](https://inspirehep.net/experiments/2697498):
     A Universal Monte Carlo for QED radiative corrections
@@ -446,6 +485,9 @@ sorted by the INSPIRE Experiments classification. The links point to the record 
 
 * [Sherpa](https://inspirehep.net/experiments/1778076):
     A multi-purpose particle physics event generator for the Simulation of High-Energy Reactions of PArticles in lepton-lepton, lepton-photon, photon-photon, lepton-hadron and hadron-hadron collisions.
+
+* [TauRunner](https://inspirehep.net/experiments/2893706):
+    A Python-based package that propagates neutral and charged leptons
 
 * [WHIZARD](https://inspirehep.net/experiments/1778077):
     A system designed for the efficient calculation of multi-particle scattering cross sections and simulated event samples.
@@ -478,6 +520,9 @@ sorted by the INSPIRE Experiments classification. The links point to the record 
 * [CAMELS](https://inspirehep.net/experiments/1824016):
     The goal of the CAMELS project is to provide theory predictions for different observables as a function of cosmology and astrophysics, and it is the largest suite of cosmological (magneto-)hydrodynamic simulations designed to train machine learning algorithms.
 
+* [CosmoFlow](https://inspirehep.net/experiments/2824654):
+    CosmoFlow is an open source Python code that computes tree-level cosmological correlators by tracing their time flow.
+
 * [FLAMINGO](https://inspirehep.net/experiments/2667514):
     A project of the Virgo consortium for cosmological supercomputer simulations
 
@@ -486,6 +531,9 @@ sorted by the INSPIRE Experiments classification. The links point to the record 
 
 * [Illustris](https://inspirehep.net/experiments/2708513):
     The Illustris project is a set of large-scale cosmological simulations, including the most ambitious simulation of galaxy formation yet performed. The calculation tracks the expansion of the universe, the gravitational pull of matter onto itself, the motion or "hydrodynamics" of cosmic gas, as well as the formation of stars and black holes.
+
+* [LINX](https://inspirehep.net/experiments/2845473):
+    BBN code which is fast enough to use with the kinds of MC samplers that have become commonplace in CMB studies.
 
 * [MESA](https://inspirehep.net/experiments/2641176):
     MESA focuses on accurate, one-dimensional stellar evolution Calculations.
