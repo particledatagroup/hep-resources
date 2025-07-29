@@ -378,6 +378,9 @@ sorted by the INSPIRE Experiments classification. The links point to the record 
 * [Ariadne](https://inspirehep.net/experiments/2651736):
     A program for simulation of QCD cascades implementing the colour dipole model.
 
+* [AxionDarkPhotonSimulator](https://inspirehep.net/experiments/2955084):
+    Python package for simulating an axion-dark photon system
+
 * [CASCADE](https://inspirehep.net/experiments/2651743):
     Hadron level Monte Carlo generator for ep and pp scattering applying Transverse Momentum Dependent (TMD) parton densities and parton shower.
 
