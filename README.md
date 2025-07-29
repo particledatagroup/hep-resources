@@ -663,7 +663,7 @@ analyse data.
 More formal and advanced data preservation activity is ongoing in the field of Experimental Astrophysics, including:
 
 * DES (Dark Energy Survey Data) <https://www.darkenergysurvey.org/the-des-project/data-access/>
-* DESI(Dark Energy Spectroscopic Instrument) <https://data.desi.lbl.gov/doc/>
+* DESI (Dark Energy Spectroscopic Instrument) <https://data.desi.lbl.gov/doc/>
 * Fermi Gamma-ray Space Telescope Data <https://fermi.gsfc.nasa.gov/ssc/data>
 * IVOA (International Virtual Observatory Alliance) <https://www.ivoa.net/astronomers/applications.html>
 * GWOSC (Gravitational Wave Open Science Center) <https://gwosc.org/>
@@ -805,10 +805,6 @@ A collection of online tests, video lectures, and related course materials from 
 * [DESY Education](https://www.desy.de/school/):
     DESY Hamburg offers a regular series of public lectures and the DESY Science Café for young and old alike.
 
-* [DESY Zeuthen Outreach](https://astro.desy.de/outreach):
-    Posters, photos, lectures, videos and blogs. Projects for teachers and students include School Labs, Cosmic@Web, Teilchenwelt and International Cosmic Day.
-
-
 * [Fermilab Office of Education and Public Outreach](https://ed.fnal.gov/):
     Provides  education resources and information about activities for educators, physicists, students and visitors to the Lab. In addition to information about 25 programs, the website provides online data-based investigations for high school students, online versions of exhibits in the Lederman Science Center, links to particle physics discovery resources, web-based instructional resources, tips for education and outreach, and links to the Lederman Science Center and the Teacher Resource Center.
 
@@ -839,8 +835,8 @@ A collection of online tests, video lectures, and related course materials from 
 * [SNOLAB Outreach](https://www.snolab.ca/outreach):
     The goal at SNOLAB is to develop new educational material that fosters an appreciation of the field of astroparticle physics. The education team endeavours to facilitate an exchange of knowledge with the public and scientists from around the world to better understand our solar system. The desired outcome of the educational work is to have a network of healthy and resilient community partners with informed and active citizens better equipped to understand the goals here at SNOLAB now and in the future.
 
-* [TRIUMF for the Public](https://www.triumf.ca/home/for-public):
-    TRIUMF offers outreach programs for high-school students, teachers, and the general public with a mission of promoting science and research in the public arena. TRIUMF’s outreach activities are also designed to tell Canadian students, teachers, and the public about the excitement of curiosity-driven research and about how a laboratory like TRIUMF adds value to Canada in new technologies, medical applications, and highly qualified people.
+* [TRIUMF for the Public](https://triumf.ca/education/):
+    TRIUMF's Education programming focuses on the needs of K-12 students and teachers, from local schools to national education networks, with a strong focus on hands-on, experiential learning delivered in a way that advances inclusion and accessibility across the entire STEM pathway.
 
 ## Educational Programs of Experiments
 
@@ -849,6 +845,12 @@ A collection of online tests, video lectures, and related course materials from 
 
 * [CMS Education and Outreach Resources](https://cds.cern.ch/collection/CMS%20Education%20and%20Outreach%20Resources?ln=en):
     Access to just over 100 resources from Activities and Games to Artworks to Visualizations. The resources cover a range of topics and are available in several languages.
+
+* [DESI education & outreach](https://www.desi.lbl.gov/education-outreach/)
+    The DESI Collaboration is committed to make the science and engineering results of our surveys accessible to students of a variety of education levels and the general public. The DESI Education and Public Outreach (EPO) team develops material for these target audiences.
+
+* [DUNE](https://lbnf-dune.fnal.gov/about/science-goals/)
+    An explanation of the DUNE experiment, it's physics goals, it's sonctruction and how it works.
 
 * [HiSPARC at UCU](https://www.uu.nl/en/organisation/university-college-utrecht/hisparc-at-ucu):
     HiSPARC is an outreach, educational and research experiment on cosmic rays detection, which was initiated in the Netherlands in 2004. It brings together secondary school students and teachers, undergraduate students and university researchers in the quest to understand the origin of the most energetic particles in our universe. HSPARC has stations in the Netherlands, the United Kingdom, Denmark and Namibia.
@@ -859,7 +861,7 @@ A collection of online tests, video lectures, and related course materials from 
 * [KASCADE and KASCADE-Grande KDKC](https://kcdc.iap.kit.edu/edu/examples_en/):
     The aim of the project KCDC (KASCADE Cosmic Ray Data Centre) is the installation and establishment of a public data centre for high-energy astroparticle physics based on the data of the KASCADE experiment.
 
-* [LIGO Education Resources](https://www.ligo.caltech.edu/page/educational-resources):
+* [LIGO Education Resources](https://ligo.org/education/):
     Something fun and educational for K-12 educators, parents and interested students. Includes classroom activities, field trips, activities to try at home, ask a scientist, teacher professional development, readings and videos.
 
 * [MINERvA Neutrinos in the Classroom](https://neutrino-classroom.org):
@@ -912,9 +914,11 @@ A collection of online tests, video lectures, and related course materials from 
 
 ### Online news
 
+News sites from major HEP institutions and organizations. The sites often have links to their various social media accounts at the borrom of the page.
+
 * **CERN News:**
     * Website: <https://home.cern/news?audience=23>
-    * Social medai: [`@CERN_official`](https://linktr.ee/CERN_official)
+    * Social media: [`@CERN_official`](https://linktr.ee/CERN_official)
 
 * **DESY News:**
     * Website: <https://desy.de/desy_latest_news/index_eng.html>
@@ -949,7 +953,6 @@ A collection of online tests, video lectures, and related course materials from 
 
 * **SNOLAB News and Headline:**
    * Website: <https://www.snolab.ca/news>
-   * X (Twitter): [`@SNOLABscience'](https://twitter.com/SNOLABscience)
 
 * **TRIUMF on NewsWise:**
    * Website: <https://triumf.ca/news/>
