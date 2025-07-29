@@ -7,8 +7,8 @@ introduction to online resources as part of the [Review of Particle Physics](htt
 
 By contrast, this repository provides an expanded and regularly updated list of resources. It is meant to be inclusive and catalog all useful resources related to particle physics. The community is warmly invited to contribute in order to ensure a broad and up to date coverage of relevant resources.
 
-:warning: Inclusion of a resource on this list does neither imply endorsement 
-by the PDG nor future inclusion in the curated introduction published in 
+:warning: Inclusion of a resource on this list does neither imply endorsement
+by the PDG nor future inclusion in the curated introduction published in
 the Review of Particle Physics.
 
 # How to contribute
@@ -37,7 +37,6 @@ Any contributions are highly appreciated. There are several options to do so, de
    * [Repositories](#repositories)
    * [Particle physics software](#particle-physics-software)
    * [Astrophysics software](#astrophysics-software)
-   * [Web apps](#web-apps)
    * [Mobile apps](#mobile-apps)
 * [Data repositories and preservation](#data-repositories-and-preservation)
    * [Data repositories](#data-repositories)
@@ -58,9 +57,8 @@ Any contributions are highly appreciated. There are several options to do so, de
    * [Educational Programs of Experiments](#educational-programs-of-experiments)
    * [News](#news)
       * [Newsletters and Magazines](#newsletters-and-magazines)
-      * [Online news](#online-news) 
+      * [Online news](#online-news)
    * [Art in Physics](#art-in-physics)
-   * [Social Media](#social-media)
 * [High Energy Physics regional efforts](#high-energy-physics-regional-efforts)
 
 
@@ -551,27 +549,16 @@ sorted by the INSPIRE Experiments classification. The links point to the record 
 
 
 
-## Web apps
-
-* [APFEL Web](https://apfel.mi.infn.it/):
-    This online parton density function plotter allows to compare predictions for different PDF fits.
-
-* [ColliderReach](http://collider-reach.web.cern.ch/):
-    A tool to give a simple estimate of the relation between the mass reaches of different proton-proton collider configurations.
-
 ## Mobile apps
 
-* [arXiv eXplorer](https://play.google.com/store/apps/details?id=com.gbeatty.arxiv):
-    Android app for browsing and searching arXiv.org, and for reading, saving and sharing articles.
+* [arXiver](https://play.google.com/store/apps/details?id=com.arXiver.test):
+    arXiver is a free user-friendly Android app designed to easily check the daily arXiv feed, organize and manage scientific papers, and search and read articles.
 
-* [Collider](http://collider.physics.ox.ac.uk/):
-    This mobile app allows users to see data from the ATLAS experiment at the LHC.
+* [arXiv on Apple](https://www.apple.com/us/search/arxiv?src=globalnav)
+    The Apple app store has a number of apps for arXiv and INSPIRE HEP.
 
 * [GravLens3](https://apps.apple.com/us/app/gravlens3/id318275930):
     Allows you to simulate the effect of a gravitational lens on your iPhone or iPad.
-
-* [TAPAs](https://play.google.com/store/apps/details?id=borland.TAPAs&hl=en):
-    Toolkit for Accelerator Physics on Androids. It allows "back-of-the-envelope" accelerator physics calculations, with 50 inter-linked types of calculations.
 
 # Data repositories and preservation
 Data is increasingly deposited in general-purpose repositories like [Zenodo](https://zenodo.org/), [figshare](https://figshare.com/) or the [Open Science Framework](https://osf.io/), but here are a few specific repositories focused on physics.
@@ -594,8 +581,11 @@ The data from HEPData can also be accessed through INSPIRE. A new enhanced servi
 * [HepSim](https://atlaswww.hep.anl.gov/hepsim/):
     A repository with Monte Carlo simulations for particle-collision experiments. It contains predictions from parton shower models and includes Monte Carlo events after fast and full detector simulations and event reconstruction.
 
-* [ILDG](http://plone.jldg.org):
+* [ILDG](https://hpc.desy.de/ildg/):
     The International Lattice Data Grid is an international organization which provides standards, services, methods and tools that facilitate the sharing and interchange of lattice QCD gauge configurations among scientific collaborations by uniting their regional data grids. It offers semantic access with local tools to worldwide distributed data.
+
+* [JLDG](https://www.jldg.org/):
+    JLDG is a data-grid for lattice QCD community in Japan, and works as a regional grid of the International Lattice Data Grid.
 
 * [MCPLOTS](http://mcplots.cern.ch/):
     MCPLOTS is a repository of Monte Carlo plots comparing High Energy Physics event generators to a wide variety of available experimental data. The website is supported by the LHC Physics Centre at CERN.
@@ -619,6 +609,9 @@ The data from HEPData can also be accessed through INSPIRE. A new enhanced servi
     An astronomical database that collates and cross-correlates information on extragalactic objects. It contains their positions, basic data, and names as well as bibliographic references to published papers, and notes from catalogs and other publications. NED supports searches for objects and references, and offers browsing capabilities for abstracts of articles of extragalactic interest.
 
 * [NASA Astronomical Virtual Observatories](https://heasarc.gsfc.nasa.gov/vo/summary/): A major priority for NASA is making its astronomy holdings available through standard interfaces to the science community. These pages describe the work of the NASA Astronomical Virtual Observatories (NAVO), a collaboration of NASA's astronomy archives, who have developed a comprehensive model for distributing data through standardized machine-queryable interfaces.
+
+* [NOIRLab Astro Data Lab Science Platform](https://datalab.noirlab.edu/):
+    The Astro Data Lab Science Platform enables efficient exploration and analysis of the large datasets now being generated by instruments on NOIRLab and various other wide-field telescopes.
 
 * [SIMBAD](https://simbad.u-strasbg.fr/simbad/):
     The SIMBAD astronomical database provides basic data, cross-identifications, bibliography and measurements for astronomical objects outside the solar system. It can be queried by object name, coordinates and various criteria. Lists of objects and scripts can be submitted.
@@ -669,15 +662,17 @@ analyse data.
 
 More formal and advanced data preservation activity is ongoing in the field of Experimental Astrophysics, including:
 
+* DES (Dark Energy Survey Data) <https://www.darkenergysurvey.org/the-des-project/data-access/>
+* DESI(Dark Energy Spectroscopic Instrument) <https://data.desi.lbl.gov/doc/>
 * Fermi Gamma-ray Space Telescope Data <https://fermi.gsfc.nasa.gov/ssc/data>
 * IVOA (International Virtual Observatory Alliance) <https://www.ivoa.net/astronomers/applications.html>
-* GWOSC (Gravitational Wave Open Science Center) <https://www.gw-openscience.org/about/>
+* GWOSC (Gravitational Wave Open Science Center) <https://gwosc.org/>
+* Pierre Auger Observatory <https://opendata.auger.org/>
 * PLA (Planck Legacy Archive)  <https://pla.esac.esa.int/pla/>
+* Rubin LSST (Legacy Survey of Space and Time) <https://dp0.lsst.io/>
 * SDSS (Sloan Digital Sky Survey) <https://sdss.org>
 
 # Particle physics education and outreach sites
-
-A useful list of resources can also be found at <https://stfc.ukri.org/research/particle-physics-and-particle-astrophysics/particle-physics-resources/>
 
 ## Science Educators' Networks
 
@@ -887,22 +882,25 @@ A collection of online tests, video lectures, and related course materials from 
 * **CERN Courier:**
     The website and associated print magazine highlight the latest developments in particle physics and related fields, wherever they happen in the world. Produced at CERN, published by IOPP.
     * Website: <https://cerncourier.com>
-    * X (Twitter): [`@cerncourier`](https://twitter.com/cerncourier)
+    * X (Twitter): [`@cerncourier`](https://x.com/cerncourier)
     * LinkedIn: <https://www.linkedin.com/company/cern-courier>
 
 * **DESY inForm:**
     The DESY newsletter that provides insight into both new developments in the scientific area and news from everyday life at DESY.
     * Website: <https://www.desy.de/news/desy_inform/index_eng.html> 
-    * X (Twitter): [`@desy`](https://twitter.com/desy)
 
 * **ILC Newsline:**
     ILC Newsline is a newsletter about recent news, milestones and developments related to the International Linear Collider and the fields of high-energy, particle and accelerator physics and engineering.
     * Website: <http://newsline.linearcollider.org>
-    * X (Twitter): [`@LCnewsline`](https://twitter.com/LCnewsline)
+    * X (Twitter): [`@LCnewsline`](https://x.com/LCnewsline)
 
 * **JINR News:**
     Issued 4 times a year, this bulletin provides information on new scientific results obtained at JINR Laboratories, on progress in performance of large-scale experiments, on construction of new installations, discoveries, etc.
     * Website: <http://www1.jinr.ru/News/Jinrnews_index.html>
+
+* **Long-Baseline Neutrino Oscillation Newsletters:**
+    Long-Baseline News is a newsletter which includes rumors and references about neutrinos.
+    * Website: <https://www.hep.anl.gov/ndk/longbnews>
 
 * **SLAC Signals:**
     This email newsletter reports about cutting-edge science, major SLAC milestones and other lab information. It has replaced SLAC Today in November 2013.
@@ -911,36 +909,30 @@ A collection of online tests, video lectures, and related course materials from 
 * **Symmetry:**
     This magazine about particle physics and its connections to other aspects of life and science, from interdisciplinary collaborations to policy to culture is published 6 times per year by Fermilab and SLAC.
     * Website: <https://www.symmetrymagazine.org>
-    * X (Twitter): [`@symmetrymag`](https://twitter.com/symmetrymag)
 
 ### Online news
 
 * **CERN News:**
     * Website: <https://home.cern/news?audience=23>
-    * X (Twitter): [`@CERN`](https://twitter.com/CERN)
+    * Social medai: [`@CERN_official`](https://linktr.ee/CERN_official)
 
 * **DESY News:**
-    * Website: <https://www.desy.de/news/index_eng.html>
-    * X (Twitter): [`@DESY`](https://twitter.com/desy)
+    * Website: <https://desy.de/desy_latest_news/index_eng.html>
 
 * **Fermilab News:**
     * Website: <https://news.fnal.gov>
-    * X (Twitter): [`@Fermilab`](https://twitter.com/Fermilab)
 
 * **INFN News:**
     * Website: <https://home.infn.it/it/comunicazione/notizie/tutte-le-notizie>
-    * X (Twitter): [`@INFN_`](https://twitter.com/INFN_)
 
 * **Interactions.org:**
     The Interactions.org website is designed to serve as central resource
     for information about particle physics, including press releases,
     articles, news, event listings and images.
     * Website: <https://www.interactions.org>
-    * X (Twitter): [`@particlenews`](https://twitter.com/particlenews)
 
 * **IOP News:**
     * Website: <https://www.iop.org/about/news>
-    * X (Twitter): [`@PhysicsNews`](https://twitter.com/PhysicsNews)
 
 * **ParticleBites and AstroBites:**
     Websites run by graduate students hosting daily summaries of recent
@@ -949,21 +941,18 @@ A collection of online tests, video lectures, and related course materials from 
     * Website: <https://www.particlebites.com>
     * Website: <https://astrobites.org>
 
-* **Perimeter Institute News:**
-    * Website: <https://www.perimeterinstitute.ca/news>
-    * X (Twitter): [`@perimeter`](https://twitter.com/perimeter)
+* **Perimeter Institute News & Ideas:**
+    * Website: <https://perimeterinstitute.ca/news-and-ideas>
 
 * **Sandford News and Events:**
-    * Website: <https://sanfordlab.org/news-and-events>
-    * X (Twitter): [`@SanfordLab`](https://twitter.com/SanfordLab)
+    * Website: <https://sanfordlab.org/news>
 
 * **SNOLAB News and Headline:**
    * Website: <https://www.snolab.ca/news>
    * X (Twitter): [`@SNOLABscience'](https://twitter.com/SNOLABscience)
 
 * **TRIUMF on NewsWise:**
-   * Website: <https://www.newswise.com/institutions/newsroom/19528>
-   * X (Twitter): [`@TRIUMFLab`](https://twitter.com/TRIUMFLab)
+   * Website: <https://triumf.ca/news/>
 
 ## Art in Physics
 
@@ -984,18 +973,6 @@ a body of work, leading to presentations in the community and possibly an exhibi
 * [TRIUMF Science through Art](https://www.triumf.ca/science-through-art):
     TRIUMF's Science through Art initiatives explore the space where art and science collide. These programs bring artists and TRIUMF researchers, engineers, technicians, tradespeople, and students together to explore new ways of thinking about science, discovery, creativity, and our universe.
 
-## Social Media
-
-Many particle physics institutions and collaborations have a presence on social media, with Facebook, X (Twitter), and Instagram as particularly popular. These resources are typically  used to communicate with the general public, but some of the highlighting of results and communications target physicists as an audience.  
-
-List of Experiments that have noted their X (Twitter) accounts on INSPIRE can be found here:  https://inspirehep.net/experiments?sort=mostrecent&size=25&page=1&q=urls.description%3ATWITTER
-
-List of Institutions that have noted their X (Twitter) accounts on INSPIRE can be found here:  https://inspirehep.net/institutions?sort=mostrecent&size=25&page=1&q=urls.description%3ATWITTER
-
-
-List of physicists on podcasts, Mastodon and Bluesky at TrueSciPhi: <https://truesciphi.org/home_sci.html#pmapod>
-
-
 ## High Energy Physics regional efforts
 
 * [Developing Regions](https://arxiv.org/abs/2308.15373)
@@ -1011,10 +988,10 @@ found in arXiv eprint [2308.15373](https://arxiv.org/abs/2308.15373).
 * [European Strategy for Particle Physics](https://europeanstrategyupdate.web.cern.ch/)
     The European Strategy for Particle Physics provides a clear prioritization of European ambitions in advancing the science of particle physics. It takes into account the worldwide particle physics landscape and developments in related fields, and is initiated by the CERN Council to coordinate activities across a large, international and fast-moving community with the aim of maximising scientific returns.
 
-* [Japan's Strategy for Future Projects in High Energy Physics](http://www.jahep.org/files/20170906-en.pdf)
+* [Japan's Strategy for Future Projects in High Energy Physics](https://www.jahep.org/en/fproject.html)
     The final report from Japan's Committee on Future Projects in High Energy Physics.
 
-* [US Particle Physics Community Planning Exercise (Snowmass)](https://www.snowmass21.org/)
+* [US Particle Physics Community Planning Exercise (Snowmass)](https://www.slac.stanford.edu/econf/C210711/)
     Snowmass is organized by the Division of Particles and Fields (DPF) of the American Physical Society. Snowmass is a scientific study. It provides an opportunity for the entire particle physics community to come together to identify and document a scientific vision for the future of particle physics in the U.S. and its international partners. Snowmass will define the most important questions for the field of particle physics and identify promising opportunities to address them. P5 will take the scientific input from Snowmass and develop a strategic plan for U.S. particle physics that can be executed over a 10 year timescale, in the context of a 20-year global vision for the field.
 
 * [US Particle Physics Project Prioritization Panel (P5)](http://hitoshi.berkeley.edu/P5/)
