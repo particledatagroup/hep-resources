@@ -718,11 +718,11 @@ A collection of online tests, video lectures, and related course materials from 
 
     ALICE: <https://www.physicsmasterclasses.org/index.php?cat=physics&page=alice>
 
-    ATLAS: <http://atlas-minerva.web.cern.ch/atlas-minerva>
+    ATLAS: <http://atlas-minerva.web.cern.ch>
 
     CMS: <https://cms.cern/interact-with-cms/cms-physics-masterclass>
 
-    LHCb: <http://lhcb-public.web.cern.ch/lhcb-public/en/LHCb-outreach/masterclasses/en>
+    LHCb: <https://lhcb-outreach.web.cern.ch/lhcbinternationalmasterclasses/>
 
 * [IceCube Masterclass](https://masterclass.icecube.wisc.edu/):
     The program is inspired by the International Masterclasses program started by IPPOG and is coordinated by the Wisconsin IceCube Particle Astrophysics Center with support from QuarkNet.
@@ -733,8 +733,8 @@ A collection of online tests, video lectures, and related course materials from 
 * [Contemporary Physics Education Project (CPEP)](https://www.cpepphysics.org/):
     CPEP offers beautifully illustrated charts that present the current understanding of physics in areas ranging from quarks to the cosmos, incorporating recent discoveries such as the Higgs boson and gravitational waves.
 
-* [APS Public Engagement](http://www.physicscentral.com):
-    This site maintained by the American Physical Society provides information about the APS’ public engagement in science program, including resources for physicists, teachers and students.
+* [APS Public Engagement](https://www.aps.org/initiatives/advocate-amplify/public-engagement):
+    Join APS' efforts to bridge the gap between science and society and become an empowered, effective ambassador for science.
 
 ## General Physics Activities
 
@@ -765,7 +765,7 @@ A collection of online tests, video lectures, and related course materials from 
 * [Perimeter Institute Educational Resources](https://resources.perimeterinstitute.ca):
 * [Quarked Lesson Plans](http://www.quarked.org/parents/lessonplans.html):
 * [QuarkNet Data Activities Portfolio](https://quarknet.org/data-portfolio):
-* [Sanford Lab curriculum materials](https://sanfordlab.org/educators/curriculum-modules):
+* [Sanford Lab curriculum materials](https://sanfordlab.org/education/resources):
 
 **Interactive Sites**
 
@@ -846,11 +846,14 @@ A collection of online tests, video lectures, and related course materials from 
 * [CMS Education and Outreach Resources](https://cds.cern.ch/collection/CMS%20Education%20and%20Outreach%20Resources?ln=en):
     Access to just over 100 resources from Activities and Games to Artworks to Visualizations. The resources cover a range of topics and are available in several languages.
 
-* [DESI education & outreach](https://www.desi.lbl.gov/education-outreach/)
+* [DES Education](https://www.darkenergysurvey.org/education):
+    DES Education, Outreach, and Science Communication Research
+
+* [DESI education & outreach](https://www.desi.lbl.gov/education-outreach/):
     The DESI Collaboration is committed to make the science and engineering results of our surveys accessible to students of a variety of education levels and the general public. The DESI Education and Public Outreach (EPO) team develops material for these target audiences.
 
-* [DUNE](https://lbnf-dune.fnal.gov/about/science-goals/)
-    An explanation of the DUNE experiment, it's physics goals, it's sonctruction and how it works.
+* [DUNE](https://lbnf-dune.fnal.gov/about/science-goals/):
+    An explanation of the DUNE experiment, its physics goals, its conctruction and how it works.
 
 * [HiSPARC at UCU](https://www.uu.nl/en/organisation/university-college-utrecht/hisparc-at-ucu):
     HiSPARC is an outreach, educational and research experiment on cosmic rays detection, which was initiated in the Netherlands in 2004. It brings together secondary school students and teachers, undergraduate students and university researchers in the quest to understand the origin of the most energetic particles in our universe. HSPARC has stations in the Netherlands, the United Kingdom, Denmark and Namibia.
@@ -860,6 +863,9 @@ A collection of online tests, video lectures, and related course materials from 
 
 * [KASCADE and KASCADE-Grande KDKC](https://kcdc.iap.kit.edu/edu/examples_en/):
     The aim of the project KCDC (KASCADE Cosmic Ray Data Centre) is the installation and establishment of a public data centre for high-energy astroparticle physics based on the data of the KASCADE experiment.
+
+* [LHCb](https://lhcb-outreach.web.cern.ch/):
+    Information on the LHCb experiment and its physics goals.
 
 * [LIGO Education Resources](https://ligo.org/education/):
     Something fun and educational for K-12 educators, parents and interested students. Includes classroom activities, field trips, activities to try at home, ask a scientist, teacher professional development, readings and videos.
@@ -914,7 +920,7 @@ A collection of online tests, video lectures, and related course materials from 
 
 ### Online news
 
-News sites from major HEP institutions and organizations. The sites often have links to their various social media accounts at the borrom of the page.
+News sites from major HEP institutions and organizations. The sites often have links to their various social media accounts at the bottom of the page.
 
 * **CERN News:**
     * Website: <https://home.cern/news?audience=23>
