@@ -846,7 +846,7 @@ A collection of online tests, video lectures, and related course materials from 
 * [CMS Education and Outreach Resources](https://cds.cern.ch/collection/CMS%20Education%20and%20Outreach%20Resources?ln=en):
     Access to just over 100 resources from Activities and Games to Artworks to Visualizations. The resources cover a range of topics and are available in several languages.
 
-* [DES Education](https://www.darkenergysurvey.org/education):
+* [DES Education](https://www.darkenergysurvey.org):
     DES Education, Outreach, and Science Communication Research
 
 * [DESI education & outreach](https://www.desi.lbl.gov/education-outreach/):
