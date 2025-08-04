@@ -262,10 +262,10 @@ sorted by the INSPIRE Experiments classification. The links point to the record 
     The generic fitting package Gfitter comprises a framework for the statistical analysis of parameter estimation problems in HEP.
 
 * [gvar](https://inspirehep.net/experiments/2957115):
-    Analyzing highly correlated data
+    This package facilitates the creation and manipulation of arbitrarily complicated (correlated) multi-dimensional Gaussian random variables.
 
 * [lsqfit](https://inspirehep.net/experiments/2957119):
-    Analyzing highly correlated data
+    This package facilitates least-squares fitting of noisy data by multi-dimensional, nonlinear functions of arbitrarily many parameters.
 
 * [MUSES](https://inspirehep.net/experiments/2705080):
     Developing a new cyberinfrastructure to provide the scientific community novel tools to answer critical interdisciplinary questions in nuclear physics, gravitational wave astrophysics, and heavy-ion physics.
