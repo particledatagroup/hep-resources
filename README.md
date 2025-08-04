@@ -290,6 +290,9 @@ sorted by the INSPIRE Experiments classification. The links point to the record 
 * [ALPHA](https://inspirehep.net/experiments/1392590):
     Numerical investigation of the running coupling in QCD, quark masses, non-perturbative renormalization, Symanzik improvement and Heavy Quark Effective Theory (HQET).
 
+* [Chroma](https://inspirehep.net/experiments/2957131):
+    An open source C++ based software system developed using the software infrastructure of the US SciDAC initiative
+
 * [ETM](https://inspirehep.net/experiments/1513946):
     Simulating lattice QCD with two degenerate flavours of quarks by means of the twisted mass formulation tuned to maximal twist.
 
