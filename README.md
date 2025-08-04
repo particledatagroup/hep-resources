@@ -597,7 +597,7 @@ It currently comprises the data points from plots and tables related to several 
 The data from HEPData can also be accessed through INSPIRE. A new enhanced service was recently developed in collaboration with CERN.
 
 * [CERN Open Data](https://opendata.cern.ch):
-    The CERN Open Data portal provides data from real collision events, as well as simulated and simplified datasets, produced by the experiments at the LHC, virtual machines to reproduce the analysis environment, and software to process the data. It serves over 2 PB of data in total and encourages their use for both educational and research purposes.
+    The CERN Open Data portal provides data from real collision events, as well as simulated and simplified datasets, produced by the experiments at the LHC, virtual machines to reproduce the analysis environment, and software to process the data. It serves over 2 PB of data in total and encourages the use of this data for both educational and research purposes.
 
 * [DOE Data Explorer](https://www.osti.gov/dataexplorer):
     DOE Data Explorer is the Office of Scientific and Technical Information (OSTI) search tool for finding U.S. Department of Energy-funded, publicly available, scientific data records submitted by data centers, repositories, and other organizations funded by the Department.
@@ -622,8 +622,8 @@ The data from HEPData can also be accessed through INSPIRE. A new enhanced servi
 * [NASA's HEASARC](https://heasarc.gsfc.nasa.gov/):
     The High Energy Astrophysics Science Archive Research Center (HEASARC) is the primary archive for NASA's (and other space agencies') missions dealing with electromagnetic radiation from extremely energetic phenomena ranging from black holes to the Big Bang.
 
-* **NASA archives:**
-    The NASA archives provide access to raw and processed datasets from numerous NASA missions.
+* [NASA Open Data Portal](https://data.nasa.gov/):
+    NASA's publicly available metadata repository, hosting diverse datasets related to science, space exploration, aeronautics, and more. 
 
     [Mikulski Archive for Space Telescopes (MAST)](https://archive.stsci.edu/): Hubble telescope, other missions (UV, optical).
 
