@@ -249,6 +249,9 @@ sorted by the INSPIRE Experiments classification. The links point to the record 
 
 ### Data Analysis
 
+* [AnalysisToolbox](https://inspirehep.net/experiments/2957112):
+    Python tools for statistically analyzing data related to QCD.
+
 * [CheckMATE](https://inspirehep.net/experiments/1778045):
     A program package which accepts simulated event files in many formats for any given model. The program then determines whether the model is excluded or not at 95% C.L. by comparing to many recent experimental analyses.
 
@@ -276,6 +279,12 @@ sorted by the INSPIRE Experiments classification. The links point to the record 
 * [ZFITTER](https://inspirehep.net/experiments/1778053):
     A Fortran package for the evaluation of radiative corrections (quantum corrections), as predicted in the Standard Model of elementary particles, to a variety of observable quantities, notably those related to the Z-boson resonance peak studied at LEP, CERN.
 
+* [gvar](https://inspirehep.net/experiments/2957115):
+    Analyzing highly correlated data
+
+* [lsqfit](https://inspirehep.net/experiments/2957119):
+    Analyzing highly correlated data
+
 ### Lattice Gauge Theory
 
 * [ALPHA](https://inspirehep.net/experiments/1392590):
@@ -284,14 +293,26 @@ sorted by the INSPIRE Experiments classification. The links point to the record 
 * [ETM](https://inspirehep.net/experiments/1513946):
     Simulating lattice QCD with two degenerate flavours of quarks by means of the twisted mass formulation tuned to maximal twist.
 
+* [Grid](https://inspirehep.net/experiments/2957096):
+    A next generation data parallel C++ QCD library
+
+* [Hadrons](https://inspirehep.net/experiments/2957102):
+    Grid-based Workflow Management System for lattice field theory simulations
+
 * [MILC](https://inspirehep.net/experiments/1228416):
     The MILC Code is a set of codes written in C developed by the MIMD Lattice Computation (MILC) collaboration for doing simulations of four dimensional SU(3) lattice gauge theory on MIMD parallel machines. The MILC Code is publicly available for research purposes.
 
 * [QUDA](https://inspirehep.net/experiments/2644145):
     Library for performing calculations in lattice QCD on GPUs using NVIDIA's CUDA platform. The current release includes optimized solvers for Wilson, Clover-improved Wilson,Twisted mass, Staggered, Improved staggered, Domain wall and Mobius fermion actions.
 
+* [SIMULATeQCD](https://inspirehep.net/experiments/2957121):
+    Efficient lattice QCD formula implementation
+
 * [USQCD](https://inspirehep.net/experiments/1735657):
     The software suite enables lattice QCD computations to be performed with high performance across a variety of architectures. The website contains links to the project web pages of the individual software modules, as well as to complete lattice QCD application packages which use them.
+
+* [gpt](https://inspirehep.net/experiments/2957106):
+    A Python toolkit for lattice field theory, quantum computing, and machine learning
 
 * [tmLQCD](https://inspirehep.net/experiments/2644492):
     This freely available software suite provides a set of tools to be used in lattice QCD simulations, mainly a HMC implementation for Wilson and Wilson twisted mass fermions and inverter for different versions of the Dirac operator.
