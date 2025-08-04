@@ -261,29 +261,29 @@ sorted by the INSPIRE Experiments classification. The links point to the record 
 * [Gfitter](https://inspirehep.net/experiments/1778048):
     The generic fitting package Gfitter comprises a framework for the statistical analysis of parameter estimation problems in HEP.
 
-* [MUSES](https://inspirehep.net/experiments/2705080):
-    Developing a new cyberinfrastructure to provide the scientific community novel tools to answer critical interdisciplinary questions in nuclear physics, gravitational wave astrophysics, and heavy-ion physics.
-
-* [ROOT](https://inspirehep.net/experiments/1778050):
-    This framework for data processing in high-energy physics, born at CERN, offers applications to store, access, process, analyze and represent data or perform simulations.
-
-* [Rivet](https://inspirehep.net/experiments/1778049):
-    The Rivet toolkit, a system for validation of Monte Carlo event generators, provides a large set of experimental analyses useful for MC generator development, validation, and tuning.
-
-* [SModelS](https://inspirehep.net/experiments/1778052):
-    SModelS is based on a general procedure to decompose Beyond the Standard Model (BSM) collider signatures presenting a Z2 symmetry into Simplified Model Spectrum (SMS) topologies. It provides a way to cast BSM predictions for the LHC in a model independent framework, which can be directly confronted with the relevant experimental constraints.
-
-* [Scikit-HEP](https://inspirehep.net/experiments/1778051):
-    A community-driven project with the aim of providing Particle Physics at large with an ecosystem for data analysis in Python. The project started in Autumn 2016 and is under active development. It focuses on providing core and common tools for the community but also on improving the interoperability between HEP tools and the scientific ecosystem in Python as well as the discoverability of utility packages and projects.
-
-* [ZFITTER](https://inspirehep.net/experiments/1778053):
-    A Fortran package for the evaluation of radiative corrections (quantum corrections), as predicted in the Standard Model of elementary particles, to a variety of observable quantities, notably those related to the Z-boson resonance peak studied at LEP, CERN.
-
 * [gvar](https://inspirehep.net/experiments/2957115):
     Analyzing highly correlated data
 
 * [lsqfit](https://inspirehep.net/experiments/2957119):
     Analyzing highly correlated data
+
+* [MUSES](https://inspirehep.net/experiments/2705080):
+    Developing a new cyberinfrastructure to provide the scientific community novel tools to answer critical interdisciplinary questions in nuclear physics, gravitational wave astrophysics, and heavy-ion physics.
+
+* [Rivet](https://inspirehep.net/experiments/1778049):
+    The Rivet toolkit, a system for validation of Monte Carlo event generators, provides a large set of experimental analyses useful for MC generator development, validation, and tuning.
+
+* [ROOT](https://inspirehep.net/experiments/1778050):
+    This framework for data processing in high-energy physics, born at CERN, offers applications to store, access, process, analyze and represent data or perform simulations.
+
+* [Scikit-HEP](https://inspirehep.net/experiments/1778051):
+    A community-driven project with the aim of providing Particle Physics at large with an ecosystem for data analysis in Python. The project started in Autumn 2016 and is under active development. It focuses on providing core and common tools for the community but also on improving the interoperability between HEP tools and the scientific ecosystem in Python as well as the discoverability of utility packages and projects.
+
+* [SModelS](https://inspirehep.net/experiments/1778052):
+    SModelS is based on a general procedure to decompose Beyond the Standard Model (BSM) collider signatures presenting a Z2 symmetry into Simplified Model Spectrum (SMS) topologies. It provides a way to cast BSM predictions for the LHC in a model independent framework, which can be directly confronted with the relevant experimental constraints.
+
+* [ZFITTER](https://inspirehep.net/experiments/1778053):
+    A Fortran package for the evaluation of radiative corrections (quantum corrections), as predicted in the Standard Model of elementary particles, to a variety of observable quantities, notably those related to the Z-boson resonance peak studied at LEP, CERN.
 
 ### Lattice Gauge Theory
 
@@ -292,6 +292,9 @@ sorted by the INSPIRE Experiments classification. The links point to the record 
 
 * [ETM](https://inspirehep.net/experiments/1513946):
     Simulating lattice QCD with two degenerate flavours of quarks by means of the twisted mass formulation tuned to maximal twist.
+
+* [gpt](https://inspirehep.net/experiments/2957106):
+    A Python toolkit for lattice field theory, quantum computing, and machine learning
 
 * [Grid](https://inspirehep.net/experiments/2957096):
     A next generation data parallel C++ QCD library
@@ -308,14 +311,11 @@ sorted by the INSPIRE Experiments classification. The links point to the record 
 * [SIMULATeQCD](https://inspirehep.net/experiments/2957121):
     Efficient lattice QCD formula implementation
 
-* [USQCD](https://inspirehep.net/experiments/1735657):
-    The software suite enables lattice QCD computations to be performed with high performance across a variety of architectures. The website contains links to the project web pages of the individual software modules, as well as to complete lattice QCD application packages which use them.
-
-* [gpt](https://inspirehep.net/experiments/2957106):
-    A Python toolkit for lattice field theory, quantum computing, and machine learning
-
 * [tmLQCD](https://inspirehep.net/experiments/2644492):
     This freely available software suite provides a set of tools to be used in lattice QCD simulations, mainly a HMC implementation for Wilson and Wilson twisted mass fermions and inverter for different versions of the Dirac operator.
+
+* [USQCD](https://inspirehep.net/experiments/1735657):
+    The software suite enables lattice QCD computations to be performed with high performance across a variety of architectures. The website contains links to the project web pages of the individual software modules, as well as to complete lattice QCD application packages which use them.
 
 ### Parton Distribution Fits
 
@@ -385,14 +385,14 @@ sorted by the INSPIRE Experiments classification. The links point to the record 
 
 ### Simulation tools - Event Simulation
 
+* [AcerMC](https://inspirehep.net/experiments/2645158):
+    Generation of Standard Model background processes in pp collisions at the LHC.
+
 * [ACHILLES](https://inspirehep.net/experiments/2914603):
     A lepton-nucleus event generator
 
 * [ALPGEN](https://inspirehep.net/experiments/2645159):
     A collection of codes for the generation of multi-parton processes in hadronic collisions.
-
-* [AcerMC](https://inspirehep.net/experiments/2645158):
-    Generation of Standard Model background processes in pp collisions at the LHC.
 
 * [Ariadne](https://inspirehep.net/experiments/2651736):
     A program for simulation of QCD cascades implementing the colour dipole model.
@@ -433,11 +433,11 @@ sorted by the INSPIRE Experiments classification. The links point to the record 
 * [GENIE](https://inspirehep.net/experiments/1780077):
     Modern and universal event generator framework and tools in support of neutrino experiments.
 
-* [GLoBES](https://inspirehep.net/experiments/1778073):
-    Software package for the simulation of long baseline neutrino oscillation experiments.
-
 * [GiBUU](https://inspirehep.net/experiments/1780080):
     Unified theory and transport framework in the MeV and GeV energy regimes for elementary reactions on nuclei.
+
+* [GLoBES](https://inspirehep.net/experiments/1778073):
+    Software package for the simulation of long baseline neutrino oscillation experiments.
 
 * [GoSam](https://inspirehep.net/experiments/2644146):
     This package allows for the automated calculation of one-loop amplitudes for multi-particle processes in renormalizable quantum field theories.
@@ -451,8 +451,14 @@ sorted by the INSPIRE Experiments classification. The links point to the record 
 * [JETSCAPE](https://inspirehep.net/experiments/1780614):
     Comprehensive software framework to provide a systematic, rigorous approach to simulating the complex dynamical environment of relativistic heavy-ion collisions.
 
+* [MadGraph](https://inspirehep.net/experiments/1775083):
+    A framework that aims at providing all the elements necessary for SM and BSM phenomenology, such as the computations of cross sections, the generation of hard events and their matching with event generators, and the use of a variety of tools relevant to event manipulation and analysis.
+
 * [MARLEY](https://inspirehep.net/experiments/2914604):
     Event generator for neutrino-nucleus interactions
+
+* [MaRTIn](https://inspirehep.net/experiments/2833795):
+    Package for calculating amplitudes up to two loops
 
 * [MC@NLO](https://inspirehep.net/experiments/2652578):
     Fortran package to implement a scheme for combining a Monte Carlo event generator with next-to-leading-order calculations of rates for QCD processes.
@@ -460,20 +466,14 @@ sorted by the INSPIRE Experiments classification. The links point to the record 
 * [MCFM](https://inspirehep.net/experiments/1778075):
     MCFM (Monte Carlo for FeMtobarn processes) is a program designed to calculate cross-sections for various femtobarn-level processes at hadron-hadron colliders.
 
-* [MaRTIn](https://inspirehep.net/experiments/2833795):
-    Package for calculating amplitudes up to two loops
-
-* [MadGraph](https://inspirehep.net/experiments/1775083):
-    A framework that aims at providing all the elements necessary for SM and BSM phenomenology, such as the computations of cross sections, the generation of hard events and their matching with event generators, and the use of a variety of tools relevant to event manipulation and analysis.
-
 * [NEUT](https://inspirehep.net/experiments/1780081):
     Simulating neutrino interactions with nucleon and nucleus
 
-* [NUISANCE](https://inspirehep.net/experiments/1780082):
-    C++ framework which facilitates detailed studies of neutrino interaction cross-section models implemented in Monte Carlo neutrino event generators.
-
 * [NuFast](https://inspirehep.net/experiments/2824655):
     Calculates neutrino oscillation probabilities in matter optimized for long-baseline neutrino oscillations in the Earth's crust including both accelerator and reactor experiments.
+
+* [NUISANCE](https://inspirehep.net/experiments/1780082):
+    C++ framework which facilitates detailed studies of neutrino interaction cross-section models implemented in Monte Carlo neutrino event generators.
 
 * [NuWro](https://inspirehep.net/experiments/1780078):
     Monte Carlo neutrino event generator that includes all basic dynamics for neutrino scattering processes (for both neutral and charged currents).
@@ -502,11 +502,11 @@ sorted by the INSPIRE Experiments classification. The links point to the record 
 * [RunDec](https://inspirehep.net/experiments/2644484):
     Packages for running and decoupling the strong coupling and quark masses.
 
-* [SMASH](https://inspirehep.net/experiments/2655913):
-    A relativistic hadronic transport approach including all well-established hadrons up to a mass of ~ 2 GeV as degrees of freedom.
-
 * [Sherpa](https://inspirehep.net/experiments/1778076):
     A multi-purpose particle physics event generator for the Simulation of High-Energy Reactions of PArticles in lepton-lepton, lepton-photon, photon-photon, lepton-hadron and hadron-hadron collisions.
+
+* [SMASH](https://inspirehep.net/experiments/2655913):
+    A relativistic hadronic transport approach including all well-established hadrons up to a mass of ~ 2 GeV as degrees of freedom.
 
 * [TauRunner](https://inspirehep.net/experiments/2893706):
     A Python-based package that propagates neutral and charged leptons
