@@ -3,7 +3,7 @@
 
 Online resources are used in a diverse and expanding set of ways in particle physics.
 Many of these resources have become central to our collective work, and we provide a curated
-introduction to online resources as part of the [Review of Particle Physics](https://pdg.lbl.gov/2021/reviews/rpp2020-rev-online-hep-info.pdf). That list is, by necessity, incomplete.
+introduction to online resources as part of the [Review of Particle Physics](https://pdg.lbl.gov/2023/reviews/rpp2023-rev-online-hep-info.pdf). That list is, by necessity, incomplete.
 
 By contrast, this repository provides an expanded and regularly updated list of resources. It is meant to be inclusive and catalog all useful resources related to particle physics. The community is warmly invited to contribute in order to ensure a broad and up to date coverage of relevant resources.
 
@@ -36,7 +36,17 @@ Any contributions are highly appreciated. There are several options to do so, de
 * [Software packages and repositories](#software-packages-and-repositories)
    * [Repositories](#repositories)
    * [Particle physics software](#particle-physics-software)
+      * [Data Analysis](#data-analysis)
+      * [Lattice Gauge Theory](#lattice-gauge-theory)
+      * [Parton Distribution Fits](#parton-distribution-fits)
+      * [Simulation tools](#simulation-tools)
+      * [Simulation tools - Detector Simulation](#simulation-tools---detector-simulation)
+      * [Simulation tools - Event Simulation](#simulation-tools---event-simulation)
    * [Astrophysics software](#astrophysics-software)
+      * [Data Analysis](#data-analysis-1)
+      * [Simulation tools](#simulation-tools-1)
+      * [Simulation tools - Event Simulation](#simulation-tools---event-simulation-1)
+   * [Web apps](#web-apps)
    * [Mobile apps](#mobile-apps)
 * [Data repositories and preservation](#data-repositories-and-preservation)
    * [Data repositories](#data-repositories)
@@ -52,7 +62,7 @@ Any contributions are highly appreciated. There are several options to do so, de
    * [Masterclasses](#masterclasses)
    * [General Sites](#general-sites)
    * [General Physics Activities](#general-physics-activities)
-   * [Particle Physics Activities](#particle-physics-activities)
+   * [Particle Physics Resources](#particle-physics-resources)
    * [Lab Education Offices](#lab-education-offices)
    * [Educational Programs of Experiments](#educational-programs-of-experiments)
    * [News](#news)
@@ -61,9 +71,8 @@ Any contributions are highly appreciated. There are several options to do so, de
    * [Art in Physics](#art-in-physics)
 * [High Energy Physics regional efforts](#high-energy-physics-regional-efforts)
 
-
 <!-- Created by https://github.com/ekalinin/github-markdown-toc -->
-<!-- Added by: runner, at: Tue Jan 17 19:10:08 UTC 2023 -->
+<!-- Added by: runner, at: Thu Apr 18 16:40:07 UTC 2024 -->
 
 <!--te-->
 
@@ -92,7 +101,7 @@ Any contributions are highly appreciated. There are several options to do so, de
     Data files that can be downloaded from the PDG include tables of particle masses and widths, PDG Monte Carlo particle numbers, and cross-section data. The files are updated with each new edition of the Review of Particle Physics.
 
 * [PDG API](https://pdg.lbl.gov/api):
-    In addition to the fixed-format data files that have been available for many years, PDG now provides for testing a beta release of three new tools to access PDG data in machine-readable format.
+    In addition to the fixed-format data files that have been available for many years, PDG is developing new tools to access PDG data in machine-readable format (currently available as beta versions).
 
 # Particle physics information platform
 
@@ -731,7 +740,7 @@ A collection of online tests, video lectures, and related course materials from 
 * [HYPATIA](http://hypatia.phys.uoa.gr/):
     HYPATIA (Hybrid Pupil’s Analysis Tool for Interactions in ATLAS) is a tool for high school students to inspect the graphic visualization of particle collision products in the ATLAS detector at CERN.
 
-* [International Masterclasses](https://physicsmasterclasses.org/):
+* **[International Masterclasses](https://physicsmasterclasses.org/):**
     Each year about 13,000 high school students in 55 countries come to one of about 225 nearby universities or research centres for a day to unravel the mysteries of particle physics. Lectures from active scientists give insight in topics and methods of basic research enabling the students to perform measurements on real data from one of seven experiments. At the end of the day, like an international research collaboration, participants join a video conference for discussion and combination of results. The program is coordinated from Institut fur Kern- und Teilchenphysik at TU Dresden and the Notre Dame University QuarkNet Center within the framework of the International Particle Physics Outreach Group (IPPOG). CERN, Fermilab and TRIUMF support videoconferences. 
 
 * [World Wide Data Day](https://quarknet.org/content/world-wide-data-day):
@@ -790,6 +799,7 @@ A collection of online tests, video lectures, and related course materials from 
 * [Quarked Lesson Plans](http://www.quarked.org/parents/lessonplans.html):
 * [QuarkNet Data Activities Portfolio](https://quarknet.org/data-portfolio):
 * [Sanford Lab curriculum materials](https://sanfordlab.org/education/resources):
+* [CERN Education Lab classroom activities](https://scoollab.web.cern.ch/classroom-activities)
 
 **Interactive Sites**
 
@@ -839,10 +849,10 @@ A collection of online tests, video lectures, and related course materials from 
     Jefferson Lab's long-term commitment to science education continues to focus on increasing the number of teachers with a substantial background in math and science, strengthening the motivation and preparation of all students, especially minorities and females, and addressing the serious under representation of minorities and females in science, math, engineering and technology careers.
 
 * [Joint Institute for Nuclear Research Education (JINR)](http://www.jinr.ru/schoolstudents-teachers-en/):
-    The JINR educational portal has resources, programs for teachers and school students and lab tours.
+    The JINR educational portal has resources, programs for teachers and school students and lab tours.  
 
-* [Laboratori Nazionali di Frascati Educational (INFN)](https://edu.lnf.infn.it/about/?lang=en):
-    INFN-LNF educational programs are addressed to students, teachers and general audiences of every age, from Italy and abroad. Insights and education about the INFN-LNF research are offered thanks to the organization of guided tours and open days, stages for students, refresher courses for teachers, seminars and divulgation events. The aim is to create a constant exchange between the research world and society, thanks to direct contact and via the internet and other social media.
+* [Laboratori Nazionali di Frascati Educational (INFN-LNF)](https://edu.lnf.infn.it/about/?lang=en):
+    INFN-LNF educational programs are addressed to students, teachers and general audiences of every age, from Italy and abroad. Insights and education about the INFN-LNF research are offered thanks to the organization of guided tours and open days, stages for students, refresher courses for teachers, seminars and divulgation events. The aim is to create a constant exchange between the research world and society, thanks to direct contact and via the internet and other social media. See also the global INFN education and outreach site [https://collisioni.infn.it/en/](https://collisioni.infn.it/en/).
 
 * [Laboratori Nazionali del Gran Sasso Outreach Activities](https://www.lngs.infn.it/en/outreach-activities):
     The Lab offers pupils the opportunity to approach the fascinating world of Physics and Science in general through stages, summer schools and training camps. It makes young researchers’ skills and competences available to people both in public events, such as the Open Day and the European Researchers’ Night, and in guided tours to visit the underground experimental halls.
@@ -986,6 +996,12 @@ News sites from major HEP institutions and organizations. The sites often have l
 
 * **TRIUMF on NewsWise:**
    * Website: <https://triumf.ca/news/>
+ 
+* **INFN News:**
+   * Website: <https://home.infn.it/it/comunicazione/notizie/tutte-le-notizie>
+ 
+* **DESY News and Events:**
+   * Website: <https://www.desy.de/news/index_eng.html>
 
 ## Art in Physics
 
