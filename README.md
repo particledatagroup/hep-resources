@@ -897,7 +897,7 @@ A collection of online tests, video lectures, and related course materials from 
 * [MINERvA Neutrinos in the Classroom](https://neutrino-classroom.org):
     Information and educational materials provide high school physics students with an in-depth hands-on interactive experience with real high-energy particle physics. The materials should be suitable for a 1-2 weeks module on particle physics as it’s done by professional scientists.
 
-* [VIRGO Educational Resources](http://public.virgo-gw.eu/educational-resources/):
+* [VIRGO Resources](https://www.virgo-gw.eu/resources/):
     Useful resources (websites, texts, videos) for teachers and students related to gravitational waves and the interferometers like Virgo.
 
 * [Pierre Auger Observatory's Educational Pages](https://www.auger.org/outreach/malargue/edu-outreach):
