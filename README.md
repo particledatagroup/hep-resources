@@ -46,7 +46,6 @@ Any contributions are highly appreciated. There are several options to do so, de
       * [Data Analysis](#data-analysis-1)
       * [Simulation tools](#simulation-tools-1)
       * [Simulation tools - Event Simulation](#simulation-tools---event-simulation-1)
-   * [Web apps](#web-apps)
    * [Mobile apps](#mobile-apps)
 * [Data repositories and preservation](#data-repositories-and-preservation)
    * [Data repositories](#data-repositories)
@@ -69,10 +68,10 @@ Any contributions are highly appreciated. There are several options to do so, de
       * [Newsletters and Magazines](#newsletters-and-magazines)
       * [Online news](#online-news)
    * [Art in Physics](#art-in-physics)
-* [High Energy Physics regional efforts](#high-energy-physics-regional-efforts)
+   * [High Energy Physics regional efforts](#high-energy-physics-regional-efforts)
 
 <!-- Created by https://github.com/ekalinin/github-markdown-toc -->
-<!-- Added by: runner, at: Thu Apr 18 16:40:07 UTC 2024 -->
+<!-- Added by: runner, at: Tue Aug  5 16:35:31 UTC 2025 -->
 
 <!--te-->
 
