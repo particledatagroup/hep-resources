@@ -7,8 +7,8 @@ introduction to online resources as part of the [Review of Particle Physics](htt
 
 By contrast, this repository provides an expanded and regularly updated list of resources. It is meant to be inclusive and catalog all useful resources related to particle physics. The community is warmly invited to contribute in order to ensure a broad and up to date coverage of relevant resources.
 
-:warning: Inclusion of a resource on this list does neither imply endorsement 
-by the PDG nor future inclusion in the curated introduction published in 
+:warning: Inclusion of a resource on this list does neither imply endorsement
+by the PDG nor future inclusion in the curated introduction published in
 the Review of Particle Physics.
 
 # How to contribute
@@ -69,8 +69,7 @@ Any contributions are highly appreciated. There are several options to do so, de
       * [Newsletters and Magazines](#newsletters-and-magazines)
       * [Online news](#online-news)
    * [Art in Physics](#art-in-physics)
-   * [Social Media](#social-media)
-   * [High Energy Physics regional efforts](#high-energy-physics-regional-efforts)
+* [High Energy Physics regional efforts](#high-energy-physics-regional-efforts)
 
 <!-- Created by https://github.com/ekalinin/github-markdown-toc -->
 <!-- Added by: runner, at: Thu Apr 18 16:40:07 UTC 2024 -->
@@ -259,6 +258,9 @@ sorted by the INSPIRE Experiments classification. The links point to the record 
 
 ### Data Analysis
 
+* [AnalysisToolbox](https://inspirehep.net/experiments/2957112):
+    Python tools for statistically analyzing data related to QCD.
+
 * [CheckMATE](https://inspirehep.net/experiments/1778045):
     A program package which accepts simulated event files in many formats for any given model. The program then determines whether the model is excluded or not at 95% C.L. by comparing to many recent experimental analyses.
 
@@ -268,20 +270,26 @@ sorted by the INSPIRE Experiments classification. The links point to the record 
 * [Gfitter](https://inspirehep.net/experiments/1778048):
     The generic fitting package Gfitter comprises a framework for the statistical analysis of parameter estimation problems in HEP.
 
+* [gvar](https://inspirehep.net/experiments/2957115):
+    This package facilitates the creation and manipulation of arbitrarily complicated (correlated) multi-dimensional Gaussian random variables.
+
+* [lsqfit](https://inspirehep.net/experiments/2957119):
+    This package facilitates least-squares fitting of noisy data by multi-dimensional, nonlinear functions of arbitrarily many parameters.
+
 * [MUSES](https://inspirehep.net/experiments/2705080):
     Developing a new cyberinfrastructure to provide the scientific community novel tools to answer critical interdisciplinary questions in nuclear physics, gravitational wave astrophysics, and heavy-ion physics.
-
-* [ROOT](https://inspirehep.net/experiments/1778050):
-    This framework for data processing in high-energy physics, born at CERN, offers applications to store, access, process, analyze and represent data or perform simulations.
 
 * [Rivet](https://inspirehep.net/experiments/1778049):
     The Rivet toolkit, a system for validation of Monte Carlo event generators, provides a large set of experimental analyses useful for MC generator development, validation, and tuning.
 
-* [SModelS](https://inspirehep.net/experiments/1778052):
-    SModelS is based on a general procedure to decompose Beyond the Standard Model (BSM) collider signatures presenting a Z2 symmetry into Simplified Model Spectrum (SMS) topologies. It provides a way to cast BSM predictions for the LHC in a model independent framework, which can be directly confronted with the relevant experimental constraints.
+* [ROOT](https://inspirehep.net/experiments/1778050):
+    This framework for data processing in high-energy physics, born at CERN, offers applications to store, access, process, analyze and represent data or perform simulations.
 
 * [Scikit-HEP](https://inspirehep.net/experiments/1778051):
     A community-driven project with the aim of providing Particle Physics at large with an ecosystem for data analysis in Python. The project started in Autumn 2016 and is under active development. It focuses on providing core and common tools for the community but also on improving the interoperability between HEP tools and the scientific ecosystem in Python as well as the discoverability of utility packages and projects.
+
+* [SModelS](https://inspirehep.net/experiments/1778052):
+    SModelS is based on a general procedure to decompose Beyond the Standard Model (BSM) collider signatures presenting a Z2 symmetry into Simplified Model Spectrum (SMS) topologies. It provides a way to cast BSM predictions for the LHC in a model independent framework, which can be directly confronted with the relevant experimental constraints.
 
 * [ZFITTER](https://inspirehep.net/experiments/1778053):
     A Fortran package for the evaluation of radiative corrections (quantum corrections), as predicted in the Standard Model of elementary particles, to a variety of observable quantities, notably those related to the Z-boson resonance peak studied at LEP, CERN.
@@ -291,8 +299,20 @@ sorted by the INSPIRE Experiments classification. The links point to the record 
 * [ALPHA](https://inspirehep.net/experiments/1392590):
     Numerical investigation of the running coupling in QCD, quark masses, non-perturbative renormalization, Symanzik improvement and Heavy Quark Effective Theory (HQET).
 
+* [Chroma](https://inspirehep.net/experiments/2957131):
+    An open source C++ based software system developed using the software infrastructure of the US SciDAC initiative
+
 * [ETM](https://inspirehep.net/experiments/1513946):
     Simulating lattice QCD with two degenerate flavours of quarks by means of the twisted mass formulation tuned to maximal twist.
+
+* [gpt](https://inspirehep.net/experiments/2957106):
+    A Python toolkit for lattice field theory, quantum computing, and machine learning
+
+* [Grid](https://inspirehep.net/experiments/2957096):
+    A next generation data parallel C++ QCD library
+
+* [Hadrons](https://inspirehep.net/experiments/2957102):
+    Grid-based Workflow Management System for lattice field theory simulations
 
 * [MILC](https://inspirehep.net/experiments/1228416):
     The MILC Code is a set of codes written in C developed by the MIMD Lattice Computation (MILC) collaboration for doing simulations of four dimensional SU(3) lattice gauge theory on MIMD parallel machines. The MILC Code is publicly available for research purposes.
@@ -300,11 +320,14 @@ sorted by the INSPIRE Experiments classification. The links point to the record 
 * [QUDA](https://inspirehep.net/experiments/2644145):
     Library for performing calculations in lattice QCD on GPUs using NVIDIA's CUDA platform. The current release includes optimized solvers for Wilson, Clover-improved Wilson,Twisted mass, Staggered, Improved staggered, Domain wall and Mobius fermion actions.
 
-* [USQCD](https://inspirehep.net/experiments/1735657):
-    The software suite enables lattice QCD computations to be performed with high performance across a variety of architectures. The website contains links to the project web pages of the individual software modules, as well as to complete lattice QCD application packages which use them.
+* [SIMULATeQCD](https://inspirehep.net/experiments/2957121):
+    Efficient lattice QCD formula implementation
 
 * [tmLQCD](https://inspirehep.net/experiments/2644492):
     This freely available software suite provides a set of tools to be used in lattice QCD simulations, mainly a HMC implementation for Wilson and Wilson twisted mass fermions and inverter for different versions of the Dirac operator.
+
+* [USQCD](https://inspirehep.net/experiments/1735657):
+    The software suite enables lattice QCD computations to be performed with high performance across a variety of architectures. The website contains links to the project web pages of the individual software modules, as well as to complete lattice QCD application packages which use them.
 
 ### Parton Distribution Fits
 
@@ -337,6 +360,9 @@ sorted by the INSPIRE Experiments classification. The links point to the record 
 
 ### Simulation tools
 
+* [BlackHawk](https://inspirehep.net/experiments/2926462):
+    Calculation of the Hawking evaporation spectra of any black hole distribution
+
 * [VEGAS](https://inspirehep.net/experiments/2702974):
     A general purpose algorithm for multidimensional integration. It is an iterative and adaptive Monte Carlo scheme.
 
@@ -366,22 +392,43 @@ sorted by the INSPIRE Experiments classification. The links point to the record 
 * [MODE](https://inspirehep.net/experiments/2643999):
     Targeting the use of differentiable programming in design optimization of detectors for particle physics applications, extending from fundamental research at accelerators, in space, and in nuclear physics and neutrino facilities, to industrial applications employing the technology of radiation detection.
 
-### Simulation tools - Event Simulation
+* [SensCalc](https://inspirehep.net/experiments/2913640):
+    A public and unified evaluator of sensitivities of lifetime frontier experiments to feebly interacting particles. Based on Mathematica.
 
-* [ALPGEN](https://inspirehep.net/experiments/2645159):
-    A collection of codes for the generation of multi-parton processes in hadronic collisions.
+### Simulation tools - Event Simulation
 
 * [AcerMC](https://inspirehep.net/experiments/2645158):
     Generation of Standard Model background processes in pp collisions at the LHC.
 
+* [ACHILLES](https://inspirehep.net/experiments/2914603):
+    A lepton-nucleus event generator
+
+* [ALPGEN](https://inspirehep.net/experiments/2645159):
+    A collection of codes for the generation of multi-parton processes in hadronic collisions.
+
 * [Ariadne](https://inspirehep.net/experiments/2651736):
     A program for simulation of QCD cascades implementing the colour dipole model.
+
+* [AxionDarkPhotonSimulator](https://inspirehep.net/experiments/2955084):
+    Python package for simulating an axion-dark photon system
 
 * [CASCADE](https://inspirehep.net/experiments/2651743):
     Hadron level Monte Carlo generator for ep and pp scattering applying Transverse Momentum Dependent (TMD) parton densities and parton shower.
 
+* [CHILI](https://inspirehep.net/experiments/2945851):
+    Phase-space integration at hadron colliders
+
+* [CONTUR](https://inspirehep.net/experiments/2921388):
+    The CONTUR toolkit exploits RIVET to allow rapid limit-setting and consistency checks for new physics models.
+
 * [EPJPSI](https://inspirehep.net/experiments/2652558):
     Monte Carlo calculations for J/ψ mesons in high energy γ-p, ep, pp̅ and pp collisions.
+
+* [EPOS-LHC](https://inspirehep.net/experiments/2926436):
+    Monte Carlo event generator for minimum bias hadronic interactions, used for both heavy ion interactions and cosmic ray air shower simulations
+
+* [ERNIE](https://inspirehep.net/experiments/2721222):
+    Generates nuclear reactor electron antineutrinos and inverse beta decay events induced by these particles, using the Monte-Carlo method
 
 * [FastJet](https://inspirehep.net/experiments/1778324):
     FastJet is a software package for jet finding in pp and e+e- collisions. It includes fast native implementations of many sequential recombination clustering algorithms, plugins for access to a range of cone jet finders and tools for advanced jet manipulation.
@@ -398,11 +445,11 @@ sorted by the INSPIRE Experiments classification. The links point to the record 
 * [GENIE](https://inspirehep.net/experiments/1780077):
     Modern and universal event generator framework and tools in support of neutrino experiments.
 
-* [GLoBES](https://inspirehep.net/experiments/1778073):
-    Software package for the simulation of long baseline neutrino oscillation experiments.
-
 * [GiBUU](https://inspirehep.net/experiments/1780080):
     Unified theory and transport framework in the MeV and GeV energy regimes for elementary reactions on nuclei.
+
+* [GLoBES](https://inspirehep.net/experiments/1778073):
+    Software package for the simulation of long baseline neutrino oscillation experiments.
 
 * [GoSam](https://inspirehep.net/experiments/2644146):
     This package allows for the automated calculation of one-loop amplitudes for multi-particle processes in renormalizable quantum field theories.
@@ -416,14 +463,26 @@ sorted by the INSPIRE Experiments classification. The links point to the record 
 * [JETSCAPE](https://inspirehep.net/experiments/1780614):
     Comprehensive software framework to provide a systematic, rigorous approach to simulating the complex dynamical environment of relativistic heavy-ion collisions.
 
+* [MadGraph](https://inspirehep.net/experiments/1775083):
+    A framework that aims at providing all the elements necessary for SM and BSM phenomenology, such as the computations of cross sections, the generation of hard events and their matching with event generators, and the use of a variety of tools relevant to event manipulation and analysis.
+
+* [MARLEY](https://inspirehep.net/experiments/2914604):
+    Event generator for neutrino-nucleus interactions
+
+* [MaRTIn](https://inspirehep.net/experiments/2833795):
+    Package for calculating amplitudes up to two loops
+
 * [MC@NLO](https://inspirehep.net/experiments/2652578):
     Fortran package to implement a scheme for combining a Monte Carlo event generator with next-to-leading-order calculations of rates for QCD processes.
 
 * [MCFM](https://inspirehep.net/experiments/1778075):
     MCFM (Monte Carlo for FeMtobarn processes) is a program designed to calculate cross-sections for various femtobarn-level processes at hadron-hadron colliders.
 
-* [MadGraph](https://inspirehep.net/experiments/1775083):
-    A framework that aims at providing all the elements necessary for SM and BSM phenomenology, such as the computations of cross sections, the generation of hard events and their matching with event generators, and the use of a variety of tools relevant to event manipulation and analysis.
+* [NEUT](https://inspirehep.net/experiments/1780081):
+    Simulating neutrino interactions with nucleon and nucleus
+
+* [NuFast](https://inspirehep.net/experiments/2824655):
+    Calculates neutrino oscillation probabilities in matter optimized for long-baseline neutrino oscillations in the Earth's crust including both accelerator and reactor experiments.
 
 * [NUISANCE](https://inspirehep.net/experiments/1780082):
     C++ framework which facilitates detailed studies of neutrino interaction cross-section models implemented in Monte Carlo neutrino event generators.
@@ -433,6 +492,12 @@ sorted by the INSPIRE Experiments classification. The links point to the record 
 
 * [OpenLoops](https://inspirehep.net/experiments/2644147):
     A fully automated implementation for fast numerical evaluation of tree and one-loop matrix elements for any Standard Model process.
+
+* [PEPPER](https://inspirehep.net/experiments/2939365):
+    An efficent parton-level event generator to simulate high-energy physics at colliders such as the LHC
+
+* [PHOKHARA](https://inspirehep.net/experiments/2926463):
+    Monte Carlo event generator which simulates this process at the next-to-leading order (NLO) accuracy
 
 * [PHOTOS](https://inspirehep.net/experiments/2697498):
     A Universal Monte Carlo for QED radiative corrections
@@ -449,11 +514,14 @@ sorted by the INSPIRE Experiments classification. The links point to the record 
 * [RunDec](https://inspirehep.net/experiments/2644484):
     Packages for running and decoupling the strong coupling and quark masses.
 
+* [Sherpa](https://inspirehep.net/experiments/1778076):
+    A multi-purpose particle physics event generator for the Simulation of High-Energy Reactions of PArticles in lepton-lepton, lepton-photon, photon-photon, lepton-hadron and hadron-hadron collisions.
+
 * [SMASH](https://inspirehep.net/experiments/2655913):
     A relativistic hadronic transport approach including all well-established hadrons up to a mass of ~ 2 GeV as degrees of freedom.
 
-* [Sherpa](https://inspirehep.net/experiments/1778076):
-    A multi-purpose particle physics event generator for the Simulation of High-Energy Reactions of PArticles in lepton-lepton, lepton-photon, photon-photon, lepton-hadron and hadron-hadron collisions.
+* [TauRunner](https://inspirehep.net/experiments/2893706):
+    A Python-based package that propagates neutral and charged leptons
 
 * [WHIZARD](https://inspirehep.net/experiments/1778077):
     A system designed for the efficient calculation of multi-particle scattering cross sections and simulated event samples.
@@ -486,6 +554,9 @@ sorted by the INSPIRE Experiments classification. The links point to the record 
 * [CAMELS](https://inspirehep.net/experiments/1824016):
     The goal of the CAMELS project is to provide theory predictions for different observables as a function of cosmology and astrophysics, and it is the largest suite of cosmological (magneto-)hydrodynamic simulations designed to train machine learning algorithms.
 
+* [CosmoFlow](https://inspirehep.net/experiments/2824654):
+    CosmoFlow is an open source Python code that computes tree-level cosmological correlators by tracing their time flow.
+
 * [FLAMINGO](https://inspirehep.net/experiments/2667514):
     A project of the Virgo consortium for cosmological supercomputer simulations
 
@@ -494,6 +565,9 @@ sorted by the INSPIRE Experiments classification. The links point to the record 
 
 * [Illustris](https://inspirehep.net/experiments/2708513):
     The Illustris project is a set of large-scale cosmological simulations, including the most ambitious simulation of galaxy formation yet performed. The calculation tracks the expansion of the universe, the gravitational pull of matter onto itself, the motion or "hydrodynamics" of cosmic gas, as well as the formation of stars and black holes.
+
+* [LINX](https://inspirehep.net/experiments/2845473):
+    BBN code which is fast enough to use with the kinds of MC samplers that have become commonplace in CMB studies.
 
 * [MESA](https://inspirehep.net/experiments/2641176):
     MESA focuses on accurate, one-dimensional stellar evolution Calculations.
@@ -508,27 +582,16 @@ sorted by the INSPIRE Experiments classification. The links point to the record 
 
 
 
-## Web apps
-
-* [APFEL Web](https://apfel.mi.infn.it/):
-    This online parton density function plotter allows to compare predictions for different PDF fits.
-
-* [ColliderReach](http://collider-reach.web.cern.ch/):
-    A tool to give a simple estimate of the relation between the mass reaches of different proton-proton collider configurations.
-
 ## Mobile apps
 
-* [arXiv eXplorer](https://play.google.com/store/apps/details?id=com.gbeatty.arxiv):
-    Android app for browsing and searching arXiv.org, and for reading, saving and sharing articles.
+* [arXiver](https://play.google.com/store/apps/details?id=com.arXiver.test):
+    arXiver is a free user-friendly Android app designed to easily check the daily arXiv feed, organize and manage scientific papers, and search and read articles.
 
-* [Collider](http://collider.physics.ox.ac.uk/):
-    This mobile app allows users to see data from the ATLAS experiment at the LHC.
+* [arXiv on Apple](https://www.apple.com/us/search/arxiv?src=globalnav)
+    The Apple app store has a number of apps for arXiv and INSPIRE HEP.
 
 * [GravLens3](https://apps.apple.com/us/app/gravlens3/id318275930):
     Allows you to simulate the effect of a gravitational lens on your iPhone or iPad.
-
-* [TAPAs](https://play.google.com/store/apps/details?id=borland.TAPAs&hl=en):
-    Toolkit for Accelerator Physics on Androids. It allows "back-of-the-envelope" accelerator physics calculations, with 50 inter-linked types of calculations.
 
 # Data repositories and preservation
 Data is increasingly deposited in general-purpose repositories like [Zenodo](https://zenodo.org/), [figshare](https://figshare.com/) or the [Open Science Framework](https://osf.io/), but here are a few specific repositories focused on physics.
@@ -543,7 +606,7 @@ It currently comprises the data points from plots and tables related to several 
 The data from HEPData can also be accessed through INSPIRE. A new enhanced service was recently developed in collaboration with CERN.
 
 * [CERN Open Data](https://opendata.cern.ch):
-    The CERN Open Data portal provides data from real collision events, as well as simulated and simplified datasets, produced by the experiments at the LHC, virtual machines to reproduce the analysis environment, and software to process the data. It serves over 2 PB of data in total and encourages their use for both educational and research purposes.
+    The CERN Open Data portal provides data from real collision events, as well as simulated and simplified datasets, produced by the experiments at the LHC, virtual machines to reproduce the analysis environment, and software to process the data. It serves over 2 PB of data in total and encourages the use of this data for both educational and research purposes.
 
 * [DOE Data Explorer](https://www.osti.gov/dataexplorer):
     DOE Data Explorer is the Office of Scientific and Technical Information (OSTI) search tool for finding U.S. Department of Energy-funded, publicly available, scientific data records submitted by data centers, repositories, and other organizations funded by the Department.
@@ -551,8 +614,11 @@ The data from HEPData can also be accessed through INSPIRE. A new enhanced servi
 * [HepSim](https://atlaswww.hep.anl.gov/hepsim/):
     A repository with Monte Carlo simulations for particle-collision experiments. It contains predictions from parton shower models and includes Monte Carlo events after fast and full detector simulations and event reconstruction.
 
-* [ILDG](http://plone.jldg.org):
+* [ILDG](https://hpc.desy.de/ildg/):
     The International Lattice Data Grid is an international organization which provides standards, services, methods and tools that facilitate the sharing and interchange of lattice QCD gauge configurations among scientific collaborations by uniting their regional data grids. It offers semantic access with local tools to worldwide distributed data.
+
+* [JLDG](https://www.jldg.org/):
+    JLDG is a data-grid for lattice QCD community in Japan, and works as a regional grid of the International Lattice Data Grid.
 
 * [MCPLOTS](http://mcplots.cern.ch/):
     MCPLOTS is a repository of Monte Carlo plots comparing High Energy Physics event generators to a wide variety of available experimental data. The website is supported by the LHC Physics Centre at CERN.
@@ -565,8 +631,8 @@ The data from HEPData can also be accessed through INSPIRE. A new enhanced servi
 * [NASA's HEASARC](https://heasarc.gsfc.nasa.gov/):
     The High Energy Astrophysics Science Archive Research Center (HEASARC) is the primary archive for NASA's (and other space agencies') missions dealing with electromagnetic radiation from extremely energetic phenomena ranging from black holes to the Big Bang.
 
-* **NASA archives:**
-    The NASA archives provide access to raw and processed datasets from numerous NASA missions.
+* [NASA Open Data Portal](https://data.nasa.gov/):
+    NASA's publicly available metadata repository, hosting diverse datasets related to science, space exploration, aeronautics, and more. 
 
     [Mikulski Archive for Space Telescopes (MAST)](https://archive.stsci.edu/): Hubble telescope, other missions (UV, optical).
 
@@ -576,6 +642,9 @@ The data from HEPData can also be accessed through INSPIRE. A new enhanced servi
     An astronomical database that collates and cross-correlates information on extragalactic objects. It contains their positions, basic data, and names as well as bibliographic references to published papers, and notes from catalogs and other publications. NED supports searches for objects and references, and offers browsing capabilities for abstracts of articles of extragalactic interest.
 
 * [NASA Astronomical Virtual Observatories](https://heasarc.gsfc.nasa.gov/vo/summary/): A major priority for NASA is making its astronomy holdings available through standard interfaces to the science community. These pages describe the work of the NASA Astronomical Virtual Observatories (NAVO), a collaboration of NASA's astronomy archives, who have developed a comprehensive model for distributing data through standardized machine-queryable interfaces.
+
+* [NOIRLab Astro Data Lab Science Platform](https://datalab.noirlab.edu/):
+    The Astro Data Lab Science Platform enables efficient exploration and analysis of the large datasets now being generated by instruments on NOIRLab and various other wide-field telescopes.
 
 * [SIMBAD](https://simbad.u-strasbg.fr/simbad/):
     The SIMBAD astronomical database provides basic data, cross-identifications, bibliography and measurements for astronomical objects outside the solar system. It can be queried by object name, coordinates and various criteria. Lists of objects and scripts can be submitted.
@@ -626,15 +695,17 @@ analyse data.
 
 More formal and advanced data preservation activity is ongoing in the field of Experimental Astrophysics, including:
 
+* DES (Dark Energy Survey Data) <https://www.darkenergysurvey.org/the-des-project/data-access/>
+* DESI (Dark Energy Spectroscopic Instrument) <https://data.desi.lbl.gov/doc/>
 * Fermi Gamma-ray Space Telescope Data <https://fermi.gsfc.nasa.gov/ssc/data>
 * IVOA (International Virtual Observatory Alliance) <https://www.ivoa.net/astronomers/applications.html>
-* GWOSC (Gravitational Wave Open Science Center) <https://www.gw-openscience.org/about/>
+* GWOSC (Gravitational Wave Open Science Center) <https://gwosc.org/>
+* Pierre Auger Observatory <https://opendata.auger.org/>
 * PLA (Planck Legacy Archive)  <https://pla.esac.esa.int/pla/>
+* Rubin LSST (Legacy Survey of Space and Time) <https://dp0.lsst.io/>
 * SDSS (Sloan Digital Sky Survey) <https://sdss.org>
 
 # Particle physics education and outreach sites
-
-A useful list of resources can also be found at <https://www.ukri.org/what-we-do/public-engagement/public-engagement-stfc/engage-with-our-areas-of-science-and-technology-stfc/particle-physics/particle-physics-resources/>
 
 ## Science Educators' Networks
 
@@ -680,11 +751,11 @@ A collection of online tests, video lectures, and related course materials from 
 
     ALICE: <https://www.physicsmasterclasses.org/index.php?cat=physics&page=alice>
 
-    ATLAS: <http://atlas-minerva.web.cern.ch/atlas-minerva>
+    ATLAS: <http://atlas-minerva.web.cern.ch>
 
     CMS: <https://cms.cern/interact-with-cms/cms-physics-masterclass>
 
-    LHCb: <http://lhcb-public.web.cern.ch/lhcb-public/en/LHCb-outreach/masterclasses/en>
+    LHCb: <https://lhcb-outreach.web.cern.ch/lhcbinternationalmasterclasses/>
 
 * [IceCube Masterclass](https://masterclass.icecube.wisc.edu/):
     The program is inspired by the International Masterclasses program started by IPPOG and is coordinated by the Wisconsin IceCube Particle Astrophysics Center with support from QuarkNet.
@@ -695,8 +766,8 @@ A collection of online tests, video lectures, and related course materials from 
 * [Contemporary Physics Education Project (CPEP)](https://www.cpepphysics.org/):
     CPEP offers beautifully illustrated charts that present the current understanding of physics in areas ranging from quarks to the cosmos, incorporating recent discoveries such as the Higgs boson and gravitational waves.
 
-* [APS Public Engagement](http://www.physicscentral.com):
-    This site maintained by the American Physical Society provides information about the APS’ public engagement in science program, including resources for physicists, teachers and students.
+* [APS Public Engagement](https://www.aps.org/initiatives/advocate-amplify/public-engagement):
+    Join APS' efforts to bridge the gap between science and society and become an empowered, effective ambassador for science.
 
 ## General Physics Activities
 
@@ -727,7 +798,7 @@ A collection of online tests, video lectures, and related course materials from 
 * [Perimeter Institute Educational Resources](https://resources.perimeterinstitute.ca):
 * [Quarked Lesson Plans](http://www.quarked.org/parents/lessonplans.html):
 * [QuarkNet Data Activities Portfolio](https://quarknet.org/data-portfolio):
-* [Sanford Lab curriculum materials](https://sanfordlab.org/educators/curriculum-modules):
+* [Sanford Lab curriculum materials](https://sanfordlab.org/education/resources):
 * [CERN Education Lab classroom activities](https://scoollab.web.cern.ch/classroom-activities)
 
 **Interactive Sites**
@@ -768,10 +839,6 @@ A collection of online tests, video lectures, and related course materials from 
 * [DESY Education](https://www.desy.de/school/):
     DESY Hamburg offers a regular series of public lectures and the DESY Science Café for young and old alike.
 
-* [DESY Zeuthen Outreach](https://astro.desy.de/outreach):
-    Posters, photos, lectures, videos and blogs. Projects for teachers and students include School Labs, Cosmic@Web, Teilchenwelt and International Cosmic Day.
-
-
 * [Fermilab Office of Education and Public Outreach](https://ed.fnal.gov/):
     Provides  education resources and information about activities for educators, physicists, students and visitors to the Lab. In addition to information about 25 programs, the website provides online data-based investigations for high school students, online versions of exhibits in the Lederman Science Center, links to particle physics discovery resources, web-based instructional resources, tips for education and outreach, and links to the Lederman Science Center and the Teacher Resource Center.
 
@@ -802,8 +869,8 @@ A collection of online tests, video lectures, and related course materials from 
 * [SNOLAB Outreach](https://www.snolab.ca/outreach):
     The goal at SNOLAB is to develop new educational material that fosters an appreciation of the field of astroparticle physics. The education team endeavours to facilitate an exchange of knowledge with the public and scientists from around the world to better understand our solar system. The desired outcome of the educational work is to have a network of healthy and resilient community partners with informed and active citizens better equipped to understand the goals here at SNOLAB now and in the future.
 
-* [TRIUMF for the Public](https://www.triumf.ca/home/for-public):
-    TRIUMF offers outreach programs for high-school students, teachers, and the general public with a mission of promoting science and research in the public arena. TRIUMF’s outreach activities are also designed to tell Canadian students, teachers, and the public about the excitement of curiosity-driven research and about how a laboratory like TRIUMF adds value to Canada in new technologies, medical applications, and highly qualified people.
+* [TRIUMF for the Public](https://triumf.ca/education/):
+    TRIUMF's Education programming focuses on the needs of K-12 students and teachers, from local schools to national education networks, with a strong focus on hands-on, experiential learning delivered in a way that advances inclusion and accessibility across the entire STEM pathway.
 
 ## Educational Programs of Experiments
 
@@ -812,6 +879,15 @@ A collection of online tests, video lectures, and related course materials from 
 
 * [CMS Education and Outreach Resources](https://cds.cern.ch/collection/CMS%20Education%20and%20Outreach%20Resources?ln=en):
     Access to just over 100 resources from Activities and Games to Artworks to Visualizations. The resources cover a range of topics and are available in several languages.
+
+* [DES Education](https://www.darkenergysurvey.org):
+    DES Education, Outreach, and Science Communication Research
+
+* [DESI education & outreach](https://www.desi.lbl.gov/education-outreach/):
+    The DESI Collaboration is committed to make the science and engineering results of our surveys accessible to students of a variety of education levels and the general public. The DESI Education and Public Outreach (EPO) team develops material for these target audiences.
+
+* [DUNE](https://lbnf-dune.fnal.gov/about/science-goals/):
+    An explanation of the DUNE experiment, its physics goals, its conctruction and how it works.
 
 * [HiSPARC at UCU](https://www.uu.nl/en/organisation/university-college-utrecht/hisparc-at-ucu):
     HiSPARC is an outreach, educational and research experiment on cosmic rays detection, which was initiated in the Netherlands in 2004. It brings together secondary school students and teachers, undergraduate students and university researchers in the quest to understand the origin of the most energetic particles in our universe. HSPARC has stations in the Netherlands, the United Kingdom, Denmark and Namibia.
@@ -822,13 +898,16 @@ A collection of online tests, video lectures, and related course materials from 
 * [KASCADE and KASCADE-Grande KDKC](https://kcdc.iap.kit.edu/edu/examples_en/):
     The aim of the project KCDC (KASCADE Cosmic Ray Data Centre) is the installation and establishment of a public data centre for high-energy astroparticle physics based on the data of the KASCADE experiment.
 
-* [LIGO Education Resources](https://www.ligo.caltech.edu/page/educational-resources):
+* [LHCb](https://lhcb-outreach.web.cern.ch/):
+    Information on the LHCb experiment and its physics goals.
+
+* [LIGO Education Resources](https://ligo.org/education/):
     Something fun and educational for K-12 educators, parents and interested students. Includes classroom activities, field trips, activities to try at home, ask a scientist, teacher professional development, readings and videos.
 
 * [MINERvA Neutrinos in the Classroom](https://neutrino-classroom.org):
     Information and educational materials provide high school physics students with an in-depth hands-on interactive experience with real high-energy particle physics. The materials should be suitable for a 1-2 weeks module on particle physics as it’s done by professional scientists.
 
-* [VIRGO Educational Resources](http://public.virgo-gw.eu/educational-resources/):
+* [VIRGO Resources](https://www.virgo-gw.eu/resources/):
     Useful resources (websites, texts, videos) for teachers and students related to gravitational waves and the interferometers like Virgo.
 
 * [Pierre Auger Observatory's Educational Pages](https://www.auger.org/outreach/malargue/edu-outreach):
@@ -845,22 +924,25 @@ A collection of online tests, video lectures, and related course materials from 
 * **CERN Courier:**
     The website and associated print magazine highlight the latest developments in particle physics and related fields, wherever they happen in the world. Produced at CERN, published by IOPP.
     * Website: <https://cerncourier.com>
-    * X (Twitter): [`@cerncourier`](https://twitter.com/cerncourier)
+    * X (Twitter): [`@cerncourier`](https://x.com/cerncourier)
     * LinkedIn: <https://www.linkedin.com/company/cern-courier>
 
 * **DESY inForm:**
     The DESY newsletter that provides insight into both new developments in the scientific area and news from everyday life at DESY.
     * Website: <https://www.desy.de/news/desy_inform/index_eng.html> 
-    * X (Twitter): [`@desy`](https://twitter.com/desy)
 
 * **ILC Newsline:**
     ILC Newsline is a newsletter about recent news, milestones and developments related to the International Linear Collider and the fields of high-energy, particle and accelerator physics and engineering.
     * Website: <http://newsline.linearcollider.org>
-    * X (Twitter): [`@LCnewsline`](https://twitter.com/LCnewsline)
+    * X (Twitter): [`@LCnewsline`](https://x.com/LCnewsline)
 
 * **JINR News:**
     Issued 4 times a year, this bulletin provides information on new scientific results obtained at JINR Laboratories, on progress in performance of large-scale experiments, on construction of new installations, discoveries, etc.
     * Website: <http://www1.jinr.ru/News/Jinrnews_index.html>
+
+* **Long-Baseline Neutrino Oscillation Newsletters:**
+    Long-Baseline News is a newsletter which includes rumors and references about neutrinos.
+    * Website: <https://www.hep.anl.gov/ndk/longbnews>
 
 * **SLAC Signals:**
     This email newsletter reports about cutting-edge science, major SLAC milestones and other lab information. It has replaced SLAC Today in November 2013.
@@ -869,36 +951,32 @@ A collection of online tests, video lectures, and related course materials from 
 * **Symmetry:**
     This magazine about particle physics and its connections to other aspects of life and science, from interdisciplinary collaborations to policy to culture is published 6 times per year by Fermilab and SLAC.
     * Website: <https://www.symmetrymagazine.org>
-    * X (Twitter): [`@symmetrymag`](https://twitter.com/symmetrymag)
 
 ### Online news
 
+News sites from major HEP institutions and organizations. The sites often have links to their various social media accounts at the bottom of the page.
+
 * **CERN News:**
     * Website: <https://home.cern/news?audience=23>
-    * X (Twitter): [`@CERN`](https://twitter.com/CERN)
+    * Social media: [`@CERN_official`](https://linktr.ee/CERN_official)
 
 * **DESY News:**
-    * Website: <https://www.desy.de/news/index_eng.html>
-    * X (Twitter): [`@DESY`](https://twitter.com/desy)
+    * Website: <https://desy.de/desy_latest_news/index_eng.html>
 
 * **Fermilab News:**
     * Website: <https://news.fnal.gov>
-    * X (Twitter): [`@Fermilab`](https://twitter.com/Fermilab)
 
 * **INFN News:**
     * Website: <https://home.infn.it/it/comunicazione/notizie/tutte-le-notizie>
-    * X (Twitter): [`@INFN_`](https://twitter.com/INFN_)
 
 * **Interactions.org:**
     The Interactions.org website is designed to serve as central resource
     for information about particle physics, including press releases,
     articles, news, event listings and images.
     * Website: <https://www.interactions.org>
-    * X (Twitter): [`@particlenews`](https://twitter.com/particlenews)
 
 * **IOP News:**
     * Website: <https://www.iop.org/about/news>
-    * X (Twitter): [`@PhysicsNews`](https://twitter.com/PhysicsNews)
 
 * **ParticleBites and AstroBites:**
     Websites run by graduate students hosting daily summaries of recent
@@ -907,21 +985,17 @@ A collection of online tests, video lectures, and related course materials from 
     * Website: <https://www.particlebites.com>
     * Website: <https://astrobites.org>
 
-* **Perimeter Institute News:**
-    * Website: <https://www.perimeterinstitute.ca/news>
-    * X (Twitter): [`@perimeter`](https://twitter.com/perimeter)
+* **Perimeter Institute News & Ideas:**
+    * Website: <https://perimeterinstitute.ca/news-and-ideas>
 
 * **Sandford News and Events:**
-    * Website: <https://sanfordlab.org/news-and-events>
-    * X (Twitter): [`@SanfordLab`](https://twitter.com/SanfordLab)
+    * Website: <https://sanfordlab.org/news>
 
 * **SNOLAB News and Headline:**
    * Website: <https://www.snolab.ca/news>
-   * X (Twitter): [`@SNOLABscience'](https://twitter.com/SNOLABscience)
 
 * **TRIUMF on NewsWise:**
-   * Website: <https://www.newswise.com/institutions/newsroom/19528>
-   * X (Twitter): [`@TRIUMFLab`](https://twitter.com/TRIUMFLab)
+   * Website: <https://triumf.ca/news/>
  
 * **INFN News:**
    * Website: <https://home.infn.it/it/comunicazione/notizie/tutte-le-notizie>
@@ -948,18 +1022,6 @@ a body of work, leading to presentations in the community and possibly an exhibi
 * [TRIUMF Science through Art](https://www.triumf.ca/science-through-art):
     TRIUMF's Science through Art initiatives explore the space where art and science collide. These programs bring artists and TRIUMF researchers, engineers, technicians, tradespeople, and students together to explore new ways of thinking about science, discovery, creativity, and our universe.
 
-## Social Media
-
-Many particle physics institutions and collaborations have a presence on social media, with Facebook, X (Twitter), and Instagram as particularly popular. These resources are typically  used to communicate with the general public, but some of the highlighting of results and communications target physicists as an audience.  
-
-List of Experiments that have noted their X (Twitter) accounts on INSPIRE can be found here:  https://inspirehep.net/experiments?sort=mostrecent&size=25&page=1&q=urls.description%3ATWITTER
-
-List of Institutions that have noted their X (Twitter) accounts on INSPIRE can be found here:  https://inspirehep.net/institutions?sort=mostrecent&size=25&page=1&q=urls.description%3ATWITTER
-
-
-List of physicists on podcasts, Mastodon and Bluesky at TrueSciPhi: <https://truesciphi.org/home_sci.html#pmapod>
-
-
 ## High Energy Physics regional efforts
 
 * [Developing Regions](https://arxiv.org/abs/2308.15373)
@@ -975,10 +1037,10 @@ found in arXiv eprint [2308.15373](https://arxiv.org/abs/2308.15373).
 * [European Strategy for Particle Physics](https://europeanstrategyupdate.web.cern.ch/)
     The European Strategy for Particle Physics provides a clear prioritization of European ambitions in advancing the science of particle physics. It takes into account the worldwide particle physics landscape and developments in related fields, and is initiated by the CERN Council to coordinate activities across a large, international and fast-moving community with the aim of maximising scientific returns.
 
-* [Japan's Strategy for Future Projects in High Energy Physics](http://www.jahep.org/files/20170906-en.pdf)
+* [Japan's Strategy for Future Projects in High Energy Physics](https://www.jahep.org/en/fproject.html)
     The final report from Japan's Committee on Future Projects in High Energy Physics.
 
-* [US Particle Physics Community Planning Exercise (Snowmass)](https://www.snowmass21.org/)
+* [US Particle Physics Community Planning Exercise (Snowmass)](https://www.slac.stanford.edu/econf/C210711/)
     Snowmass is organized by the Division of Particles and Fields (DPF) of the American Physical Society. Snowmass is a scientific study. It provides an opportunity for the entire particle physics community to come together to identify and document a scientific vision for the future of particle physics in the U.S. and its international partners. Snowmass will define the most important questions for the field of particle physics and identify promising opportunities to address them. P5 will take the scientific input from Snowmass and develop a strategic plan for U.S. particle physics that can be executed over a 10 year timescale, in the context of a 20-year global vision for the field.
 
 * [US Particle Physics Project Prioritization Panel (P5)](http://hitoshi.berkeley.edu/P5/)
