@@ -248,6 +248,14 @@ Most relevant software is hosted by general-purpose repositories like GitHub, Gi
     easy-to-use set of web-based tools, including shell account with up-to-date development
     tools, web page hosting, subversion, git and Mercurial code management systems, mailing lists, bug tracker and wiki system.
 
+* [Scikit-HEP](https://scikit-hep.org/):
+    The Scikit-HEP project (HEP stands for High Energy Physics, see more in the FAQ) is a 
+    community-driven and community-oriented project with the aim of providing Particle Physics 
+    at large with an ecosystem for data analysis in Python. The project started in Autumn 2016 
+    and is in full swing. It is not just about providing core and common tools for the community. 
+    It is also about improving the interoperability between HEP tools and the scientific ecosystem 
+    in Python, and about improving on discoverability of utility packages and projects.    
+
 
 ## Particle physics software
 
@@ -294,9 +302,6 @@ sorted by the INSPIRE Experiments classification. The links point to the record 
 
 * [ROOT](https://inspirehep.net/experiments/1778050):
     This framework for data processing in high-energy physics, born at CERN, offers applications to store, access, process, analyze and represent data or perform simulations.
-
-* [Scikit-HEP](https://inspirehep.net/experiments/1778051):
-    A community-driven project with the aim of providing Particle Physics at large with an ecosystem for data analysis in Python. The project started in Autumn 2016 and is under active development. It focuses on providing core and common tools for the community but also on improving the interoperability between HEP tools and the scientific ecosystem in Python as well as the discoverability of utility packages and projects.
 
 * [SModelS](https://inspirehep.net/experiments/1778052):
     SModelS is based on a general procedure to decompose Beyond the Standard Model (BSM) collider signatures presenting a Z2 symmetry into Simplified Model Spectrum (SMS) topologies. It provides a way to cast BSM predictions for the LHC in a model independent framework, which can be directly confronted with the relevant experimental constraints.
