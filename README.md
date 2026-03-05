@@ -46,10 +46,6 @@ Any contributions are highly appreciated. There are several options to do so, de
       * [Data Analysis](#data-analysis-1)
       * [Simulation tools](#simulation-tools-1)
       * [Simulation tools - Event Simulation](#simulation-tools---event-simulation-1)
-<<<<<<< HEAD
-=======
-   * [Web apps](#web-apps)
->>>>>>> 58f99b88b4fdcd98a7d283a5a8241efe63a78c03
    * [Mobile apps](#mobile-apps)
 * [Data repositories and preservation](#data-repositories-and-preservation)
    * [Data repositories](#data-repositories)
@@ -72,17 +68,10 @@ Any contributions are highly appreciated. There are several options to do so, de
       * [Newsletters and Magazines](#newsletters-and-magazines)
       * [Online news](#online-news)
    * [Art in Physics](#art-in-physics)
-<<<<<<< HEAD
    * [High Energy Physics regional efforts](#high-energy-physics-regional-efforts)
 
 <!-- Created by https://github.com/ekalinin/github-markdown-toc -->
 <!-- Added by: runner, at: Tue Aug  5 16:35:31 UTC 2025 -->
-=======
-* [High Energy Physics regional efforts](#high-energy-physics-regional-efforts)
-
-<!-- Created by https://github.com/ekalinin/github-markdown-toc -->
-<!-- Added by: runner, at: Thu Apr 18 16:40:07 UTC 2024 -->
->>>>>>> 58f99b88b4fdcd98a7d283a5a8241efe63a78c03
 
 <!--te-->
 
@@ -342,7 +331,7 @@ sorted by the INSPIRE Experiments classification. The links point to the record 
     Library for performing calculations in lattice QCD on GPUs using NVIDIA's CUDA platform. The current release includes optimized solvers for Wilson, Clover-improved Wilson,Twisted mass, Staggered, Improved staggered, Domain wall and Mobius fermion actions.
 
 * [SIMULATeQCD](https://inspirehep.net/experiments/2957121):
-    a SImple MUlti-GPU LATtice code for QCD calculations
+    a SImple MUlti-GPU LATtice code for QCD calculations. SIMULATeQCD is a multi-GPU Lattice QCD framework that makes it easy for physicists to implement lattice QCD while still providing competitive performance.
 
 * [tmLQCD](https://inspirehep.net/experiments/2644492):
     This freely available software suite provides a set of tools to be used in lattice QCD simulations, mainly a HMC implementation for Wilson and Wilson twisted mass fermions and inverter for different versions of the Dirac operator.
