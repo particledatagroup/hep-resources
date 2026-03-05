@@ -3,7 +3,7 @@
 
 Online resources are used in a diverse and expanding set of ways in particle physics.
 Many of these resources have become central to our collective work, and we provide a curated
-introduction to online resources as part of the [Review of Particle Physics](https://pdg.lbl.gov/2021/reviews/rpp2020-rev-online-hep-info.pdf). That list is, by necessity, incomplete.
+introduction to online resources as part of the [Review of Particle Physics](https://pdg.lbl.gov/2023/reviews/rpp2023-rev-online-hep-info.pdf). That list is, by necessity, incomplete.
 
 By contrast, this repository provides an expanded and regularly updated list of resources. It is meant to be inclusive and catalog all useful resources related to particle physics. The community is warmly invited to contribute in order to ensure a broad and up to date coverage of relevant resources.
 
@@ -36,7 +36,16 @@ Any contributions are highly appreciated. There are several options to do so, de
 * [Software packages and repositories](#software-packages-and-repositories)
    * [Repositories](#repositories)
    * [Particle physics software](#particle-physics-software)
+      * [Data Analysis](#data-analysis)
+      * [Lattice Gauge Theory](#lattice-gauge-theory)
+      * [Parton Distribution Fits](#parton-distribution-fits)
+      * [Simulation tools](#simulation-tools)
+      * [Simulation tools - Detector Simulation](#simulation-tools---detector-simulation)
+      * [Simulation tools - Event Simulation](#simulation-tools---event-simulation)
    * [Astrophysics software](#astrophysics-software)
+      * [Data Analysis](#data-analysis-1)
+      * [Simulation tools](#simulation-tools-1)
+      * [Simulation tools - Event Simulation](#simulation-tools---event-simulation-1)
    * [Mobile apps](#mobile-apps)
 * [Data repositories and preservation](#data-repositories-and-preservation)
    * [Data repositories](#data-repositories)
@@ -52,18 +61,17 @@ Any contributions are highly appreciated. There are several options to do so, de
    * [Masterclasses](#masterclasses)
    * [General Sites](#general-sites)
    * [General Physics Activities](#general-physics-activities)
-   * [Particle Physics Activities](#particle-physics-activities)
+   * [Particle Physics Resources](#particle-physics-resources)
    * [Lab Education Offices](#lab-education-offices)
    * [Educational Programs of Experiments](#educational-programs-of-experiments)
    * [News](#news)
       * [Newsletters and Magazines](#newsletters-and-magazines)
       * [Online news](#online-news)
    * [Art in Physics](#art-in-physics)
-* [High Energy Physics regional efforts](#high-energy-physics-regional-efforts)
-
+   * [High Energy Physics regional efforts](#high-energy-physics-regional-efforts)
 
 <!-- Created by https://github.com/ekalinin/github-markdown-toc -->
-<!-- Added by: runner, at: Tue Jan 17 19:10:08 UTC 2023 -->
+<!-- Added by: runner, at: Tue Aug  5 16:35:31 UTC 2025 -->
 
 <!--te-->
 
@@ -92,7 +100,7 @@ Any contributions are highly appreciated. There are several options to do so, de
     Data files that can be downloaded from the PDG include tables of particle masses and widths, PDG Monte Carlo particle numbers, and cross-section data. The files are updated with each new edition of the Review of Particle Physics.
 
 * [PDG API](https://pdg.lbl.gov/api):
-    In addition to the fixed-format data files that have been available for many years, PDG now provides for testing a beta release of three new tools to access PDG data in machine-readable format.
+    In addition to the fixed-format data files that have been available for many years, PDG is developing new tools to access PDG data in machine-readable format (currently available as beta versions).
 
 # Particle physics information platform
 
@@ -247,6 +255,11 @@ Most custom particle physics software is maintained by collaborations. These col
 (usually theory collaborations rather than experimental collaborations) are listed in the  [INSPIRE](https://inspirehep.net/experiments/)  database. Here we present a list of these software packages,
 sorted by the INSPIRE Experiments classification. The links point to the record in the Experiments database.
 
+### Accelerator Test Facility Experiments
+
+* [CATAP](https://inspirehep.net/experiments/3074501):
+    A Middle Layer Python Package for Particle Accelerator Control
+
 ### Data Analysis
 
 * [AnalysisToolbox](https://inspirehep.net/experiments/2957112):
@@ -264,11 +277,17 @@ sorted by the INSPIRE Experiments classification. The links point to the record 
 * [gvar](https://inspirehep.net/experiments/2957115):
     This package facilitates the creation and manipulation of arbitrarily complicated (correlated) multi-dimensional Gaussian random variables.
 
+* [HDSense](https://inspirehep.net/experiments/3114186):
+    Computes the hadronization sensitivity of an observable in terms of the induced Fisher Information matrix over the hadronization parameters.
+
 * [lsqfit](https://inspirehep.net/experiments/2957119):
     This package facilitates least-squares fitting of noisy data by multi-dimensional, nonlinear functions of arbitrarily many parameters.
 
 * [MUSES](https://inspirehep.net/experiments/2705080):
     Developing a new cyberinfrastructure to provide the scientific community novel tools to answer critical interdisciplinary questions in nuclear physics, gravitational wave astrophysics, and heavy-ion physics.
+
+* [pyerrors](https://inspirehep.net/experiments/2960667):
+    Python framework for error computation and propagation of Markov chain Monte Carlo data from lattice field theory and statistical mechanics simulations.
 
 * [Rivet](https://inspirehep.net/experiments/1778049):
     The Rivet toolkit, a system for validation of Monte Carlo event generators, provides a large set of experimental analyses useful for MC generator development, validation, and tuning.
@@ -312,7 +331,7 @@ sorted by the INSPIRE Experiments classification. The links point to the record 
     Library for performing calculations in lattice QCD on GPUs using NVIDIA's CUDA platform. The current release includes optimized solvers for Wilson, Clover-improved Wilson,Twisted mass, Staggered, Improved staggered, Domain wall and Mobius fermion actions.
 
 * [SIMULATeQCD](https://inspirehep.net/experiments/2957121):
-    Efficient lattice QCD formula implementation
+    a SImple MUlti-GPU LATtice code for QCD calculations
 
 * [tmLQCD](https://inspirehep.net/experiments/2644492):
     This freely available software suite provides a set of tools to be used in lattice QCD simulations, mainly a HMC implementation for Wilson and Wilson twisted mass fermions and inverter for different versions of the Dirac operator.
@@ -353,6 +372,9 @@ sorted by the INSPIRE Experiments classification. The links point to the record 
 
 * [BlackHawk](https://inspirehep.net/experiments/2926462):
     Calculation of the Hawking evaporation spectra of any black hole distribution
+
+* [ELENA](https://inspirehep.net/experiments/3024264):
+    Package designed to compute the full evolution of first-order phase transitions  in the early Universe generated by particle physics models
 
 * [VEGAS](https://inspirehep.net/experiments/2702974):
     A general purpose algorithm for multidimensional integration. It is an iterative and adaptive Monte Carlo scheme.
@@ -412,6 +434,9 @@ sorted by the INSPIRE Experiments classification. The links point to the record 
 * [CONTUR](https://inspirehep.net/experiments/2921388):
     The CONTUR toolkit exploits RIVET to allow rapid limit-setting and consistency checks for new physics models.
 
+* [DaMaSCUS](https://inspirehep.net/experiments/3076568):
+    MC simulator of dark matter particles as they move through the Earth
+
 * [EPJPSI](https://inspirehep.net/experiments/2652558):
     Monte Carlo calculations for J/ψ mesons in high energy γ-p, ep, pp̅ and pp collisions.
 
@@ -444,6 +469,9 @@ sorted by the INSPIRE Experiments classification. The links point to the record 
 
 * [GoSam](https://inspirehep.net/experiments/2644146):
     This package allows for the automated calculation of one-loop amplitudes for multi-particle processes in renormalizable quantum field theories.
+
+* [HAMMER](https://inspirehep.net/experiments/2958436):
+    Efficient reweighting of MC samples to arbitrary New Physics scenarios or to any hadronic matrix elements.
 
 * [HDECAY](https://inspirehep.net/experiments/2656181):
     HDECAY determines the partial decay widths and branching ratios of the Higgs bosons within the Standard Model.
@@ -534,6 +562,9 @@ sorted by the INSPIRE Experiments classification. The links point to the record 
 * [Cosmoglobe](https://inspirehep.net/experiments/2642358):
     Cosmoglobe is a collaboration between individual scientists aiming to understand the microwave sky, working together within an Open Science framework.
 
+* [dfcosmic](https://inspirehep.net/experiments/3125886):
+    Identify and replace sharp features that are caused by cosmic ray (CR) hits, hot pixels, or non-Gaussian noise in astronomical objects.
+
 * [Gammapy](https://inspirehep.net/experiments/2691581):
     Gammapy is a community-developed, open-source Python package for gamma-ray astronomy built on Numpy, Scipy and Astropy.
 
@@ -547,6 +578,9 @@ sorted by the INSPIRE Experiments classification. The links point to the record 
 
 * [CosmoFlow](https://inspirehep.net/experiments/2824654):
     CosmoFlow is an open source Python code that computes tree-level cosmological correlators by tracing their time flow.
+
+* [CRPropa](https://inspirehep.net/experiments/3071528):
+    Simulates the propagation of ultra-high-energy nuclei up to iron on their voyage through an (extra)galactic environment
 
 * [FLAMINGO](https://inspirehep.net/experiments/2667514):
     A project of the Virgo consortium for cosmological supercomputer simulations
@@ -571,7 +605,8 @@ sorted by the INSPIRE Experiments classification. The links point to the record 
 * [CORSIKA](https://inspirehep.net/experiments/1891194):
     Detailed simulation of extensive air showers initiated by high energy cosmic ray particles. Protons, light nuclei up to iron, photons, and many other particles may be treated as primaries. The particles are tracked through the atmosphere until they undergo reactions with the air nuclei or, in the case of instable secondaries, decay.
 
-
+* [GALPROP](https://inspirehep.net/experiments/2958438):
+    Numerical code for calculating the propagation of cosmic-ray nuclei, antiprotons, electrons and positrons, and computes diffuse γ-rays and synchrotron emission.
 
 ## Mobile apps
 
@@ -731,7 +766,7 @@ A collection of online tests, video lectures, and related course materials from 
 * [HYPATIA](http://hypatia.phys.uoa.gr/):
     HYPATIA (Hybrid Pupil’s Analysis Tool for Interactions in ATLAS) is a tool for high school students to inspect the graphic visualization of particle collision products in the ATLAS detector at CERN.
 
-* [International Masterclasses](https://physicsmasterclasses.org/):
+* **[International Masterclasses](https://physicsmasterclasses.org/):**
     Each year about 13,000 high school students in 55 countries come to one of about 225 nearby universities or research centres for a day to unravel the mysteries of particle physics. Lectures from active scientists give insight in topics and methods of basic research enabling the students to perform measurements on real data from one of seven experiments. At the end of the day, like an international research collaboration, participants join a video conference for discussion and combination of results. The program is coordinated from Institut fur Kern- und Teilchenphysik at TU Dresden and the Notre Dame University QuarkNet Center within the framework of the International Particle Physics Outreach Group (IPPOG). CERN, Fermilab and TRIUMF support videoconferences. 
 
 * [World Wide Data Day](https://quarknet.org/content/world-wide-data-day):
@@ -790,6 +825,7 @@ A collection of online tests, video lectures, and related course materials from 
 * [Quarked Lesson Plans](http://www.quarked.org/parents/lessonplans.html):
 * [QuarkNet Data Activities Portfolio](https://quarknet.org/data-portfolio):
 * [Sanford Lab curriculum materials](https://sanfordlab.org/education/resources):
+* [CERN Education Lab classroom activities](https://scoollab.web.cern.ch/classroom-activities)
 
 **Interactive Sites**
 
@@ -839,10 +875,10 @@ A collection of online tests, video lectures, and related course materials from 
     Jefferson Lab's long-term commitment to science education continues to focus on increasing the number of teachers with a substantial background in math and science, strengthening the motivation and preparation of all students, especially minorities and females, and addressing the serious under representation of minorities and females in science, math, engineering and technology careers.
 
 * [Joint Institute for Nuclear Research Education (JINR)](http://www.jinr.ru/schoolstudents-teachers-en/):
-    The JINR educational portal has resources, programs for teachers and school students and lab tours.
+    The JINR educational portal has resources, programs for teachers and school students and lab tours.  
 
-* [Laboratori Nazionali di Frascati Educational (INFN)](https://edu.lnf.infn.it/about/?lang=en):
-    INFN-LNF educational programs are addressed to students, teachers and general audiences of every age, from Italy and abroad. Insights and education about the INFN-LNF research are offered thanks to the organization of guided tours and open days, stages for students, refresher courses for teachers, seminars and divulgation events. The aim is to create a constant exchange between the research world and society, thanks to direct contact and via the internet and other social media.
+* [Laboratori Nazionali di Frascati Educational (INFN-LNF)](https://edu.lnf.infn.it/about/?lang=en):
+    INFN-LNF educational programs are addressed to students, teachers and general audiences of every age, from Italy and abroad. Insights and education about the INFN-LNF research are offered thanks to the organization of guided tours and open days, stages for students, refresher courses for teachers, seminars and divulgation events. The aim is to create a constant exchange between the research world and society, thanks to direct contact and via the internet and other social media. See also the global INFN education and outreach site [https://collisioni.infn.it/en/](https://collisioni.infn.it/en/).
 
 * [Laboratori Nazionali del Gran Sasso Outreach Activities](https://www.lngs.infn.it/en/outreach-activities):
     The Lab offers pupils the opportunity to approach the fascinating world of Physics and Science in general through stages, summer schools and training camps. It makes young researchers’ skills and competences available to people both in public events, such as the Open Day and the European Researchers’ Night, and in guided tours to visit the underground experimental halls.
@@ -986,6 +1022,12 @@ News sites from major HEP institutions and organizations. The sites often have l
 
 * **TRIUMF on NewsWise:**
    * Website: <https://triumf.ca/news/>
+ 
+* **INFN News:**
+   * Website: <https://home.infn.it/it/comunicazione/notizie/tutte-le-notizie>
+ 
+* **DESY News and Events:**
+   * Website: <https://www.desy.de/news/index_eng.html>
 
 ## Art in Physics
 
@@ -1029,5 +1071,4 @@ found in arXiv eprint [2308.15373](https://arxiv.org/abs/2308.15373).
 
 * [US Particle Physics Project Prioritization Panel (P5)](http://hitoshi.berkeley.edu/P5/)
     P5 reports to HEPAP (High-Energy Physics Advisory Panel) that advises the High-Energy Physics program of the DOE Office of Science and Division of Physics of the NSF. It will build on the "Snowmass" community study to hash out priorities for the next 10 years within 20-year context.
-
 
