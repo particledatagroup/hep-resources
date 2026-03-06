@@ -303,6 +303,9 @@ sorted by the INSPIRE Experiments classification. The links point to the record 
 * [ROOT](https://inspirehep.net/experiments/1778050):
     This framework for data processing in high-energy physics, born at CERN, offers applications to store, access, process, analyze and represent data or perform simulations.
 
+* [SHAPER](https://inspirehep.net/experiments/3127175):
+    SHAPER is a framework for defining, building, and evaluating generalized shape observables for collider physics.
+
 * [SModelS](https://inspirehep.net/experiments/1778052):
     SModelS is based on a general procedure to decompose Beyond the Standard Model (BSM) collider signatures presenting a Z2 symmetry into Simplified Model Spectrum (SMS) topologies. It provides a way to cast BSM predictions for the LHC in a model independent framework, which can be directly confronted with the relevant experimental constraints.
 
@@ -343,6 +346,11 @@ sorted by the INSPIRE Experiments classification. The links point to the record 
 
 * [USQCD](https://inspirehep.net/experiments/1735657):
     The software suite enables lattice QCD computations to be performed with high performance across a variety of architectures. The website contains links to the project web pages of the individual software modules, as well as to complete lattice QCD application packages which use them.
+
+### Neutrino Physics
+
+* [nt_mlreco](https://inspirehep.net/experiments/3127176):
+    Machine learning pipeline for reconstruction in neutrino telescopes.
 
 ### Parton Distribution Fits
 
