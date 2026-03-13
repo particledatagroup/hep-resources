@@ -116,13 +116,11 @@ Any contributions are highly appreciated. There are several options to do so, de
     The SAO/NASA Astrophysics Data System is a Digital Library portal offering access to 15 million bibliographic records in Astronomy and Physics.  The ADS search engine also indexes the full-text for many publications in this collection and tracks citations.  The system also provides access and links to a wealth of external resources, including electronic articles hosted by publishers and arXiv, data catalogs and a variety of data products hosted by the astronomy archives worldwide.
 
     * [Blog](https://ui.adsabs.harvard.edu/blog)
-    * [X (Twitter)](https://twitter.com/adsabs)
-
 
 * [arXiv.org](https://arXiv.org):
     A repository of full-text articles in physics, astronomy, mathematics, computer science, statistics, nonlinear sciences, quantitative finance, quantitative biology, electrical engineering and systems science, and economics. Papers are submitted by registered authors to arXiv, often as preprints in advance of submission to a journal for publication; includes postprints, working papers, and other relevant material. Established in 1991, the repository is interlinked with ADS and INSPIRE, among others. Readers can browse subject categories or search by author, title, abstract, date, and other fields. Receive daily update alerts for subfields by email or RSS.
 
-    * [Blog](https://blogs.cornell.edu/arXiv)
+    * [Blog](https://blog.arxiv.org/)
     * [X (Twitter)](https://twitter.com/arxiv)
 
 * [CDS](http://cds.cern.ch):
@@ -190,9 +188,6 @@ Any contributions are highly appreciated. There are several options to do so, de
 * [ORCID](https://orcid.org):
     Registry providing persistent digital identifiers allowing to unambiguously identify researchers. Through integration in key research workflows such as manuscript and grant submission, it supports automated linkages between scientists and their professional activities ensuring that their work is recognized.
 
-    * [X (Twitter)](https://twitter.com/orcid_org)
-
-
 # Experiments
 
 * [INSPIRE Experiments](https://inspirehep.net/experiments):
@@ -211,7 +206,7 @@ Any contributions are highly appreciated. There are several options to do so, de
 * [Academic Jobs Online](https://academicjobsonline.org/ajo):
     A full-service online recruiting site for academic institutions worldwide in all disciplines and areas.
 
-* [APS Careers](https://www.aps.org/careers/employment):
+* [APS Careers](https://www.aps.org/careers):
     A gateway for physicists, students, and physics enthusiasts to information about physics jobs and careers. It contains Physics job listings, career advice, upcoming workshops and meetings, and career and job-related resources provided by the American Physical Society.
 
 * [INSPIRE Jobs](https://inspirehep.net/jobs):
@@ -234,14 +229,6 @@ Most relevant software is hosted by general-purpose repositories like GitHub, Gi
 
 * [ASCL](https://ascl.net):
     The Astrophysics Source Code Library (ASCL) is a free online registry for source codes of interest to astronomers and astrophysicists. It lists codes that have been used in research that has appeared in, or been submitted to, peer-reviewed publications.
-
-* [GenSer](https://ep-dep-sft.web.cern.ch/project/generator-service-project-genser):
-    The Generator Services project collaborates with Monte Carlo (MC)
-    generator authors and with LHC experiments in order to prepare validated LCG compliant code for
-    both theoretical and experimental communities at the LHC, sharing the user support duties,
-    providing assistance for the development of the new object-oriented generators, and guaranteeing
-    the maintenance of the older packages on the LCG supported platforms. The project consists of the
-    generators repository, validation, HepMC record and MCDB event databases.
 
 * [Hepforge](https://www.hepforge.org/):
     A development environment for high-energy physics software projects, in particular housing many event-generator related projects, that offers a ready-made,
@@ -471,6 +458,12 @@ sorted by the INSPIRE Experiments classification. The links point to the record 
 * [FeynRules](https://inspirehep.net/experiments/1778072):
     Mathematica package that allows the calculation of Feynman rules in momentum space for any QFT physics model.
 
+* [FORM](https://inspirehep.net/experiments/3129014):
+    Symbolic manipulation program for computations in High Energy Physics.
+
+* [FormCalc](https://inspirehep.net/experiments/3129015):
+    Mathematica package for the calculation of tree-level and one-loop Feynman diagrams.
+
 * [GENIE](https://inspirehep.net/experiments/1780077):
     Modern and universal event generator framework and tools in support of neutrino experiments.
 
@@ -495,6 +488,9 @@ sorted by the INSPIRE Experiments classification. The links point to the record 
 * [JETSCAPE](https://inspirehep.net/experiments/1780614):
     Comprehensive software framework to provide a systematic, rigorous approach to simulating the complex dynamical environment of relativistic heavy-ion collisions.
 
+* [KKMCee](https://inspirehep.net/experiments/3127501):
+    Multi-photon Monte Carlo event generator for lepton and quark pair production in lepton colliders.
+
 * [MadGraph](https://inspirehep.net/experiments/1775083):
     A framework that aims at providing all the elements necessary for SM and BSM phenomenology, such as the computations of cross sections, the generation of hard events and their matching with event generators, and the use of a variety of tools relevant to event manipulation and analysis.
 
@@ -503,6 +499,9 @@ sorted by the INSPIRE Experiments classification. The links point to the record 
 
 * [MaRTIn](https://inspirehep.net/experiments/2833795):
     Package for calculating amplitudes up to two loops
+
+* [MARTY](https://inspirehep.net/experiments/3129019):
+    Calculates amplitudes, squared amplitudes and Wilson coefficients at the one-loop level for general BSM models.
 
 * [MC@NLO](https://inspirehep.net/experiments/2652578):
     Fortran package to implement a scheme for combining a Monte Carlo event generator with next-to-leading-order calculations of rates for QCD processes.
@@ -1082,6 +1081,8 @@ found in arXiv eprint [2308.15373](https://arxiv.org/abs/2308.15373).
 * [US Particle Physics Community Planning Exercise (Snowmass)](https://www.slac.stanford.edu/econf/C210711/)
     Snowmass is organized by the Division of Particles and Fields (DPF) of the American Physical Society. Snowmass is a scientific study. It provides an opportunity for the entire particle physics community to come together to identify and document a scientific vision for the future of particle physics in the U.S. and its international partners. Snowmass will define the most important questions for the field of particle physics and identify promising opportunities to address them. P5 will take the scientific input from Snowmass and develop a strategic plan for U.S. particle physics that can be executed over a 10 year timescale, in the context of a 20-year global vision for the field.
 
-* [US Particle Physics Project Prioritization Panel (P5)](http://hitoshi.berkeley.edu/P5/)
-    P5 reports to HEPAP (High-Energy Physics Advisory Panel) that advises the High-Energy Physics program of the DOE Office of Science and Division of Physics of the NSF. It will build on the "Snowmass" community study to hash out priorities for the next 10 years within 20-year context.
-
+* [US Particle Physics](https://www.usparticlephysics.org)
+    P5 reports to HEPAP (High-Energy Physics Advisory Panel) that advises the High-Energy Physics program of the DOE Office of Science
+    and Division of Physics of the NSF. It will build on the "Snowmass" community study to hash out priorities for the next 10 years
+    within 20-year context.
+    
