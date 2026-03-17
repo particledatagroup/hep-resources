@@ -425,6 +425,9 @@ sorted by the INSPIRE Experiments classification. The links point to the record 
 * [AxionDarkPhotonSimulator](https://inspirehep.net/experiments/2955084):
     Python package for simulating an axion-dark photon system
 
+* [Blade](https://inspirehep.net/experiments/3130042):
+    Feynman integral decomposition package.
+
 * [CASCADE](https://inspirehep.net/experiments/2651743):
     Hadron level Monte Carlo generator for ep and pp scattering applying Transverse Momentum Dependent (TMD) parton densities and parton shower.
 
@@ -457,6 +460,9 @@ sorted by the INSPIRE Experiments classification. The links point to the record 
 
 * [FeynRules](https://inspirehep.net/experiments/1778072):
     Mathematica package that allows the calculation of Feynman rules in momentum space for any QFT physics model.
+
+* [FIRE](https://inspirehep.net/experiments/3130020):
+    Performs integration-by-parts (IBP) reduction of Feynman integrals.
 
 * [FORM](https://inspirehep.net/experiments/3129014):
     Symbolic manipulation program for computations in High Energy Physics.
@@ -503,6 +509,9 @@ sorted by the INSPIRE Experiments classification. The links point to the record 
 * [MARTY](https://inspirehep.net/experiments/3129019):
     Calculates amplitudes, squared amplitudes and Wilson coefficients at the one-loop level for general BSM models.
 
+* [MATRIX](https://inspirehep.net/experiments/3130006):
+    Evaluate fully differential cross sections for a wide class of processes at hadron colliders in next-to-next-to-leading order (NNLO) QCD
+
 * [MC@NLO](https://inspirehep.net/experiments/2652578):
     Fortran package to implement a scheme for combining a Monte Carlo event generator with next-to-leading-order calculations of rates for QCD processes.
 
@@ -527,6 +536,9 @@ sorted by the INSPIRE Experiments classification. The links point to the record 
 * [PEPPER](https://inspirehep.net/experiments/2939365):
     An efficent parton-level event generator to simulate high-energy physics at colliders such as the LHC
 
+* [PETITE](https://inspirehep.net/experiments/3129947):
+    Monte Carlo generator for production of dark sector objects in thick-target experiments
+
 * [PHOKHARA](https://inspirehep.net/experiments/2926463):
     Monte Carlo event generator which simulates this process at the next-to-leading order (NLO) accuracy
 
@@ -541,6 +553,9 @@ sorted by the INSPIRE Experiments classification. The links point to the record 
 
 * [RAPGAP](https://inspirehep.net/experiments/2653076):
     Monte Carlo program that generates a full hadron event record according to the HEP common standards.
+
+* [Reduze](https://inspirehep.net/experiments/3130135):
+    Reduze is a computer program for reducing Feynman integrals to master integrals employing a variant of Laporta's reduction algorithm
 
 * [RunDec](https://inspirehep.net/experiments/2644484):
     Packages for running and decoupling the strong coupling and quark masses.
