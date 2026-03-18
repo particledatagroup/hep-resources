@@ -360,6 +360,9 @@ sorted by the INSPIRE Experiments classification. The links point to the record 
 * [GLoBES](https://inspirehep.net/experiments/1778073):
     Software package for the simulation of long baseline neutrino oscillation experiments.
 
+* [MARLEY](https://inspirehep.net/experiments/2914604):
+    Event generator for neutrino-nucleus interactions
+
 * [nt_mlreco](https://inspirehep.net/experiments/3127176):
     Machine learning pipeline for reconstruction in neutrino telescopes.
 
@@ -402,6 +405,9 @@ sorted by the INSPIRE Experiments classification. The links point to the record 
 
 * [MUSES](https://inspirehep.net/experiments/2705080):
     Developing a new cyberinfrastructure to provide the scientific community novel tools to answer critical interdisciplinary questions in nuclear physics, gravitational wave astrophysics, and heavy-ion physics.
+
+* [PYTHIA](https://inspirehep.net/experiments/1775078):
+    A multi-purpose particle physics event generator. It contains theory and models for a number of physics aspects, including hard and soft interactions, parton distributions, initial- and final-state parton showers, multiparton interactions, fragmentation and decay.
 
 * [VEGAS](https://inspirehep.net/experiments/2702974):
     A general purpose algorithm for multidimensional integration. It is an iterative and adaptive Monte Carlo scheme.
@@ -574,9 +580,6 @@ sorted by the INSPIRE Experiments classification. The links point to the record 
 
 * [POWHEG](https://inspirehep.net/experiments/1775081):
     A framework to match next-to-leading-order calculations with event generators.
-
-* [PYTHIA](https://inspirehep.net/experiments/1775078):
-    A multi-purpose particle physics event generator. It contains theory and models for a number of physics aspects, including hard and soft interactions, parton distributions, initial- and final-state parton showers, multiparton interactions, fragmentation and decay.
 
 * [RAPGAP](https://inspirehep.net/experiments/2653076):
     Monte Carlo program that generates a full hadron event record according to the HEP common standards.
