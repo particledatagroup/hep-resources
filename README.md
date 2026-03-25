@@ -38,7 +38,7 @@ Any contributions are highly appreciated. There are several options to do so, de
    * [Particle physics software](#particle-physics-software)
       * [Data Analysis](#data-analysis)
       * [Lattice Gauge Theory](#lattice-gauge-theory)
-      * [Feynman Diagram Calculation(#feynman-diagram-calculation)
+      * [Feynman Diagram Calculation](#feynman-diagram-calculation)
       * [Feynman Diagram Calculation - Higher-Order](#feynman-diagram-calculation---higher-order)
       * [Neutrino Physics](#neutrino-physics)
       * [Parton Distribution Fits](#parton-distribution-fits)
