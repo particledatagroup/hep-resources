@@ -46,7 +46,7 @@ Any contributions are highly appreciated. There are several options to do so, de
       * [Simulation tools - BSM Models](#simulation-tools---bsm-models)
       * [Simulation tools - Detector Simulation](#simulation-tools---detector-simulation)
       * [Simulation tools - Event Simulation](#simulation-tools---event-simulation)
-      * [Simulation tools|General Purpose](#simulation-tools---general-purpose)
+      * [Simulation tools - General Purpose](#simulation-tools---general-purpose)
    * [Astrophysics software](#astrophysics-software)
       * [Data Analysis](#data-analysis-1)
       * [Simulation tools](#simulation-tools-1)
