@@ -235,6 +235,14 @@ Most relevant software is hosted by general-purpose repositories like GitHub, Gi
 * [ASCL](https://ascl.net):
     The Astrophysics Source Code Library (ASCL) is a free online registry for source codes of interest to astronomers and astrophysicists. It lists codes that have been used in research that has appeared in, or been submitted to, peer-reviewed publications.
 
+* [GenSer](https://ep-dep-sft.web.cern.ch/project/generator-service-project-genser):
+    The Generator Services project collaborates with Monte Carlo (MC)
+    generator authors and with LHC experiments in order to prepare validated LCG compliant code for
+    both theoretical and experimental communities at the LHC, sharing the user support duties,
+    providing assistance for the development of the new object-oriented generators, and guaranteeing
+    the maintenance of the older packages on the LCG supported platforms. The project consists of the
+    generators repository, validation, HepMC record and MCDB event databases.
+
 * [Hepforge](https://www.hepforge.org/):
     A development environment for high-energy physics software projects, in particular housing many event-generator related projects, that offers a ready-made,
     easy-to-use set of web-based tools, including shell account with up-to-date development
@@ -309,6 +317,12 @@ sorted by the INSPIRE Experiments classification. The links point to the record 
 
 ### Feynman Diagram Calculation
 
+* [CompHEP](https://inspirehep.net/experiments/3134052):
+    Evaluation of Feynman diagrams and integration over multiparticle phase space
+
+* [FeynHiggs](https://inspirehep.net/experiments/3134039):
+    A Program for the calculation of the masses of the neutral CP even Higgs bosons in the MSSM
+
 * [FormCalc](https://inspirehep.net/experiments/3129015):
     Mathematica package for the calculation of tree-level and one-loop Feynman diagrams.
 
@@ -344,8 +358,14 @@ sorted by the INSPIRE Experiments classification. The links point to the record 
 * [OpenLoops](https://inspirehep.net/experiments/2644147):
     A fully automated implementation for fast numerical evaluation of tree and one-loop matrix elements for any Standard Model process.
 
+* [OPITeR](https://inspirehep.net/experiments/3134037):
+    A Form program for the reduction of multi-loop tensor Feynman integrals.
+
 * [Reduze](https://inspirehep.net/experiments/3130135):
     Reduze is a computer program for reducing Feynman integrals to master integrals employing a variant of Laporta's reduction algorithm
+
+* [TSIL](https://inspirehep.net/experiments/3134051):
+    Library of utilities for the numerical calculation of dimensionally regularized two-loop self-energy integrals.
 
 ### Lattice Gauge Theory
 
@@ -456,8 +476,38 @@ sorted by the INSPIRE Experiments classification. The links point to the record 
 
 ### Simulation tools - BSM Models
 
+* [BSMPT](https://inspirehep.net/experiments/3134035):
+    C++ tool for calculating the strength of the electroweak phase transition in extended Higgs sectors.
+
+* [DarkPACK](https://inspirehep.net/experiments/3134034):
+    Modular software to compute BSM squared amplitudes for particle physics and dark matter observables
+
+* [FeynHiggs](https://inspirehep.net/experiments/3134039):
+    A Program for the calculation of the masses of the neutral CP even Higgs bosons in the MSSM
+
 * [MadGraph](https://inspirehep.net/experiments/1775083):
     A framework that aims at providing all the elements necessary for SM and BSM phenomenology, such as the computations of cross sections, the generation of hard events and their matching with event generators, and the use of a variety of tools relevant to event manipulation and analysis.
+
+* [micrOMEGAs](https://inspirehep.net/experiments/3134043):
+    Code to compute dark matter observables in generic extensions of the standard model.
+
+* [Prospino](https://inspirehep.net/experiments/3134045):
+    Computes next-to-leading order cross sections for the production of SUSY particles at hadron colliders.
+
+* [SOFTSUSY](https://inspirehep.net/experiments/3134041):
+    Program which accurately calculates the spectrum of superparticles in the CP-conserving MSSM, with a full flavour mixing structure.
+
+* [SPheno](https://inspirehep.net/experiments/3134040):
+    Calculates the SUSY spectrum using low energy data and a user supplied high scale model as input.
+
+* [SuperIso](https://inspirehep.net/experiments/3134050):
+    Evaluation of flavor physics observables in the MSSM.
+
+* [SuperIso Relic](https://inspirehep.net/experiments/2739719):
+    Mixed C - Fortran code which computes the dark matter observables in the MSSM and NMSSM.
+
+* [SusHi](https://inspirehep.net/experiments/3134049):
+    Higgs production cross sections in BSM models
 
 ### Simulation tools - Detector Simulation
 
@@ -508,8 +558,14 @@ sorted by the INSPIRE Experiments classification. The links point to the record 
 * [CASCADE](https://inspirehep.net/experiments/2651743):
     Hadron level Monte Carlo generator for ep and pp scattering applying Transverse Momentum Dependent (TMD) parton densities and parton shower.
 
+* [CCFULL](https://inspirehep.net/experiments/3134042):
+    FORTRAN77 program for coupled-channels calculations with all order couplings for heavy-ion fusion reactions.
+
 * [CHILI](https://inspirehep.net/experiments/2945851):
     Phase-space integration at hadron colliders
+
+* [CompHEP](https://inspirehep.net/experiments/3134052):
+    Evaluation of Feynman diagrams and integration over multiparticle phase space
 
 * [CONTUR](https://inspirehep.net/experiments/2921388):
     The CONTUR toolkit exploits RIVET to allow rapid limit-setting and consistency checks for new physics models.
@@ -540,6 +596,9 @@ sorted by the INSPIRE Experiments classification. The links point to the record 
 
 * [GLoBES](https://inspirehep.net/experiments/1778073):
     Software package for the simulation of long baseline neutrino oscillation experiments.
+
+* [H-COUP](https://inspirehep.net/experiments/3134036):
+    A program for one-loop corrected Higgs boson decays in non-minimal Higgs sectors.
 
 * [HAMMER](https://inspirehep.net/experiments/2958436):
     Efficient reweighting of MC samples to arbitrary New Physics scenarios or to any hadronic matrix elements.
@@ -609,6 +668,9 @@ sorted by the INSPIRE Experiments classification. The links point to the record 
 
 * [TauRunner](https://inspirehep.net/experiments/2893706):
     A Python-based package that propagates neutral and charged leptons
+
+* [Top++](https://inspirehep.net/experiments/3134038):
+    Numerical evaluation of the total inclusive cross-section for producing top quark pairs
 
 ### Simulation tools - General Purpose
 
@@ -1104,9 +1166,6 @@ News sites from major HEP institutions and organizations. The sites often have l
 
 * **TRIUMF on NewsWise:**
    * Website: <https://triumf.ca/news/>
- 
-* **INFN News:**
-   * Website: <https://home.infn.it/it/comunicazione/notizie/tutte-le-notizie>
  
 * **DESY News and Events:**
    * Website: <https://www.desy.de/news/index_eng.html>
