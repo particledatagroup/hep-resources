@@ -302,6 +302,46 @@ sorted by the INSPIRE Experiments classification. The links point to the record 
 * [ZFITTER](https://inspirehep.net/experiments/1778053):
     A Fortran package for the evaluation of radiative corrections (quantum corrections), as predicted in the Standard Model of elementary particles, to a variety of observable quantities, notably those related to the Z-boson resonance peak studied at LEP, CERN.
 
+### Feynman Diagram Calculation
+
+* [FormCalc](https://inspirehep.net/experiments/3129015):
+    Mathematica package for the calculation of tree-level and one-loop Feynman diagrams.
+
+* [MadGraph](https://inspirehep.net/experiments/1775083):
+    A framework that aims at providing all the elements necessary for SM and BSM phenomenology, such as the computations of cross sections, the generation of hard events and their matching with event generators, and the use of a variety of tools relevant to event manipulation and analysis.
+
+* [Sherpa](https://inspirehep.net/experiments/1778076):
+    A multi-purpose particle physics event generator for the Simulation of High-Energy Reactions of PArticles in lepton-lepton, lepton-photon, photon-photon, lepton-hadron and hadron-hadron collisions.
+
+* [WHIZARD](https://inspirehep.net/experiments/1778077):
+    A system designed for the efficient calculation of multi-particle scattering cross sections and simulated event samples.
+
+### Feynman Diagram Calculation - Higher-Order
+
+* [Blade](https://inspirehep.net/experiments/3130042):
+    Feynman integral decomposition package.
+
+* [FeynArts](https://inspirehep.net/experiments/1778070):
+    Mathematica package for the generation and visualization of Feynman diagrams and amplitudes.
+
+* [FeynCalc](https://inspirehep.net/experiments/1778071):
+    Mathematica package for symbolic evaluation of Feynman diagrams and algebraic calculations in quantum field theory and elementary particle physics.
+
+* [FeynRules](https://inspirehep.net/experiments/1778072):
+    Mathematica package that allows the calculation of Feynman rules in momentum space for any QFT physics model.
+
+* [FIRE](https://inspirehep.net/experiments/3130020):
+    Performs integration-by-parts (IBP) reduction of Feynman integrals.
+
+* [GoSam](https://inspirehep.net/experiments/2644146):
+    This package allows for the automated calculation of one-loop amplitudes for multi-particle processes in renormalizable quantum field theories.
+
+* [OpenLoops](https://inspirehep.net/experiments/2644147):
+    A fully automated implementation for fast numerical evaluation of tree and one-loop matrix elements for any Standard Model process.
+
+* [Reduze](https://inspirehep.net/experiments/3130135):
+    Reduze is a computer program for reducing Feynman integrals to master integrals employing a variant of Laporta's reduction algorithm
+
 ### Lattice Gauge Theory
 
 * [ALPHA](https://inspirehep.net/experiments/1392590):
@@ -406,9 +446,6 @@ sorted by the INSPIRE Experiments classification. The links point to the record 
 * [MUSES](https://inspirehep.net/experiments/2705080):
     Developing a new cyberinfrastructure to provide the scientific community novel tools to answer critical interdisciplinary questions in nuclear physics, gravitational wave astrophysics, and heavy-ion physics.
 
-* [PYTHIA](https://inspirehep.net/experiments/1775078):
-    A multi-purpose particle physics event generator. It contains theory and models for a number of physics aspects, including hard and soft interactions, parton distributions, initial- and final-state parton showers, multiparton interactions, fragmentation and decay.
-
 * [VEGAS](https://inspirehep.net/experiments/2702974):
     A general purpose algorithm for multidimensional integration. It is an iterative and adaptive Monte Carlo scheme.
 
@@ -458,9 +495,6 @@ sorted by the INSPIRE Experiments classification. The links point to the record 
 * [AxionDarkPhotonSimulator](https://inspirehep.net/experiments/2955084):
     Python package for simulating an axion-dark photon system
 
-* [Blade](https://inspirehep.net/experiments/3130042):
-    Feynman integral decomposition package.
-
 * [CASCADE](https://inspirehep.net/experiments/2651743):
     Hadron level Monte Carlo generator for ep and pp scattering applying Transverse Momentum Dependent (TMD) parton densities and parton shower.
 
@@ -485,23 +519,8 @@ sorted by the INSPIRE Experiments classification. The links point to the record 
 * [FastJet](https://inspirehep.net/experiments/1778324):
     FastJet is a software package for jet finding in pp and e+e- collisions. It includes fast native implementations of many sequential recombination clustering algorithms, plugins for access to a range of cone jet finders and tools for advanced jet manipulation.
 
-* [FeynArts](https://inspirehep.net/experiments/1778070):
-    Mathematica package for the generation and visualization of Feynman diagrams and amplitudes.
-
-* [FeynCalc](https://inspirehep.net/experiments/1778071):
-    Mathematica package for symbolic evaluation of Feynman diagrams and algebraic calculations in quantum field theory and elementary particle physics.
-
-* [FeynRules](https://inspirehep.net/experiments/1778072):
-    Mathematica package that allows the calculation of Feynman rules in momentum space for any QFT physics model.
-
-* [FIRE](https://inspirehep.net/experiments/3130020):
-    Performs integration-by-parts (IBP) reduction of Feynman integrals.
-
 * [FORM](https://inspirehep.net/experiments/3129014):
     Symbolic manipulation program for computations in High Energy Physics.
-
-* [FormCalc](https://inspirehep.net/experiments/3129015):
-    Mathematica package for the calculation of tree-level and one-loop Feynman diagrams.
 
 * [GENIE](https://inspirehep.net/experiments/1780077):
     Modern and universal event generator framework and tools in support of neutrino experiments.
@@ -512,26 +531,17 @@ sorted by the INSPIRE Experiments classification. The links point to the record 
 * [GLoBES](https://inspirehep.net/experiments/1778073):
     Software package for the simulation of long baseline neutrino oscillation experiments.
 
-* [GoSam](https://inspirehep.net/experiments/2644146):
-    This package allows for the automated calculation of one-loop amplitudes for multi-particle processes in renormalizable quantum field theories.
-
 * [HAMMER](https://inspirehep.net/experiments/2958436):
     Efficient reweighting of MC samples to arbitrary New Physics scenarios or to any hadronic matrix elements.
 
 * [HDECAY](https://inspirehep.net/experiments/2656181):
     HDECAY determines the partial decay widths and branching ratios of the Higgs bosons within the Standard Model.
 
-* [Herwig](https://inspirehep.net/experiments/1778074):
-    A multi-purpose particle physics event generator. It is able to perform simulations at next-to-leading order in QCD. It is based on key physics motivations such as coherent parton showers (including both angular-ordered and dipole evolution), the cluster hadronization model, an eikonal multiple interaction model and has highly flexible BSM capabilities.
-
 * [JETSCAPE](https://inspirehep.net/experiments/1780614):
     Comprehensive software framework to provide a systematic, rigorous approach to simulating the complex dynamical environment of relativistic heavy-ion collisions.
 
 * [KKMCee](https://inspirehep.net/experiments/3127501):
     Multi-photon Monte Carlo event generator for lepton and quark pair production in lepton colliders.
-
-* [MadGraph](https://inspirehep.net/experiments/1775083):
-    A framework that aims at providing all the elements necessary for SM and BSM phenomenology, such as the computations of cross sections, the generation of hard events and their matching with event generators, and the use of a variety of tools relevant to event manipulation and analysis.
 
 * [MARLEY](https://inspirehep.net/experiments/2914604):
     Event generator for neutrino-nucleus interactions
@@ -563,9 +573,6 @@ sorted by the INSPIRE Experiments classification. The links point to the record 
 * [NuWro](https://inspirehep.net/experiments/1780078):
     Monte Carlo neutrino event generator that includes all basic dynamics for neutrino scattering processes (for both neutral and charged currents).
 
-* [OpenLoops](https://inspirehep.net/experiments/2644147):
-    A fully automated implementation for fast numerical evaluation of tree and one-loop matrix elements for any Standard Model process.
-
 * [PEPPER](https://inspirehep.net/experiments/2939365):
     An efficent parton-level event generator to simulate high-energy physics at colliders such as the LHC
 
@@ -584,20 +591,28 @@ sorted by the INSPIRE Experiments classification. The links point to the record 
 * [RAPGAP](https://inspirehep.net/experiments/2653076):
     Monte Carlo program that generates a full hadron event record according to the HEP common standards.
 
-* [Reduze](https://inspirehep.net/experiments/3130135):
-    Reduze is a computer program for reducing Feynman integrals to master integrals employing a variant of Laporta's reduction algorithm
-
 * [RunDec](https://inspirehep.net/experiments/2644484):
     Packages for running and decoupling the strong coupling and quark masses.
-
-* [Sherpa](https://inspirehep.net/experiments/1778076):
-    A multi-purpose particle physics event generator for the Simulation of High-Energy Reactions of PArticles in lepton-lepton, lepton-photon, photon-photon, lepton-hadron and hadron-hadron collisions.
 
 * [SMASH](https://inspirehep.net/experiments/2655913):
     A relativistic hadronic transport approach including all well-established hadrons up to a mass of ~ 2 GeV as degrees of freedom.
 
 * [TauRunner](https://inspirehep.net/experiments/2893706):
     A Python-based package that propagates neutral and charged leptons
+
+### Simulation tools - General Purpose
+
+* [Herwig](https://inspirehep.net/experiments/1778074):
+    A multi-purpose particle physics event generator. It is able to perform simulations at next-to-leading order in QCD. It is based on key physics motivations such as coherent parton showers (including both angular-ordered and dipole evolution), the cluster hadronization model, an eikonal multiple interaction model and has highly flexible BSM capabilities.
+
+* [MadGraph](https://inspirehep.net/experiments/1775083):
+    A framework that aims at providing all the elements necessary for SM and BSM phenomenology, such as the computations of cross sections, the generation of hard events and their matching with event generators, and the use of a variety of tools relevant to event manipulation and analysis.
+
+* [PYTHIA](https://inspirehep.net/experiments/1775078):
+    A multi-purpose particle physics event generator. It contains theory and models for a number of physics aspects, including hard and soft interactions, parton distributions, initial- and final-state parton showers, multiparton interactions, fragmentation and decay.
+
+* [Sherpa](https://inspirehep.net/experiments/1778076):
+    A multi-purpose particle physics event generator for the Simulation of High-Energy Reactions of PArticles in lepton-lepton, lepton-photon, photon-photon, lepton-hadron and hadron-hadron collisions.
 
 * [WHIZARD](https://inspirehep.net/experiments/1778077):
     A system designed for the efficient calculation of multi-particle scattering cross sections and simulated event samples.
