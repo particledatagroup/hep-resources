@@ -428,8 +428,20 @@ sorted by the INSPIRE Experiments classification. The links point to the record 
 * [MARLEY](https://inspirehep.net/experiments/2914604):
     Event generator for neutrino-nucleus interactions
 
+* [NEUT](https://inspirehep.net/experiments/1780081):
+    Simulating neutrino interactions with nucleon and nucleus
+
 * [nt_mlreco](https://inspirehep.net/experiments/3127176):
     Machine learning pipeline for reconstruction in neutrino telescopes.
+
+* [NuFast](https://inspirehep.net/experiments/2824655):
+    Calculates neutrino oscillation probabilities in matter optimized for long-baseline neutrino oscillations in the Earth's crust including both accelerator and reactor experiments.
+
+* [NUISANCE](https://inspirehep.net/experiments/1780082):
+    C++ framework which facilitates detailed studies of neutrino interaction cross-section models implemented in Monte Carlo neutrino event generators.
+
+* [NuWro](https://inspirehep.net/experiments/1780078):
+    Monte Carlo neutrino event generator that includes all basic dynamics for neutrino scattering processes (for both neutral and charged currents).
 
 ### Parton Distribution Fits
 
@@ -630,18 +642,6 @@ sorted by the INSPIRE Experiments classification. The links point to the record 
 * [MCFM](https://inspirehep.net/experiments/1778075):
     MCFM (Monte Carlo for FeMtobarn processes) is a program designed to calculate cross-sections for various femtobarn-level processes at hadron-hadron colliders.
 
-* [NEUT](https://inspirehep.net/experiments/1780081):
-    Simulating neutrino interactions with nucleon and nucleus
-
-* [NuFast](https://inspirehep.net/experiments/2824655):
-    Calculates neutrino oscillation probabilities in matter optimized for long-baseline neutrino oscillations in the Earth's crust including both accelerator and reactor experiments.
-
-* [NUISANCE](https://inspirehep.net/experiments/1780082):
-    C++ framework which facilitates detailed studies of neutrino interaction cross-section models implemented in Monte Carlo neutrino event generators.
-
-* [NuWro](https://inspirehep.net/experiments/1780078):
-    Monte Carlo neutrino event generator that includes all basic dynamics for neutrino scattering processes (for both neutral and charged currents).
-
 * [PEPPER](https://inspirehep.net/experiments/2939365):
     An efficent parton-level event generator to simulate high-energy physics at colliders such as the LHC
 
@@ -711,6 +711,9 @@ sorted by the INSPIRE Experiments classification. The links point to the record 
 
 * [Gammapy](https://inspirehep.net/experiments/2691581):
     Gammapy is a community-developed, open-source Python package for gamma-ray astronomy built on Numpy, Scipy and Astropy.
+
+* [HEALPix](https://inspirehep.net/experiments/3134054):
+    Produces a subdivision of a spherical surface in which each pixel covers the same surface area as every other pixel.
 
 * [Starlink](https://inspirehep.net/experiments/2644500):
     Starlink was a UK Project supporting astronomical data processing. It was shut down in 2005 but its open-source software continued to be developed at the Joint Astronomy Centre until March 2015. It is currently maintained by the East Asian Observatory. The open-source software products are a collection of applications and libraries, usually focused on a specific aspect of data reduction or analysis.
