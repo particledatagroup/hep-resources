@@ -36,12 +36,18 @@ Any contributions are highly appreciated. There are several options to do so, de
 * [Software packages and repositories](#software-packages-and-repositories)
    * [Repositories](#repositories)
    * [Particle physics software](#particle-physics-software)
+      * [Accelerator Test Facility Experiments](#accelerator-test-facility-experiments)
       * [Data Analysis](#data-analysis)
       * [Lattice Gauge Theory](#lattice-gauge-theory)
+      * [Feynman Diagram Calculation](#feynman-diagram-calculation)
+      * [Feynman Diagram Calculation - Higher-Order](#feynman-diagram-calculation---higher-order)
+      * [Neutrino Physics](#neutrino-physics)
       * [Parton Distribution Fits](#parton-distribution-fits)
       * [Simulation tools](#simulation-tools)
+      * [Simulation tools - BSM Models](#simulation-tools---bsm-models)
       * [Simulation tools - Detector Simulation](#simulation-tools---detector-simulation)
       * [Simulation tools - Event Simulation](#simulation-tools---event-simulation)
+      * [Simulation tools - General Purpose](#simulation-tools---general-purpose)
    * [Astrophysics software](#astrophysics-software)
       * [Data Analysis](#data-analysis-1)
       * [Simulation tools](#simulation-tools-1)
@@ -116,13 +122,11 @@ Any contributions are highly appreciated. There are several options to do so, de
     The SAO/NASA Astrophysics Data System is a Digital Library portal offering access to 15 million bibliographic records in Astronomy and Physics.  The ADS search engine also indexes the full-text for many publications in this collection and tracks citations.  The system also provides access and links to a wealth of external resources, including electronic articles hosted by publishers and arXiv, data catalogs and a variety of data products hosted by the astronomy archives worldwide.
 
     * [Blog](https://ui.adsabs.harvard.edu/blog)
-    * [X (Twitter)](https://twitter.com/adsabs)
-
 
 * [arXiv.org](https://arXiv.org):
     A repository of full-text articles in physics, astronomy, mathematics, computer science, statistics, nonlinear sciences, quantitative finance, quantitative biology, electrical engineering and systems science, and economics. Papers are submitted by registered authors to arXiv, often as preprints in advance of submission to a journal for publication; includes postprints, working papers, and other relevant material. Established in 1991, the repository is interlinked with ADS and INSPIRE, among others. Readers can browse subject categories or search by author, title, abstract, date, and other fields. Receive daily update alerts for subfields by email or RSS.
 
-    * [Blog](https://blogs.cornell.edu/arXiv)
+    * [Blog](https://blog.arxiv.org/)
     * [X (Twitter)](https://twitter.com/arxiv)
 
 * [CDS](http://cds.cern.ch):
@@ -190,9 +194,6 @@ Any contributions are highly appreciated. There are several options to do so, de
 * [ORCID](https://orcid.org):
     Registry providing persistent digital identifiers allowing to unambiguously identify researchers. Through integration in key research workflows such as manuscript and grant submission, it supports automated linkages between scientists and their professional activities ensuring that their work is recognized.
 
-    * [X (Twitter)](https://twitter.com/orcid_org)
-
-
 # Experiments
 
 * [INSPIRE Experiments](https://inspirehep.net/experiments):
@@ -211,7 +212,7 @@ Any contributions are highly appreciated. There are several options to do so, de
 * [Academic Jobs Online](https://academicjobsonline.org/ajo):
     A full-service online recruiting site for academic institutions worldwide in all disciplines and areas.
 
-* [APS Careers](https://www.aps.org/careers/employment):
+* [APS Careers](https://www.aps.org/careers):
     A gateway for physicists, students, and physics enthusiasts to information about physics jobs and careers. It contains Physics job listings, career advice, upcoming workshops and meetings, and career and job-related resources provided by the American Physical Society.
 
 * [INSPIRE Jobs](https://inspirehep.net/jobs):
@@ -248,12 +249,25 @@ Most relevant software is hosted by general-purpose repositories like GitHub, Gi
     easy-to-use set of web-based tools, including shell account with up-to-date development
     tools, web page hosting, subversion, git and Mercurial code management systems, mailing lists, bug tracker and wiki system.
 
+* [Scikit-HEP](https://scikit-hep.org/):
+    The Scikit-HEP project (HEP stands for High Energy Physics, see more in the FAQ) is a 
+    community-driven and community-oriented project with the aim of providing Particle Physics 
+    at large with an ecosystem for data analysis in Python. The project started in Autumn 2016 
+    and is in full swing. It is not just about providing core and common tools for the community. 
+    It is also about improving the interoperability between HEP tools and the scientific ecosystem 
+    in Python, and about improving on discoverability of utility packages and projects.    
+
 
 ## Particle physics software
 
 Most custom particle physics software is maintained by collaborations. These collaborations
 (usually theory collaborations rather than experimental collaborations) are listed in the  [INSPIRE](https://inspirehep.net/experiments/)  database. Here we present a list of these software packages,
 sorted by the INSPIRE Experiments classification. The links point to the record in the Experiments database.
+
+### Accelerator Test Facility Experiments
+
+* [CATAP](https://inspirehep.net/experiments/3074501):
+    A Middle Layer Python Package for Particle Accelerator Control
 
 ### Data Analysis
 
@@ -272,11 +286,20 @@ sorted by the INSPIRE Experiments classification. The links point to the record 
 * [gvar](https://inspirehep.net/experiments/2957115):
     This package facilitates the creation and manipulation of arbitrarily complicated (correlated) multi-dimensional Gaussian random variables.
 
+* [HDSense](https://inspirehep.net/experiments/3114186):
+    Computes the hadronization sensitivity of an observable in terms of the induced Fisher Information matrix over the hadronization parameters.
+
 * [lsqfit](https://inspirehep.net/experiments/2957119):
     This package facilitates least-squares fitting of noisy data by multi-dimensional, nonlinear functions of arbitrarily many parameters.
 
 * [MUSES](https://inspirehep.net/experiments/2705080):
     Developing a new cyberinfrastructure to provide the scientific community novel tools to answer critical interdisciplinary questions in nuclear physics, gravitational wave astrophysics, and heavy-ion physics.
+
+* [nt_mlreco](https://inspirehep.net/experiments/3127176):
+    Machine learning pipeline for reconstruction in neutrino telescopes.
+
+* [pyerrors](https://inspirehep.net/experiments/2960667):
+    Python framework for error computation and propagation of Markov chain Monte Carlo data from lattice field theory and statistical mechanics simulations.
 
 * [Rivet](https://inspirehep.net/experiments/1778049):
     The Rivet toolkit, a system for validation of Monte Carlo event generators, provides a large set of experimental analyses useful for MC generator development, validation, and tuning.
@@ -284,8 +307,8 @@ sorted by the INSPIRE Experiments classification. The links point to the record 
 * [ROOT](https://inspirehep.net/experiments/1778050):
     This framework for data processing in high-energy physics, born at CERN, offers applications to store, access, process, analyze and represent data or perform simulations.
 
-* [Scikit-HEP](https://inspirehep.net/experiments/1778051):
-    A community-driven project with the aim of providing Particle Physics at large with an ecosystem for data analysis in Python. The project started in Autumn 2016 and is under active development. It focuses on providing core and common tools for the community but also on improving the interoperability between HEP tools and the scientific ecosystem in Python as well as the discoverability of utility packages and projects.
+* [SHAPER](https://inspirehep.net/experiments/3127175):
+    SHAPER is a framework for defining, building, and evaluating generalized shape observables for collider physics.
 
 * [SModelS](https://inspirehep.net/experiments/1778052):
     SModelS is based on a general procedure to decompose Beyond the Standard Model (BSM) collider signatures presenting a Z2 symmetry into Simplified Model Spectrum (SMS) topologies. It provides a way to cast BSM predictions for the LHC in a model independent framework, which can be directly confronted with the relevant experimental constraints.
@@ -293,10 +316,65 @@ sorted by the INSPIRE Experiments classification. The links point to the record 
 * [ZFITTER](https://inspirehep.net/experiments/1778053):
     A Fortran package for the evaluation of radiative corrections (quantum corrections), as predicted in the Standard Model of elementary particles, to a variety of observable quantities, notably those related to the Z-boson resonance peak studied at LEP, CERN.
 
+### Feynman Diagram Calculation
+
+* [CompHEP](https://inspirehep.net/experiments/3134052):
+    Evaluation of Feynman diagrams and integration over multiparticle phase space
+
+* [FeynHiggs](https://inspirehep.net/experiments/3134039):
+    A Program for the calculation of the masses of the neutral CP even Higgs bosons in the MSSM
+
+* [FormCalc](https://inspirehep.net/experiments/3129015):
+    Mathematica package for the calculation of tree-level and one-loop Feynman diagrams.
+
+* [MadGraph](https://inspirehep.net/experiments/1775083):
+    A framework that aims at providing all the elements necessary for SM and BSM phenomenology, such as the computations of cross sections, the generation of hard events and their matching with event generators, and the use of a variety of tools relevant to event manipulation and analysis.
+
+* [Sherpa](https://inspirehep.net/experiments/1778076):
+    A multi-purpose particle physics event generator for the Simulation of High-Energy Reactions of PArticles in lepton-lepton, lepton-photon, photon-photon, lepton-hadron and hadron-hadron collisions.
+
+* [WHIZARD](https://inspirehep.net/experiments/1778077):
+    A system designed for the efficient calculation of multi-particle scattering cross sections and simulated event samples.
+
+### Feynman Diagram Calculation - Higher-Order
+
+* [Blade](https://inspirehep.net/experiments/3130042):
+    Feynman integral decomposition package.
+
+* [FeynArts](https://inspirehep.net/experiments/1778070):
+    Mathematica package for the generation and visualization of Feynman diagrams and amplitudes.
+
+* [FeynCalc](https://inspirehep.net/experiments/1778071):
+    Mathematica package for symbolic evaluation of Feynman diagrams and algebraic calculations in quantum field theory and elementary particle physics.
+
+* [FeynRules](https://inspirehep.net/experiments/1778072):
+    Mathematica package that allows the calculation of Feynman rules in momentum space for any QFT physics model.
+
+* [FIRE](https://inspirehep.net/experiments/3130020):
+    Performs integration-by-parts (IBP) reduction of Feynman integrals.
+
+* [GoSam](https://inspirehep.net/experiments/2644146):
+    This package allows for the automated calculation of one-loop amplitudes for multi-particle processes in renormalizable quantum field theories.
+
+* [OpenLoops](https://inspirehep.net/experiments/2644147):
+    A fully automated implementation for fast numerical evaluation of tree and one-loop matrix elements for any Standard Model process.
+
+* [OPITeR](https://inspirehep.net/experiments/3134037):
+    A Form program for the reduction of multi-loop tensor Feynman integrals.
+
+* [Reduze](https://inspirehep.net/experiments/3130135):
+    Reduze is a computer program for reducing Feynman integrals to master integrals employing a variant of Laporta's reduction algorithm
+
+* [TSIL](https://inspirehep.net/experiments/3134051):
+    Library of utilities for the numerical calculation of dimensionally regularized two-loop self-energy integrals.
+
 ### Lattice Gauge Theory
 
 * [ALPHA](https://inspirehep.net/experiments/1392590):
     Numerical investigation of the running coupling in QCD, quark masses, non-perturbative renormalization, Symanzik improvement and Heavy Quark Effective Theory (HQET).
+
+* [AnalysisToolbox](https://inspirehep.net/experiments/2957112):
+    Python tools for statistically analyzing data related to QCD.
 
 * [Chroma](https://inspirehep.net/experiments/2957131):
     An open source C++ based software system developed using the software infrastructure of the US SciDAC initiative
@@ -310,8 +388,14 @@ sorted by the INSPIRE Experiments classification. The links point to the record 
 * [Grid](https://inspirehep.net/experiments/2957096):
     A next generation data parallel C++ QCD library
 
+* [gvar](https://inspirehep.net/experiments/2957115):
+    This package facilitates the creation and manipulation of arbitrarily complicated (correlated) multi-dimensional Gaussian random variables.
+
 * [Hadrons](https://inspirehep.net/experiments/2957102):
     Grid-based Workflow Management System for lattice field theory simulations
+
+* [lsqfit](https://inspirehep.net/experiments/2957119):
+    This package facilitates least-squares fitting of noisy data by multi-dimensional, nonlinear functions of arbitrarily many parameters.
 
 * [MILC](https://inspirehep.net/experiments/1228416):
     The MILC Code is a set of codes written in C developed by the MIMD Lattice Computation (MILC) collaboration for doing simulations of four dimensional SU(3) lattice gauge theory on MIMD parallel machines. The MILC Code is publicly available for research purposes.
@@ -320,13 +404,45 @@ sorted by the INSPIRE Experiments classification. The links point to the record 
     Library for performing calculations in lattice QCD on GPUs using NVIDIA's CUDA platform. The current release includes optimized solvers for Wilson, Clover-improved Wilson,Twisted mass, Staggered, Improved staggered, Domain wall and Mobius fermion actions.
 
 * [SIMULATeQCD](https://inspirehep.net/experiments/2957121):
-    Efficient lattice QCD formula implementation
+    a SImple MUlti-GPU LATtice code for QCD calculations. SIMULATeQCD is a multi-GPU Lattice QCD framework that makes it easy for physicists to implement lattice QCD while still providing competitive performance.
 
 * [tmLQCD](https://inspirehep.net/experiments/2644492):
     This freely available software suite provides a set of tools to be used in lattice QCD simulations, mainly a HMC implementation for Wilson and Wilson twisted mass fermions and inverter for different versions of the Dirac operator.
 
 * [USQCD](https://inspirehep.net/experiments/1735657):
     The software suite enables lattice QCD computations to be performed with high performance across a variety of architectures. The website contains links to the project web pages of the individual software modules, as well as to complete lattice QCD application packages which use them.
+
+### Neutrino Physics
+
+* [ACHILLES](https://inspirehep.net/experiments/2914603):
+    A lepton-nucleus event generator
+
+* [GENIE](https://inspirehep.net/experiments/1780077):
+    Modern and universal event generator framework and tools in support of neutrino experiments.
+
+* [GiBUU](https://inspirehep.net/experiments/1780080):
+    Unified theory and transport framework in the MeV and GeV energy regimes for elementary reactions on nuclei.
+
+* [GLoBES](https://inspirehep.net/experiments/1778073):
+    Software package for the simulation of long baseline neutrino oscillation experiments.
+
+* [MARLEY](https://inspirehep.net/experiments/2914604):
+    Event generator for neutrino-nucleus interactions
+
+* [NEUT](https://inspirehep.net/experiments/1780081):
+    Simulating neutrino interactions with nucleon and nucleus
+
+* [nt_mlreco](https://inspirehep.net/experiments/3127176):
+    Machine learning pipeline for reconstruction in neutrino telescopes.
+
+* [NuFast](https://inspirehep.net/experiments/2824655):
+    Calculates neutrino oscillation probabilities in matter optimized for long-baseline neutrino oscillations in the Earth's crust including both accelerator and reactor experiments.
+
+* [NUISANCE](https://inspirehep.net/experiments/1780082):
+    C++ framework which facilitates detailed studies of neutrino interaction cross-section models implemented in Monte Carlo neutrino event generators.
+
+* [NuWro](https://inspirehep.net/experiments/1780078):
+    Monte Carlo neutrino event generator that includes all basic dynamics for neutrino scattering processes (for both neutral and charged currents).
 
 ### Parton Distribution Fits
 
@@ -362,8 +478,49 @@ sorted by the INSPIRE Experiments classification. The links point to the record 
 * [BlackHawk](https://inspirehep.net/experiments/2926462):
     Calculation of the Hawking evaporation spectra of any black hole distribution
 
+* [ELENA](https://inspirehep.net/experiments/3024264):
+    Package designed to compute the full evolution of first-order phase transitions  in the early Universe generated by particle physics models
+
+* [MUSES](https://inspirehep.net/experiments/2705080):
+    Developing a new cyberinfrastructure to provide the scientific community novel tools to answer critical interdisciplinary questions in nuclear physics, gravitational wave astrophysics, and heavy-ion physics.
+
 * [VEGAS](https://inspirehep.net/experiments/2702974):
     A general purpose algorithm for multidimensional integration. It is an iterative and adaptive Monte Carlo scheme.
+
+### Simulation tools - BSM Models
+
+* [BSMPT](https://inspirehep.net/experiments/3134035):
+    C++ tool for calculating the strength of the electroweak phase transition in extended Higgs sectors.
+
+* [DarkPACK](https://inspirehep.net/experiments/3134034):
+    Modular software to compute BSM squared amplitudes for particle physics and dark matter observables
+
+* [FeynHiggs](https://inspirehep.net/experiments/3134039):
+    A Program for the calculation of the masses of the neutral CP even Higgs bosons in the MSSM
+
+* [MadGraph](https://inspirehep.net/experiments/1775083):
+    A framework that aims at providing all the elements necessary for SM and BSM phenomenology, such as the computations of cross sections, the generation of hard events and their matching with event generators, and the use of a variety of tools relevant to event manipulation and analysis.
+
+* [micrOMEGAs](https://inspirehep.net/experiments/3134043):
+    Code to compute dark matter observables in generic extensions of the standard model.
+
+* [Prospino](https://inspirehep.net/experiments/3134045):
+    Computes next-to-leading order cross sections for the production of SUSY particles at hadron colliders.
+
+* [SOFTSUSY](https://inspirehep.net/experiments/3134041):
+    Program which accurately calculates the spectrum of superparticles in the CP-conserving MSSM, with a full flavour mixing structure.
+
+* [SPheno](https://inspirehep.net/experiments/3134040):
+    Calculates the SUSY spectrum using low energy data and a user supplied high scale model as input.
+
+* [SuperIso](https://inspirehep.net/experiments/3134050):
+    Evaluation of flavor physics observables in the MSSM.
+
+* [SuperIso Relic](https://inspirehep.net/experiments/2739719):
+    Mixed C - Fortran code which computes the dark matter observables in the MSSM and NMSSM.
+
+* [SusHi](https://inspirehep.net/experiments/3134049):
+    Higgs production cross sections in BSM models
 
 ### Simulation tools - Detector Simulation
 
@@ -414,11 +571,20 @@ sorted by the INSPIRE Experiments classification. The links point to the record 
 * [CASCADE](https://inspirehep.net/experiments/2651743):
     Hadron level Monte Carlo generator for ep and pp scattering applying Transverse Momentum Dependent (TMD) parton densities and parton shower.
 
+* [CCFULL](https://inspirehep.net/experiments/3134042):
+    FORTRAN77 program for coupled-channels calculations with all order couplings for heavy-ion fusion reactions.
+
 * [CHILI](https://inspirehep.net/experiments/2945851):
     Phase-space integration at hadron colliders
 
+* [CompHEP](https://inspirehep.net/experiments/3134052):
+    Evaluation of Feynman diagrams and integration over multiparticle phase space
+
 * [CONTUR](https://inspirehep.net/experiments/2921388):
     The CONTUR toolkit exploits RIVET to allow rapid limit-setting and consistency checks for new physics models.
+
+* [DaMaSCUS](https://inspirehep.net/experiments/3076568):
+    MC simulator of dark matter particles as they move through the Earth
 
 * [EPJPSI](https://inspirehep.net/experiments/2652558):
     Monte Carlo calculations for J/ψ mesons in high energy γ-p, ep, pp̅ and pp collisions.
@@ -432,14 +598,8 @@ sorted by the INSPIRE Experiments classification. The links point to the record 
 * [FastJet](https://inspirehep.net/experiments/1778324):
     FastJet is a software package for jet finding in pp and e+e- collisions. It includes fast native implementations of many sequential recombination clustering algorithms, plugins for access to a range of cone jet finders and tools for advanced jet manipulation.
 
-* [FeynArts](https://inspirehep.net/experiments/1778070):
-    Mathematica package for the generation and visualization of Feynman diagrams and amplitudes.
-
-* [FeynCalc](https://inspirehep.net/experiments/1778071):
-    Mathematica package for symbolic evaluation of Feynman diagrams and algebraic calculations in quantum field theory and elementary particle physics.
-
-* [FeynRules](https://inspirehep.net/experiments/1778072):
-    Mathematica package that allows the calculation of Feynman rules in momentum space for any QFT physics model.
+* [FORM](https://inspirehep.net/experiments/3129014):
+    Symbolic manipulation program for computations in High Energy Physics.
 
 * [GENIE](https://inspirehep.net/experiments/1780077):
     Modern and universal event generator framework and tools in support of neutrino experiments.
@@ -447,23 +607,20 @@ sorted by the INSPIRE Experiments classification. The links point to the record 
 * [GiBUU](https://inspirehep.net/experiments/1780080):
     Unified theory and transport framework in the MeV and GeV energy regimes for elementary reactions on nuclei.
 
-* [GLoBES](https://inspirehep.net/experiments/1778073):
-    Software package for the simulation of long baseline neutrino oscillation experiments.
+* [H-COUP](https://inspirehep.net/experiments/3134036):
+    A program for one-loop corrected Higgs boson decays in non-minimal Higgs sectors.
 
-* [GoSam](https://inspirehep.net/experiments/2644146):
-    This package allows for the automated calculation of one-loop amplitudes for multi-particle processes in renormalizable quantum field theories.
+* [HAMMER](https://inspirehep.net/experiments/2958436):
+    Efficient reweighting of MC samples to arbitrary New Physics scenarios or to any hadronic matrix elements.
 
 * [HDECAY](https://inspirehep.net/experiments/2656181):
     HDECAY determines the partial decay widths and branching ratios of the Higgs bosons within the Standard Model.
 
-* [Herwig](https://inspirehep.net/experiments/1778074):
-    A multi-purpose particle physics event generator. It is able to perform simulations at next-to-leading order in QCD. It is based on key physics motivations such as coherent parton showers (including both angular-ordered and dipole evolution), the cluster hadronization model, an eikonal multiple interaction model and has highly flexible BSM capabilities.
-
 * [JETSCAPE](https://inspirehep.net/experiments/1780614):
     Comprehensive software framework to provide a systematic, rigorous approach to simulating the complex dynamical environment of relativistic heavy-ion collisions.
 
-* [MadGraph](https://inspirehep.net/experiments/1775083):
-    A framework that aims at providing all the elements necessary for SM and BSM phenomenology, such as the computations of cross sections, the generation of hard events and their matching with event generators, and the use of a variety of tools relevant to event manipulation and analysis.
+* [KKMCee](https://inspirehep.net/experiments/3127501):
+    Multi-photon Monte Carlo event generator for lepton and quark pair production in lepton colliders.
 
 * [MARLEY](https://inspirehep.net/experiments/2914604):
     Event generator for neutrino-nucleus interactions
@@ -471,29 +628,23 @@ sorted by the INSPIRE Experiments classification. The links point to the record 
 * [MaRTIn](https://inspirehep.net/experiments/2833795):
     Package for calculating amplitudes up to two loops
 
+* [MARTY](https://inspirehep.net/experiments/3129019):
+    Calculates amplitudes, squared amplitudes and Wilson coefficients at the one-loop level for general BSM models.
+
+* [MATRIX](https://inspirehep.net/experiments/3130006):
+    Evaluate fully differential cross sections for a wide class of processes at hadron colliders in next-to-next-to-leading order (NNLO) QCD
+
 * [MC@NLO](https://inspirehep.net/experiments/2652578):
     Fortran package to implement a scheme for combining a Monte Carlo event generator with next-to-leading-order calculations of rates for QCD processes.
 
 * [MCFM](https://inspirehep.net/experiments/1778075):
     MCFM (Monte Carlo for FeMtobarn processes) is a program designed to calculate cross-sections for various femtobarn-level processes at hadron-hadron colliders.
 
-* [NEUT](https://inspirehep.net/experiments/1780081):
-    Simulating neutrino interactions with nucleon and nucleus
-
-* [NuFast](https://inspirehep.net/experiments/2824655):
-    Calculates neutrino oscillation probabilities in matter optimized for long-baseline neutrino oscillations in the Earth's crust including both accelerator and reactor experiments.
-
-* [NUISANCE](https://inspirehep.net/experiments/1780082):
-    C++ framework which facilitates detailed studies of neutrino interaction cross-section models implemented in Monte Carlo neutrino event generators.
-
-* [NuWro](https://inspirehep.net/experiments/1780078):
-    Monte Carlo neutrino event generator that includes all basic dynamics for neutrino scattering processes (for both neutral and charged currents).
-
-* [OpenLoops](https://inspirehep.net/experiments/2644147):
-    A fully automated implementation for fast numerical evaluation of tree and one-loop matrix elements for any Standard Model process.
-
 * [PEPPER](https://inspirehep.net/experiments/2939365):
     An efficent parton-level event generator to simulate high-energy physics at colliders such as the LHC
+
+* [PETITE](https://inspirehep.net/experiments/3129947):
+    Monte Carlo generator for production of dark sector objects in thick-target experiments
 
 * [PHOKHARA](https://inspirehep.net/experiments/2926463):
     Monte Carlo event generator which simulates this process at the next-to-leading order (NLO) accuracy
@@ -504,23 +655,34 @@ sorted by the INSPIRE Experiments classification. The links point to the record 
 * [POWHEG](https://inspirehep.net/experiments/1775081):
     A framework to match next-to-leading-order calculations with event generators.
 
-* [PYTHIA](https://inspirehep.net/experiments/1775078):
-    A multi-purpose particle physics event generator. It contains theory and models for a number of physics aspects, including hard and soft interactions, parton distributions, initial- and final-state parton showers, multiparton interactions, fragmentation and decay.
-
 * [RAPGAP](https://inspirehep.net/experiments/2653076):
     Monte Carlo program that generates a full hadron event record according to the HEP common standards.
 
 * [RunDec](https://inspirehep.net/experiments/2644484):
     Packages for running and decoupling the strong coupling and quark masses.
 
-* [Sherpa](https://inspirehep.net/experiments/1778076):
-    A multi-purpose particle physics event generator for the Simulation of High-Energy Reactions of PArticles in lepton-lepton, lepton-photon, photon-photon, lepton-hadron and hadron-hadron collisions.
-
 * [SMASH](https://inspirehep.net/experiments/2655913):
     A relativistic hadronic transport approach including all well-established hadrons up to a mass of ~ 2 GeV as degrees of freedom.
 
 * [TauRunner](https://inspirehep.net/experiments/2893706):
     A Python-based package that propagates neutral and charged leptons
+
+* [Top++](https://inspirehep.net/experiments/3134038):
+    Numerical evaluation of the total inclusive cross-section for producing top quark pairs
+
+### Simulation tools - General Purpose
+
+* [Herwig](https://inspirehep.net/experiments/1778074):
+    A multi-purpose particle physics event generator. It is able to perform simulations at next-to-leading order in QCD. It is based on key physics motivations such as coherent parton showers (including both angular-ordered and dipole evolution), the cluster hadronization model, an eikonal multiple interaction model and has highly flexible BSM capabilities.
+
+* [MadGraph](https://inspirehep.net/experiments/1775083):
+    A framework that aims at providing all the elements necessary for SM and BSM phenomenology, such as the computations of cross sections, the generation of hard events and their matching with event generators, and the use of a variety of tools relevant to event manipulation and analysis.
+
+* [PYTHIA](https://inspirehep.net/experiments/1775078):
+    A multi-purpose particle physics event generator. It contains theory and models for a number of physics aspects, including hard and soft interactions, parton distributions, initial- and final-state parton showers, multiparton interactions, fragmentation and decay.
+
+* [Sherpa](https://inspirehep.net/experiments/1778076):
+    A multi-purpose particle physics event generator for the Simulation of High-Energy Reactions of PArticles in lepton-lepton, lepton-photon, photon-photon, lepton-hadron and hadron-hadron collisions.
 
 * [WHIZARD](https://inspirehep.net/experiments/1778077):
     A system designed for the efficient calculation of multi-particle scattering cross sections and simulated event samples.
@@ -542,8 +704,14 @@ sorted by the INSPIRE Experiments classification. The links point to the record 
 * [Cosmoglobe](https://inspirehep.net/experiments/2642358):
     Cosmoglobe is a collaboration between individual scientists aiming to understand the microwave sky, working together within an Open Science framework.
 
+* [dfcosmic](https://inspirehep.net/experiments/3125886):
+    Identify and replace sharp features that are caused by cosmic ray (CR) hits, hot pixels, or non-Gaussian noise in astronomical objects.
+
 * [Gammapy](https://inspirehep.net/experiments/2691581):
     Gammapy is a community-developed, open-source Python package for gamma-ray astronomy built on Numpy, Scipy and Astropy.
+
+* [HEALPix](https://inspirehep.net/experiments/3134054):
+    Produces a subdivision of a spherical surface in which each pixel covers the same surface area as every other pixel.
 
 * [Starlink](https://inspirehep.net/experiments/2644500):
     Starlink was a UK Project supporting astronomical data processing. It was shut down in 2005 but its open-source software continued to be developed at the Joint Astronomy Centre until March 2015. It is currently maintained by the East Asian Observatory. The open-source software products are a collection of applications and libraries, usually focused on a specific aspect of data reduction or analysis.
@@ -555,6 +723,9 @@ sorted by the INSPIRE Experiments classification. The links point to the record 
 
 * [CosmoFlow](https://inspirehep.net/experiments/2824654):
     CosmoFlow is an open source Python code that computes tree-level cosmological correlators by tracing their time flow.
+
+* [CRPropa](https://inspirehep.net/experiments/3071528):
+    Simulates the propagation of ultra-high-energy nuclei up to iron on their voyage through an (extra)galactic environment
 
 * [FLAMINGO](https://inspirehep.net/experiments/2667514):
     A project of the Virgo consortium for cosmological supercomputer simulations
@@ -579,7 +750,8 @@ sorted by the INSPIRE Experiments classification. The links point to the record 
 * [CORSIKA](https://inspirehep.net/experiments/1891194):
     Detailed simulation of extensive air showers initiated by high energy cosmic ray particles. Protons, light nuclei up to iron, photons, and many other particles may be treated as primaries. The particles are tracked through the atmosphere until they undergo reactions with the air nuclei or, in the case of instable secondaries, decay.
 
-
+* [GALPROP](https://inspirehep.net/experiments/2958438):
+    Numerical code for calculating the propagation of cosmic-ray nuclei, antiprotons, electrons and positrons, and computes diffuse γ-rays and synchrotron emission.
 
 ## Mobile apps
 
@@ -996,9 +1168,6 @@ News sites from major HEP institutions and organizations. The sites often have l
 * **TRIUMF on NewsWise:**
    * Website: <https://triumf.ca/news/>
  
-* **INFN News:**
-   * Website: <https://home.infn.it/it/comunicazione/notizie/tutte-le-notizie>
- 
 * **DESY News and Events:**
    * Website: <https://www.desy.de/news/index_eng.html>
 
@@ -1042,7 +1211,8 @@ found in arXiv eprint [2308.15373](https://arxiv.org/abs/2308.15373).
 * [US Particle Physics Community Planning Exercise (Snowmass)](https://www.slac.stanford.edu/econf/C210711/)
     Snowmass is organized by the Division of Particles and Fields (DPF) of the American Physical Society. Snowmass is a scientific study. It provides an opportunity for the entire particle physics community to come together to identify and document a scientific vision for the future of particle physics in the U.S. and its international partners. Snowmass will define the most important questions for the field of particle physics and identify promising opportunities to address them. P5 will take the scientific input from Snowmass and develop a strategic plan for U.S. particle physics that can be executed over a 10 year timescale, in the context of a 20-year global vision for the field.
 
-* [US Particle Physics Project Prioritization Panel (P5)](http://hitoshi.berkeley.edu/P5/)
-    P5 reports to HEPAP (High-Energy Physics Advisory Panel) that advises the High-Energy Physics program of the DOE Office of Science and Division of Physics of the NSF. It will build on the "Snowmass" community study to hash out priorities for the next 10 years within 20-year context.
-
-
+* [US Particle Physics](https://www.usparticlephysics.org)
+    P5 reports to HEPAP (High-Energy Physics Advisory Panel) that advises the High-Energy Physics program of the DOE Office of Science
+    and Division of Physics of the NSF. It will build on the "Snowmass" community study to hash out priorities for the next 10 years
+    within 20-year context.
+    
