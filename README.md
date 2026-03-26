@@ -38,9 +38,9 @@ Any contributions are highly appreciated. There are several options to do so, de
    * [Particle physics software](#particle-physics-software)
       * [Accelerator Test Facility Experiments](#accelerator-test-facility-experiments)
       * [Data Analysis](#data-analysis)
-      * [Lattice Gauge Theory](#lattice-gauge-theory)
       * [Feynman Diagram Calculation](#feynman-diagram-calculation)
       * [Feynman Diagram Calculation - Higher-Order](#feynman-diagram-calculation---higher-order)
+      * [Lattice Gauge Theory](#lattice-gauge-theory)
       * [Neutrino Physics](#neutrino-physics)
       * [Parton Distribution Fits](#parton-distribution-fits)
       * [Simulation tools](#simulation-tools)
@@ -77,7 +77,7 @@ Any contributions are highly appreciated. There are several options to do so, de
    * [High Energy Physics regional efforts](#high-energy-physics-regional-efforts)
 
 <!-- Created by https://github.com/ekalinin/github-markdown-toc -->
-<!-- Added by: runner, at: Tue Aug  5 16:35:31 UTC 2025 -->
+<!-- Added by: runner, at: Thu Mar 26 18:29:36 UTC 2026 -->
 
 <!--te-->
 
