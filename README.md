@@ -77,7 +77,7 @@ Any contributions are highly appreciated. There are several options to do so, de
    * [High Energy Physics regional efforts](#high-energy-physics-regional-efforts)
 
 <!-- Created by https://github.com/ekalinin/github-markdown-toc -->
-<!-- Added by: runner, at: Thu Mar 26 18:29:36 UTC 2026 -->
+<!-- Added by: runner, at: Thu Jul  2 21:48:39 UTC 2026 -->
 
 <!--te-->
 
